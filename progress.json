@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T21:47:08.501Z",
+  "generated_at": "2026-09-17T21:47:10.783Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -130,6 +130,71 @@
       "last_pushed_at": "2025-01-08T17:30:27.432Z",
       "language": "python",
       "lines": 3
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2025-01-09T17:53:09.436Z",
+      "last_pushed_at": "2025-01-09T17:53:09.436Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2025-01-09T18:52:27.250Z",
+      "last_pushed_at": "2025-01-09T18:52:27.250Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2025-01-09T19:10:56.464Z",
+      "last_pushed_at": "2025-01-09T19:10:56.464Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2025-01-09T19:16:54.933Z",
+      "last_pushed_at": "2025-01-09T19:16:54.933Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2025-01-09T19:30:18.579Z",
+      "last_pushed_at": "2025-01-09T19:30:18.579Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
