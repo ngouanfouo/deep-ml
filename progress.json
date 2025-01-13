@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T21:47:10.783Z",
+  "generated_at": "2026-09-17T21:47:12.691Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -195,6 +195,32 @@
       "last_pushed_at": "2025-01-09T19:30:18.579Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2025-01-13T00:53:01.313Z",
+      "last_pushed_at": "2025-01-13T00:53:01.313Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2025-01-13T02:00:59.797Z",
+      "last_pushed_at": "2025-01-13T02:00:59.797Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
