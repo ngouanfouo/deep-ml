@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**21** solved · 21 problems · 0 labs · 0 math
+**22** solved · 22 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -33,6 +33,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Parallel Reduction: Array Sum](https://www.deep-ml.com/problems/1207) | medium | 2026-09-15 | [solution](problems/1207-parallel-reduction-array-sum) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2025-01-29 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Tiled Matrix Multiply CUDA Kernel](https://www.deep-ml.com/problems/1187) | medium | 2026-09-15 | [solution](problems/1187-tiled-matrix-multiply-cuda-kernel) |
+| [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2025-05-25 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 
 ---
 
