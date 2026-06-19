@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T21:47:21.507Z",
+  "generated_at": "2026-09-17T21:47:23.411Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -741,6 +741,84 @@
       "last_pushed_at": "2026-06-14T15:19:38.689Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:127": {
+      "kind": "problem",
+      "id": "127",
+      "title": "Find Captain Redbeard's Hidden Treasure",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/127",
+      "path": "problems/0127-find-captain-redbeard-s-hidden-treasure",
+      "first_solved_at": "2026-06-19T17:54:09.885Z",
+      "last_pushed_at": "2026-06-19T17:54:09.885Z",
+      "language": "python",
+      "lines": 28
+    },
+    "lab:5": {
+      "kind": "lab",
+      "id": "5",
+      "title": "MNIST: Adversarial Example Generation",
+      "difficulty": "hard",
+      "category": "Adversarial Robustness",
+      "url": "https://www.deep-ml.com/labs/5",
+      "path": "labs/0005-mnist-adversarial-example-generation",
+      "first_solved_at": "2026-06-19T17:57:11.043Z",
+      "last_pushed_at": "2026-06-19T17:57:11.043Z",
+      "language": "python",
+      "lines": 51
+    },
+    "lab:11": {
+      "kind": "lab",
+      "id": "11",
+      "title": "Data Preprocessing: Handling Missing Values",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/labs/11",
+      "path": "labs/0011-data-preprocessing-handling-missing-values",
+      "first_solved_at": "2026-06-19T17:58:33.570Z",
+      "last_pushed_at": "2026-06-19T17:58:33.570Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:591": {
+      "kind": "problem",
+      "id": "591",
+      "title": "Prioritized Experience Replay",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/591",
+      "path": "problems/0591-prioritized-experience-replay",
+      "first_solved_at": "2026-06-19T18:02:11.459Z",
+      "last_pushed_at": "2026-06-19T18:02:11.459Z",
+      "language": "python",
+      "lines": 46
+    },
+    "problem:80": {
+      "kind": "problem",
+      "id": "80",
+      "title": "Normal Distribution PDF Calculator",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/80",
+      "path": "problems/0080-normal-distribution-pdf-calculator",
+      "first_solved_at": "2026-06-19T18:04:28.775Z",
+      "last_pushed_at": "2026-06-19T18:04:28.775Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:48": {
+      "kind": "problem",
+      "id": "48",
+      "title": "Implement Reduced Row Echelon Form (RREF) Function",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/48",
+      "path": "problems/0048-implement-reduced-row-echelon-form-rref-function",
+      "first_solved_at": "2026-06-19T18:05:33.511Z",
+      "last_pushed_at": "2026-06-19T18:05:33.511Z",
+      "language": "python",
+      "lines": 57
     }
   }
 }
