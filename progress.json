@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T21:47:23.411Z",
+  "generated_at": "2026-09-17T21:47:25.134Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -819,6 +819,58 @@
       "last_pushed_at": "2026-06-19T18:05:33.511Z",
       "language": "python",
       "lines": 57
+    },
+    "lab:12": {
+      "kind": "lab",
+      "id": "12",
+      "title": "PyTorch: Implement Your Own Gradient Descent Training Step",
+      "difficulty": "medium",
+      "category": "PyTorch Fundamentals",
+      "url": "https://www.deep-ml.com/labs/12",
+      "path": "labs/0012-pytorch-implement-your-own-gradient-descent-training-step",
+      "first_solved_at": "2026-06-26T09:21:57.620Z",
+      "last_pushed_at": "2026-06-26T09:21:57.620Z",
+      "language": "python",
+      "lines": 28
+    },
+    "lab:6": {
+      "kind": "lab",
+      "id": "6",
+      "title": "MNIST: Build Neural Network from Scratch (NumPy Only)",
+      "difficulty": "hard",
+      "category": "Neural Network Fundamentals",
+      "url": "https://www.deep-ml.com/labs/6",
+      "path": "labs/0006-mnist-build-neural-network-from-scratch-numpy-only",
+      "first_solved_at": "2026-06-26T09:24:53.434Z",
+      "last_pushed_at": "2026-06-26T09:24:53.434Z",
+      "language": "python",
+      "lines": 124
+    },
+    "problem:884": {
+      "kind": "problem",
+      "id": "884",
+      "title": "Compute a Gradient with PyTorch Autograd",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/884",
+      "path": "problems/0884-compute-a-gradient-with-pytorch-autograd",
+      "first_solved_at": "2026-06-26T09:26:48.748Z",
+      "last_pushed_at": "2026-06-26T09:26:48.748Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:49": {
+      "kind": "problem",
+      "id": "49",
+      "title": "Implement Adam Optimization Algorithm",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/49",
+      "path": "problems/0049-implement-adam-optimization-algorithm",
+      "first_solved_at": "2026-06-26T11:45:07.806Z",
+      "last_pushed_at": "2026-06-26T11:45:07.806Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
