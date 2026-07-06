@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**112** solved · 104 problems · 8 labs · 0 math
+**121** solved · 112 problems · 9 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -46,9 +46,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-06-12 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-01-09 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-07-03 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
+| [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-07-06 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
+| [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2026-07-06 | [solution](problems/0111-compute-pointwise-mutual-information) |
 | [Create Composite Hypervector for a Dataset Row](https://www.deep-ml.com/problems/74) | medium | 2026-06-30 | [solution](problems/0074-create-composite-hypervector-for-a-dataset-row) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-06-12 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Dot Product](https://www.deep-ml.com/problems/1208) | medium | 2026-09-17 | [solution](problems/1208-dot-product) |
+| [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2026-07-06 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-06-19 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-07-03 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Fused Bias+ReLU CUDA Kernel](https://www.deep-ml.com/problems/1188) | medium | 2026-09-15 | [solution](problems/1188-fused-bias-relu-cuda-kernel) |
@@ -57,11 +60,15 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2026-06-14 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-06-14 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-06-26 | [solution](problems/0049-implement-adam-optimization-algorithm) |
+| [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-07-06 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement Gated Attention](https://www.deep-ml.com/problems/271) | medium | 2026-06-14 | [solution](problems/0271-implement-gated-attention) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-06-14 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-06-11 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-06-30 | [solution](problems/0050-implement-lasso-regression-using-ista) |
+| [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-07-06 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2026-06-30 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
+| [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-07-06 | [solution](problems/0107-implement-masked-self-attention) |
+| [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2026-07-06 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-06-19 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-06-30 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2026-07-03 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
@@ -98,6 +105,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement AdaBoost Fit Method](https://www.deep-ml.com/problems/38) | hard | 2026-06-12 | [solution](problems/0038-implement-adaboost-fit-method) |
 | [Implement Bagging Classifier from Scratch](https://www.deep-ml.com/problems/307) | hard | 2026-07-04 | [solution](problems/0307-implement-bagging-classifier-from-scratch) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-06-14 | [solution](problems/0094-implement-multi-head-attention) |
+| [Implement Stacking Classifier](https://www.deep-ml.com/problems/346) | hard | 2026-07-06 | [solution](problems/0346-implement-stacking-classifier) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-06-12 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 | [Implement the GRPO Objective Function](https://www.deep-ml.com/problems/101) | hard | 2026-06-12 | [solution](problems/0101-implement-the-grpo-objective-function) |
 | [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2026-06-12 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
@@ -129,6 +137,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Feature Deconfounder for Biased Image Data](https://www.deep-ml.com/labs/16) | hard | 2026-06-14 | [solution](labs/0016-feature-deconfounder-for-biased-image-data) |
 | [MNIST: Adversarial Example Generation](https://www.deep-ml.com/labs/5) | hard | 2026-06-19 | [solution](labs/0005-mnist-adversarial-example-generation) |
 | [MNIST: Build Neural Network from Scratch (NumPy Only)](https://www.deep-ml.com/labs/6) | hard | 2026-06-26 | [solution](labs/0006-mnist-build-neural-network-from-scratch-numpy-only) |
+| [MNIST: Classification Loss (with Gradient)](https://www.deep-ml.com/labs/4) | hard | 2026-07-06 | [solution](labs/0004-mnist-classification-loss-with-gradient) |
 
 ---
 

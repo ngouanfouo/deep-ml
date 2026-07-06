@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T21:53:59.495Z",
+  "generated_at": "2026-09-17T21:54:01.205Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -1456,6 +1456,123 @@
       "last_pushed_at": "2026-07-04T19:57:24.166Z",
       "language": "python",
       "lines": 43
+    },
+    "problem:98": {
+      "kind": "problem",
+      "id": "98",
+      "title": "Implement PReLU Forward and Backward Pass",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/98",
+      "path": "problems/0098-implement-prelu-forward-and-backward-pass",
+      "first_solved_at": "2026-07-06T21:44:03.047Z",
+      "last_pushed_at": "2026-07-06T21:44:03.047Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:107": {
+      "kind": "problem",
+      "id": "107",
+      "title": "Implement Masked Self-Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/107",
+      "path": "problems/0107-implement-masked-self-attention",
+      "first_solved_at": "2026-07-06T21:48:41.776Z",
+      "last_pushed_at": "2026-07-06T21:48:41.776Z",
+      "language": "python",
+      "lines": 41
+    },
+    "problem:109": {
+      "kind": "problem",
+      "id": "109",
+      "title": "Implement Layer Normalization for Sequence Data",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/109",
+      "path": "problems/0109-implement-layer-normalization-for-sequence-data",
+      "first_solved_at": "2026-07-06T21:50:09.181Z",
+      "last_pushed_at": "2026-07-06T21:50:09.181Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:110": {
+      "kind": "problem",
+      "id": "110",
+      "title": "Evaluate Translation Quality with METEOR Score",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/110",
+      "path": "problems/0110-evaluate-translation-quality-with-meteor-score",
+      "first_solved_at": "2026-07-06T21:51:45.101Z",
+      "last_pushed_at": "2026-07-06T21:51:45.101Z",
+      "language": "python",
+      "lines": 77
+    },
+    "problem:111": {
+      "kind": "problem",
+      "id": "111",
+      "title": "Compute Pointwise Mutual Information",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/111",
+      "path": "problems/0111-compute-pointwise-mutual-information",
+      "first_solved_at": "2026-07-06T21:53:56.437Z",
+      "last_pushed_at": "2026-07-06T21:53:56.437Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:115": {
+      "kind": "problem",
+      "id": "115",
+      "title": "Implement Batch Normalization for BCHW Input",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/115",
+      "path": "problems/0115-implement-batch-normalization-for-bchw-input",
+      "first_solved_at": "2026-07-06T21:55:23.222Z",
+      "last_pushed_at": "2026-07-06T21:55:23.222Z",
+      "language": "python",
+      "lines": 56
+    },
+    "problem:117": {
+      "kind": "problem",
+      "id": "117",
+      "title": "Compute Orthonormal Basis for 2D Vectors",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/117",
+      "path": "problems/0117-compute-orthonormal-basis-for-2d-vectors",
+      "first_solved_at": "2026-07-06T21:57:55.295Z",
+      "last_pushed_at": "2026-07-06T21:57:55.295Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:346": {
+      "kind": "problem",
+      "id": "346",
+      "title": "Implement Stacking Classifier",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/346",
+      "path": "problems/0346-implement-stacking-classifier",
+      "first_solved_at": "2026-07-06T21:59:11.462Z",
+      "last_pushed_at": "2026-07-06T21:59:11.462Z",
+      "language": "python",
+      "lines": 66
+    },
+    "lab:4": {
+      "kind": "lab",
+      "id": "4",
+      "title": "MNIST: Classification Loss (with Gradient)",
+      "difficulty": "hard",
+      "category": "Loss Functions",
+      "url": "https://www.deep-ml.com/labs/4",
+      "path": "labs/0004-mnist-classification-loss-with-gradient",
+      "first_solved_at": "2026-07-06T22:20:55.056Z",
+      "last_pushed_at": "2026-07-06T22:20:55.056Z",
+      "language": "python",
+      "lines": 46
     }
   }
 }
