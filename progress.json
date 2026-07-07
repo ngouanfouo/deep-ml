@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T21:54:01.205Z",
+  "generated_at": "2026-09-17T21:54:03.001Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -1573,6 +1573,136 @@
       "last_pushed_at": "2026-07-06T22:20:55.056Z",
       "language": "python",
       "lines": 46
+    },
+    "lab:17": {
+      "kind": "lab",
+      "id": "17",
+      "title": "PyTorch: Build a Complete Training Loop",
+      "difficulty": "easy",
+      "category": "PyTorch Fundamentals",
+      "url": "https://www.deep-ml.com/labs/17",
+      "path": "labs/0017-pytorch-build-a-complete-training-loop",
+      "first_solved_at": "2026-07-07T11:53:27.749Z",
+      "last_pushed_at": "2026-07-07T11:53:27.749Z",
+      "language": "python",
+      "lines": 86
+    },
+    "lab:14": {
+      "kind": "lab",
+      "id": "14",
+      "title": "Numpy: Design Your Own Dimensionality Reduction",
+      "difficulty": "medium",
+      "category": "Dimensionality Reduction",
+      "url": "https://www.deep-ml.com/labs/14",
+      "path": "labs/0014-numpy-design-your-own-dimensionality-reduction",
+      "first_solved_at": "2026-07-07T11:59:28.620Z",
+      "last_pushed_at": "2026-07-07T11:59:28.620Z",
+      "language": "python",
+      "lines": 62
+    },
+    "problem:119": {
+      "kind": "problem",
+      "id": "119",
+      "title": "Solve System of Linear Equations Using Cramer's Rule",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/119",
+      "path": "problems/0119-solve-system-of-linear-equations-using-cramer-s-rule",
+      "first_solved_at": "2026-07-07T13:13:40.193Z",
+      "last_pushed_at": "2026-07-07T13:13:40.193Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:124": {
+      "kind": "problem",
+      "id": "124",
+      "title": "Implement the Noisy Top-K Gating Function",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/124",
+      "path": "problems/0124-implement-the-noisy-top-k-gating-function",
+      "first_solved_at": "2026-07-07T13:22:27.975Z",
+      "last_pushed_at": "2026-07-07T13:22:27.975Z",
+      "language": "python",
+      "lines": 50
+    },
+    "problem:126": {
+      "kind": "problem",
+      "id": "126",
+      "title": "Implement Group Normalization",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/126",
+      "path": "problems/0126-implement-group-normalization",
+      "first_solved_at": "2026-07-07T13:24:07.672Z",
+      "last_pushed_at": "2026-07-07T13:24:07.672Z",
+      "language": "python",
+      "lines": 42
+    },
+    "problem:131": {
+      "kind": "problem",
+      "id": "131",
+      "title": "Implement Efficient Sparse Window Attention",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/131",
+      "path": "problems/0131-implement-efficient-sparse-window-attention",
+      "first_solved_at": "2026-07-07T13:25:35.026Z",
+      "last_pushed_at": "2026-07-07T13:25:35.026Z",
+      "language": "python",
+      "lines": 53
+    },
+    "problem:132": {
+      "kind": "problem",
+      "id": "132",
+      "title": "Simulate Markov Chain Transitions",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/132",
+      "path": "problems/0132-simulate-markov-chain-transitions",
+      "first_solved_at": "2026-07-07T13:26:54.464Z",
+      "last_pushed_at": "2026-07-07T13:26:54.464Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:133": {
+      "kind": "problem",
+      "id": "133",
+      "title": "Implement Q-Learning Algorithm for MDPs",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/133",
+      "path": "problems/0133-implement-q-learning-algorithm-for-mdps",
+      "first_solved_at": "2026-07-07T13:28:52.645Z",
+      "last_pushed_at": "2026-07-07T13:28:52.645Z",
+      "language": "python",
+      "lines": 64
+    },
+    "problem:136": {
+      "kind": "problem",
+      "id": "136",
+      "title": "Calculate KL Divergence Between Two Multivariate Gaussian Distributions",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/136",
+      "path": "problems/0136-calculate-kl-divergence-between-two-multivariate-gaussian-distributions",
+      "first_solved_at": "2026-07-07T13:30:20.282Z",
+      "last_pushed_at": "2026-07-07T13:30:20.282Z",
+      "language": "python",
+      "lines": 42
+    },
+    "problem:138": {
+      "kind": "problem",
+      "id": "138",
+      "title": "Find the Best Gini-Based Split for a Binary Decision Tree",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/138",
+      "path": "problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree",
+      "first_solved_at": "2026-07-07T13:32:05.834Z",
+      "last_pushed_at": "2026-07-07T13:32:05.834Z",
+      "language": "python",
+      "lines": 56
     }
   }
 }
