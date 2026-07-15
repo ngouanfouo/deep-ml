@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**151** solved · 140 problems · 11 labs · 0 math
+**168** solved · 155 problems · 13 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-07-03 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2025-01-29 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
+| [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-07-15 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2025-01-13 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-01-09 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-06-26 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
@@ -23,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Grid-Stride Loop: Square Each Element](https://www.deep-ml.com/problems/1205) | easy | 2026-09-17 | [solution](problems/1205-grid-stride-loop-square-each-element) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2025-01-09 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-07-09 | [solution](problems/0043-implement-ridge-regression-loss-function) |
+| [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-07-15 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2025-01-13 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2025-01-09 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-01-08 | [solution](problems/0001-matrix-vector-dot-product) |
@@ -43,8 +45,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [1D Convolution with Shared-Memory Halo](https://www.deep-ml.com/problems/1310) | medium | 2026-09-17 | [solution](problems/1310-1d-convolution-with-shared-memory-halo) |
 | [1D Kalman Filter Predict-Update Step](https://www.deep-ml.com/problems/1213) | medium | 2026-09-17 | [solution](problems/1213-1d-kalman-filter-predict-update-step) |
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-06-30 | [solution](problems/0055-2d-translation-matrix-implementation) |
+| [Adadelta Optimizer](https://www.deep-ml.com/problems/149) | medium | 2026-07-15 | [solution](problems/0149-adadelta-optimizer) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-07-04 | [solution](problems/0087-adam-optimizer) |
 | [Add Two Matrices (2D Grid)](https://www.deep-ml.com/problems/1206) | medium | 2026-09-15 | [solution](problems/1206-add-two-matrices-2d-grid) |
+| [Apriori Frequent Itemset Mining](https://www.deep-ml.com/problems/144) | medium | 2026-07-15 | [solution](problems/0144-apriori-frequent-itemset-mining) |
 | [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2026-07-09 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-07-03 | [solution](problems/0079-binomial-distribution-probability) |
 | [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2026-07-04 | [solution](problems/0090-bm25-ranking) |
@@ -55,9 +59,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Coalesced Matrix Transpose](https://www.deep-ml.com/problems/1309) | medium | 2026-09-17 | [solution](problems/1309-coalesced-matrix-transpose) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-07-06 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2026-07-06 | [solution](problems/0111-compute-pointwise-mutual-information) |
+| [CosineAnnealingLR Learning Rate Scheduler](https://www.deep-ml.com/problems/155) | medium | 2026-07-15 | [solution](problems/0155-cosineannealinglr-learning-rate-scheduler) |
 | [Create Composite Hypervector for a Dataset Row](https://www.deep-ml.com/problems/74) | medium | 2026-06-30 | [solution](problems/0074-create-composite-hypervector-for-a-dataset-row) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-06-12 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Dot Product](https://www.deep-ml.com/problems/1208) | medium | 2026-09-17 | [solution](problems/1208-dot-product) |
+| [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-07-15 | [solution](problems/0151-dropout-layer) |
 | [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2026-07-06 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-06-19 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-07-07 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
@@ -88,6 +94,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Noisy Top-K Gating Function](https://www.deep-ml.com/problems/124) | medium | 2026-07-07 | [solution](problems/0124-implement-the-noisy-top-k-gating-function) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-06-30 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-06-12 | [solution](problems/0026-implementing-basic-autograd-operations) |
+| [Implementing ROUGE Score](https://www.deep-ml.com/problems/152) | medium | 2026-07-15 | [solution](problems/0152-implementing-rouge-score) |
+| [Instance Normalization (IN) Implementation](https://www.deep-ml.com/problems/143) | medium | 2026-07-15 | [solution](problems/0143-instance-normalization-in-implementation) |
 | [Inverse Kinematics of a 2-Link Planar Arm](https://www.deep-ml.com/problems/1211) | medium | 2026-09-17 | [solution](problems/1211-inverse-kinematics-of-a-2-link-planar-arm) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-06-11 | [solution](problems/0017-k-means-clustering) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-07-04 | [solution](problems/0092-linear-regression-power-grid-optimization) |
@@ -112,8 +120,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [3D CNN Forward Pass Implementation](https://www.deep-ml.com/problems/230) | hard | 2026-07-03 | [solution](problems/0230-3d-cnn-forward-pass-implementation) |
 | [A/B Test Statistical Analysis for Model Comparison](https://www.deep-ml.com/problems/269) | hard | 2026-07-03 | [solution](problems/0269-a-b-test-statistical-analysis-for-model-comparison) |
 | [Combined Token Sampling Pipeline (Temperature + Top-k + Top-p)](https://www.deep-ml.com/problems/419) | hard | 2026-07-09 | [solution](problems/0419-combined-token-sampling-pipeline-temperature-top-k-top-p) |
+| [Context Parallelism with Ring Attention for Video Models](https://www.deep-ml.com/problems/448) | hard | 2026-07-15 | [solution](problems/0448-context-parallelism-with-ring-attention-for-video-models) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-06-11 | [solution](problems/0020-decision-tree-learning) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2025-05-25 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
+| [Disaggregated Prefill-Decode Serving Simulator](https://www.deep-ml.com/problems/440) | hard | 2026-07-15 | [solution](problems/0440-disaggregated-prefill-decode-serving-simulator) |
+| [First-Visit Monte Carlo Control with Exploring Starts](https://www.deep-ml.com/problems/470) | hard | 2026-07-15 | [solution](problems/0470-first-visit-monte-carlo-control-with-exploring-starts) |
 | [FP4 Quantization with Microscaling (MXFP4)](https://www.deep-ml.com/problems/427) | hard | 2026-06-30 | [solution](problems/0427-fp4-quantization-with-microscaling-mxfp4) |
 | [Gambler's Problem: Value Iteration](https://www.deep-ml.com/problems/164) | hard | 2026-06-30 | [solution](problems/0164-gambler-s-problem-value-iteration) |
 | [Gaussian Process for Regression](https://www.deep-ml.com/problems/186) | hard | 2026-06-30 | [solution](problems/0186-gaussian-process-for-regression) |
@@ -128,6 +139,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Core MDN Residualization](https://www.deep-ml.com/problems/358) | hard | 2026-07-09 | [solution](problems/0358-implement-core-mdn-residualization) |
 | [Implement LLE (Locally Linear Embedding)](https://www.deep-ml.com/problems/351) | hard | 2026-07-09 | [solution](problems/0351-implement-lle-locally-linear-embedding) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-06-14 | [solution](problems/0094-implement-multi-head-attention) |
+| [Implement Sigmoid MoE Router with Bias Correction](https://www.deep-ml.com/problems/458) | hard | 2026-07-15 | [solution](problems/0458-implement-sigmoid-moe-router-with-bias-correction) |
 | [Implement Speculative Decoding Verification](https://www.deep-ml.com/problems/394) | hard | 2026-07-09 | [solution](problems/0394-implement-speculative-decoding-verification) |
 | [Implement Stacking Classifier](https://www.deep-ml.com/problems/346) | hard | 2026-07-06 | [solution](problems/0346-implement-stacking-classifier) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-06-12 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
@@ -139,7 +151,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Multi-Head Latent Attention (MLA)](https://www.deep-ml.com/problems/405) | hard | 2026-07-09 | [solution](problems/0405-multi-head-latent-attention-mla) |
 | [Non-Maximum Suppression for Object Detection](https://www.deep-ml.com/problems/242) | hard | 2026-07-03 | [solution](problems/0242-non-maximum-suppression-for-object-detection) |
 | [NoPE (No Positional Embedding) with iRoPE Attention](https://www.deep-ml.com/problems/406) | hard | 2026-07-09 | [solution](problems/0406-nope-no-positional-embedding-with-irope-attention) |
+| [Number Format Precision Comparison (FP16 vs BF16 vs FP8 vs FP4)](https://www.deep-ml.com/problems/428) | hard | 2026-07-15 | [solution](problems/0428-number-format-precision-comparison-fp16-vs-bf16-vs-fp8-vs-fp4) |
+| [Off-Policy Monte Carlo Control with Weighted Importance Sampling](https://www.deep-ml.com/problems/474) | hard | 2026-07-15 | [solution](problems/0474-off-policy-monte-carlo-control-with-weighted-importance-sampling) |
 | [Policy Gradient with REINFORCE](https://www.deep-ml.com/problems/122) | hard | 2026-06-14 | [solution](problems/0122-policy-gradient-with-reinforce) |
+| [Policy Iteration for Markov Decision Processes](https://www.deep-ml.com/problems/467) | hard | 2026-07-15 | [solution](problems/0467-policy-iteration-for-markov-decision-processes) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-06-12 | [solution](problems/0085-positional-encoding-calculator) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-06-30 | [solution](problems/0201-qr-decomposition) |
 | [REINFORCE with Value Baseline](https://www.deep-ml.com/problems/552) | hard | 2026-06-11 | [solution](problems/0552-reinforce-with-value-baseline) |
@@ -161,9 +176,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/17) | easy | 2026-07-07 | [solution](labs/0017-pytorch-build-a-complete-training-loop) |
 | [Train a Binary Classifier](https://www.deep-ml.com/labs/23) | easy | 2026-06-12 | [solution](labs/0023-train-a-binary-classifier) |
 | [Data Preprocessing: Handling Missing Values](https://www.deep-ml.com/labs/11) | medium | 2026-06-19 | [solution](labs/0011-data-preprocessing-handling-missing-values) |
+| [MNIST: Fix Very Deep Network Training](https://www.deep-ml.com/labs/7) | medium | 2026-07-15 | [solution](labs/0007-mnist-fix-very-deep-network-training) |
 | [MNIST: Pytorch DataLoader](https://www.deep-ml.com/labs/1) | medium | 2026-06-14 | [solution](labs/0001-mnist-pytorch-dataloader) |
 | [Numpy: Design Your Own Dimensionality Reduction](https://www.deep-ml.com/labs/14) | medium | 2026-07-07 | [solution](labs/0014-numpy-design-your-own-dimensionality-reduction) |
 | [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-06-26 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
+| [Tinygrad: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/33) | medium | 2026-07-15 | [solution](labs/0033-tinygrad-implement-your-own-gradient-descent-training-step) |
 | [Feature Deconfounder for Biased Image Data](https://www.deep-ml.com/labs/16) | hard | 2026-06-14 | [solution](labs/0016-feature-deconfounder-for-biased-image-data) |
 | [MNIST: Adversarial Example Generation](https://www.deep-ml.com/labs/5) | hard | 2026-06-19 | [solution](labs/0005-mnist-adversarial-example-generation) |
 | [MNIST: Build Neural Network from Scratch (NumPy Only)](https://www.deep-ml.com/labs/6) | hard | 2026-06-26 | [solution](labs/0006-mnist-build-neural-network-from-scratch-numpy-only) |
