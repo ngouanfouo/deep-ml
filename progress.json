@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:07:26.116Z",
+  "generated_at": "2026-09-17T22:08:36.301Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -2899,6 +2899,149 @@
       "last_pushed_at": "2026-07-20T19:35:06.304Z",
       "language": "python",
       "lines": 98
+    },
+    "problem:531": {
+      "kind": "problem",
+      "id": "531",
+      "title": "Semi-Gradient TD(lambda) with Eligibility Traces and Linear Function Approximation",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/531",
+      "path": "problems/0531-semi-gradient-td-lambda-with-eligibility-traces-and-linear-function-approximation",
+      "first_solved_at": "2026-07-23T18:12:29.735Z",
+      "last_pushed_at": "2026-07-23T18:12:29.735Z",
+      "language": "python",
+      "lines": 58
+    },
+    "problem:534": {
+      "kind": "problem",
+      "id": "534",
+      "title": "Linear Sarsa Algorithm",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/534",
+      "path": "problems/0534-linear-sarsa-algorithm",
+      "first_solved_at": "2026-07-23T18:13:40.772Z",
+      "last_pushed_at": "2026-07-23T18:13:40.772Z",
+      "language": "python",
+      "lines": 60
+    },
+    "problem:536": {
+      "kind": "problem",
+      "id": "536",
+      "title": "Least-Squares Temporal Difference (LSTD) for Policy Evaluation",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/536",
+      "path": "problems/0536-least-squares-temporal-difference-lstd-for-policy-evaluation",
+      "first_solved_at": "2026-07-23T18:14:49.915Z",
+      "last_pushed_at": "2026-07-23T18:14:49.915Z",
+      "language": "python",
+      "lines": 48
+    },
+    "problem:538": {
+      "kind": "problem",
+      "id": "538",
+      "title": "Actor-Critic Algorithm",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/538",
+      "path": "problems/0538-actor-critic-algorithm",
+      "first_solved_at": "2026-07-23T18:15:48.438Z",
+      "last_pushed_at": "2026-07-23T18:15:48.438Z",
+      "language": "python",
+      "lines": 64
+    },
+    "problem:539": {
+      "kind": "problem",
+      "id": "539",
+      "title": "Actor-Critic with Traces",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/539",
+      "path": "problems/0539-actor-critic-with-traces",
+      "first_solved_at": "2026-07-23T18:16:36.462Z",
+      "last_pushed_at": "2026-07-23T18:16:36.462Z",
+      "language": "python",
+      "lines": 91
+    },
+    "problem:540": {
+      "kind": "problem",
+      "id": "540",
+      "title": "R-Learning for Average Reward",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/540",
+      "path": "problems/0540-r-learning-for-average-reward",
+      "first_solved_at": "2026-07-23T18:17:25.826Z",
+      "last_pushed_at": "2026-07-23T18:17:25.826Z",
+      "language": "python",
+      "lines": 51
+    },
+    "problem:541": {
+      "kind": "problem",
+      "id": "541",
+      "title": "Differential Sarsa Algorithm",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/541",
+      "path": "problems/0541-differential-sarsa-algorithm",
+      "first_solved_at": "2026-07-23T18:18:17.071Z",
+      "last_pushed_at": "2026-07-23T18:18:17.071Z",
+      "language": "python",
+      "lines": 70
+    },
+    "problem:549": {
+      "kind": "problem",
+      "id": "549",
+      "title": "Off-Policy n-Step TD Prediction with Importance Sampling",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/549",
+      "path": "problems/0549-off-policy-n-step-td-prediction-with-importance-sampling",
+      "first_solved_at": "2026-07-23T18:55:30.385Z",
+      "last_pushed_at": "2026-07-23T18:55:30.385Z",
+      "language": "python",
+      "lines": 73
+    },
+    "problem:551": {
+      "kind": "problem",
+      "id": "551",
+      "title": "Deep Q-Network Implementation",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/551",
+      "path": "problems/0551-deep-q-network-implementation",
+      "first_solved_at": "2026-07-23T18:56:35.658Z",
+      "last_pushed_at": "2026-07-23T18:56:35.658Z",
+      "language": "python",
+      "lines": 107
+    },
+    "problem:553": {
+      "kind": "problem",
+      "id": "553",
+      "title": "Advantage Actor-Critic (A2C) Batch Update from Parallel Environments",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/553",
+      "path": "problems/0553-advantage-actor-critic-a2c-batch-update-from-parallel-environments",
+      "first_solved_at": "2026-07-23T18:57:59.533Z",
+      "last_pushed_at": "2026-07-23T18:57:59.533Z",
+      "language": "python",
+      "lines": 130
+    },
+    "problem:561": {
+      "kind": "problem",
+      "id": "561",
+      "title": "True Online TD(λ) with Linear Function Approximation",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/561",
+      "path": "problems/0561-true-online-td-with-linear-function-approximation",
+      "first_solved_at": "2026-07-23T18:59:15.900Z",
+      "last_pushed_at": "2026-07-23T18:59:15.900Z",
+      "language": "python",
+      "lines": 62
     }
   }
 }
