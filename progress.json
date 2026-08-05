@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T23:10:44.990Z",
+  "generated_at": "2026-09-17T23:10:48.723Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -4548,6 +4548,97 @@
       "last_pushed_at": "2026-08-05T17:21:57.033Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:61": {
+      "kind": "problem",
+      "id": "61",
+      "title": "Implement F-Score Calculation for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/61",
+      "path": "problems/0061-implement-f-score-calculation-for-binary-classification",
+      "first_solved_at": "2026-08-05T17:24:38.233Z",
+      "last_pushed_at": "2026-08-05T17:24:38.233Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:64": {
+      "kind": "problem",
+      "id": "64",
+      "title": "Implement Gini Impurity Calculation for a Set of Classes",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/64",
+      "path": "problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes",
+      "first_solved_at": "2026-08-05T17:25:43.182Z",
+      "last_pushed_at": "2026-08-05T17:25:43.182Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:65": {
+      "kind": "problem",
+      "id": "65",
+      "title": "Implement Compressed Row Sparse Matrix (CSR) Format Conversion",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/65",
+      "path": "problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion",
+      "first_solved_at": "2026-08-05T17:26:38.844Z",
+      "last_pushed_at": "2026-08-05T17:26:38.844Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:254": {
+      "kind": "problem",
+      "id": "254",
+      "title": "Silhouette Score for Clustering Evaluation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/254",
+      "path": "problems/0254-silhouette-score-for-clustering-evaluation",
+      "first_solved_at": "2026-08-05T19:12:14.760Z",
+      "last_pushed_at": "2026-08-05T19:12:14.760Z",
+      "language": "python",
+      "lines": 66
+    },
+    "problem:255": {
+      "kind": "problem",
+      "id": "255",
+      "title": "Implement Focal Loss for Imbalanced Classification",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/255",
+      "path": "problems/0255-implement-focal-loss-for-imbalanced-classification",
+      "first_solved_at": "2026-08-05T19:13:48.225Z",
+      "last_pushed_at": "2026-08-05T19:13:48.225Z",
+      "language": "python",
+      "lines": 41
+    },
+    "problem:256": {
+      "kind": "problem",
+      "id": "256",
+      "title": "Calculate Davies-Bouldin Index for Clustering Evaluation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/256",
+      "path": "problems/0256-calculate-davies-bouldin-index-for-clustering-evaluation",
+      "first_solved_at": "2026-08-05T19:15:02.128Z",
+      "last_pushed_at": "2026-08-05T19:15:02.128Z",
+      "language": "python",
+      "lines": 63
+    },
+    "problem:258": {
+      "kind": "problem",
+      "id": "258",
+      "title": "Calinski-Harabasz Index for Clustering Evaluation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/258",
+      "path": "problems/0258-calinski-harabasz-index-for-clustering-evaluation",
+      "first_solved_at": "2026-08-05T19:17:57.151Z",
+      "last_pushed_at": "2026-08-05T19:17:57.151Z",
+      "language": "python",
+      "lines": 59
     }
   }
 }
