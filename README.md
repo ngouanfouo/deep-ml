@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**347** solved · 320 problems · 13 labs · 14 math
+**352** solved · 325 problems · 13 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -39,10 +39,15 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Group Relative Advantage for GRPO](https://www.deep-ml.com/problems/224) | easy | 2026-09-17 | [solution](problems/0224-group-relative-advantage-for-grpo) |
 | [Implement Compressed Column Sparse Matrix Format (CSC)](https://www.deep-ml.com/problems/67) | easy | 2026-07-17 | [solution](problems/0067-implement-compressed-column-sparse-matrix-format-csc) |
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-07-17 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
+| [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-08-05 | [solution](problems/0046-implement-precision-metric) |
+| [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-08-05 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2025-01-09 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-07-09 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-07-15 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Incremental Mean for Online Reward Estimation](https://www.deep-ml.com/problems/159) | easy | 2026-09-17 | [solution](problems/0159-incremental-mean-for-online-reward-estimation) |
+| [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-08-05 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
+| [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-08-05 | [solution](problems/0044-leaky-relu-activation-function) |
+| [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-08-05 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2025-01-13 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2025-01-09 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-01-08 | [solution](problems/0001-matrix-vector-dot-product) |

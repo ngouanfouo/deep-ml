@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T23:09:05.688Z",
+  "generated_at": "2026-09-17T23:10:44.990Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -4483,6 +4483,71 @@
       "last_pushed_at": "2026-09-17T23:09:06.007Z",
       "language": "python",
       "lines": 66
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-08-05T17:09:16.358Z",
+      "last_pushed_at": "2026-08-05T17:09:16.358Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:45": {
+      "kind": "problem",
+      "id": "45",
+      "title": "Linear Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/45",
+      "path": "problems/0045-linear-kernel-function",
+      "first_solved_at": "2026-08-05T17:13:40.321Z",
+      "last_pushed_at": "2026-08-05T17:13:40.321Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2026-08-05T17:16:41.763Z",
+      "last_pushed_at": "2026-08-05T17:16:41.763Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:52": {
+      "kind": "problem",
+      "id": "52",
+      "title": "Implement Recall Metric in Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/52",
+      "path": "problems/0052-implement-recall-metric-in-binary-classification",
+      "first_solved_at": "2026-08-05T17:19:38.472Z",
+      "last_pushed_at": "2026-08-05T17:19:38.472Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:56": {
+      "kind": "problem",
+      "id": "56",
+      "title": "KL Divergence Between Two Normal Distributions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/56",
+      "path": "problems/0056-kl-divergence-between-two-normal-distributions",
+      "first_solved_at": "2026-08-05T17:21:57.033Z",
+      "last_pushed_at": "2026-08-05T17:21:57.033Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
