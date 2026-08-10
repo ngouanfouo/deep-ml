@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T23:10:51.143Z",
+  "generated_at": "2026-09-17T23:10:55.117Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -4951,6 +4951,84 @@
       "last_pushed_at": "2026-08-08T18:42:36.153Z",
       "language": "python",
       "lines": 87
+    },
+    "problem:602": {
+      "kind": "problem",
+      "id": "602",
+      "title": "TD(λ) Asymptotic Error Bound Verification",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/602",
+      "path": "problems/0602-td-asymptotic-error-bound-verification",
+      "first_solved_at": "2026-08-10T16:10:42.261Z",
+      "last_pushed_at": "2026-08-10T16:10:42.261Z",
+      "language": "python",
+      "lines": 110
+    },
+    "problem:614": {
+      "kind": "problem",
+      "id": "614",
+      "title": "Blocking Maze with Model Updates",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/614",
+      "path": "problems/0614-blocking-maze-with-model-updates",
+      "first_solved_at": "2026-08-10T16:12:14.644Z",
+      "last_pushed_at": "2026-08-10T16:12:14.644Z",
+      "language": "python",
+      "lines": 174
+    },
+    "problem:615": {
+      "kind": "problem",
+      "id": "615",
+      "title": "Shortcut Maze and Exploration",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/615",
+      "path": "problems/0615-shortcut-maze-and-exploration",
+      "first_solved_at": "2026-08-10T16:14:59.561Z",
+      "last_pushed_at": "2026-08-10T16:14:59.561Z",
+      "language": "python",
+      "lines": 182
+    },
+    "problem:617": {
+      "kind": "problem",
+      "id": "617",
+      "title": "Semi-Markov Q-Learning",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/617",
+      "path": "problems/0617-semi-markov-q-learning",
+      "first_solved_at": "2026-08-10T16:17:30.290Z",
+      "last_pushed_at": "2026-08-10T16:17:30.290Z",
+      "language": "python",
+      "lines": 50
+    },
+    "problem:618": {
+      "kind": "problem",
+      "id": "618",
+      "title": "TD-Gammon Position Evaluation Network",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/618",
+      "path": "problems/0618-td-gammon-position-evaluation-network",
+      "first_solved_at": "2026-08-10T16:21:54.413Z",
+      "last_pushed_at": "2026-08-10T16:21:54.413Z",
+      "language": "python",
+      "lines": 120
+    },
+    "problem:620": {
+      "kind": "problem",
+      "id": "620",
+      "title": "Acrobot Swing-Up with Sarsa(λ)",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/620",
+      "path": "problems/0620-acrobot-swing-up-with-sarsa",
+      "first_solved_at": "2026-08-10T17:38:35.746Z",
+      "last_pushed_at": "2026-08-10T17:38:35.746Z",
+      "language": "python",
+      "lines": 76
     }
   }
 }

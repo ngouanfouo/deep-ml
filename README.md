@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**383** solved · 356 problems · 13 labs · 14 math
+**389** solved · 362 problems · 13 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -269,6 +269,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Windy Gridworld with Sarsa](https://www.deep-ml.com/problems/517) | medium | 2026-09-17 | [solution](problems/0517-windy-gridworld-with-sarsa) |
 | [3D CNN Forward Pass Implementation](https://www.deep-ml.com/problems/230) | hard | 2026-07-03 | [solution](problems/0230-3d-cnn-forward-pass-implementation) |
 | [A/B Test Statistical Analysis for Model Comparison](https://www.deep-ml.com/problems/269) | hard | 2026-07-03 | [solution](problems/0269-a-b-test-statistical-analysis-for-model-comparison) |
+| [Acrobot Swing-Up with Sarsa(λ)](https://www.deep-ml.com/problems/620) | hard | 2026-08-10 | [solution](problems/0620-acrobot-swing-up-with-sarsa) |
 | [Actor-Critic Algorithm](https://www.deep-ml.com/problems/538) | hard | 2026-07-23 | [solution](problems/0538-actor-critic-algorithm) |
 | [Actor-Critic with Traces](https://www.deep-ml.com/problems/539) | hard | 2026-07-23 | [solution](problems/0539-actor-critic-with-traces) |
 | [Advantage Actor-Critic (A2C) Batch Update from Parallel Environments](https://www.deep-ml.com/problems/553) | hard | 2026-07-23 | [solution](problems/0553-advantage-actor-critic-a2c-batch-update-from-parallel-environments) |
@@ -276,6 +277,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Asynchronous PPO Training Pipeline](https://www.deep-ml.com/problems/664) | hard | 2026-08-04 | [solution](problems/0664-asynchronous-ppo-training-pipeline) |
 | [Backgammon with TD Learning](https://www.deep-ml.com/problems/579) | hard | 2026-08-02 | [solution](problems/0579-backgammon-with-td-learning) |
 | [Beam Search with Memory-Efficient Block Sharing](https://www.deep-ml.com/problems/496) | hard | 2026-07-20 | [solution](problems/0496-beam-search-with-memory-efficient-block-sharing) |
+| [Blocking Maze with Model Updates](https://www.deep-ml.com/problems/614) | hard | 2026-08-10 | [solution](problems/0614-blocking-maze-with-model-updates) |
 | [Build a Transformer Encoder Layer](https://www.deep-ml.com/problems/491) | hard | 2026-07-20 | [solution](problems/0491-build-a-transformer-encoder-layer) |
 | [Certainty-Equivalence in TD Learning](https://www.deep-ml.com/problems/516) | hard | 2026-07-20 | [solution](problems/0516-certainty-equivalence-in-td-learning) |
 | [Combined Token Sampling Pipeline (Temperature + Top-k + Top-p)](https://www.deep-ml.com/problems/419) | hard | 2026-07-09 | [solution](problems/0419-combined-token-sampling-pipeline-temperature-top-k-top-p) |
@@ -350,11 +352,15 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Retrace(λ) Implementation](https://www.deep-ml.com/problems/582) | hard | 2026-08-02 | [solution](problems/0582-retrace-implementation) |
 | [Sarsa(lambda) Algorithm with Eligibility Traces](https://www.deep-ml.com/problems/521) | hard | 2026-07-20 | [solution](problems/0521-sarsa-lambda-algorithm-with-eligibility-traces) |
 | [Semi-Gradient TD(lambda) with Eligibility Traces and Linear Function Approximation](https://www.deep-ml.com/problems/531) | hard | 2026-07-23 | [solution](problems/0531-semi-gradient-td-lambda-with-eligibility-traces-and-linear-function-approximation) |
+| [Semi-Markov Q-Learning](https://www.deep-ml.com/problems/617) | hard | 2026-08-10 | [solution](problems/0617-semi-markov-q-learning) |
 | [Sequential Video Generation with Diffusion Models](https://www.deep-ml.com/problems/501) | hard | 2026-07-20 | [solution](problems/0501-sequential-video-generation-with-diffusion-models) |
+| [Shortcut Maze and Exploration](https://www.deep-ml.com/problems/615) | hard | 2026-08-10 | [solution](problems/0615-shortcut-maze-and-exploration) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-06-11 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [Speculative Decoding End-to-End Simulation](https://www.deep-ml.com/problems/410) | hard | 2026-07-09 | [solution](problems/0410-speculative-decoding-end-to-end-simulation) |
 | [Successor Representation Learning](https://www.deep-ml.com/problems/597) | hard | 2026-08-04 | [solution](problems/0597-successor-representation-learning) |
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2026-06-12 | [solution](problems/0028-svd-of-a-2x2-matrix) |
+| [TD-Gammon Position Evaluation Network](https://www.deep-ml.com/problems/618) | hard | 2026-08-10 | [solution](problems/0618-td-gammon-position-evaluation-network) |
+| [TD(λ) Asymptotic Error Bound Verification](https://www.deep-ml.com/problems/602) | hard | 2026-08-10 | [solution](problems/0602-td-asymptotic-error-bound-verification) |
 | [TD(λ) Forward View for Value Prediction](https://www.deep-ml.com/problems/520) | hard | 2026-07-20 | [solution](problems/0520-td-forward-view-for-value-prediction) |
 | [TD(λ) with Eligibility Traces](https://www.deep-ml.com/problems/274) | hard | 2026-07-03 | [solution](problems/0274-td-with-eligibility-traces) |
 | [Temporal Abstraction with Options](https://www.deep-ml.com/problems/587) | hard | 2026-08-02 | [solution](problems/0587-temporal-abstraction-with-options) |
