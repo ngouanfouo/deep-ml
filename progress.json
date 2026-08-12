@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T23:10:56.961Z",
+  "generated_at": "2026-09-17T23:10:59.478Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -5341,6 +5341,110 @@
       "last_pushed_at": "2026-08-11T18:45:07.495Z",
       "language": "python",
       "lines": 101
+    },
+    "problem:318": {
+      "kind": "problem",
+      "id": "318",
+      "title": "Boxed Answer Extraction for Math Benchmarks",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/318",
+      "path": "problems/0318-boxed-answer-extraction-for-math-benchmarks",
+      "first_solved_at": "2026-08-12T19:02:09.482Z",
+      "last_pushed_at": "2026-08-12T19:02:09.482Z",
+      "language": "python",
+      "lines": 58
+    },
+    "problem:319": {
+      "kind": "problem",
+      "id": "319",
+      "title": "Math Answer Verification with Equivalence Checking",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/319",
+      "path": "problems/0319-math-answer-verification-with-equivalence-checking",
+      "first_solved_at": "2026-08-12T19:03:41.824Z",
+      "last_pushed_at": "2026-08-12T19:03:41.824Z",
+      "language": "python",
+      "lines": 115
+    },
+    "problem:321": {
+      "kind": "problem",
+      "id": "321",
+      "title": "BLEU Score for Text Generation",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/321",
+      "path": "problems/0321-bleu-score-for-text-generation",
+      "first_solved_at": "2026-08-12T19:06:00.766Z",
+      "last_pushed_at": "2026-08-12T19:06:00.766Z",
+      "language": "python",
+      "lines": 84
+    },
+    "problem:322": {
+      "kind": "problem",
+      "id": "322",
+      "title": "Bradley-Terry Model for Pairwise Rankings",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/322",
+      "path": "problems/0322-bradley-terry-model-for-pairwise-rankings",
+      "first_solved_at": "2026-08-12T19:09:14.044Z",
+      "last_pushed_at": "2026-08-12T19:09:14.044Z",
+      "language": "python",
+      "lines": 58
+    },
+    "problem:323": {
+      "kind": "problem",
+      "id": "323",
+      "title": "Pairwise Preference Judge for LLM Comparison",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/323",
+      "path": "problems/0323-pairwise-preference-judge-for-llm-comparison",
+      "first_solved_at": "2026-08-12T19:10:31.711Z",
+      "last_pushed_at": "2026-08-12T19:10:31.711Z",
+      "language": "python",
+      "lines": 89
+    },
+    "problem:324": {
+      "kind": "problem",
+      "id": "324",
+      "title": "Code Execution Verifier for Programming Benchmarks",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/324",
+      "path": "problems/0324-code-execution-verifier-for-programming-benchmarks",
+      "first_solved_at": "2026-08-12T19:12:25.731Z",
+      "last_pushed_at": "2026-08-12T19:12:25.731Z",
+      "language": "python",
+      "lines": 92
+    },
+    "problem:326": {
+      "kind": "problem",
+      "id": "326",
+      "title": "MMLU Letter-Matching Evaluation",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/326",
+      "path": "problems/0326-mmlu-letter-matching-evaluation",
+      "first_solved_at": "2026-08-12T19:13:58.513Z",
+      "last_pushed_at": "2026-08-12T19:13:58.513Z",
+      "language": "python",
+      "lines": 89
+    },
+    "problem:327": {
+      "kind": "problem",
+      "id": "327",
+      "title": "Engram Context-Aware Gating",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/327",
+      "path": "problems/0327-engram-context-aware-gating",
+      "first_solved_at": "2026-08-12T19:15:06.557Z",
+      "last_pushed_at": "2026-08-12T19:15:06.557Z",
+      "language": "python",
+      "lines": 48
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**413** solved · 386 problems · 13 labs · 14 math
+**421** solved · 394 problems · 13 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -93,8 +93,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-07-03 | [solution](problems/0079-binomial-distribution-probability) |
 | [Birthday Problem Probability](https://www.deep-ml.com/problems/246) | medium | 2026-08-04 | [solution](problems/0246-birthday-problem-probability) |
 | [Blackjack with Monte Carlo Prediction](https://www.deep-ml.com/problems/513) | medium | 2026-09-17 | [solution](problems/0513-blackjack-with-monte-carlo-prediction) |
+| [BLEU Score for Text Generation](https://www.deep-ml.com/problems/321) | medium | 2026-08-12 | [solution](problems/0321-bleu-score-for-text-generation) |
 | [Block-wise FP8 Quantization](https://www.deep-ml.com/problems/234) | medium | 2026-08-04 | [solution](problems/0234-block-wise-fp8-quantization) |
 | [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2026-07-04 | [solution](problems/0090-bm25-ranking) |
+| [Boxed Answer Extraction for Math Benchmarks](https://www.deep-ml.com/problems/318) | medium | 2026-08-12 | [solution](problems/0318-boxed-answer-extraction-for-math-benchmarks) |
+| [Bradley-Terry Model for Pairwise Rankings](https://www.deep-ml.com/problems/322) | medium | 2026-08-12 | [solution](problems/0322-bradley-terry-model-for-pairwise-rankings) |
 | [Budget-Constrained RL Loss](https://www.deep-ml.com/problems/228) | medium | 2026-07-29 | [solution](problems/0228-budget-constrained-rl-loss) |
 | [Build a Simple ETL Pipeline (MLOps)](https://www.deep-ml.com/problems/187) | medium | 2026-07-20 | [solution](problems/0187-build-a-simple-etl-pipeline-mlops) |
 | [Calculate AUC (Area Under ROC Curve)](https://www.deep-ml.com/problems/277) | medium | 2026-08-08 | [solution](problems/0277-calculate-auc-area-under-roc-curve) |
@@ -115,6 +118,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Classify Critical Points Using Hessian Eigenvalues](https://www.deep-ml.com/problems/311) | medium | 2026-08-11 | [solution](problems/0311-classify-critical-points-using-hessian-eigenvalues) |
 | [Cliff Walking: Sarsa vs Q-Learning](https://www.deep-ml.com/problems/518) | medium | 2026-09-17 | [solution](problems/0518-cliff-walking-sarsa-vs-q-learning) |
 | [Coalesced Matrix Transpose](https://www.deep-ml.com/problems/1309) | medium | 2026-09-17 | [solution](problems/1309-coalesced-matrix-transpose) |
+| [Code Execution Verifier for Programming Benchmarks](https://www.deep-ml.com/problems/324) | medium | 2026-08-12 | [solution](problems/0324-code-execution-verifier-for-programming-benchmarks) |
 | [Compute Confusion Matrix with Normalization](https://www.deep-ml.com/problems/193) | medium | 2026-07-20 | [solution](problems/0193-compute-confusion-matrix-with-normalization) |
 | [Compute Covariance from Joint Probability Mass Function](https://www.deep-ml.com/problems/243) | medium | 2026-08-04 | [solution](problems/0243-compute-covariance-from-joint-probability-mass-function) |
 | [Compute Normalized Subspace Similarity Between Low-Rank Matrices](https://www.deep-ml.com/problems/868) | medium | 2026-09-17 | [solution](problems/0868-compute-normalized-subspace-similarity-between-low-rank-matrices) |
@@ -138,6 +142,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-07-15 | [solution](problems/0151-dropout-layer) |
 | [Dyna-Q with Planning Updates](https://www.deep-ml.com/problems/479) | medium | 2026-09-17 | [solution](problems/0479-dyna-q-with-planning-updates) |
 | [Elo Rating System for Model Comparison](https://www.deep-ml.com/problems/315) | medium | 2026-08-11 | [solution](problems/0315-elo-rating-system-for-model-comparison) |
+| [Engram Context-Aware Gating](https://www.deep-ml.com/problems/327) | medium | 2026-08-12 | [solution](problems/0327-engram-context-aware-gating) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-07-29 | [solution](problems/0205-entropy-cross-entropy) |
 | [Epsilon-Greedy Action Selection for n-Armed Bandit](https://www.deep-ml.com/problems/158) | medium | 2026-07-17 | [solution](problems/0158-epsilon-greedy-action-selection-for-n-armed-bandit) |
 | [Epsilon-Soft On-Policy Monte Carlo Control](https://www.deep-ml.com/problems/471) | medium | 2026-09-17 | [solution](problems/0471-epsilon-soft-on-policy-monte-carlo-control) |
@@ -230,11 +235,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Local Outlier Factor (LOF) Anomaly Score](https://www.deep-ml.com/problems/830) | medium | 2026-08-11 | [solution](problems/0830-local-outlier-factor-lof-anomaly-score) |
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-07-29 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
 | [Markov Decision Process Simulator](https://www.deep-ml.com/problems/510) | medium | 2026-09-17 | [solution](problems/0510-markov-decision-process-simulator) |
+| [Math Answer Verification with Equivalence Checking](https://www.deep-ml.com/problems/319) | medium | 2026-08-12 | [solution](problems/0319-math-answer-verification-with-equivalence-checking) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2025-01-29 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2025-01-29 | [solution](problems/0007-matrix-transformation) |
 | [Mean Ablation for Circuit Discovery](https://www.deep-ml.com/problems/236) | medium | 2026-08-04 | [solution](problems/0236-mean-ablation-for-circuit-discovery) |
 | [Minimax Algorithm for Tic-Tac-Toe](https://www.deep-ml.com/problems/171) | medium | 2026-07-17 | [solution](problems/0171-minimax-algorithm-for-tic-tac-toe) |
 | [Mixed Precision Training](https://www.deep-ml.com/problems/160) | medium | 2026-07-17 | [solution](problems/0160-mixed-precision-training) |
+| [MMLU Letter-Matching Evaluation](https://www.deep-ml.com/problems/326) | medium | 2026-08-12 | [solution](problems/0326-mmlu-letter-matching-evaluation) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-08-11 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Muon Optimizer Step with Matrix Preconditioning](https://www.deep-ml.com/problems/170) | medium | 2026-07-17 | [solution](problems/0170-muon-optimizer-step-with-matrix-preconditioning) |
 | [Muon Optimizer Update with Newton-Schulz Iteration](https://www.deep-ml.com/problems/172) | medium | 2026-07-17 | [solution](problems/0172-muon-optimizer-update-with-newton-schulz-iteration) |
@@ -251,6 +258,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Optical Flow EPE with Masks (OmniWorld-style metric)](https://www.deep-ml.com/problems/185) | medium | 2026-07-20 | [solution](problems/0185-optical-flow-epe-with-masks-omniworld-style-metric) |
 | [Optimal String Alignment Distance](https://www.deep-ml.com/problems/51) | medium | 2026-06-30 | [solution](problems/0051-optimal-string-alignment-distance) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-07-20 | [solution](problems/0190-overlapping-max-pooling) |
+| [Pairwise Preference Judge for LLM Comparison](https://www.deep-ml.com/problems/323) | medium | 2026-08-12 | [solution](problems/0323-pairwise-preference-judge-for-llm-comparison) |
 | [Parallel Reduction (Block Sum) CUDA Kernel](https://www.deep-ml.com/problems/1189) | medium | 2026-09-15 | [solution](problems/1189-parallel-reduction-block-sum-cuda-kernel) |
 | [Parallel Reduction: Array Sum](https://www.deep-ml.com/problems/1207) | medium | 2026-09-15 | [solution](problems/1207-parallel-reduction-array-sum) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-07-29 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
