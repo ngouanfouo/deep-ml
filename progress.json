@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T23:10:59.478Z",
+  "generated_at": "2026-09-17T23:11:15.188Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -5445,6 +5445,97 @@
       "last_pushed_at": "2026-08-12T19:15:06.557Z",
       "language": "python",
       "lines": 48
+    },
+    "problem:329": {
+      "kind": "problem",
+      "id": "329",
+      "title": "Matrix Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/329",
+      "path": "problems/0329-matrix-rank",
+      "first_solved_at": "2026-08-13T17:14:37.229Z",
+      "last_pushed_at": "2026-08-13T17:14:37.229Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:330": {
+      "kind": "problem",
+      "id": "330",
+      "title": "Compute the Null Space (Kernel) of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/330",
+      "path": "problems/0330-compute-the-null-space-kernel-of-a-matrix",
+      "first_solved_at": "2026-08-13T17:15:29.880Z",
+      "last_pushed_at": "2026-08-13T17:15:29.880Z",
+      "language": "python",
+      "lines": 65
+    },
+    "problem:332": {
+      "kind": "problem",
+      "id": "332",
+      "title": "Check if Matrix is Positive Definite",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/332",
+      "path": "problems/0332-check-if-matrix-is-positive-definite",
+      "first_solved_at": "2026-08-13T17:19:34.327Z",
+      "last_pushed_at": "2026-08-13T17:19:34.327Z",
+      "language": "python",
+      "lines": 50
+    },
+    "problem:333": {
+      "kind": "problem",
+      "id": "333",
+      "title": "LU Decomposition of a Square Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/333",
+      "path": "problems/0333-lu-decomposition-of-a-square-matrix",
+      "first_solved_at": "2026-08-13T17:21:25.380Z",
+      "last_pushed_at": "2026-08-13T17:21:25.380Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:334": {
+      "kind": "problem",
+      "id": "334",
+      "title": "Cholesky Decomposition",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/334",
+      "path": "problems/0334-cholesky-decomposition",
+      "first_solved_at": "2026-08-13T17:24:26.560Z",
+      "last_pushed_at": "2026-08-13T17:24:26.560Z",
+      "language": "python",
+      "lines": 56
+    },
+    "problem:335": {
+      "kind": "problem",
+      "id": "335",
+      "title": "Train a Paris-Style Decentralized Expert Model",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/335",
+      "path": "problems/0335-train-a-paris-style-decentralized-expert-model",
+      "first_solved_at": "2026-08-13T17:25:35.169Z",
+      "last_pushed_at": "2026-08-13T17:25:35.169Z",
+      "language": "python",
+      "lines": 87
+    },
+    "problem:337": {
+      "kind": "problem",
+      "id": "337",
+      "title": "Maximum Likelihood Estimation for Gaussian Distribution",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/337",
+      "path": "problems/0337-maximum-likelihood-estimation-for-gaussian-distribution",
+      "first_solved_at": "2026-08-13T17:27:11.810Z",
+      "last_pushed_at": "2026-08-13T17:27:11.810Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
