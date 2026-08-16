@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T23:11:15.188Z",
+  "generated_at": "2026-09-17T23:11:17.237Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -5536,6 +5536,136 @@
       "last_pushed_at": "2026-08-13T17:27:11.810Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:690": {
+      "kind": "problem",
+      "id": "690",
+      "title": "Hybrid Vision Transformer for Multi-Task Driving Perception",
+      "difficulty": "hard",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/690",
+      "path": "problems/0690-hybrid-vision-transformer-for-multi-task-driving-perception",
+      "first_solved_at": "2026-08-16T15:55:20.219Z",
+      "last_pushed_at": "2026-08-16T15:55:20.219Z",
+      "language": "python",
+      "lines": 77
+    },
+    "problem:699": {
+      "kind": "problem",
+      "id": "699",
+      "title": "Build a VQ-VAE from Scratch",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/699",
+      "path": "problems/0699-build-a-vq-vae-from-scratch",
+      "first_solved_at": "2026-08-16T15:56:32.614Z",
+      "last_pushed_at": "2026-08-16T15:56:32.614Z",
+      "language": "python",
+      "lines": 46
+    },
+    "problem:700": {
+      "kind": "problem",
+      "id": "700",
+      "title": "Implement a Spatiotemporal Transformer Block",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/700",
+      "path": "problems/0700-implement-a-spatiotemporal-transformer-block",
+      "first_solved_at": "2026-08-16T15:58:27.210Z",
+      "last_pushed_at": "2026-08-16T15:58:27.210Z",
+      "language": "python",
+      "lines": 78
+    },
+    "problem:701": {
+      "kind": "problem",
+      "id": "701",
+      "title": "Unsupervised Latent Action Discovery",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/701",
+      "path": "problems/0701-unsupervised-latent-action-discovery",
+      "first_solved_at": "2026-08-16T15:59:24.249Z",
+      "last_pushed_at": "2026-08-16T15:59:24.249Z",
+      "language": "python",
+      "lines": 37
+    },
+    "problem:704": {
+      "kind": "problem",
+      "id": "704",
+      "title": "Video Tokenizer with Spatiotemporal VQ-VAE",
+      "difficulty": "hard",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/704",
+      "path": "problems/0704-video-tokenizer-with-spatiotemporal-vq-vae",
+      "first_solved_at": "2026-08-16T16:02:09.052Z",
+      "last_pushed_at": "2026-08-16T16:02:09.052Z",
+      "language": "python",
+      "lines": 74
+    },
+    "problem:706": {
+      "kind": "problem",
+      "id": "706",
+      "title": "Masked Generative Token Prediction Step",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/706",
+      "path": "problems/0706-masked-generative-token-prediction-step",
+      "first_solved_at": "2026-08-16T16:03:27.141Z",
+      "last_pushed_at": "2026-08-16T16:03:27.141Z",
+      "language": "python",
+      "lines": 55
+    },
+    "problem:709": {
+      "kind": "problem",
+      "id": "709",
+      "title": "Action-Conditioned Autoregressive Video Dynamics Model",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/709",
+      "path": "problems/0709-action-conditioned-autoregressive-video-dynamics-model",
+      "first_solved_at": "2026-08-16T16:05:08.199Z",
+      "last_pushed_at": "2026-08-16T16:05:08.199Z",
+      "language": "python",
+      "lines": 50
+    },
+    "problem:718": {
+      "kind": "problem",
+      "id": "718",
+      "title": "Spatial vs. Spatiotemporal Video Tokenizer Ablation",
+      "difficulty": "hard",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/718",
+      "path": "problems/0718-spatial-vs-spatiotemporal-video-tokenizer-ablation",
+      "first_solved_at": "2026-08-16T16:06:23.227Z",
+      "last_pushed_at": "2026-08-16T16:06:23.227Z",
+      "language": "python",
+      "lines": 48
+    },
+    "problem:727": {
+      "kind": "problem",
+      "id": "727",
+      "title": "Transformer Policy for Behavioral Cloning from Latent Actions",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/727",
+      "path": "problems/0727-transformer-policy-for-behavioral-cloning-from-latent-actions",
+      "first_solved_at": "2026-08-16T16:07:47.191Z",
+      "last_pushed_at": "2026-08-16T16:07:47.191Z",
+      "language": "python",
+      "lines": 66
+    },
+    "problem:734": {
+      "kind": "problem",
+      "id": "734",
+      "title": "Token-Level Key-Value Compression with Overlapping Windows",
+      "difficulty": "hard",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/734",
+      "path": "problems/0734-token-level-key-value-compression-with-overlapping-windows",
+      "first_solved_at": "2026-08-16T16:10:40.641Z",
+      "last_pushed_at": "2026-08-16T16:10:40.641Z",
+      "language": "python",
+      "lines": 65
     }
   }
 }
