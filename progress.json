@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T23:11:19.325Z",
+  "generated_at": "2026-09-17T23:11:22.679Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -6212,6 +6212,71 @@
       "last_pushed_at": "2026-08-21T19:10:14.263Z",
       "language": "python",
       "lines": 82
+    },
+    "problem:113": {
+      "kind": "problem",
+      "id": "113",
+      "title": "Implement a Simple Residual Block with Shortcut Connection",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/113",
+      "path": "problems/0113-implement-a-simple-residual-block-with-shortcut-connection",
+      "first_solved_at": "2026-08-23T18:58:11.020Z",
+      "last_pushed_at": "2026-08-23T18:58:11.020Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:114": {
+      "kind": "problem",
+      "id": "114",
+      "title": "Implement Global Average Pooling",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/114",
+      "path": "problems/0114-implement-global-average-pooling",
+      "first_solved_at": "2026-08-23T18:59:44.648Z",
+      "last_pushed_at": "2026-08-23T18:59:44.648Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:104": {
+      "kind": "problem",
+      "id": "104",
+      "title": "Binary Classification with Logistic Regression",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/104",
+      "path": "problems/0104-binary-classification-with-logistic-regression",
+      "first_solved_at": "2026-08-23T19:03:47.441Z",
+      "last_pushed_at": "2026-08-23T19:03:47.441Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:320": {
+      "kind": "problem",
+      "id": "320",
+      "title": "Calculate Perplexity for Language Models",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/320",
+      "path": "problems/0320-calculate-perplexity-for-language-models",
+      "first_solved_at": "2026-08-23T21:26:04.248Z",
+      "last_pushed_at": "2026-08-23T21:26:04.248Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:134": {
+      "kind": "problem",
+      "id": "134",
+      "title": "Compute Multi-class Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/134",
+      "path": "problems/0134-compute-multi-class-cross-entropy-loss",
+      "first_solved_at": "2026-08-23T21:28:04.996Z",
+      "last_pushed_at": "2026-08-23T21:28:04.996Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }

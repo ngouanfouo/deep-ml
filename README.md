@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**480** solved · 453 problems · 13 labs · 14 math
+**485** solved · 458 problems · 13 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-07-03 | [solution](problems/0030-batch-iterator-for-dataset) |
+| [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-08-23 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2025-01-29 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-07-15 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-07-17 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
@@ -23,12 +24,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Jaccard Index for Binary Classification](https://www.deep-ml.com/problems/72) | easy | 2026-07-17 | [solution](problems/0072-calculate-jaccard-index-for-binary-classification) |
 | [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2026-08-21 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-01-09 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-08-23 | [solution](problems/0320-calculate-perplexity-for-language-models) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-07-17 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-07-17 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Calculate the Discounted Return for a Given Trajectory](https://www.deep-ml.com/problems/167) | easy | 2026-09-17 | [solution](problems/0167-calculate-the-discounted-return-for-a-given-trajectory) |
 | [Calculate the Phi Coefficient](https://www.deep-ml.com/problems/95) | easy | 2026-08-21 | [solution](problems/0095-calculate-the-phi-coefficient) |
 | [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-09-17 | [solution](problems/0331-check-linear-independence-of-vectors) |
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-06-26 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
+| [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-08-23 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Compute Temporal Difference Error](https://www.deep-ml.com/problems/257) | easy | 2026-09-17 | [solution](problems/0257-compute-temporal-difference-error) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-09-17 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-07-03 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
@@ -42,10 +45,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2026-07-17 | [solution](problems/0082-grayscale-image-contrast-calculator) |
 | [Grid-Stride Loop: Square Each Element](https://www.deep-ml.com/problems/1205) | easy | 2026-09-17 | [solution](problems/1205-grid-stride-loop-square-each-element) |
 | [Group Relative Advantage for GRPO](https://www.deep-ml.com/problems/224) | easy | 2026-09-17 | [solution](problems/0224-group-relative-advantage-for-grpo) |
+| [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-08-23 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
 | [Implement Compressed Column Sparse Matrix Format (CSC)](https://www.deep-ml.com/problems/67) | easy | 2026-07-17 | [solution](problems/0067-implement-compressed-column-sparse-matrix-format-csc) |
 | [Implement Compressed Row Sparse Matrix (CSR) Format Conversion](https://www.deep-ml.com/problems/65) | easy | 2026-08-05 | [solution](problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-08-05 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
 | [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2026-08-05 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
+| [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-08-23 | [solution](problems/0114-implement-global-average-pooling) |
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-07-17 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-08-05 | [solution](problems/0046-implement-precision-metric) |
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-08-05 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
