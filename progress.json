@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T23:11:22.679Z",
+  "generated_at": "2026-09-17T23:11:24.670Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -6277,6 +6277,58 @@
       "last_pushed_at": "2026-08-23T21:28:04.996Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:165": {
+      "kind": "problem",
+      "id": "165",
+      "title": "Compute Discounted Return",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/165",
+      "path": "problems/0165-compute-discounted-return",
+      "first_solved_at": "2026-08-25T21:26:06.778Z",
+      "last_pushed_at": "2026-08-25T21:26:06.778Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:487": {
+      "kind": "problem",
+      "id": "487",
+      "title": "Compute GAE Advantages with Episode Boundaries",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/487",
+      "path": "problems/0487-compute-gae-advantages-with-episode-boundaries",
+      "first_solved_at": "2026-08-25T21:29:42.829Z",
+      "last_pushed_at": "2026-08-25T21:29:42.829Z",
+      "language": "python",
+      "lines": 46
+    },
+    "problem:485": {
+      "kind": "problem",
+      "id": "485",
+      "title": "PPO Clipped Surrogate Loss with Clip Diagnostics",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/485",
+      "path": "problems/0485-ppo-clipped-surrogate-loss-with-clip-diagnostics",
+      "first_solved_at": "2026-08-25T21:35:41.770Z",
+      "last_pushed_at": "2026-08-25T21:35:41.770Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:382": {
+      "kind": "problem",
+      "id": "382",
+      "title": "Direct Preference Optimization (DPO) Loss",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/382",
+      "path": "problems/0382-direct-preference-optimization-dpo-loss",
+      "first_solved_at": "2026-08-25T21:39:15.863Z",
+      "last_pushed_at": "2026-08-25T21:39:15.863Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }

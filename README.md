@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**485** solved · 458 problems · 13 labs · 14 math
+**489** solved · 462 problems · 13 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate the Phi Coefficient](https://www.deep-ml.com/problems/95) | easy | 2026-08-21 | [solution](problems/0095-calculate-the-phi-coefficient) |
 | [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-09-17 | [solution](problems/0331-check-linear-independence-of-vectors) |
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-06-26 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
+| [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2026-08-25 | [solution](problems/0165-compute-discounted-return) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-08-23 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Compute Temporal Difference Error](https://www.deep-ml.com/problems/257) | easy | 2026-09-17 | [solution](problems/0257-compute-temporal-difference-error) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-09-17 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
@@ -142,6 +143,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Code Execution Verifier for Programming Benchmarks](https://www.deep-ml.com/problems/324) | medium | 2026-08-12 | [solution](problems/0324-code-execution-verifier-for-programming-benchmarks) |
 | [Compute Confusion Matrix with Normalization](https://www.deep-ml.com/problems/193) | medium | 2026-07-20 | [solution](problems/0193-compute-confusion-matrix-with-normalization) |
 | [Compute Covariance from Joint Probability Mass Function](https://www.deep-ml.com/problems/243) | medium | 2026-08-04 | [solution](problems/0243-compute-covariance-from-joint-probability-mass-function) |
+| [Compute GAE Advantages with Episode Boundaries](https://www.deep-ml.com/problems/487) | medium | 2026-08-25 | [solution](problems/0487-compute-gae-advantages-with-episode-boundaries) |
 | [Compute Normalized Subspace Similarity Between Low-Rank Matrices](https://www.deep-ml.com/problems/868) | medium | 2026-09-17 | [solution](problems/0868-compute-normalized-subspace-similarity-between-low-rank-matrices) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-07-06 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2026-07-06 | [solution](problems/0111-compute-pointwise-mutual-information) |
@@ -157,6 +159,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-07-29 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-07-29 | [solution](problems/0219-derivative-of-softmax) |
 | [Diffusion Reconstruction Loss](https://www.deep-ml.com/problems/302) | medium | 2026-08-11 | [solution](problems/0302-diffusion-reconstruction-loss) |
+| [Direct Preference Optimization (DPO) Loss](https://www.deep-ml.com/problems/382) | medium | 2026-08-25 | [solution](problems/0382-direct-preference-optimization-dpo-loss) |
 | [Distance Correlation for Measuring Metadata Dependence](https://www.deep-ml.com/problems/359) | medium | 2026-08-21 | [solution](problems/0359-distance-correlation-for-measuring-metadata-dependence) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-06-12 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Domain Expert Model Fusion](https://www.deep-ml.com/problems/348) | medium | 2026-08-21 | [solution](problems/0348-domain-expert-model-fusion) |
@@ -299,6 +302,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Parallel Reduction: Array Sum](https://www.deep-ml.com/problems/1207) | medium | 2026-09-15 | [solution](problems/1207-parallel-reduction-array-sum) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-07-29 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Planning with Simulated Experience](https://www.deep-ml.com/problems/526) | medium | 2026-09-17 | [solution](problems/0526-planning-with-simulated-experience) |
+| [PPO Clipped Surrogate Loss with Clip Diagnostics](https://www.deep-ml.com/problems/485) | medium | 2026-08-25 | [solution](problems/0485-ppo-clipped-surrogate-loss-with-clip-diagnostics) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-06-11 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Prioritized Experience Replay](https://www.deep-ml.com/problems/591) | medium | 2026-06-19 | [solution](problems/0591-prioritized-experience-replay) |
 | [Priority Queue in Planning](https://www.deep-ml.com/problems/528) | medium | 2026-09-17 | [solution](problems/0528-priority-queue-in-planning) |
