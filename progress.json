@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T23:12:08.403Z",
+  "generated_at": "2026-09-17T23:12:11.272Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -6589,6 +6589,32 @@
       "last_pushed_at": "2026-08-27T12:10:22.520Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:191": {
+      "kind": "problem",
+      "id": "191",
+      "title": "PCA Color Augmentation",
+      "difficulty": "hard",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/191",
+      "path": "problems/0191-pca-color-augmentation",
+      "first_solved_at": "2026-09-01T21:38:25.990Z",
+      "last_pushed_at": "2026-09-01T21:38:25.990Z",
+      "language": "python",
+      "lines": 68
+    },
+    "problem:542": {
+      "kind": "problem",
+      "id": "542",
+      "title": "Build a Multi-Armed Bandit Testbed",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/542",
+      "path": "problems/0542-build-a-multi-armed-bandit-testbed",
+      "first_solved_at": "2026-09-01T21:40:58.505Z",
+      "last_pushed_at": "2026-09-01T21:40:58.505Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
