@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**511** solved · 484 problems · 13 labs · 14 math
+**529** solved · 502 problems · 13 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -225,12 +225,16 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Entropy-based Split Selection](https://www.deep-ml.com/problems/284) | medium | 2026-08-08 | [solution](problems/0284-implement-entropy-based-split-selection) |
 | [Implement Focal Loss for Imbalanced Classification](https://www.deep-ml.com/problems/255) | medium | 2026-08-05 | [solution](problems/0255-implement-focal-loss-for-imbalanced-classification) |
 | [Implement Gated Attention](https://www.deep-ml.com/problems/271) | medium | 2026-06-14 | [solution](problems/0271-implement-gated-attention) |
+| [Implement Gaussian Mixture Model (GMM) E-step](https://www.deep-ml.com/problems/365) | medium | 2026-09-02 | [solution](problems/0365-implement-gaussian-mixture-model-gmm-e-step) |
+| [Implement Gaussian Mixture Model (GMM) M-step](https://www.deep-ml.com/problems/366) | medium | 2026-09-02 | [solution](problems/0366-implement-gaussian-mixture-model-gmm-m-step) |
 | [Implement Gradient Boosting Regressor Step](https://www.deep-ml.com/problems/344) | medium | 2026-08-21 | [solution](problems/0344-implement-gradient-boosting-regressor-step) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-06-14 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement Grid Search](https://www.deep-ml.com/problems/288) | medium | 2026-08-08 | [solution](problems/0288-implement-grid-search) |
 | [Implement Group Normalization](https://www.deep-ml.com/problems/126) | medium | 2026-07-07 | [solution](problems/0126-implement-group-normalization) |
+| [Implement Hierarchical Clustering (Agglomerative)](https://www.deep-ml.com/problems/364) | medium | 2026-09-02 | [solution](problems/0364-implement-hierarchical-clustering-agglomerative) |
 | [Implement INT8 Quantization](https://www.deep-ml.com/problems/294) | medium | 2026-08-08 | [solution](problems/0294-implement-int8-quantization) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-06-11 | [solution](problems/0018-implement-k-fold-cross-validation) |
+| [Implement K-Means++ Initialization](https://www.deep-ml.com/problems/362) | medium | 2026-09-02 | [solution](problems/0362-implement-k-means-initialization) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-07-17 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement Label Smoothing for Multi-Class Cross-Entropy](https://www.deep-ml.com/problems/194) | medium | 2026-07-20 | [solution](problems/0194-implement-label-smoothing-for-multi-class-cross-entropy) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-06-30 | [solution](problems/0050-implement-lasso-regression-using-ista) |
@@ -362,6 +366,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Actor-Critic Algorithm](https://www.deep-ml.com/problems/538) | hard | 2026-07-23 | [solution](problems/0538-actor-critic-algorithm) |
 | [Actor-Critic with Traces](https://www.deep-ml.com/problems/539) | hard | 2026-07-23 | [solution](problems/0539-actor-critic-with-traces) |
 | [Advantage Actor-Critic (A2C) Batch Update from Parallel Environments](https://www.deep-ml.com/problems/553) | hard | 2026-07-23 | [solution](problems/0553-advantage-actor-critic-a2c-batch-update-from-parallel-environments) |
+| [Alien Dictionary via Topological Sort](https://www.deep-ml.com/problems/1168) | hard | 2026-09-02 | [solution](problems/1168-alien-dictionary-via-topological-sort) |
 | [Anticipatory Routing for MoE Training Stability](https://www.deep-ml.com/problems/744) | hard | 2026-08-21 | [solution](problems/0744-anticipatory-routing-for-moe-training-stability) |
 | [Asynchronous Advantage Actor-Critic (A3C)](https://www.deep-ml.com/problems/594) | hard | 2026-08-02 | [solution](problems/0594-asynchronous-advantage-actor-critic-a3c) |
 | [Asynchronous PPO Training Pipeline](https://www.deep-ml.com/problems/664) | hard | 2026-08-04 | [solution](problems/0664-asynchronous-ppo-training-pipeline) |
@@ -373,6 +378,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build a Transformer Encoder Layer](https://www.deep-ml.com/problems/491) | hard | 2026-07-20 | [solution](problems/0491-build-a-transformer-encoder-layer) |
 | [Build a VQ-VAE from Scratch](https://www.deep-ml.com/problems/699) | hard | 2026-08-16 | [solution](problems/0699-build-a-vq-vae-from-scratch) |
 | [Certainty-Equivalence in TD Learning](https://www.deep-ml.com/problems/516) | hard | 2026-07-20 | [solution](problems/0516-certainty-equivalence-in-td-learning) |
+| [Cohort Retention: First Login and Consecutive-Day Logins](https://www.deep-ml.com/problems/1119) | hard | 2026-09-02 | [solution](problems/1119-cohort-retention-first-login-and-consecutive-day-logins) |
 | [Combined Token Sampling Pipeline (Temperature + Top-k + Top-p)](https://www.deep-ml.com/problems/419) | hard | 2026-07-09 | [solution](problems/0419-combined-token-sampling-pipeline-temperature-top-k-top-p) |
 | [Context Parallelism with Ring Attention for Video Models](https://www.deep-ml.com/problems/448) | hard | 2026-07-15 | [solution](problems/0448-context-parallelism-with-ring-attention-for-video-models) |
 | [Control Variates in Off-Policy Methods](https://www.deep-ml.com/problems/584) | hard | 2026-08-02 | [solution](problems/0584-control-variates-in-off-policy-methods) |
@@ -385,6 +391,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Deterministic Sparse Attention Backward KV Accumulation](https://www.deep-ml.com/problems/748) | hard | 2026-08-21 | [solution](problems/0748-deterministic-sparse-attention-backward-kv-accumulation) |
 | [Differential Sarsa Algorithm](https://www.deep-ml.com/problems/541) | hard | 2026-07-23 | [solution](problems/0541-differential-sarsa-algorithm) |
 | [Disaggregated Prefill-Decode Serving Simulator](https://www.deep-ml.com/problems/440) | hard | 2026-07-15 | [solution](problems/0440-disaggregated-prefill-decode-serving-simulator) |
+| [Distributed Mode/Median with Message Passing](https://www.deep-ml.com/problems/1097) | hard | 2026-09-02 | [solution](problems/1097-distributed-mode-median-with-message-passing) |
 | [Distributed On-Policy Reinforcement Learning](https://www.deep-ml.com/problems/504) | hard | 2026-07-20 | [solution](problems/0504-distributed-on-policy-reinforcement-learning) |
 | [Dyna-Q: Model-Based RL with Planning](https://www.deep-ml.com/problems/524) | hard | 2026-07-20 | [solution](problems/0524-dyna-q-model-based-rl-with-planning) |
 | [Dynamic Channel Allocation with Afterstates](https://www.deep-ml.com/problems/621) | hard | 2026-08-11 | [solution](problems/0621-dynamic-channel-allocation-with-afterstates) |
@@ -392,6 +399,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [EnvPool-style Asynchronous Environment Pooling](https://www.deep-ml.com/problems/656) | hard | 2026-08-04 | [solution](problems/0656-envpool-style-asynchronous-environment-pooling) |
 | [First-Visit Monte Carlo Control with Exploring Starts](https://www.deep-ml.com/problems/470) | hard | 2026-07-15 | [solution](problems/0470-first-visit-monte-carlo-control-with-exploring-starts) |
 | [FP4 Quantization with Microscaling (MXFP4)](https://www.deep-ml.com/problems/427) | hard | 2026-06-30 | [solution](problems/0427-fp4-quantization-with-microscaling-mxfp4) |
+| [Fused Backward Pass of BatchNorm1d](https://www.deep-ml.com/problems/1002) | hard | 2026-09-02 | [solution](problems/1002-fused-backward-pass-of-batchnorm1d) |
 | [Gambler's Problem: Value Iteration](https://www.deep-ml.com/problems/164) | hard | 2026-06-30 | [solution](problems/0164-gambler-s-problem-value-iteration) |
 | [Gaussian Process for Regression](https://www.deep-ml.com/problems/186) | hard | 2026-06-30 | [solution](problems/0186-gaussian-process-for-regression) |
 | [Goal-Conditioned World Model with Future Anchoring](https://www.deep-ml.com/problems/683) | hard | 2026-08-04 | [solution](problems/0683-goal-conditioned-world-model-with-future-anchoring) |
@@ -407,6 +415,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement AdaBoost Fit Method](https://www.deep-ml.com/problems/38) | hard | 2026-06-12 | [solution](problems/0038-implement-adaboost-fit-method) |
 | [Implement Bagging Classifier from Scratch](https://www.deep-ml.com/problems/307) | hard | 2026-07-04 | [solution](problems/0307-implement-bagging-classifier-from-scratch) |
 | [Implement Core MDN Residualization](https://www.deep-ml.com/problems/358) | hard | 2026-07-09 | [solution](problems/0358-implement-core-mdn-residualization) |
+| [Implement Cross-Layer KV Sharing in Transformer](https://www.deep-ml.com/problems/1020) | hard | 2026-09-02 | [solution](problems/1020-implement-cross-layer-kv-sharing-in-transformer) |
+| [Implement Gated DeltaNet Linear Attention](https://www.deep-ml.com/problems/1017) | hard | 2026-09-02 | [solution](problems/1017-implement-gated-deltanet-linear-attention) |
+| [Implement Llama 3.1 RoPE Frequency Rescaling](https://www.deep-ml.com/problems/1024) | hard | 2026-09-02 | [solution](problems/1024-implement-llama-3-1-rope-frequency-rescaling) |
 | [Implement LLE (Locally Linear Embedding)](https://www.deep-ml.com/problems/351) | hard | 2026-07-09 | [solution](problems/0351-implement-lle-locally-linear-embedding) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-06-14 | [solution](problems/0094-implement-multi-head-attention) |
 | [Implement Multi-Head Attention Using Einsum](https://www.deep-ml.com/problems/960) | hard | 2026-08-21 | [solution](problems/0960-implement-multi-head-attention-using-einsum) |
@@ -425,6 +436,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Least-Squares Temporal Difference (LSTD) for Policy Evaluation](https://www.deep-ml.com/problems/536) | hard | 2026-07-23 | [solution](problems/0536-least-squares-temporal-difference-lstd-for-policy-evaluation) |
 | [Lightning Indexer Sparse Attention Selection](https://www.deep-ml.com/problems/736) | hard | 2026-08-21 | [solution](problems/0736-lightning-indexer-sparse-attention-selection) |
 | [Linear Sarsa Algorithm](https://www.deep-ml.com/problems/534) | hard | 2026-07-23 | [solution](problems/0534-linear-sarsa-algorithm) |
+| [Llama 3 RoPE Frequency Scaling](https://www.deep-ml.com/problems/1025) | hard | 2026-09-02 | [solution](problems/1025-llama-3-rope-frequency-scaling) |
+| [Manual Backprop Through Cross-Entropy Intermediates](https://www.deep-ml.com/problems/997) | hard | 2026-09-02 | [solution](problems/0997-manual-backprop-through-cross-entropy-intermediates) |
 | [Masked Generative Token Prediction Step](https://www.deep-ml.com/problems/706) | hard | 2026-08-16 | [solution](problems/0706-masked-generative-token-prediction-step) |
 | [MCTS with Step-wise Reward for Reasoning Trace Search](https://www.deep-ml.com/problems/777) | hard | 2026-08-21 | [solution](problems/0777-mcts-with-step-wise-reward-for-reasoning-trace-search) |
 | [MDN with Label Collinearity Control](https://www.deep-ml.com/problems/360) | hard | 2026-07-09 | [solution](problems/0360-mdn-with-label-collinearity-control) |
@@ -432,6 +445,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [ML Pipeline DAG Scheduler with Critical Path Analysis](https://www.deep-ml.com/problems/270) | hard | 2026-07-03 | [solution](problems/0270-ml-pipeline-dag-scheduler-with-critical-path-analysis) |
 | [Model-Based Value Expansion](https://www.deep-ml.com/problems/598) | hard | 2026-08-04 | [solution](problems/0598-model-based-value-expansion) |
 | [Monte Carlo Tree Search](https://www.deep-ml.com/problems/207) | hard | 2026-06-30 | [solution](problems/0207-monte-carlo-tree-search) |
+| [Monthly-Cohort Retention Rate by Plan](https://www.deep-ml.com/problems/1133) | hard | 2026-09-02 | [solution](problems/1133-monthly-cohort-retention-rate-by-plan) |
 | [Multi-Head Latent Attention (MLA)](https://www.deep-ml.com/problems/405) | hard | 2026-07-09 | [solution](problems/0405-multi-head-latent-attention-mla) |
 | [n-Step Tree Backup Algorithm](https://www.deep-ml.com/problems/581) | hard | 2026-08-02 | [solution](problems/0581-n-step-tree-backup-algorithm) |
 | [Natural Policy Gradient](https://www.deep-ml.com/problems/569) | hard | 2026-07-29 | [solution](problems/0569-natural-policy-gradient) |
@@ -447,9 +461,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Parallel Environment Simulation with Multiprocessing](https://www.deep-ml.com/problems/655) | hard | 2026-08-04 | [solution](problems/0655-parallel-environment-simulation-with-multiprocessing) |
 | [Parallel Value Functions (Horde)](https://www.deep-ml.com/problems/585) | hard | 2026-08-02 | [solution](problems/0585-parallel-value-functions-horde) |
 | [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-09-01 | [solution](problems/0191-pca-color-augmentation) |
+| [Per-Layer Embedding Projection (PLE)](https://www.deep-ml.com/problems/1050) | hard | 2026-09-02 | [solution](problems/1050-per-layer-embedding-projection-ple) |
 | [Policy Gradient with REINFORCE](https://www.deep-ml.com/problems/122) | hard | 2026-06-14 | [solution](problems/0122-policy-gradient-with-reinforce) |
 | [Policy Iteration for Markov Decision Processes](https://www.deep-ml.com/problems/467) | hard | 2026-07-15 | [solution](problems/0467-policy-iteration-for-markov-decision-processes) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-06-12 | [solution](problems/0085-positional-encoding-calculator) |
+| [Pre-allocated Sliding KV Cache Update](https://www.deep-ml.com/problems/1011) | hard | 2026-09-02 | [solution](problems/1011-pre-allocated-sliding-kv-cache-update) |
+| [Pre-Norm GPT Transformer Block Forward Pass](https://www.deep-ml.com/problems/1056) | hard | 2026-09-02 | [solution](problems/1056-pre-norm-gpt-transformer-block-forward-pass) |
+| [Preference Dataset Collate Function for DPO](https://www.deep-ml.com/problems/1069) | hard | 2026-09-02 | [solution](problems/1069-preference-dataset-collate-function-for-dpo) |
 | [Prioritized Sweeping Algorithm](https://www.deep-ml.com/problems/527) | hard | 2026-07-20 | [solution](problems/0527-prioritized-sweeping-algorithm) |
 | [Q(lambda) with Eligibility Traces](https://www.deep-ml.com/problems/522) | hard | 2026-07-20 | [solution](problems/0522-q-lambda-with-eligibility-traces) |
 | [Q(σ) Unified Algorithm](https://www.deep-ml.com/problems/583) | hard | 2026-08-02 | [solution](problems/0583-q-unified-algorithm) |
