@@ -2,9 +2,9 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**Completed:** Optimization (14/14)
+**Completed:** Optimization (14/14) · Financial Engineering (9/9)
 
-**546** solved · 519 problems · 13 labs · 14 math
+**580** solved · 553 problems · 13 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Add Two Numbers as Linked Lists](https://www.deep-ml.com/problems/1086) | easy | 2026-09-07 | [solution](problems/1086-add-two-numbers-as-linked-lists) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-07-03 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-08-23 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Build a Multi-Armed Bandit Testbed](https://www.deep-ml.com/problems/542) | easy | 2026-09-01 | [solution](problems/0542-build-a-multi-armed-bandit-testbed) |
@@ -30,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-01-09 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate Model Inference Statistics for Monitoring](https://www.deep-ml.com/problems/248) | easy | 2026-09-04 | [solution](problems/0248-calculate-model-inference-statistics-for-monitoring) |
 | [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-08-23 | [solution](problems/0320-calculate-perplexity-for-language-models) |
+| [Calculate Portfolio Variance](https://www.deep-ml.com/problems/183) | easy | 2026-09-07 | [solution](problems/0183-calculate-portfolio-variance) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-07-17 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-07-17 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Calculate SLA Compliance Metrics for Model Service](https://www.deep-ml.com/problems/250) | easy | 2026-09-04 | [solution](problems/0250-calculate-sla-compliance-metrics-for-model-service) |
@@ -92,6 +94,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-06-30 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [ReLU Activation](https://www.deep-ml.com/problems/1204) | easy | 2026-09-17 | [solution](problems/1204-relu-activation) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2025-01-09 | [solution](problems/0003-reshape-matrix) |
+| [Reverse a Singly Linked List](https://www.deep-ml.com/problems/1250) | easy | 2026-09-07 | [solution](problems/1250-reverse-a-singly-linked-list) |
 | [Reward Model Validation Accuracy](https://www.deep-ml.com/problems/488) | easy | 2026-08-27 | [solution](problems/0488-reward-model-validation-accuracy) |
 | [RMS-Matched Update Rescaling for Orthogonalized Optimizers](https://www.deep-ml.com/problems/740) | easy | 2026-09-04 | [solution](problems/0740-rms-matched-update-rescaling-for-orthogonalized-optimizers) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2025-01-08 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
@@ -124,6 +127,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Analyze Canary Deployment Health for Model Rollout](https://www.deep-ml.com/problems/251) | medium | 2026-08-04 | [solution](problems/0251-analyze-canary-deployment-health-for-model-rollout) |
 | [Apriori Frequent Itemset Mining](https://www.deep-ml.com/problems/144) | medium | 2026-07-15 | [solution](problems/0144-apriori-frequent-itemset-mining) |
 | [Asynchronous Dynamic Programming for Value Iteration](https://www.deep-ml.com/problems/468) | medium | 2026-09-17 | [solution](problems/0468-asynchronous-dynamic-programming-for-value-iteration) |
+| [Autocorrelation and the Ljung-Box Statistic](https://www.deep-ml.com/problems/1354) | medium | 2026-09-07 | [solution](problems/1354-autocorrelation-and-the-ljung-box-statistic) |
+| [Banking Transaction System Core Logic](https://www.deep-ml.com/problems/1094) | medium | 2026-09-07 | [solution](problems/1094-banking-transaction-system-core-logic) |
 | [Batch Size Scaling: Effect on Training Loss and Convergence](https://www.deep-ml.com/problems/715) | medium | 2026-09-04 | [solution](problems/0715-batch-size-scaling-effect-on-training-loss-and-convergence) |
 | [Batch Training: TD and MC Comparison](https://www.deep-ml.com/problems/515) | medium | 2026-09-17 | [solution](problems/0515-batch-training-td-and-mc-comparison) |
 | [Bayesian Inference for Beta-Binomial Model](https://www.deep-ml.com/problems/213) | medium | 2026-07-29 | [solution](problems/0213-bayesian-inference-for-beta-binomial-model) |
@@ -132,6 +137,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2026-07-09 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
 | [Beta Distribution PDF and Statistics](https://www.deep-ml.com/problems/339) | medium | 2026-08-21 | [solution](problems/0339-beta-distribution-pdf-and-statistics) |
 | [Bilinear Image Resizing](https://www.deep-ml.com/problems/240) | medium | 2026-08-04 | [solution](problems/0240-bilinear-image-resizing) |
+| [Binary Tree Drills: Diameter, Max Path Sum, Serialize/Deserialize](https://www.deep-ml.com/problems/1172) | medium | 2026-09-07 | [solution](problems/1172-binary-tree-drills-diameter-max-path-sum-serialize-deserialize) |
+| [Binary Tree Vertical Order Traversal](https://www.deep-ml.com/problems/1162) | medium | 2026-09-07 | [solution](problems/1162-binary-tree-vertical-order-traversal) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-07-03 | [solution](problems/0079-binomial-distribution-probability) |
 | [Birthday Problem Probability](https://www.deep-ml.com/problems/246) | medium | 2026-08-04 | [solution](problems/0246-birthday-problem-probability) |
 | [Blackjack with Monte Carlo Prediction](https://www.deep-ml.com/problems/513) | medium | 2026-09-17 | [solution](problems/0513-blackjack-with-monte-carlo-prediction) |
@@ -184,12 +191,16 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Decision Tree Pruning with Cost-Complexity](https://www.deep-ml.com/problems/285) | medium | 2026-08-08 | [solution](problems/0285-decision-tree-pruning-with-cost-complexity) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-07-29 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-07-29 | [solution](problems/0219-derivative-of-softmax) |
+| [Detect Look-Ahead Bias in a Feature Pipeline](https://www.deep-ml.com/problems/1352) | medium | 2026-09-07 | [solution](problems/1352-detect-look-ahead-bias-in-a-feature-pipeline) |
+| [Diagnose an R-Squared Collapse with Rolling Performance](https://www.deep-ml.com/problems/1357) | medium | 2026-09-07 | [solution](problems/1357-diagnose-an-r-squared-collapse-with-rolling-performance) |
+| [Differencing and a Rolling-Statistics Stationarity Check](https://www.deep-ml.com/problems/1353) | medium | 2026-09-07 | [solution](problems/1353-differencing-and-a-rolling-statistics-stationarity-check) |
 | [Diffusion Reconstruction Loss](https://www.deep-ml.com/problems/302) | medium | 2026-08-11 | [solution](problems/0302-diffusion-reconstruction-loss) |
 | [Direct Preference Optimization (DPO) Loss](https://www.deep-ml.com/problems/382) | medium | 2026-08-25 | [solution](problems/0382-direct-preference-optimization-dpo-loss) |
 | [Distance Correlation for Measuring Metadata Dependence](https://www.deep-ml.com/problems/359) | medium | 2026-08-21 | [solution](problems/0359-distance-correlation-for-measuring-metadata-dependence) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-06-12 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Domain Expert Model Fusion](https://www.deep-ml.com/problems/348) | medium | 2026-08-21 | [solution](problems/0348-domain-expert-model-fusion) |
 | [Dot Product](https://www.deep-ml.com/problems/1208) | medium | 2026-09-17 | [solution](problems/1208-dot-product) |
+| [Dot Product of Two Sparse Vectors](https://www.deep-ml.com/problems/1163) | medium | 2026-09-07 | [solution](problems/1163-dot-product-of-two-sparse-vectors) |
 | [Double Q-Learning Algorithm](https://www.deep-ml.com/problems/477) | medium | 2026-09-17 | [solution](problems/0477-double-q-learning-algorithm) |
 | [Dr. GRPO: Complete Objective Function](https://www.deep-ml.com/problems/210) | medium | 2026-07-29 | [solution](problems/0210-dr-grpo-complete-objective-function) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-07-15 | [solution](problems/0151-dropout-layer) |
@@ -209,6 +220,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-07-03 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Fine-Tune Model Weights with RLHF Policy Gradient](https://www.deep-ml.com/problems/361) | medium | 2026-08-27 | [solution](problems/0361-fine-tune-model-weights-with-rlhf-policy-gradient) |
 | [First-Visit Monte Carlo Prediction](https://www.deep-ml.com/problems/272) | medium | 2026-08-08 | [solution](problems/0272-first-visit-monte-carlo-prediction) |
+| [Fixed-Size Block Memory Allocator](https://www.deep-ml.com/problems/1191) | medium | 2026-09-07 | [solution](problems/1191-fixed-size-block-memory-allocator) |
 | [Forward & Backward Diffusion Process](https://www.deep-ml.com/problems/304) | medium | 2026-08-11 | [solution](problems/0304-forward-backward-diffusion-process) |
 | [Forward Diffusion Process](https://www.deep-ml.com/problems/303) | medium | 2026-08-11 | [solution](problems/0303-forward-diffusion-process) |
 | [Full TD(0) Prediction for Value Estimation](https://www.deep-ml.com/problems/475) | medium | 2026-09-17 | [solution](problems/0475-full-td-0-prediction-for-value-estimation) |
@@ -221,16 +233,22 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Generalized Policy Iteration (GPI) Simulation](https://www.deep-ml.com/problems/469) | medium | 2026-09-17 | [solution](problems/0469-generalized-policy-iteration-gpi-simulation) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2026-06-14 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-06-14 | [solution](problems/0032-generate-sorted-polynomial-features) |
+| [GPU Credit Ledger with Expiration](https://www.deep-ml.com/problems/1152) | medium | 2026-09-07 | [solution](problems/1152-gpu-credit-ledger-with-expiration) |
 | [Gradient Bandit Action Selection](https://www.deep-ml.com/problems/163) | medium | 2026-07-17 | [solution](problems/0163-gradient-bandit-action-selection) |
 | [Gradient Clipping by Global Norm](https://www.deep-ml.com/problems/197) | medium | 2026-07-20 | [solution](problems/0197-gradient-clipping-by-global-norm) |
 | [Greedy Policy Improvement](https://www.deep-ml.com/problems/511) | medium | 2026-09-17 | [solution](problems/0511-greedy-policy-improvement) |
 | [Gridworld Policy Evaluation](https://www.deep-ml.com/problems/142) | medium | 2026-07-09 | [solution](problems/0142-gridworld-policy-evaluation) |
 | [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-08-21 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-08-21 | [solution](problems/0354-handle-missing-data-with-imputation) |
+| [Heap Drills: Top-K Frequent Elements and K Closest Points](https://www.deep-ml.com/problems/1171) | medium | 2026-09-07 | [solution](problems/1171-heap-drills-top-k-frequent-elements-and-k-closest-points) |
 | [Hypergeometric Distribution PMF](https://www.deep-ml.com/problems/245) | medium | 2026-08-04 | [solution](problems/0245-hypergeometric-distribution-pmf) |
+| [Implement a Hash Table from Scratch](https://www.deep-ml.com/problems/1088) | medium | 2026-09-07 | [solution](problems/1088-implement-a-hash-table-from-scratch) |
+| [Implement a Snapshot Array](https://www.deep-ml.com/problems/1084) | medium | 2026-09-07 | [solution](problems/1084-implement-a-snapshot-array) |
+| [Implement a Trie for Prefix Matching](https://www.deep-ml.com/problems/1083) | medium | 2026-09-07 | [solution](problems/1083-implement-a-trie-for-prefix-matching) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-06-26 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-07-17 | [solution](problems/0169-implement-adamw-optimizer-step) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-07-06 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
+| [Implement BatchNorm2d from Scratch (training mode)](https://www.deep-ml.com/problems/902) | medium | 2026-09-07 | [solution](problems/0902-implement-batchnorm2d-from-scratch-training-mode) |
 | [Implement DBSCAN Clustering Algorithm](https://www.deep-ml.com/problems/259) | medium | 2026-08-08 | [solution](problems/0259-implement-dbscan-clustering-algorithm) |
 | [Implement Decision Tree for Regression](https://www.deep-ml.com/problems/286) | medium | 2026-08-08 | [solution](problems/0286-implement-decision-tree-for-regression) |
 | [Implement Dollar Bars Sampling](https://www.deep-ml.com/problems/301) | medium | 2026-08-11 | [solution](problems/0301-implement-dollar-bars-sampling) |
@@ -287,6 +305,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-06-30 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-06-12 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Implementing ROUGE Score](https://www.deep-ml.com/problems/152) | medium | 2026-07-15 | [solution](problems/0152-implementing-rouge-score) |
+| [In-Memory Database with Insert and Filtered Select](https://www.deep-ml.com/problems/1154) | medium | 2026-09-07 | [solution](problems/1154-in-memory-database-with-insert-and-filtered-select) |
+| [In-Memory Key-Value Store with TTL and Snapshots](https://www.deep-ml.com/problems/1093) | medium | 2026-09-07 | [solution](problems/1093-in-memory-key-value-store-with-ttl-and-snapshots) |
 | [Inference Head Pruning for Transformers](https://www.deep-ml.com/problems/233) | medium | 2026-08-04 | [solution](problems/0233-inference-head-pruning-for-transformers) |
 | [Instance Normalization (IN) Implementation](https://www.deep-ml.com/problems/143) | medium | 2026-07-15 | [solution](problems/0143-instance-normalization-in-implementation) |
 | [Inverse Kinematics of a 2-Link Planar Arm](https://www.deep-ml.com/problems/1211) | medium | 2026-09-17 | [solution](problems/1211-inverse-kinematics-of-a-2-link-planar-arm) |
@@ -294,6 +314,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-07-20 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Jensen-Shannon Divergence](https://www.deep-ml.com/problems/203) | medium | 2026-07-20 | [solution](problems/0203-jensen-shannon-divergence) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-06-11 | [solution](problems/0017-k-means-clustering) |
+| [Key-Value Store Serialization and State Recovery](https://www.deep-ml.com/problems/1157) | medium | 2026-09-07 | [solution](problems/1157-key-value-store-serialization-and-state-recovery) |
 | [Knapsack-Based ZeRO Bucket Assignment](https://www.deep-ml.com/problems/758) | medium | 2026-09-04 | [solution](problems/0758-knapsack-based-zero-bucket-assignment) |
 | [Knowledge Distillation Loss](https://www.deep-ml.com/problems/227) | medium | 2026-07-29 | [solution](problems/0227-knowledge-distillation-loss) |
 | [Lagrange Multipliers for Constrained Quadratic Optimization](https://www.deep-ml.com/problems/314) | medium | 2026-08-11 | [solution](problems/0314-lagrange-multipliers-for-constrained-quadratic-optimization) |
@@ -303,6 +324,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Local Outlier Factor (LOF) Anomaly Score](https://www.deep-ml.com/problems/830) | medium | 2026-08-11 | [solution](problems/0830-local-outlier-factor-lof-anomaly-score) |
 | [Log-Probability Ratio for Token Sequences](https://www.deep-ml.com/problems/489) | medium | 2026-08-27 | [solution](problems/0489-log-probability-ratio-for-token-sequences) |
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-07-29 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
+| [Lowest Common Ancestor of a Binary Tree](https://www.deep-ml.com/problems/1164) | medium | 2026-09-07 | [solution](problems/1164-lowest-common-ancestor-of-a-binary-tree) |
+| [LRU Memoization Decorator with Deterministic Key Generation](https://www.deep-ml.com/problems/1099) | medium | 2026-09-07 | [solution](problems/1099-lru-memoization-decorator-with-deterministic-key-generation) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-08-13 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Markov Decision Process Simulator](https://www.deep-ml.com/problems/510) | medium | 2026-09-17 | [solution](problems/0510-markov-decision-process-simulator) |
 | [Math Answer Verification with Equivalence Checking](https://www.deep-ml.com/problems/319) | medium | 2026-08-12 | [solution](problems/0319-math-answer-verification-with-equivalence-checking) |
@@ -336,6 +359,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Parallel Reduction (Block Sum) CUDA Kernel](https://www.deep-ml.com/problems/1189) | medium | 2026-09-15 | [solution](problems/1189-parallel-reduction-block-sum-cuda-kernel) |
 | [Parallel Reduction: Array Sum](https://www.deep-ml.com/problems/1207) | medium | 2026-09-15 | [solution](problems/1207-parallel-reduction-array-sum) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-07-29 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
+| [Persistent LRU Cache](https://www.deep-ml.com/problems/1095) | medium | 2026-09-07 | [solution](problems/1095-persistent-lru-cache) |
 | [Planning with Simulated Experience](https://www.deep-ml.com/problems/526) | medium | 2026-09-17 | [solution](problems/0526-planning-with-simulated-experience) |
 | [PPO Clipped Surrogate Loss with Clip Diagnostics](https://www.deep-ml.com/problems/485) | medium | 2026-08-25 | [solution](problems/0485-ppo-clipped-surrogate-loss-with-clip-diagnostics) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-06-11 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
@@ -345,14 +369,19 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [PTX Loss for Catastrophic Forgetting Prevention (RLHF)](https://www.deep-ml.com/problems/232) | medium | 2026-08-04 | [solution](problems/0232-ptx-loss-for-catastrophic-forgetting-prevention-rlhf) |
 | [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-07-29 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |
 | [Quaternion SLERP Interpolation](https://www.deep-ml.com/problems/1212) | medium | 2026-09-17 | [solution](problems/1212-quaternion-slerp-interpolation) |
+| [Queue from Two Stacks and a Min-Stack](https://www.deep-ml.com/problems/1147) | medium | 2026-09-07 | [solution](problems/1147-queue-from-two-stacks-and-a-min-stack) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-08-11 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [RAFT: Iterative Reward-Ranked Fine-Tuning Loop](https://www.deep-ml.com/problems/379) | medium | 2026-08-27 | [solution](problems/0379-raft-iterative-reward-ranked-fine-tuning-loop) |
 | [Random Walk: TD vs Monte Carlo](https://www.deep-ml.com/problems/514) | medium | 2026-09-17 | [solution](problems/0514-random-walk-td-vs-monte-carlo) |
 | [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-08-21 | [solution](problems/0353-reconstruction-error-from-pca) |
+| [Resumable Weighted Data Batcher](https://www.deep-ml.com/problems/1091) | medium | 2026-09-07 | [solution](problems/1091-resumable-weighted-data-batcher) |
 | [Reward Model Loss from Pairwise Human Preferences](https://www.deep-ml.com/problems/484) | medium | 2026-08-27 | [solution](problems/0484-reward-model-loss-from-pairwise-human-preferences) |
 | [Rubric-Based LLM Judge Evaluation](https://www.deep-ml.com/problems/317) | medium | 2026-08-11 | [solution](problems/0317-rubric-based-llm-judge-evaluation) |
+| [Running Median of a Data Stream](https://www.deep-ml.com/problems/1138) | medium | 2026-09-07 | [solution](problems/1138-running-median-of-a-data-stream) |
+| [Shared Memory Circular Buffer for RL](https://www.deep-ml.com/problems/680) | medium | 2026-09-07 | [solution](problems/0680-shared-memory-circular-buffer-for-rl) |
 | [Silhouette Score for Clustering Evaluation](https://www.deep-ml.com/problems/254) | medium | 2026-08-05 | [solution](problems/0254-silhouette-score-for-clustering-evaluation) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-06-12 | [solution](problems/0041-simple-convolutional-2d-layer) |
+| [Simple Order Book (Insert/Cancel/Match)](https://www.deep-ml.com/problems/1140) | medium | 2026-09-07 | [solution](problems/1140-simple-order-book-insert-cancel-match) |
 | [Simulate Markov Chain Transitions](https://www.deep-ml.com/problems/132) | medium | 2026-07-07 | [solution](problems/0132-simulate-markov-chain-transitions) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-06-11 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Sinkhorn-Knopp Doubly Stochastic Projection](https://www.deep-ml.com/problems/732) | medium | 2026-09-17 | [solution](problems/0732-sinkhorn-knopp-doubly-stochastic-projection) |
@@ -360,6 +389,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2025-01-29 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2026-07-07 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
 | [Sparse MoE Top-K Routing](https://www.deep-ml.com/problems/229) | medium | 2026-07-29 | [solution](problems/0229-sparse-moe-top-k-routing) |
+| [Spreadsheet Formula Engine with Cycle Detection](https://www.deep-ml.com/problems/1155) | medium | 2026-09-07 | [solution](problems/1155-spreadsheet-formula-engine-with-cycle-detection) |
 | [Stochastic Rounding BF16 Gradient Compression](https://www.deep-ml.com/problems/742) | medium | 2026-09-04 | [solution](problems/0742-stochastic-rounding-bf16-gradient-compression) |
 | [Subspace Amplification of Pretrained Weights by a Low-Rank Update](https://www.deep-ml.com/problems/869) | medium | 2026-09-17 | [solution](problems/0869-subspace-amplification-of-pretrained-weights-by-a-low-rank-update) |
 | [Temperature Decay Scheduler](https://www.deep-ml.com/problems/231) | medium | 2026-07-29 | [solution](problems/0231-temperature-decay-scheduler) |
@@ -367,7 +397,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tensor Puzzle: Cumulative Sum via Triangular Matmul](https://www.deep-ml.com/problems/1274) | medium | 2026-08-27 | [solution](problems/1274-tensor-puzzle-cumulative-sum-via-triangular-matmul) |
 | [Tensor Puzzle: Flatten a Matrix by Indexing](https://www.deep-ml.com/problems/1284) | medium | 2026-08-27 | [solution](problems/1284-tensor-puzzle-flatten-a-matrix-by-indexing) |
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2026-07-04 | [solution](problems/0089-the-pattern-weaver-s-code) |
+| [Thread-Safe Producer-Consumer Bounded Buffer](https://www.deep-ml.com/problems/1100) | medium | 2026-09-07 | [solution](problems/1100-thread-safe-producer-consumer-bounded-buffer) |
 | [Tiled Matrix Multiply CUDA Kernel](https://www.deep-ml.com/problems/1187) | medium | 2026-09-15 | [solution](problems/1187-tiled-matrix-multiply-cuda-kernel) |
+| [Token-Bucket Rate Limiter with Per-User Quotas](https://www.deep-ml.com/problems/1098) | medium | 2026-09-07 | [solution](problems/1098-token-bucket-rate-limiter-with-per-user-quotas) |
 | [Top-3 Salaries Per Department](https://www.deep-ml.com/problems/1111) | medium | 2026-07-09 | [solution](problems/1111-top-3-salaries-per-department) |
 | [Top-p (Nucleus) Sampling](https://www.deep-ml.com/problems/383) | medium | 2026-08-27 | [solution](problems/0383-top-p-nucleus-sampling) |
 | [Train a Paris-Style Decentralized Expert Model](https://www.deep-ml.com/problems/335) | medium | 2026-08-13 | [solution](problems/0335-train-a-paris-style-decentralized-expert-model) |
@@ -397,6 +429,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build a VQ-VAE from Scratch](https://www.deep-ml.com/problems/699) | hard | 2026-08-16 | [solution](problems/0699-build-a-vq-vae-from-scratch) |
 | [Certainty-Equivalence in TD Learning](https://www.deep-ml.com/problems/516) | hard | 2026-07-20 | [solution](problems/0516-certainty-equivalence-in-td-learning) |
 | [Cohort Retention: First Login and Consecutive-Day Logins](https://www.deep-ml.com/problems/1119) | hard | 2026-09-02 | [solution](problems/1119-cohort-retention-first-login-and-consecutive-day-logins) |
+| [Combine Correlated Alphas into Robust Weights](https://www.deep-ml.com/problems/1356) | hard | 2026-09-07 | [solution](problems/1356-combine-correlated-alphas-into-robust-weights) |
 | [Combined Token Sampling Pipeline (Temperature + Top-k + Top-p)](https://www.deep-ml.com/problems/419) | hard | 2026-07-09 | [solution](problems/0419-combined-token-sampling-pipeline-temperature-top-k-top-p) |
 | [Context Parallelism with Ring Attention for Video Models](https://www.deep-ml.com/problems/448) | hard | 2026-07-15 | [solution](problems/0448-context-parallelism-with-ring-attention-for-video-models) |
 | [Control Variates in Off-Policy Methods](https://www.deep-ml.com/problems/584) | hard | 2026-08-02 | [solution](problems/0584-control-variates-in-off-policy-methods) |
@@ -453,6 +486,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Lambda-Return Computation](https://www.deep-ml.com/problems/519) | hard | 2026-07-20 | [solution](problems/0519-lambda-return-computation) |
 | [Least-Squares Temporal Difference (LSTD) for Policy Evaluation](https://www.deep-ml.com/problems/536) | hard | 2026-07-23 | [solution](problems/0536-least-squares-temporal-difference-lstd-for-policy-evaluation) |
 | [Lightning Indexer Sparse Attention Selection](https://www.deep-ml.com/problems/736) | hard | 2026-08-21 | [solution](problems/0736-lightning-indexer-sparse-attention-selection) |
+| [Linear Covariance Shrinkage](https://www.deep-ml.com/problems/1355) | hard | 2026-09-07 | [solution](problems/1355-linear-covariance-shrinkage) |
 | [Linear Sarsa Algorithm](https://www.deep-ml.com/problems/534) | hard | 2026-07-23 | [solution](problems/0534-linear-sarsa-algorithm) |
 | [Llama 3 RoPE Frequency Scaling](https://www.deep-ml.com/problems/1025) | hard | 2026-09-02 | [solution](problems/1025-llama-3-rope-frequency-scaling) |
 | [Manual Backprop Through Cross-Entropy Intermediates](https://www.deep-ml.com/problems/997) | hard | 2026-09-02 | [solution](problems/0997-manual-backprop-through-cross-entropy-intermediates) |
