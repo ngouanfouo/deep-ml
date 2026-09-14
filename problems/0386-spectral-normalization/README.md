@@ -1,0 +1,9 @@
+# Spectral Normalization
+
+**Difficulty:** medium · **Category:** Deep Learning
+
+[Solve it on Deep-ML](https://www.deep-ml.com/problems/386)
+
+---
+
+_Pushed from [Deep-ML](https://www.deep-ml.com)._
