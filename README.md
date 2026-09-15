@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**1** solved · 1 problems · 0 labs · 0 math
+**2** solved · 2 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Fused Bias+ReLU CUDA Kernel](https://www.deep-ml.com/problems/1188) | medium | 2026-09-15 | [solution](problems/1188-fused-bias-relu-cuda-kernel) |
 | [Tiled Matrix Multiply CUDA Kernel](https://www.deep-ml.com/problems/1187) | medium | 2026-09-15 | [solution](problems/1187-tiled-matrix-multiply-cuda-kernel) |
 
 ---

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T16:42:36.448Z",
+  "generated_at": "2026-09-15T16:45:25.848Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -13,6 +13,19 @@
       "last_pushed_at": "2026-09-15T16:42:35.768Z",
       "language": "python",
       "lines": 92
+    },
+    "problem:1188": {
+      "kind": "problem",
+      "id": "1188",
+      "title": "Fused Bias+ReLU CUDA Kernel",
+      "difficulty": "medium",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1188",
+      "path": "problems/1188-fused-bias-relu-cuda-kernel",
+      "first_solved_at": "2026-09-15T16:45:25.093Z",
+      "last_pushed_at": "2026-09-15T16:45:25.093Z",
+      "language": "python",
+      "lines": 50
     }
   }
 }
