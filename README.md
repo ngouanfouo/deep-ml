@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**321** solved · 294 problems · 13 labs · 14 math
+**322** solved · 295 problems · 13 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -46,6 +46,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2025-01-09 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-01-08 | [solution](problems/0001-matrix-vector-dot-product) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-07-03 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
+| [Pass@k and Majority Voting Evaluation Metrics](https://www.deep-ml.com/problems/226) | easy | 2026-09-17 | [solution](problems/0226-pass-k-and-majority-voting-evaluation-metrics) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-07-17 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Quality Filtering with Rejection Sampling](https://www.deep-ml.com/problems/508) | easy | 2026-06-12 | [solution](problems/0508-quality-filtering-with-rejection-sampling) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-06-30 | [solution](problems/0029-random-shuffle-of-dataset) |
