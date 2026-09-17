@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T23:06:44.802Z",
+  "generated_at": "2026-09-17T23:07:23.229Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -4444,6 +4444,19 @@
       "last_pushed_at": "2026-09-17T23:06:45.051Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:525": {
+      "kind": "problem",
+      "id": "525",
+      "title": "Learning a Tabular Environment Model from Experience",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/525",
+      "path": "problems/0525-learning-a-tabular-environment-model-from-experience",
+      "first_solved_at": "2026-09-17T23:07:23.118Z",
+      "last_pushed_at": "2026-09-17T23:07:23.118Z",
+      "language": "python",
+      "lines": 47
     }
   }
 }

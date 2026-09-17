@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**344** solved · 317 problems · 13 labs · 14 math
+**345** solved · 318 problems · 13 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -181,6 +181,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Jensen-Shannon Divergence](https://www.deep-ml.com/problems/203) | medium | 2026-07-20 | [solution](problems/0203-jensen-shannon-divergence) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-06-11 | [solution](problems/0017-k-means-clustering) |
 | [Knowledge Distillation Loss](https://www.deep-ml.com/problems/227) | medium | 2026-07-29 | [solution](problems/0227-knowledge-distillation-loss) |
+| [Learning a Tabular Environment Model from Experience](https://www.deep-ml.com/problems/525) | medium | 2026-09-17 | [solution](problems/0525-learning-a-tabular-environment-model-from-experience) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-07-04 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-07-29 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
 | [Markov Decision Process Simulator](https://www.deep-ml.com/problems/510) | medium | 2026-09-17 | [solution](problems/0510-markov-decision-process-simulator) |
