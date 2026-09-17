@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T23:03:38.045Z",
+  "generated_at": "2026-09-17T23:04:34.590Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -4405,6 +4405,19 @@
       "last_pushed_at": "2026-09-17T23:03:38.502Z",
       "language": "python",
       "lines": 66
+    },
+    "problem:518": {
+      "kind": "problem",
+      "id": "518",
+      "title": "Cliff Walking: Sarsa vs Q-Learning",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/518",
+      "path": "problems/0518-cliff-walking-sarsa-vs-q-learning",
+      "first_solved_at": "2026-09-17T23:04:35.063Z",
+      "last_pushed_at": "2026-09-17T23:04:35.063Z",
+      "language": "python",
+      "lines": 120
     }
   }
 }

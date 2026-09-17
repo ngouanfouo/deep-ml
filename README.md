@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**341** solved · 314 problems · 13 labs · 14 math
+**342** solved · 315 problems · 13 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -97,6 +97,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Central Limit Theorem Simulation](https://www.deep-ml.com/problems/182) | medium | 2026-07-20 | [solution](problems/0182-central-limit-theorem-simulation) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-07-29 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Chi-square Probability Distribution](https://www.deep-ml.com/problems/176) | medium | 2026-07-17 | [solution](problems/0176-chi-square-probability-distribution) |
+| [Cliff Walking: Sarsa vs Q-Learning](https://www.deep-ml.com/problems/518) | medium | 2026-09-17 | [solution](problems/0518-cliff-walking-sarsa-vs-q-learning) |
 | [Coalesced Matrix Transpose](https://www.deep-ml.com/problems/1309) | medium | 2026-09-17 | [solution](problems/1309-coalesced-matrix-transpose) |
 | [Compute Confusion Matrix with Normalization](https://www.deep-ml.com/problems/193) | medium | 2026-07-20 | [solution](problems/0193-compute-confusion-matrix-with-normalization) |
 | [Compute Covariance from Joint Probability Mass Function](https://www.deep-ml.com/problems/243) | medium | 2026-08-04 | [solution](problems/0243-compute-covariance-from-joint-probability-mass-function) |
