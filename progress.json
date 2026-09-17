@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:57:19.964Z",
+  "generated_at": "2026-09-17T22:58:03.691Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -4340,6 +4340,19 @@
       "last_pushed_at": "2026-09-17T22:57:20.445Z",
       "language": "python",
       "lines": 44
+    },
+    "problem:512": {
+      "kind": "problem",
+      "id": "512",
+      "title": "Every-Visit Monte Carlo Prediction",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/512",
+      "path": "problems/0512-every-visit-monte-carlo-prediction",
+      "first_solved_at": "2026-09-17T22:58:04.200Z",
+      "last_pushed_at": "2026-09-17T22:58:04.200Z",
+      "language": "python",
+      "lines": 48
     }
   }
 }

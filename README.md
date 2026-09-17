@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**336** solved · 309 problems · 13 labs · 14 math
+**337** solved · 310 problems · 13 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -121,6 +121,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Epsilon-Soft On-Policy Monte Carlo Control](https://www.deep-ml.com/problems/471) | medium | 2026-09-17 | [solution](problems/0471-epsilon-soft-on-policy-monte-carlo-control) |
 | [Evaluate Expected Value in a Markov Decision Process](https://www.deep-ml.com/problems/166) | medium | 2026-07-17 | [solution](problems/0166-evaluate-expected-value-in-a-markov-decision-process) |
 | [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2026-07-06 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
+| [Every-Visit Monte Carlo Prediction](https://www.deep-ml.com/problems/512) | medium | 2026-09-17 | [solution](problems/0512-every-visit-monte-carlo-prediction) |
 | [Expected SARSA Algorithm for Policy Evaluation and Control](https://www.deep-ml.com/problems/476) | medium | 2026-09-17 | [solution](problems/0476-expected-sarsa-algorithm-for-policy-evaluation-and-control) |
 | [Feature Drift Detection using Population Stability Index](https://www.deep-ml.com/problems/253) | medium | 2026-08-04 | [solution](problems/0253-feature-drift-detection-using-population-stability-index) |
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-06-19 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
