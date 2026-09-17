@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:40:45.444Z",
+  "generated_at": "2026-09-17T22:41:57.011Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -4171,6 +4171,19 @@
       "last_pushed_at": "2026-09-17T22:40:44.296Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:479": {
+      "kind": "problem",
+      "id": "479",
+      "title": "Dyna-Q with Planning Updates",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/479",
+      "path": "problems/0479-dyna-q-with-planning-updates",
+      "first_solved_at": "2026-09-17T22:41:56.943Z",
+      "last_pushed_at": "2026-09-17T22:41:56.943Z",
+      "language": "python",
+      "lines": 67
     }
   }
 }
