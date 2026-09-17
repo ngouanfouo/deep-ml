@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T21:50:00.468Z",
+  "generated_at": "2026-09-17T21:52:49.826Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -897,6 +897,19 @@
       "last_pushed_at": "2026-09-17T21:49:59.132Z",
       "language": "python",
       "lines": 42
+    },
+    "problem:1205": {
+      "kind": "problem",
+      "id": "1205",
+      "title": "Grid-Stride Loop: Square Each Element",
+      "difficulty": "easy",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1205",
+      "path": "problems/1205-grid-stride-loop-square-each-element",
+      "first_solved_at": "2026-09-17T21:52:50.335Z",
+      "last_pushed_at": "2026-09-17T21:52:50.335Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }
