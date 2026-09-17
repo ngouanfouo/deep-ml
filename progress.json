@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T23:02:43.405Z",
+  "generated_at": "2026-09-17T23:03:38.045Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -4392,6 +4392,19 @@
       "last_pushed_at": "2026-09-17T23:02:43.558Z",
       "language": "python",
       "lines": 77
+    },
+    "problem:517": {
+      "kind": "problem",
+      "id": "517",
+      "title": "Windy Gridworld with Sarsa",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/517",
+      "path": "problems/0517-windy-gridworld-with-sarsa",
+      "first_solved_at": "2026-09-17T23:03:38.502Z",
+      "last_pushed_at": "2026-09-17T23:03:38.502Z",
+      "language": "python",
+      "lines": 66
     }
   }
 }
