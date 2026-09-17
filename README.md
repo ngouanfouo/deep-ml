@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**67** solved · 59 problems · 8 labs · 0 math
+**68** solved · 60 problems · 8 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Quality Filtering with Rejection Sampling](https://www.deep-ml.com/problems/508) | easy | 2026-06-12 | [solution](problems/0508-quality-filtering-with-rejection-sampling) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2025-01-09 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2025-01-08 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
+| [Scalar Multiply (a * x)](https://www.deep-ml.com/problems/1203) | easy | 2026-09-17 | [solution](problems/1203-scalar-multiply-a-x) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-01-08 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Addition](https://www.deep-ml.com/problems/1202) | easy | 2026-09-17 | [solution](problems/1202-vector-addition) |
 | [Your First CUDA Kernel: Thread Index](https://www.deep-ml.com/problems/1201) | easy | 2026-09-17 | [solution](problems/1201-your-first-cuda-kernel-thread-index) |
