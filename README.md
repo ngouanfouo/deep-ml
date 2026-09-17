@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**309** solved · 282 problems · 13 labs · 14 math
+**310** solved · 283 problems · 13 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -167,6 +167,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2026-07-29 | [solution](problems/0204-mutual-information) |
 | [Naive Matrix Multiplication](https://www.deep-ml.com/problems/1209) | medium | 2026-09-17 | [solution](problems/1209-naive-matrix-multiplication) |
 | [Negative Binomial Distribution Probability](https://www.deep-ml.com/problems/247) | medium | 2026-08-04 | [solution](problems/0247-negative-binomial-distribution-probability) |
+| [Newton-Schulz Iteration for Approximate Orthogonalization](https://www.deep-ml.com/problems/739) | medium | 2026-09-17 | [solution](problems/0739-newton-schulz-iteration-for-approximate-orthogonalization) |
 | [Newton's Method for Optimization](https://www.deep-ml.com/problems/221) | medium | 2026-07-29 | [solution](problems/0221-newton-s-method-for-optimization) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-06-19 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Optical Flow EPE with Masks (OmniWorld-style metric)](https://www.deep-ml.com/problems/185) | medium | 2026-07-20 | [solution](problems/0185-optical-flow-epe-with-masks-omniworld-style-metric) |
