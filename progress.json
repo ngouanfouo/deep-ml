@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T21:54:48.368Z",
+  "generated_at": "2026-09-17T21:56:16.349Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -1872,6 +1872,19 @@
       "last_pushed_at": "2026-09-17T21:54:48.821Z",
       "language": "python",
       "lines": 65
+    },
+    "problem:1252": {
+      "kind": "problem",
+      "id": "1252",
+      "title": "Fused Row-wise Softmax CUDA Kernel",
+      "difficulty": "medium",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1252",
+      "path": "problems/1252-fused-row-wise-softmax-cuda-kernel",
+      "first_solved_at": "2026-09-17T21:56:16.775Z",
+      "last_pushed_at": "2026-09-17T21:56:16.775Z",
+      "language": "python",
+      "lines": 97
     }
   }
 }
