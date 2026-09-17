@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:48:20.105Z",
+  "generated_at": "2026-09-17T22:50:08.622Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -4247,6 +4247,19 @@
       "path": "problems/0472-off-policy-monte-carlo-prediction-with-importance-sampling",
       "first_solved_at": "2026-09-17T22:48:20.447Z",
       "last_pushed_at": "2026-09-17T22:48:20.447Z",
+      "language": "python",
+      "lines": 70
+    },
+    "problem:471": {
+      "kind": "problem",
+      "id": "471",
+      "title": "Epsilon-Soft On-Policy Monte Carlo Control",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/471",
+      "path": "problems/0471-epsilon-soft-on-policy-monte-carlo-control",
+      "first_solved_at": "2026-09-17T22:50:08.798Z",
+      "last_pushed_at": "2026-09-17T22:50:08.798Z",
       "language": "python",
       "lines": 70
     }

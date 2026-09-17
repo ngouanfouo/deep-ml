@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**329** solved · 302 problems · 13 labs · 14 math
+**330** solved · 303 problems · 13 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -115,6 +115,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dyna-Q with Planning Updates](https://www.deep-ml.com/problems/479) | medium | 2026-09-17 | [solution](problems/0479-dyna-q-with-planning-updates) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-07-29 | [solution](problems/0205-entropy-cross-entropy) |
 | [Epsilon-Greedy Action Selection for n-Armed Bandit](https://www.deep-ml.com/problems/158) | medium | 2026-07-17 | [solution](problems/0158-epsilon-greedy-action-selection-for-n-armed-bandit) |
+| [Epsilon-Soft On-Policy Monte Carlo Control](https://www.deep-ml.com/problems/471) | medium | 2026-09-17 | [solution](problems/0471-epsilon-soft-on-policy-monte-carlo-control) |
 | [Evaluate Expected Value in a Markov Decision Process](https://www.deep-ml.com/problems/166) | medium | 2026-07-17 | [solution](problems/0166-evaluate-expected-value-in-a-markov-decision-process) |
 | [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2026-07-06 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
 | [Expected SARSA Algorithm for Policy Evaluation and Control](https://www.deep-ml.com/problems/476) | medium | 2026-09-17 | [solution](problems/0476-expected-sarsa-algorithm-for-policy-evaluation-and-control) |
