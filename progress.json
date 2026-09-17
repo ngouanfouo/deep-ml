@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:44:52.733Z",
+  "generated_at": "2026-09-17T22:46:41.585Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -4223,6 +4223,19 @@
       "last_pushed_at": "2026-09-17T22:44:52.692Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:473": {
+      "kind": "problem",
+      "id": "473",
+      "title": "Weighted Importance Sampling for Off-Policy Estimation",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/473",
+      "path": "problems/0473-weighted-importance-sampling-for-off-policy-estimation",
+      "first_solved_at": "2026-09-17T22:46:41.990Z",
+      "last_pushed_at": "2026-09-17T22:46:41.990Z",
+      "language": "python",
+      "lines": 42
     }
   }
 }
