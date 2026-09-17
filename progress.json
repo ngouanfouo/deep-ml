@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T23:07:23.229Z",
+  "generated_at": "2026-09-17T23:08:15.015Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -4457,6 +4457,19 @@
       "last_pushed_at": "2026-09-17T23:07:23.118Z",
       "language": "python",
       "lines": 47
+    },
+    "problem:528": {
+      "kind": "problem",
+      "id": "528",
+      "title": "Priority Queue in Planning",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/528",
+      "path": "problems/0528-priority-queue-in-planning",
+      "first_solved_at": "2026-09-17T23:08:15.502Z",
+      "last_pushed_at": "2026-09-17T23:08:15.502Z",
+      "language": "python",
+      "lines": 63
     }
   }
 }

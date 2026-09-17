@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**345** solved · 318 problems · 13 labs · 14 math
+**346** solved · 319 problems · 13 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -208,6 +208,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Planning with Simulated Experience](https://www.deep-ml.com/problems/526) | medium | 2026-09-17 | [solution](problems/0526-planning-with-simulated-experience) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-06-11 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Prioritized Experience Replay](https://www.deep-ml.com/problems/591) | medium | 2026-06-19 | [solution](problems/0591-prioritized-experience-replay) |
+| [Priority Queue in Planning](https://www.deep-ml.com/problems/528) | medium | 2026-09-17 | [solution](problems/0528-priority-queue-in-planning) |
 | [PTX Loss for Catastrophic Forgetting Prevention (RLHF)](https://www.deep-ml.com/problems/232) | medium | 2026-08-04 | [solution](problems/0232-ptx-loss-for-catastrophic-forgetting-prevention-rlhf) |
 | [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-07-29 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |
 | [Quaternion SLERP Interpolation](https://www.deep-ml.com/problems/1212) | medium | 2026-09-17 | [solution](problems/1212-quaternion-slerp-interpolation) |
