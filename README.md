@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**147** solved · 136 problems · 11 labs · 0 math
+**148** solved · 137 problems · 11 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -40,6 +40,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Addition](https://www.deep-ml.com/problems/1202) | easy | 2026-09-17 | [solution](problems/1202-vector-addition) |
 | [Your First CUDA Kernel: Thread Index](https://www.deep-ml.com/problems/1201) | easy | 2026-09-17 | [solution](problems/1201-your-first-cuda-kernel-thread-index) |
 | [1D Convolution with Shared-Memory Halo](https://www.deep-ml.com/problems/1310) | medium | 2026-09-17 | [solution](problems/1310-1d-convolution-with-shared-memory-halo) |
+| [1D Kalman Filter Predict-Update Step](https://www.deep-ml.com/problems/1213) | medium | 2026-09-17 | [solution](problems/1213-1d-kalman-filter-predict-update-step) |
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-06-30 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-07-04 | [solution](problems/0087-adam-optimizer) |
 | [Add Two Matrices (2D Grid)](https://www.deep-ml.com/problems/1206) | medium | 2026-09-15 | [solution](problems/1206-add-two-matrices-2d-grid) |

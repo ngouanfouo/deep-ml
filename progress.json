@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T21:59:08.771Z",
+  "generated_at": "2026-09-17T22:02:27.993Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -1911,6 +1911,19 @@
       "last_pushed_at": "2026-09-17T21:59:09.206Z",
       "language": "python",
       "lines": 84
+    },
+    "problem:1213": {
+      "kind": "problem",
+      "id": "1213",
+      "title": "1D Kalman Filter Predict-Update Step",
+      "difficulty": "medium",
+      "category": "Robotics",
+      "url": "https://www.deep-ml.com/problems/1213",
+      "path": "problems/1213-1d-kalman-filter-predict-update-step",
+      "first_solved_at": "2026-09-17T22:02:28.408Z",
+      "last_pushed_at": "2026-09-17T22:02:28.408Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
