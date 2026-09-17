@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**337** solved · 310 problems · 13 labs · 14 math
+**338** solved · 311 problems · 13 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -83,6 +83,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bilinear Image Resizing](https://www.deep-ml.com/problems/240) | medium | 2026-08-04 | [solution](problems/0240-bilinear-image-resizing) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-07-03 | [solution](problems/0079-binomial-distribution-probability) |
 | [Birthday Problem Probability](https://www.deep-ml.com/problems/246) | medium | 2026-08-04 | [solution](problems/0246-birthday-problem-probability) |
+| [Blackjack with Monte Carlo Prediction](https://www.deep-ml.com/problems/513) | medium | 2026-09-17 | [solution](problems/0513-blackjack-with-monte-carlo-prediction) |
 | [Block-wise FP8 Quantization](https://www.deep-ml.com/problems/234) | medium | 2026-08-04 | [solution](problems/0234-block-wise-fp8-quantization) |
 | [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2026-07-04 | [solution](problems/0090-bm25-ranking) |
 | [Budget-Constrained RL Loss](https://www.deep-ml.com/problems/228) | medium | 2026-07-29 | [solution](problems/0228-budget-constrained-rl-loss) |

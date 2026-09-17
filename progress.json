@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:58:03.691Z",
+  "generated_at": "2026-09-17T22:59:11.265Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -4353,6 +4353,19 @@
       "last_pushed_at": "2026-09-17T22:58:04.200Z",
       "language": "python",
       "lines": 48
+    },
+    "problem:513": {
+      "kind": "problem",
+      "id": "513",
+      "title": "Blackjack with Monte Carlo Prediction",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/513",
+      "path": "problems/0513-blackjack-with-monte-carlo-prediction",
+      "first_solved_at": "2026-09-17T22:59:11.677Z",
+      "last_pushed_at": "2026-09-17T22:59:11.677Z",
+      "language": "python",
+      "lines": 101
     }
   }
 }
