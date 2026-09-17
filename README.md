@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Optimization (14/14) · Financial Engineering (9/9)
 
-**712** solved · 657 problems · 13 labs · 42 math
+**713** solved · 658 problems · 13 labs · 42 math
 
 ![Coverage](./coverage.svg)
 
@@ -110,6 +110,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-08-05 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2025-01-13 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2025-01-09 | [solution](problems/0014-linear-regression-using-normal-equation) |
+| [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-09-17 | [solution](problems/0195-matrix-determinant-trace) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-01-08 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-09-14 | [solution](problems/0146-momentum-optimizer) |
 | [Multi-layer ViT Feature Concatenation](https://www.deep-ml.com/problems/783) | easy | 2026-09-10 | [solution](problems/0783-multi-layer-vit-feature-concatenation) |
