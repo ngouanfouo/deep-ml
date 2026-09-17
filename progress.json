@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:42:58.606Z",
+  "generated_at": "2026-09-17T22:44:06.488Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -4197,6 +4197,19 @@
       "last_pushed_at": "2026-09-17T22:42:57.512Z",
       "language": "python",
       "lines": 52
+    },
+    "problem:476": {
+      "kind": "problem",
+      "id": "476",
+      "title": "Expected SARSA Algorithm for Policy Evaluation and Control",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/476",
+      "path": "problems/0476-expected-sarsa-algorithm-for-policy-evaluation-and-control",
+      "first_solved_at": "2026-09-17T22:44:06.651Z",
+      "last_pushed_at": "2026-09-17T22:44:06.651Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
