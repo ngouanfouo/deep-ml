@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:12:26.822Z",
+  "generated_at": "2026-09-17T22:13:10.409Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -4002,6 +4002,19 @@
       "last_pushed_at": "2026-09-17T22:12:27.019Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:732": {
+      "kind": "problem",
+      "id": "732",
+      "title": "Sinkhorn-Knopp Doubly Stochastic Projection",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/732",
+      "path": "problems/0732-sinkhorn-knopp-doubly-stochastic-projection",
+      "first_solved_at": "2026-09-17T22:13:10.894Z",
+      "last_pushed_at": "2026-09-17T22:13:10.894Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
