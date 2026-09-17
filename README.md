@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Optimization (14/14) · Financial Engineering (9/9)
 
-**581** solved · 554 problems · 13 labs · 14 math
+**582** solved · 555 problems · 13 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -399,6 +399,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tensor Puzzle: Flatten a Matrix by Indexing](https://www.deep-ml.com/problems/1284) | medium | 2026-08-27 | [solution](problems/1284-tensor-puzzle-flatten-a-matrix-by-indexing) |
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2026-07-04 | [solution](problems/0089-the-pattern-weaver-s-code) |
 | [Thread-Safe Producer-Consumer Bounded Buffer](https://www.deep-ml.com/problems/1100) | medium | 2026-09-07 | [solution](problems/1100-thread-safe-producer-consumer-bounded-buffer) |
+| [Tile Coding Implementation](https://www.deep-ml.com/problems/533) | medium | 2026-09-17 | [solution](problems/0533-tile-coding-implementation) |
 | [Tiled Matrix Multiply CUDA Kernel](https://www.deep-ml.com/problems/1187) | medium | 2026-09-15 | [solution](problems/1187-tiled-matrix-multiply-cuda-kernel) |
 | [Token-Bucket Rate Limiter with Per-User Quotas](https://www.deep-ml.com/problems/1098) | medium | 2026-09-07 | [solution](problems/1098-token-bucket-rate-limiter-with-per-user-quotas) |
 | [Top-3 Salaries Per Department](https://www.deep-ml.com/problems/1111) | medium | 2026-07-09 | [solution](problems/1111-top-3-salaries-per-department) |

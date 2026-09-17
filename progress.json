@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T23:17:18.210Z",
+  "generated_at": "2026-09-17T23:21:18.675Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -7525,6 +7525,19 @@
       "last_pushed_at": "2026-09-17T23:17:18.075Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:533": {
+      "kind": "problem",
+      "id": "533",
+      "title": "Tile Coding Implementation",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/533",
+      "path": "problems/0533-tile-coding-implementation",
+      "first_solved_at": "2026-09-17T23:21:18.916Z",
+      "last_pushed_at": "2026-09-17T23:21:18.916Z",
+      "language": "python",
+      "lines": 54
     }
   }
 }
