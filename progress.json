@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T23:06:01.265Z",
+  "generated_at": "2026-09-17T23:06:44.802Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -4431,6 +4431,19 @@
       "last_pushed_at": "2026-09-17T23:06:01.287Z",
       "language": "python",
       "lines": 45
+    },
+    "problem:526": {
+      "kind": "problem",
+      "id": "526",
+      "title": "Planning with Simulated Experience",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/526",
+      "path": "problems/0526-planning-with-simulated-experience",
+      "first_solved_at": "2026-09-17T23:06:45.051Z",
+      "last_pushed_at": "2026-09-17T23:06:45.051Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
