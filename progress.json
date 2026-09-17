@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:44:06.488Z",
+  "generated_at": "2026-09-17T22:44:52.733Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -4210,6 +4210,19 @@
       "last_pushed_at": "2026-09-17T22:44:06.651Z",
       "language": "python",
       "lines": 38
+    },
+    "problem:475": {
+      "kind": "problem",
+      "id": "475",
+      "title": "Full TD(0) Prediction for Value Estimation",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/475",
+      "path": "problems/0475-full-td-0-prediction-for-value-estimation",
+      "first_solved_at": "2026-09-17T22:44:52.692Z",
+      "last_pushed_at": "2026-09-17T22:44:52.692Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
