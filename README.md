@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**316** solved · 289 problems · 13 labs · 14 math
+**317** solved · 290 problems · 13 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-09-17 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-07-03 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-07-17 | [solution](problems/0078-descriptive-statistics-calculator) |
+| [Exponential Weighted Average of Rewards](https://www.deep-ml.com/problems/161) | easy | 2026-09-17 | [solution](problems/0161-exponential-weighted-average-of-rewards) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-06-11 | [solution](problems/0016-feature-scaling-implementation) |
 | [Forward Kinematics of a 2-Link Planar Arm](https://www.deep-ml.com/problems/1210) | easy | 2026-09-17 | [solution](problems/1210-forward-kinematics-of-a-2-link-planar-arm) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-07-17 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
