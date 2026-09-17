@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T23:12:17.399Z",
+  "generated_at": "2026-09-17T23:13:42.330Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -7057,6 +7057,19 @@
       "last_pushed_at": "2026-09-04T19:05:16.402Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:530": {
+      "kind": "problem",
+      "id": "530",
+      "title": "Linear Value Function Approximation with Semi-Gradient TD(0)",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/530",
+      "path": "problems/0530-linear-value-function-approximation-with-semi-gradient-td-0",
+      "first_solved_at": "2026-09-17T23:13:42.658Z",
+      "last_pushed_at": "2026-09-17T23:13:42.658Z",
+      "language": "python",
+      "lines": 46
     }
   }
 }

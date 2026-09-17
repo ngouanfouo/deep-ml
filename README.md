@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Optimization (14/14)
 
-**545** solved · 518 problems · 13 labs · 14 math
+**546** solved · 519 problems · 13 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -299,6 +299,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Lagrange Multipliers for Constrained Quadratic Optimization](https://www.deep-ml.com/problems/314) | medium | 2026-08-11 | [solution](problems/0314-lagrange-multipliers-for-constrained-quadratic-optimization) |
 | [Learning a Tabular Environment Model from Experience](https://www.deep-ml.com/problems/525) | medium | 2026-09-17 | [solution](problems/0525-learning-a-tabular-environment-model-from-experience) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-07-04 | [solution](problems/0092-linear-regression-power-grid-optimization) |
+| [Linear Value Function Approximation with Semi-Gradient TD(0)](https://www.deep-ml.com/problems/530) | medium | 2026-09-17 | [solution](problems/0530-linear-value-function-approximation-with-semi-gradient-td-0) |
 | [Local Outlier Factor (LOF) Anomaly Score](https://www.deep-ml.com/problems/830) | medium | 2026-08-11 | [solution](problems/0830-local-outlier-factor-lof-anomaly-score) |
 | [Log-Probability Ratio for Token Sequences](https://www.deep-ml.com/problems/489) | medium | 2026-08-27 | [solution](problems/0489-log-probability-ratio-for-token-sequences) |
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-07-29 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
