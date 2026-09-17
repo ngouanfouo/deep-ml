@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:32:41.623Z",
+  "generated_at": "2026-09-17T22:35:39.319Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -4119,6 +4119,19 @@
       "last_pushed_at": "2026-09-17T22:32:42.031Z",
       "language": "python",
       "lines": 43
+    },
+    "problem:464": {
+      "kind": "problem",
+      "id": "464",
+      "title": "Bellman Expectation Equation for State-Value Function",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/464",
+      "path": "problems/0464-bellman-expectation-equation-for-state-value-function",
+      "first_solved_at": "2026-09-17T22:35:39.106Z",
+      "last_pushed_at": "2026-09-17T22:35:39.106Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
