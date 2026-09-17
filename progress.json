@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T21:56:16.349Z",
+  "generated_at": "2026-09-17T21:58:00.738Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -1885,6 +1885,19 @@
       "last_pushed_at": "2026-09-17T21:56:16.775Z",
       "language": "python",
       "lines": 97
+    },
+    "problem:1309": {
+      "kind": "problem",
+      "id": "1309",
+      "title": "Coalesced Matrix Transpose",
+      "difficulty": "medium",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1309",
+      "path": "problems/1309-coalesced-matrix-transpose",
+      "first_solved_at": "2026-09-17T21:58:00.660Z",
+      "last_pushed_at": "2026-09-17T21:58:00.660Z",
+      "language": "python",
+      "lines": 60
     }
   }
 }
