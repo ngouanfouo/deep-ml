@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T23:04:34.590Z",
+  "generated_at": "2026-09-17T23:06:01.265Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -4418,6 +4418,19 @@
       "last_pushed_at": "2026-09-17T23:04:35.063Z",
       "language": "python",
       "lines": 120
+    },
+    "problem:523": {
+      "kind": "problem",
+      "id": "523",
+      "title": "Types of Eligibility Traces",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/523",
+      "path": "problems/0523-types-of-eligibility-traces",
+      "first_solved_at": "2026-09-17T23:06:01.287Z",
+      "last_pushed_at": "2026-09-17T23:06:01.287Z",
+      "language": "python",
+      "lines": 45
     }
   }
 }

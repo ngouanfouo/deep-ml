@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**342** solved · 315 problems · 13 labs · 14 math
+**343** solved · 316 problems · 13 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -223,6 +223,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2026-07-04 | [solution](problems/0089-the-pattern-weaver-s-code) |
 | [Tiled Matrix Multiply CUDA Kernel](https://www.deep-ml.com/problems/1187) | medium | 2026-09-15 | [solution](problems/1187-tiled-matrix-multiply-cuda-kernel) |
 | [Top-3 Salaries Per Department](https://www.deep-ml.com/problems/1111) | medium | 2026-07-09 | [solution](problems/1111-top-3-salaries-per-department) |
+| [Types of Eligibility Traces](https://www.deep-ml.com/problems/523) | medium | 2026-09-17 | [solution](problems/0523-types-of-eligibility-traces) |
 | [Warmup + Cosine Decay Schedule](https://www.deep-ml.com/problems/196) | medium | 2026-07-20 | [solution](problems/0196-warmup-cosine-decay-schedule) |
 | [Weighted Importance Sampling for Off-Policy Estimation](https://www.deep-ml.com/problems/473) | medium | 2026-09-17 | [solution](problems/0473-weighted-importance-sampling-for-off-policy-estimation) |
 | [Windy Gridworld with Sarsa](https://www.deep-ml.com/problems/517) | medium | 2026-09-17 | [solution](problems/0517-windy-gridworld-with-sarsa) |
