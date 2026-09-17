@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:52:16.003Z",
+  "generated_at": "2026-09-17T22:53:15.404Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -4288,6 +4288,19 @@
       "last_pushed_at": "2026-09-17T22:52:13.387Z",
       "language": "python",
       "lines": 44
+    },
+    "problem:466": {
+      "kind": "problem",
+      "id": "466",
+      "title": "Optimal Policy Extraction from Q-Values",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/466",
+      "path": "problems/0466-optimal-policy-extraction-from-q-values",
+      "first_solved_at": "2026-09-17T22:53:15.694Z",
+      "last_pushed_at": "2026-09-17T22:53:15.694Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
