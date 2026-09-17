@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:18:27.741Z",
+  "generated_at": "2026-09-17T22:23:56.961Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -4054,6 +4054,19 @@
       "last_pushed_at": "2026-09-17T22:18:26.164Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:162": {
+      "kind": "problem",
+      "id": "162",
+      "title": "Upper Confidence Bound (UCB) Action Selection",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/162",
+      "path": "problems/0162-upper-confidence-bound-ucb-action-selection",
+      "first_solved_at": "2026-09-17T22:23:56.956Z",
+      "last_pushed_at": "2026-09-17T22:23:56.956Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
