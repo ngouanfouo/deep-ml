@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:56:42.307Z",
+  "generated_at": "2026-09-17T22:57:19.964Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -4327,6 +4327,19 @@
       "last_pushed_at": "2026-09-17T22:56:42.594Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:511": {
+      "kind": "problem",
+      "id": "511",
+      "title": "Greedy Policy Improvement",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/511",
+      "path": "problems/0511-greedy-policy-improvement",
+      "first_solved_at": "2026-09-17T22:57:20.445Z",
+      "last_pushed_at": "2026-09-17T22:57:20.445Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }

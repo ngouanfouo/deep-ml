@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**335** solved · 308 problems · 13 labs · 14 math
+**336** solved · 309 problems · 13 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -136,6 +136,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-06-14 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Gradient Bandit Action Selection](https://www.deep-ml.com/problems/163) | medium | 2026-07-17 | [solution](problems/0163-gradient-bandit-action-selection) |
 | [Gradient Clipping by Global Norm](https://www.deep-ml.com/problems/197) | medium | 2026-07-20 | [solution](problems/0197-gradient-clipping-by-global-norm) |
+| [Greedy Policy Improvement](https://www.deep-ml.com/problems/511) | medium | 2026-09-17 | [solution](problems/0511-greedy-policy-improvement) |
 | [Gridworld Policy Evaluation](https://www.deep-ml.com/problems/142) | medium | 2026-07-09 | [solution](problems/0142-gridworld-policy-evaluation) |
 | [Hypergeometric Distribution PMF](https://www.deep-ml.com/problems/245) | medium | 2026-08-04 | [solution](problems/0245-hypergeometric-distribution-pmf) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-06-26 | [solution](problems/0049-implement-adam-optimization-algorithm) |
