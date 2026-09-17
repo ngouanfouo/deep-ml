@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**346** solved · 319 problems · 13 labs · 14 math
+**347** solved · 320 problems · 13 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -199,6 +199,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Newton's Method for Optimization](https://www.deep-ml.com/problems/221) | medium | 2026-07-29 | [solution](problems/0221-newton-s-method-for-optimization) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-06-19 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Off-Policy Monte Carlo Prediction with Importance Sampling](https://www.deep-ml.com/problems/472) | medium | 2026-09-17 | [solution](problems/0472-off-policy-monte-carlo-prediction-with-importance-sampling) |
+| [On-Policy Trajectory Sampling](https://www.deep-ml.com/problems/529) | medium | 2026-09-17 | [solution](problems/0529-on-policy-trajectory-sampling) |
 | [Optical Flow EPE with Masks (OmniWorld-style metric)](https://www.deep-ml.com/problems/185) | medium | 2026-07-20 | [solution](problems/0185-optical-flow-epe-with-masks-omniworld-style-metric) |
 | [Optimal String Alignment Distance](https://www.deep-ml.com/problems/51) | medium | 2026-06-30 | [solution](problems/0051-optimal-string-alignment-distance) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-07-20 | [solution](problems/0190-overlapping-max-pooling) |
