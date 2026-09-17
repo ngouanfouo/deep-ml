@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T21:58:00.738Z",
+  "generated_at": "2026-09-17T21:59:08.771Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -1898,6 +1898,19 @@
       "last_pushed_at": "2026-09-17T21:58:00.660Z",
       "language": "python",
       "lines": 60
+    },
+    "problem:1310": {
+      "kind": "problem",
+      "id": "1310",
+      "title": "1D Convolution with Shared-Memory Halo",
+      "difficulty": "medium",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1310",
+      "path": "problems/1310-1d-convolution-with-shared-memory-halo",
+      "first_solved_at": "2026-09-17T21:59:09.206Z",
+      "last_pushed_at": "2026-09-17T21:59:09.206Z",
+      "language": "python",
+      "lines": 84
     }
   }
 }
