@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:53:15.404Z",
+  "generated_at": "2026-09-17T22:54:08.563Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -4301,6 +4301,19 @@
       "last_pushed_at": "2026-09-17T22:53:15.694Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:509": {
+      "kind": "problem",
+      "id": "509",
+      "title": "Optimistic Initialization for Exploration",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/509",
+      "path": "problems/0509-optimistic-initialization-for-exploration",
+      "first_solved_at": "2026-09-17T22:54:08.797Z",
+      "last_pushed_at": "2026-09-17T22:54:08.797Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }
