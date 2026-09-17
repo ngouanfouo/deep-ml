@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T23:00:01.646Z",
+  "generated_at": "2026-09-17T23:02:43.405Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -4379,6 +4379,19 @@
       "last_pushed_at": "2026-09-17T23:00:01.928Z",
       "language": "python",
       "lines": 57
+    },
+    "problem:515": {
+      "kind": "problem",
+      "id": "515",
+      "title": "Batch Training: TD and MC Comparison",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/515",
+      "path": "problems/0515-batch-training-td-and-mc-comparison",
+      "first_solved_at": "2026-09-17T23:02:43.558Z",
+      "last_pushed_at": "2026-09-17T23:02:43.558Z",
+      "language": "python",
+      "lines": 77
     }
   }
 }

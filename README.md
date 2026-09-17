@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**339** solved · 312 problems · 13 labs · 14 math
+**340** solved · 313 problems · 13 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -76,6 +76,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Analyze Canary Deployment Health for Model Rollout](https://www.deep-ml.com/problems/251) | medium | 2026-08-04 | [solution](problems/0251-analyze-canary-deployment-health-for-model-rollout) |
 | [Apriori Frequent Itemset Mining](https://www.deep-ml.com/problems/144) | medium | 2026-07-15 | [solution](problems/0144-apriori-frequent-itemset-mining) |
 | [Asynchronous Dynamic Programming for Value Iteration](https://www.deep-ml.com/problems/468) | medium | 2026-09-17 | [solution](problems/0468-asynchronous-dynamic-programming-for-value-iteration) |
+| [Batch Training: TD and MC Comparison](https://www.deep-ml.com/problems/515) | medium | 2026-09-17 | [solution](problems/0515-batch-training-td-and-mc-comparison) |
 | [Bayesian Inference for Beta-Binomial Model](https://www.deep-ml.com/problems/213) | medium | 2026-07-29 | [solution](problems/0213-bayesian-inference-for-beta-binomial-model) |
 | [Bellman Expectation Equation for Action-Value Function](https://www.deep-ml.com/problems/465) | medium | 2026-09-17 | [solution](problems/0465-bellman-expectation-equation-for-action-value-function) |
 | [Bellman Expectation Equation for State-Value Function](https://www.deep-ml.com/problems/464) | medium | 2026-09-17 | [solution](problems/0464-bellman-expectation-equation-for-state-value-function) |
