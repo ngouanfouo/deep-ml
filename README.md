@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**148** solved · 137 problems · 11 labs · 0 math
+**149** solved · 138 problems · 11 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -98,6 +98,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Parallel Reduction: Array Sum](https://www.deep-ml.com/problems/1207) | medium | 2026-09-15 | [solution](problems/1207-parallel-reduction-array-sum) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-06-11 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Prioritized Experience Replay](https://www.deep-ml.com/problems/591) | medium | 2026-06-19 | [solution](problems/0591-prioritized-experience-replay) |
+| [Quaternion SLERP Interpolation](https://www.deep-ml.com/problems/1212) | medium | 2026-09-17 | [solution](problems/1212-quaternion-slerp-interpolation) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-06-12 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Simulate Markov Chain Transitions](https://www.deep-ml.com/problems/132) | medium | 2026-07-07 | [solution](problems/0132-simulate-markov-chain-transitions) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-06-11 | [solution](problems/0025-single-neuron-with-backpropagation) |

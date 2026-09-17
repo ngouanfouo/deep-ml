@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:02:27.993Z",
+  "generated_at": "2026-09-17T22:03:20.208Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -1924,6 +1924,19 @@
       "last_pushed_at": "2026-09-17T22:02:28.408Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:1212": {
+      "kind": "problem",
+      "id": "1212",
+      "title": "Quaternion SLERP Interpolation",
+      "difficulty": "medium",
+      "category": "Robotics",
+      "url": "https://www.deep-ml.com/problems/1212",
+      "path": "problems/1212-quaternion-slerp-interpolation",
+      "first_solved_at": "2026-09-17T22:03:20.722Z",
+      "last_pushed_at": "2026-09-17T22:03:20.722Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
