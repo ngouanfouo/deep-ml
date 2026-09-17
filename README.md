@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**330** solved · 303 problems · 13 labs · 14 math
+**331** solved · 304 problems · 13 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -128,6 +128,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Fused Row-wise Softmax CUDA Kernel](https://www.deep-ml.com/problems/1252) | medium | 2026-09-17 | [solution](problems/1252-fused-row-wise-softmax-cuda-kernel) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-07-03 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-07-03 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
+| [Generalized Policy Iteration (GPI) Simulation](https://www.deep-ml.com/problems/469) | medium | 2026-09-17 | [solution](problems/0469-generalized-policy-iteration-gpi-simulation) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2026-06-14 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-06-14 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Gradient Bandit Action Selection](https://www.deep-ml.com/problems/163) | medium | 2026-07-17 | [solution](problems/0163-gradient-bandit-action-selection) |
