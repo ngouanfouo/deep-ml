@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Optimization (14/14) · Financial Engineering (9/9)
 
-**580** solved · 553 problems · 13 labs · 14 math
+**581** solved · 554 problems · 13 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -173,6 +173,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Classify Critical Points Using Hessian Eigenvalues](https://www.deep-ml.com/problems/311) | medium | 2026-08-11 | [solution](problems/0311-classify-critical-points-using-hessian-eigenvalues) |
 | [Cliff Walking: Sarsa vs Q-Learning](https://www.deep-ml.com/problems/518) | medium | 2026-09-17 | [solution](problems/0518-cliff-walking-sarsa-vs-q-learning) |
 | [Coalesced Matrix Transpose](https://www.deep-ml.com/problems/1309) | medium | 2026-09-17 | [solution](problems/1309-coalesced-matrix-transpose) |
+| [Coarse Coding Features](https://www.deep-ml.com/problems/532) | medium | 2026-09-17 | [solution](problems/0532-coarse-coding-features) |
 | [Code Execution Verifier for Programming Benchmarks](https://www.deep-ml.com/problems/324) | medium | 2026-08-12 | [solution](problems/0324-code-execution-verifier-for-programming-benchmarks) |
 | [Compute Confusion Matrix with Normalization](https://www.deep-ml.com/problems/193) | medium | 2026-07-20 | [solution](problems/0193-compute-confusion-matrix-with-normalization) |
 | [Compute Covariance from Joint Probability Mass Function](https://www.deep-ml.com/problems/243) | medium | 2026-08-04 | [solution](problems/0243-compute-covariance-from-joint-probability-mass-function) |

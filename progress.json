@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T23:13:55.783Z",
+  "generated_at": "2026-09-17T23:17:18.210Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -7512,6 +7512,19 @@
       "last_pushed_at": "2026-09-07T02:14:10.368Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:532": {
+      "kind": "problem",
+      "id": "532",
+      "title": "Coarse Coding Features",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/532",
+      "path": "problems/0532-coarse-coding-features",
+      "first_solved_at": "2026-09-17T23:17:18.075Z",
+      "last_pushed_at": "2026-09-17T23:17:18.075Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
