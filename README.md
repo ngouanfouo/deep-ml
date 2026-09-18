@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Optimization (14/14) · Financial Engineering (9/9)
 
-**584** solved · 557 problems · 13 labs · 14 math
+**585** solved · 558 problems · 13 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -47,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-07-17 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-08-21 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-08-21 | [solution](problems/0083-dot-product-calculator) |
+| [Estimate Action Values Using Sample Averaging](https://www.deep-ml.com/problems/543) | easy | 2026-09-18 | [solution](problems/0543-estimate-action-values-using-sample-averaging) |
 | [Estimate Minimum GPU Count for Model Deployment](https://www.deep-ml.com/problems/412) | easy | 2026-09-04 | [solution](problems/0412-estimate-minimum-gpu-count-for-model-deployment) |
 | [Exponential Weighted Average of Rewards](https://www.deep-ml.com/problems/161) | easy | 2026-09-17 | [solution](problems/0161-exponential-weighted-average-of-rewards) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-06-11 | [solution](problems/0016-feature-scaling-implementation) |

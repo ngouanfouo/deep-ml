@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:02:52.108Z",
+  "generated_at": "2026-09-18T14:03:50.452Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -7564,6 +7564,19 @@
       "last_pushed_at": "2026-09-18T14:02:52.974Z",
       "language": "python",
       "lines": 58
+    },
+    "problem:543": {
+      "kind": "problem",
+      "id": "543",
+      "title": "Estimate Action Values Using Sample Averaging",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/543",
+      "path": "problems/0543-estimate-action-values-using-sample-averaging",
+      "first_solved_at": "2026-09-18T14:03:51.788Z",
+      "last_pushed_at": "2026-09-18T14:03:51.788Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
