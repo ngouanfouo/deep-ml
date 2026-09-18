@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T13:59:43.064Z",
+  "generated_at": "2026-09-18T14:01:59.010Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -7538,6 +7538,19 @@
       "last_pushed_at": "2026-09-18T13:59:43.323Z",
       "language": "python",
       "lines": 54
+    },
+    "problem:535": {
+      "kind": "problem",
+      "id": "535",
+      "title": "Mountain Car with Function Approximation",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/535",
+      "path": "problems/0535-mountain-car-with-function-approximation",
+      "first_solved_at": "2026-09-18T14:01:59.787Z",
+      "last_pushed_at": "2026-09-18T14:01:59.787Z",
+      "language": "python",
+      "lines": 108
     }
   }
 }
