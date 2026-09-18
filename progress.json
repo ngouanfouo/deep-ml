@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:01:59.010Z",
+  "generated_at": "2026-09-18T14:02:52.108Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -7551,6 +7551,19 @@
       "last_pushed_at": "2026-09-18T14:01:59.787Z",
       "language": "python",
       "lines": 108
+    },
+    "problem:537": {
+      "kind": "problem",
+      "id": "537",
+      "title": "Experience Replay Implementation",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/537",
+      "path": "problems/0537-experience-replay-implementation",
+      "first_solved_at": "2026-09-18T14:02:52.974Z",
+      "last_pushed_at": "2026-09-18T14:02:52.974Z",
+      "language": "python",
+      "lines": 58
     }
   }
 }
