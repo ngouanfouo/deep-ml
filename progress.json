@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T23:27:04.685Z",
+  "generated_at": "2026-09-22T23:34:04.888Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -8432,6 +8432,17 @@
       "path": "math/0172-the-gpu-memory-hierarchy-and-the-decode-latency-floor",
       "first_solved_at": "2026-09-22T23:27:04.017Z",
       "last_pushed_at": "2026-09-22T23:27:04.017Z"
+    },
+    "math:173": {
+      "kind": "math",
+      "id": "173",
+      "title": "Kernel Fusion Arithmetic: Bytes Saved and Launches Avoided",
+      "difficulty": "medium",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/173",
+      "path": "math/0173-kernel-fusion-arithmetic-bytes-saved-and-launches-avoided",
+      "first_solved_at": "2026-09-22T23:34:03.219Z",
+      "last_pushed_at": "2026-09-22T23:34:03.219Z"
     }
   }
 }
