@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Optimization (14/14) · Financial Engineering (9/9)
 
-**647** solved · 617 problems · 13 labs · 17 math
+**648** solved · 617 problems · 13 labs · 18 math
 
 ![Coverage](./coverage.svg)
 
@@ -660,6 +660,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-08-04 | [solution](math/0024-information-theory-entropy) |
 | [Law of Large Numbers and Central Limit Theorem](https://www.deep-ml.com/math-problems/23) | medium | 2026-08-04 | [solution](math/0023-law-of-large-numbers-and-central-limit-theorem) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-08-02 | [solution](math/0006-optimization-convexity-and-critical-points) |
+| [Quantization Noise: Bits, Error Variance and SNR](https://www.deep-ml.com/math-problems/152) | medium | 2026-09-22 | [solution](math/0152-quantization-noise-bits-error-variance-and-snr) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-08-04 | [solution](math/0031-regularization-and-generalization) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-08-02 | [solution](math/0027-statistical-inference) |
 | [The Constant Error Carousel and Why Gates Are Needed](https://www.deep-ml.com/math-problems/158) | medium | 2026-09-22 | [solution](math/0158-the-constant-error-carousel-and-why-gates-are-needed) |

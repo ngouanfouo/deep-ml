@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T23:10:52.953Z",
+  "generated_at": "2026-09-22T23:13:27.697Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -8377,6 +8377,17 @@
       "path": "math/0158-the-constant-error-carousel-and-why-gates-are-needed",
       "first_solved_at": "2026-09-22T23:10:52.124Z",
       "last_pushed_at": "2026-09-22T23:10:52.124Z"
+    },
+    "math:152": {
+      "kind": "math",
+      "id": "152",
+      "title": "Quantization Noise: Bits, Error Variance and SNR",
+      "difficulty": "medium",
+      "category": "Quantization",
+      "url": "https://www.deep-ml.com/math-problems/152",
+      "path": "math/0152-quantization-noise-bits-error-variance-and-snr",
+      "first_solved_at": "2026-09-22T23:13:25.938Z",
+      "last_pushed_at": "2026-09-22T23:13:25.938Z"
     }
   }
 }
