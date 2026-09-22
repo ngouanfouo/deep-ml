@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Optimization (14/14) · Financial Engineering (9/9)
 
-**646** solved · 617 problems · 13 labs · 16 math
+**647** solved · 617 problems · 13 labs · 17 math
 
 ![Coverage](./coverage.svg)
 
@@ -662,6 +662,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-08-02 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-08-04 | [solution](math/0031-regularization-and-generalization) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-08-02 | [solution](math/0027-statistical-inference) |
+| [The Constant Error Carousel and Why Gates Are Needed](https://www.deep-ml.com/math-problems/158) | medium | 2026-09-22 | [solution](math/0158-the-constant-error-carousel-and-why-gates-are-needed) |
 | [The Forget Gate and the Memory Horizon](https://www.deep-ml.com/math-problems/160) | medium | 2026-09-22 | [solution](math/0160-the-forget-gate-and-the-memory-horizon) |
 | [The Fourier Transform and the Convolution Theorem](https://www.deep-ml.com/math-problems/155) | medium | 2026-09-22 | [solution](math/0155-the-fourier-transform-and-the-convolution-theorem) |
 | [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-08-02 | [solution](math/0028-bayesian-methods) |
