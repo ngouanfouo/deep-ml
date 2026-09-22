@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T23:23:24.585Z",
+  "generated_at": "2026-09-22T23:27:04.685Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -8421,6 +8421,17 @@
       "path": "math/0171-disaggregation-and-chunked-prefill-the-scheduling-arithmetic",
       "first_solved_at": "2026-09-22T23:23:23.330Z",
       "last_pushed_at": "2026-09-22T23:23:23.330Z"
+    },
+    "math:172": {
+      "kind": "math",
+      "id": "172",
+      "title": "The GPU Memory Hierarchy and the Decode Latency Floor",
+      "difficulty": "medium",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/172",
+      "path": "math/0172-the-gpu-memory-hierarchy-and-the-decode-latency-floor",
+      "first_solved_at": "2026-09-22T23:27:04.017Z",
+      "last_pushed_at": "2026-09-22T23:27:04.017Z"
     }
   }
 }
