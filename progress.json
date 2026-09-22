@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:04:06.631Z",
+  "generated_at": "2026-09-22T23:04:42.499Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -8344,6 +8344,17 @@
       "last_pushed_at": "2026-09-10T21:46:45.190Z",
       "language": "python",
       "lines": 9
+    },
+    "math:155": {
+      "kind": "math",
+      "id": "155",
+      "title": "The Fourier Transform and the Convolution Theorem",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/155",
+      "path": "math/0155-the-fourier-transform-and-the-convolution-theorem",
+      "first_solved_at": "2026-09-22T23:04:39.439Z",
+      "last_pushed_at": "2026-09-22T23:04:39.439Z"
     }
   }
 }
