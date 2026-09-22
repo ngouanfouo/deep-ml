@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Optimization (14/14) · Financial Engineering (9/9)
 
-**649** solved · 617 problems · 13 labs · 19 math
+**650** solved · 617 problems · 13 labs · 20 math
 
 ![Coverage](./coverage.svg)
 
@@ -654,6 +654,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [ASR Serving Arithmetic: Real-Time Factor, Streams and Parallel Chunks](https://www.deep-ml.com/math-problems/174) | easy | 2026-09-22 | [solution](math/0174-asr-serving-arithmetic-real-time-factor-streams-and-parallel-chunks) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-08-04 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Common Distributions II: Normal, Poisson, Exponential](https://www.deep-ml.com/math-problems/22) | medium | 2026-08-04 | [solution](math/0022-common-distributions-ii-normal-poisson-exponential) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-08-02 | [solution](math/0011-determinants-and-trace) |
