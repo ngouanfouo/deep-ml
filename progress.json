@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T23:13:27.697Z",
+  "generated_at": "2026-09-22T23:16:43.473Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -8388,6 +8388,17 @@
       "path": "math/0152-quantization-noise-bits-error-variance-and-snr",
       "first_solved_at": "2026-09-22T23:13:25.938Z",
       "last_pushed_at": "2026-09-22T23:13:25.938Z"
+    },
+    "math:156": {
+      "kind": "math",
+      "id": "156",
+      "title": "Least Squares as Maximum Likelihood under Gaussian Noise",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/156",
+      "path": "math/0156-least-squares-as-maximum-likelihood-under-gaussian-noise",
+      "first_solved_at": "2026-09-22T23:16:41.657Z",
+      "last_pushed_at": "2026-09-22T23:16:41.657Z"
     }
   }
 }
