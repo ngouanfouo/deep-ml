@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T23:19:36.790Z",
+  "generated_at": "2026-09-22T23:23:24.585Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -8410,6 +8410,17 @@
       "path": "math/0174-asr-serving-arithmetic-real-time-factor-streams-and-parallel-chunks",
       "first_solved_at": "2026-09-22T23:19:34.258Z",
       "last_pushed_at": "2026-09-22T23:19:34.258Z"
+    },
+    "math:171": {
+      "kind": "math",
+      "id": "171",
+      "title": "Disaggregation and Chunked Prefill: The Scheduling Arithmetic",
+      "difficulty": "hard",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/171",
+      "path": "math/0171-disaggregation-and-chunked-prefill-the-scheduling-arithmetic",
+      "first_solved_at": "2026-09-22T23:23:23.330Z",
+      "last_pushed_at": "2026-09-22T23:23:23.330Z"
     }
   }
 }

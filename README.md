@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Optimization (14/14) · Financial Engineering (9/9)
 
-**650** solved · 617 problems · 13 labs · 20 math
+**651** solved · 617 problems · 13 labs · 21 math
 
 ![Coverage](./coverage.svg)
 
@@ -669,6 +669,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [The Forget Gate and the Memory Horizon](https://www.deep-ml.com/math-problems/160) | medium | 2026-09-22 | [solution](math/0160-the-forget-gate-and-the-memory-horizon) |
 | [The Fourier Transform and the Convolution Theorem](https://www.deep-ml.com/math-problems/155) | medium | 2026-09-22 | [solution](math/0155-the-fourier-transform-and-the-convolution-theorem) |
 | [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-08-02 | [solution](math/0028-bayesian-methods) |
+| [Disaggregation and Chunked Prefill: The Scheduling Arithmetic](https://www.deep-ml.com/math-problems/171) | hard | 2026-09-22 | [solution](math/0171-disaggregation-and-chunked-prefill-the-scheduling-arithmetic) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-08-02 | [solution](math/0016-eigendecomposition-and-svd) |
 | [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-08-02 | [solution](math/0025-kl-divergence) |
 | [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-08-02 | [solution](math/0015-matrix-decompositions-lu-and-qr) |
