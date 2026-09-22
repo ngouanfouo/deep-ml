@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T23:04:42.499Z",
+  "generated_at": "2026-09-22T23:07:31.633Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -8355,6 +8355,17 @@
       "path": "math/0155-the-fourier-transform-and-the-convolution-theorem",
       "first_solved_at": "2026-09-22T23:04:39.439Z",
       "last_pushed_at": "2026-09-22T23:04:39.439Z"
+    },
+    "math:160": {
+      "kind": "math",
+      "id": "160",
+      "title": "The Forget Gate and the Memory Horizon",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/160",
+      "path": "math/0160-the-forget-gate-and-the-memory-horizon",
+      "first_solved_at": "2026-09-22T23:07:28.299Z",
+      "last_pushed_at": "2026-09-22T23:07:28.299Z"
     }
   }
 }
