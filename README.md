@@ -2,9 +2,9 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**Completed:** Linear Algebra (73/73) · Optimization (14/14) · Financial Engineering (9/9)
+**Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Financial Engineering (9/9)
 
-**738** solved · 683 problems · 13 labs · 42 math
+**739** solved · 684 problems · 13 labs · 42 math
 
 ![Coverage](./coverage.svg)
 
@@ -75,6 +75,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Hamming Distance for Kanerva Coding](https://www.deep-ml.com/problems/647) | easy | 2026-09-10 | [solution](problems/0647-hamming-distance-for-kanerva-coding) |
 | [Historical Context Compression Ratio](https://www.deep-ml.com/problems/455) | easy | 2026-09-10 | [solution](problems/0455-historical-context-compression-ratio) |
 | [Image Patch Embedding and Reconstruction](https://www.deep-ml.com/problems/705) | easy | 2026-09-10 | [solution](problems/0705-image-patch-embedding-and-reconstruction) |
+| [Immutable Arrays: Functional Updates with .at](https://www.deep-ml.com/problems/1324) | easy | 2026-09-24 | [solution](problems/1324-immutable-arrays-functional-updates-with-at) |
 | [Implement 2D Average Pooling](https://www.deep-ml.com/problems/265) | easy | 2026-09-14 | [solution](problems/0265-implement-2d-average-pooling) |
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-08-23 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
 | [Implement Binary Cross-Entropy Loss](https://www.deep-ml.com/problems/263) | easy | 2026-09-14 | [solution](problems/0263-implement-binary-cross-entropy-loss) |
