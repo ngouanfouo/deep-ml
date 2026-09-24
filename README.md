@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Optimization (14/14) · Financial Engineering (9/9)
 
-**669** solved · 617 problems · 13 labs · 39 math
+**670** solved · 617 problems · 13 labs · 40 math
 
 ![Coverage](./coverage.svg)
 
@@ -675,6 +675,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Regression Discontinuity Designs](https://www.deep-ml.com/math-problems/178) | medium | 2026-09-24 | [solution](math/0178-regression-discontinuity-designs) |
 | [Regression Tree Splits as Variance Reduction](https://www.deep-ml.com/math-problems/150) | medium | 2026-09-24 | [solution](math/0150-regression-tree-splits-as-variance-reduction) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-08-04 | [solution](math/0031-regularization-and-generalization) |
+| [Ring All-Reduce: Communication Volume and Time](https://www.deep-ml.com/math-problems/166) | medium | 2026-09-24 | [solution](math/0166-ring-all-reduce-communication-volume-and-time) |
 | [Speculative Decoding: Expected Accepted Tokens and Speedup](https://www.deep-ml.com/math-problems/168) | medium | 2026-09-24 | [solution](math/0168-speculative-decoding-expected-accepted-tokens-and-speedup) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-08-02 | [solution](math/0027-statistical-inference) |
 | [Tensor Parallelism: Communication per Layer and When It Pays](https://www.deep-ml.com/math-problems/167) | medium | 2026-09-24 | [solution](math/0167-tensor-parallelism-communication-per-layer-and-when-it-pays) |
