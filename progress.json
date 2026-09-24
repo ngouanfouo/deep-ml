@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T14:53:17.934Z",
+  "generated_at": "2026-09-24T14:54:08.933Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9432,6 +9432,19 @@
       "last_pushed_at": "2026-09-24T14:53:17.223Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:1328": {
+      "kind": "problem",
+      "id": "1328",
+      "title": "Vectorizing with jax.vmap",
+      "difficulty": "medium",
+      "category": "Jax",
+      "url": "https://www.deep-ml.com/problems/1328",
+      "path": "problems/1328-vectorizing-with-jax-vmap",
+      "first_solved_at": "2026-09-24T14:54:06.645Z",
+      "last_pushed_at": "2026-09-24T14:54:06.645Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }

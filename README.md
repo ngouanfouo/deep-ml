@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Financial Engineering (9/9)
 
-**732** solved · 677 problems · 13 labs · 42 math
+**733** solved · 678 problems · 13 labs · 42 math
 
 ![Coverage](./coverage.svg)
 
@@ -527,6 +527,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Truncated SVD Rank-r Approximation of Weight Updates](https://www.deep-ml.com/problems/872) | medium | 2026-09-24 | [solution](problems/0872-truncated-svd-rank-r-approximation-of-weight-updates) |
 | [Types of Eligibility Traces](https://www.deep-ml.com/problems/523) | medium | 2026-09-17 | [solution](problems/0523-types-of-eligibility-traces) |
 | [Union-Find Connected Components for Image Deduplication](https://www.deep-ml.com/problems/791) | medium | 2026-09-10 | [solution](problems/0791-union-find-connected-components-for-image-deduplication) |
+| [Vectorizing with jax.vmap](https://www.deep-ml.com/problems/1328) | medium | 2026-09-24 | [solution](problems/1328-vectorizing-with-jax-vmap) |
 | [Warmup + Cosine Decay Schedule](https://www.deep-ml.com/problems/196) | medium | 2026-07-20 | [solution](problems/0196-warmup-cosine-decay-schedule) |
 | [Weighted Importance Sampling for Off-Policy Estimation](https://www.deep-ml.com/problems/473) | medium | 2026-09-17 | [solution](problems/0473-weighted-importance-sampling-for-off-policy-estimation) |
 | [Windy Gridworld with Sarsa](https://www.deep-ml.com/problems/517) | medium | 2026-09-17 | [solution](problems/0517-windy-gridworld-with-sarsa) |
