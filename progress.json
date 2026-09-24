@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T10:13:23.322Z",
+  "generated_at": "2026-09-24T10:16:18.769Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -8465,6 +8465,17 @@
       "path": "math/0182-cuped-variance-reduction-with-pre-experiment-data",
       "first_solved_at": "2026-09-24T10:13:22.360Z",
       "last_pushed_at": "2026-09-24T10:13:22.360Z"
+    },
+    "math:181": {
+      "kind": "math",
+      "id": "181",
+      "title": "Interference, Cluster Randomization and the Design Effect",
+      "difficulty": "medium",
+      "category": "Experiments and Causal Inference",
+      "url": "https://www.deep-ml.com/math-problems/181",
+      "path": "math/0181-interference-cluster-randomization-and-the-design-effect",
+      "first_solved_at": "2026-09-24T10:16:17.989Z",
+      "last_pushed_at": "2026-09-24T10:16:17.989Z"
     }
   }
 }
