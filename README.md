@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Financial Engineering (9/9)
 
-**737** solved · 682 problems · 13 labs · 42 math
+**738** solved · 683 problems · 13 labs · 42 math
 
 ![Coverage](./coverage.svg)
 
@@ -129,6 +129,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Random Rotation Matrix and a Rotation Layer](https://www.deep-ml.com/problems/1190) | easy | 2026-09-24 | [solution](problems/1190-random-rotation-matrix-and-a-rotation-layer) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-06-30 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [ReLU Activation](https://www.deep-ml.com/problems/1204) | easy | 2026-09-17 | [solution](problems/1204-relu-activation) |
+| [ReLU with JAX Arrays](https://www.deep-ml.com/problems/1323) | easy | 2026-09-24 | [solution](problems/1323-relu-with-jax-arrays) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2025-01-09 | [solution](problems/0003-reshape-matrix) |
 | [Reverse a Singly Linked List](https://www.deep-ml.com/problems/1250) | easy | 2026-09-07 | [solution](problems/1250-reverse-a-singly-linked-list) |
 | [Reward Model Validation Accuracy](https://www.deep-ml.com/problems/488) | easy | 2026-08-27 | [solution](problems/0488-reward-model-validation-accuracy) |
