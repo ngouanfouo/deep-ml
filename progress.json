@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T14:55:53.005Z",
+  "generated_at": "2026-09-24T14:56:51.357Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9471,6 +9471,19 @@
       "last_pushed_at": "2026-09-24T14:55:52.146Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:1331": {
+      "kind": "problem",
+      "id": "1331",
+      "title": "Fit a Line with value_and_grad",
+      "difficulty": "medium",
+      "category": "Jax",
+      "url": "https://www.deep-ml.com/problems/1331",
+      "path": "problems/1331-fit-a-line-with-value-and-grad",
+      "first_solved_at": "2026-09-24T14:56:50.608Z",
+      "last_pushed_at": "2026-09-24T14:56:50.608Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }

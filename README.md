@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Financial Engineering (9/9)
 
-**735** solved · 680 problems · 13 labs · 42 math
+**736** solved · 681 problems · 13 labs · 42 math
 
 ![Coverage](./coverage.svg)
 
@@ -295,6 +295,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-07-03 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Fine-Tune Model Weights with RLHF Policy Gradient](https://www.deep-ml.com/problems/361) | medium | 2026-08-27 | [solution](problems/0361-fine-tune-model-weights-with-rlhf-policy-gradient) |
 | [First-Visit Monte Carlo Prediction](https://www.deep-ml.com/problems/272) | medium | 2026-08-08 | [solution](problems/0272-first-visit-monte-carlo-prediction) |
+| [Fit a Line with value_and_grad](https://www.deep-ml.com/problems/1331) | medium | 2026-09-24 | [solution](problems/1331-fit-a-line-with-value-and-grad) |
 | [Fixed-Size Block Memory Allocator](https://www.deep-ml.com/problems/1191) | medium | 2026-09-07 | [solution](problems/1191-fixed-size-block-memory-allocator) |
 | [Forward & Backward Diffusion Process](https://www.deep-ml.com/problems/304) | medium | 2026-08-11 | [solution](problems/0304-forward-backward-diffusion-process) |
 | [Forward Diffusion Process](https://www.deep-ml.com/problems/303) | medium | 2026-08-11 | [solution](problems/0303-forward-diffusion-process) |
