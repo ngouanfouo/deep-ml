@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Optimization (14/14) · Financial Engineering (9/9)
 
-**714** solved · 659 problems · 13 labs · 42 math
+**715** solved · 660 problems · 13 labs · 42 math
 
 ![Coverage](./coverage.svg)
 
@@ -228,6 +228,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Covariance from Joint Probability Mass Function](https://www.deep-ml.com/problems/243) | medium | 2026-08-04 | [solution](problems/0243-compute-covariance-from-joint-probability-mass-function) |
 | [Compute Frechet Video Distance (FVD) for Video Quality Evaluation](https://www.deep-ml.com/problems/712) | medium | 2026-09-10 | [solution](problems/0712-compute-frechet-video-distance-fvd-for-video-quality-evaluation) |
 | [Compute GAE Advantages with Episode Boundaries](https://www.deep-ml.com/problems/487) | medium | 2026-08-25 | [solution](problems/0487-compute-gae-advantages-with-episode-boundaries) |
+| [Compute Grassmann Distance Between Subspaces](https://www.deep-ml.com/problems/875) | medium | 2026-09-24 | [solution](problems/0875-compute-grassmann-distance-between-subspaces) |
 | [Compute Normalized Subspace Similarity Between Low-Rank Matrices](https://www.deep-ml.com/problems/868) | medium | 2026-09-17 | [solution](problems/0868-compute-normalized-subspace-similarity-between-low-rank-matrices) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-07-06 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2026-07-06 | [solution](problems/0111-compute-pointwise-mutual-information) |

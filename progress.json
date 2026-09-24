@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T13:41:20.649Z",
+  "generated_at": "2026-09-24T13:42:20.470Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9196,6 +9196,19 @@
       "path": "problems/0872-truncated-svd-rank-r-approximation-of-weight-updates",
       "first_solved_at": "2026-09-24T13:41:18.875Z",
       "last_pushed_at": "2026-09-24T13:41:18.875Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:875": {
+      "kind": "problem",
+      "id": "875",
+      "title": "Compute Grassmann Distance Between Subspaces",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/875",
+      "path": "problems/0875-compute-grassmann-distance-between-subspaces",
+      "first_solved_at": "2026-09-24T13:42:18.898Z",
+      "last_pushed_at": "2026-09-24T13:42:18.898Z",
       "language": "python",
       "lines": 21
     }
