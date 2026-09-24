@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:51:03.273Z",
+  "generated_at": "2026-09-24T11:53:46.241Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -8641,6 +8641,17 @@
       "path": "math/0147-word2vec-negative-sampling-objective",
       "first_solved_at": "2026-09-24T11:51:02.363Z",
       "last_pushed_at": "2026-09-24T11:51:02.363Z"
+    },
+    "math:161": {
+      "kind": "math",
+      "id": "161",
+      "title": "Truncated Backpropagation Through Time: Cost, Memory and What Is Lost",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/161",
+      "path": "math/0161-truncated-backpropagation-through-time-cost-memory-and-what-is-lost",
+      "first_solved_at": "2026-09-24T11:53:45.021Z",
+      "last_pushed_at": "2026-09-24T11:53:45.021Z"
     }
   }
 }
