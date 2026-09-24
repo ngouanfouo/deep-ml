@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:32:21.024Z",
+  "generated_at": "2026-09-24T11:35:10.462Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -8597,6 +8597,17 @@
       "path": "math/0150-regression-tree-splits-as-variance-reduction",
       "first_solved_at": "2026-09-24T11:32:20.229Z",
       "last_pushed_at": "2026-09-24T11:32:20.229Z"
+    },
+    "math:149": {
+      "kind": "math",
+      "id": "149",
+      "title": "Renewal Processes and Blackwell's Theorem",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/149",
+      "path": "math/0149-renewal-processes-and-blackwell-s-theorem",
+      "first_solved_at": "2026-09-24T11:35:09.687Z",
+      "last_pushed_at": "2026-09-24T11:35:09.687Z"
     }
   }
 }
