@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:08:32.190Z",
+  "generated_at": "2026-09-24T11:15:52.600Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -8542,6 +8542,17 @@
       "path": "math/0055-bellman-expectation-for-state-and-action-values",
       "first_solved_at": "2026-09-24T11:08:30.224Z",
       "last_pushed_at": "2026-09-24T11:08:30.224Z"
+    },
+    "math:151": {
+      "kind": "math",
+      "id": "151",
+      "title": "XGBoost Split Gain from the Second-Order Objective",
+      "difficulty": "hard",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/151",
+      "path": "math/0151-xgboost-split-gain-from-the-second-order-objective",
+      "first_solved_at": "2026-09-24T11:15:50.053Z",
+      "last_pushed_at": "2026-09-24T11:15:50.053Z"
     }
   }
 }
