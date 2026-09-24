@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:48:13.514Z",
+  "generated_at": "2026-09-24T11:51:03.273Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -8630,6 +8630,17 @@
       "path": "math/0166-ring-all-reduce-communication-volume-and-time",
       "first_solved_at": "2026-09-24T11:48:12.686Z",
       "last_pushed_at": "2026-09-24T11:48:12.686Z"
+    },
+    "math:147": {
+      "kind": "math",
+      "id": "147",
+      "title": "Word2Vec Negative Sampling Objective",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/147",
+      "path": "math/0147-word2vec-negative-sampling-objective",
+      "first_solved_at": "2026-09-24T11:51:02.363Z",
+      "last_pushed_at": "2026-09-24T11:51:02.363Z"
     }
   }
 }
