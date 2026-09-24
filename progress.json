@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T13:45:12.288Z",
+  "generated_at": "2026-09-24T13:46:22.194Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9224,6 +9224,19 @@
       "last_pushed_at": "2026-09-24T13:45:11.412Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:985": {
+      "kind": "problem",
+      "id": "985",
+      "title": "Row-Normalize a Count Matrix to Probabilities",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/985",
+      "path": "problems/0985-row-normalize-a-count-matrix-to-probabilities",
+      "first_solved_at": "2026-09-24T13:46:21.378Z",
+      "last_pushed_at": "2026-09-24T13:46:21.378Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
