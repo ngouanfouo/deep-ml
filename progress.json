@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T14:05:21.171Z",
+  "generated_at": "2026-09-24T14:52:26.230Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9406,6 +9406,19 @@
       "last_pushed_at": "2026-09-24T14:05:20.373Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:1326": {
+      "kind": "problem",
+      "id": "1326",
+      "title": "Multi-Parameter Gradients with argnums",
+      "difficulty": "medium",
+      "category": "Jax",
+      "url": "https://www.deep-ml.com/problems/1326",
+      "path": "problems/1326-multi-parameter-gradients-with-argnums",
+      "first_solved_at": "2026-09-24T14:52:25.133Z",
+      "last_pushed_at": "2026-09-24T14:52:25.133Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }

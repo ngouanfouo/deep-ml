@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Financial Engineering (9/9)
 
-**730** solved · 675 problems · 13 labs · 42 math
+**731** solved · 676 problems · 13 labs · 42 math
 
 ![Coverage](./coverage.svg)
 
@@ -431,6 +431,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [MMLU Letter-Matching Evaluation](https://www.deep-ml.com/problems/326) | medium | 2026-08-12 | [solution](problems/0326-mmlu-letter-matching-evaluation) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-08-11 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Mountain Car with Function Approximation](https://www.deep-ml.com/problems/535) | medium | 2026-09-18 | [solution](problems/0535-mountain-car-with-function-approximation) |
+| [Multi-Parameter Gradients with argnums](https://www.deep-ml.com/problems/1326) | medium | 2026-09-24 | [solution](problems/1326-multi-parameter-gradients-with-argnums) |
 | [Multi-Source BFS: Time to Fill a Grid](https://www.deep-ml.com/problems/1246) | medium | 2026-09-10 | [solution](problems/1246-multi-source-bfs-time-to-fill-a-grid) |
 | [Muon Optimizer Step with Matrix Preconditioning](https://www.deep-ml.com/problems/170) | medium | 2026-07-17 | [solution](problems/0170-muon-optimizer-step-with-matrix-preconditioning) |
 | [Muon Optimizer Update with Newton-Schulz Iteration](https://www.deep-ml.com/problems/172) | medium | 2026-07-17 | [solution](problems/0172-muon-optimizer-update-with-newton-schulz-iteration) |
