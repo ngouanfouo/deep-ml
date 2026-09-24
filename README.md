@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Optimization (14/14) · Financial Engineering (9/9)
 
-**659** solved · 617 problems · 13 labs · 29 math
+**660** solved · 617 problems · 13 labs · 30 math
 
 ![Coverage](./coverage.svg)
 
@@ -659,6 +659,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Common Distributions II: Normal, Poisson, Exponential](https://www.deep-ml.com/math-problems/22) | medium | 2026-08-04 | [solution](math/0022-common-distributions-ii-normal-poisson-exponential) |
 | [CUPED: Variance Reduction with Pre-Experiment Data](https://www.deep-ml.com/math-problems/182) | medium | 2026-09-24 | [solution](math/0182-cuped-variance-reduction-with-pre-experiment-data) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-08-02 | [solution](math/0011-determinants-and-trace) |
+| [Difference-in-Differences and Parallel Trends](https://www.deep-ml.com/math-problems/176) | medium | 2026-09-24 | [solution](math/0176-difference-in-differences-and-parallel-trends) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-08-04 | [solution](math/0024-information-theory-entropy) |
 | [Instrumental Variables and the Wald Estimator](https://www.deep-ml.com/math-problems/177) | medium | 2026-09-24 | [solution](math/0177-instrumental-variables-and-the-wald-estimator) |
 | [Interference, Cluster Randomization and the Design Effect](https://www.deep-ml.com/math-problems/181) | medium | 2026-09-24 | [solution](math/0181-interference-cluster-randomization-and-the-design-effect) |

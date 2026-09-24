@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T10:24:02.380Z",
+  "generated_at": "2026-09-24T10:26:11.066Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -8509,6 +8509,17 @@
       "path": "math/0178-regression-discontinuity-designs",
       "first_solved_at": "2026-09-24T10:24:01.361Z",
       "last_pushed_at": "2026-09-24T10:24:01.361Z"
+    },
+    "math:176": {
+      "kind": "math",
+      "id": "176",
+      "title": "Difference-in-Differences and Parallel Trends",
+      "difficulty": "medium",
+      "category": "Experiments and Causal Inference",
+      "url": "https://www.deep-ml.com/math-problems/176",
+      "path": "math/0176-difference-in-differences-and-parallel-trends",
+      "first_solved_at": "2026-09-24T10:26:09.176Z",
+      "last_pushed_at": "2026-09-24T10:26:09.176Z"
     }
   }
 }
