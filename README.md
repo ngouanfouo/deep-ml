@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Optimization (14/14) · Financial Engineering (9/9)
 
-**725** solved · 670 problems · 13 labs · 42 math
+**726** solved · 671 problems · 13 labs · 42 math
 
 ![Coverage](./coverage.svg)
 
@@ -143,6 +143,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tensor Puzzle: Extract the Diagonal](https://www.deep-ml.com/problems/1271) | easy | 2026-08-27 | [solution](problems/1271-tensor-puzzle-extract-the-diagonal) |
 | [Tensor Puzzle: First-Order Difference](https://www.deep-ml.com/problems/1275) | easy | 2026-08-27 | [solution](problems/1275-tensor-puzzle-first-order-difference) |
 | [Tensor Puzzle: Identity Matrix from Comparisons](https://www.deep-ml.com/problems/1272) | easy | 2026-08-27 | [solution](problems/1272-tensor-puzzle-identity-matrix-from-comparisons) |
+| [Tensor Puzzle: Linspace from Endpoints](https://www.deep-ml.com/problems/1285) | easy | 2026-09-24 | [solution](problems/1285-tensor-puzzle-linspace-from-endpoints) |
 | [Tensor Puzzle: Ones Vector from First Principles](https://www.deep-ml.com/problems/1268) | easy | 2026-08-27 | [solution](problems/1268-tensor-puzzle-ones-vector-from-first-principles) |
 | [Tensor Puzzle: Outer Product via Broadcasting](https://www.deep-ml.com/problems/1270) | easy | 2026-08-27 | [solution](problems/1270-tensor-puzzle-outer-product-via-broadcasting) |
 | [Tensor Puzzle: Pad or Truncate a Vector to Length j](https://www.deep-ml.com/problems/1280) | easy | 2026-09-24 | [solution](problems/1280-tensor-puzzle-pad-or-truncate-a-vector-to-length-j) |
