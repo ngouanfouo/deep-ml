@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Financial Engineering (9/9)
 
-**731** solved · 676 problems · 13 labs · 42 math
+**732** solved · 677 problems · 13 labs · 42 math
 
 ![Coverage](./coverage.svg)
 
@@ -45,6 +45,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Character-Level Tokenizer (stoi/itos/BOS)](https://www.deep-ml.com/problems/374) | easy | 2026-09-14 | [solution](problems/0374-character-level-tokenizer-stoi-itos-bos) |
 | [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-09-17 | [solution](problems/0331-check-linear-independence-of-vectors) |
 | [CLIP Image-Text Alignment Score Filtering](https://www.deep-ml.com/problems/785) | easy | 2026-09-10 | [solution](problems/0785-clip-image-text-alignment-score-filtering) |
+| [Compiling Functions with jax.jit](https://www.deep-ml.com/problems/1327) | easy | 2026-09-24 | [solution](problems/1327-compiling-functions-with-jax-jit) |
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-06-26 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
 | [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2026-08-25 | [solution](problems/0165-compute-discounted-return) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-08-23 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
