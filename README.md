@@ -2,9 +2,9 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**Completed:** Optimization (14/14) · Financial Engineering (9/9)
+**Completed:** Linear Algebra (73/73) · Optimization (14/14) · Financial Engineering (9/9)
 
-**729** solved · 674 problems · 13 labs · 42 math
+**730** solved · 675 problems · 13 labs · 42 math
 
 ![Coverage](./coverage.svg)
 
@@ -276,6 +276,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-07-15 | [solution](problems/0151-dropout-layer) |
 | [Dyna-Q with Planning Updates](https://www.deep-ml.com/problems/479) | medium | 2026-09-17 | [solution](problems/0479-dyna-q-with-planning-updates) |
 | [Dynamic Programming Drills: Knapsack and Grid Paths](https://www.deep-ml.com/problems/1149) | medium | 2026-09-10 | [solution](problems/1149-dynamic-programming-drills-knapsack-and-grid-paths) |
+| [Effective Rank of a Representation Matrix](https://www.deep-ml.com/problems/1376) | medium | 2026-09-24 | [solution](problems/1376-effective-rank-of-a-representation-matrix) |
 | [Efficiently Find Duplicates in a Large Dataset](https://www.deep-ml.com/problems/1089) | medium | 2026-09-10 | [solution](problems/1089-efficiently-find-duplicates-in-a-large-dataset) |
 | [Elo Rating System for Model Comparison](https://www.deep-ml.com/problems/315) | medium | 2026-08-11 | [solution](problems/0315-elo-rating-system-for-model-comparison) |
 | [Engram Context-Aware Gating](https://www.deep-ml.com/problems/327) | medium | 2026-08-12 | [solution](problems/0327-engram-context-aware-gating) |
