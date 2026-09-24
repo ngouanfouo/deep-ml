@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:26:55.807Z",
+  "generated_at": "2026-09-24T11:29:42.393Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -8575,6 +8575,17 @@
       "path": "math/0167-tensor-parallelism-communication-per-layer-and-when-it-pays",
       "first_solved_at": "2026-09-24T11:26:54.769Z",
       "last_pushed_at": "2026-09-24T11:26:54.769Z"
+    },
+    "math:154": {
+      "kind": "math",
+      "id": "154",
+      "title": "LoRA Parameter and Compute Arithmetic",
+      "difficulty": "easy",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/154",
+      "path": "math/0154-lora-parameter-and-compute-arithmetic",
+      "first_solved_at": "2026-09-24T11:29:41.488Z",
+      "last_pushed_at": "2026-09-24T11:29:41.488Z"
     }
   }
 }
