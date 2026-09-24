@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T13:59:56.293Z",
+  "generated_at": "2026-09-24T14:02:10.006Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9367,6 +9367,19 @@
       "last_pushed_at": "2026-09-24T13:59:55.430Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:1287": {
+      "kind": "problem",
+      "id": "1287",
+      "title": "Tensor Puzzle: Repeat a Vector as Rows",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1287",
+      "path": "problems/1287-tensor-puzzle-repeat-a-vector-as-rows",
+      "first_solved_at": "2026-09-24T14:02:09.127Z",
+      "last_pushed_at": "2026-09-24T14:02:09.127Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
