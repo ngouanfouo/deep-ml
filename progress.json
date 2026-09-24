@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T13:51:48.412Z",
+  "generated_at": "2026-09-24T13:53:09.257Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9313,6 +9313,19 @@
       "path": "problems/1282-tensor-puzzle-bincount-by-scatter-add",
       "first_solved_at": "2026-09-24T13:51:47.189Z",
       "last_pushed_at": "2026-09-24T13:51:47.189Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:1280": {
+      "kind": "problem",
+      "id": "1280",
+      "title": "Tensor Puzzle: Pad or Truncate a Vector to Length j",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1280",
+      "path": "problems/1280-tensor-puzzle-pad-or-truncate-a-vector-to-length-j",
+      "first_solved_at": "2026-09-24T13:53:08.363Z",
+      "last_pushed_at": "2026-09-24T13:53:08.363Z",
       "language": "python",
       "lines": 9
     }
