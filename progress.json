@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T14:55:00.060Z",
+  "generated_at": "2026-09-24T14:55:53.005Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9458,6 +9458,19 @@
       "last_pushed_at": "2026-09-24T14:54:59.032Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:1330": {
+      "kind": "problem",
+      "id": "1330",
+      "title": "PyTrees: One SGD Step with tree_map",
+      "difficulty": "medium",
+      "category": "Jax",
+      "url": "https://www.deep-ml.com/problems/1330",
+      "path": "problems/1330-pytrees-one-sgd-step-with-tree-map",
+      "first_solved_at": "2026-09-24T14:55:52.146Z",
+      "last_pushed_at": "2026-09-24T14:55:52.146Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
