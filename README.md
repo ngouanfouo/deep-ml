@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Optimization (14/14) · Financial Engineering (9/9)
 
-**657** solved · 617 problems · 13 labs · 27 math
+**658** solved · 617 problems · 13 labs · 28 math
 
 ![Coverage](./coverage.svg)
 
@@ -666,6 +666,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Law of Large Numbers and Central Limit Theorem](https://www.deep-ml.com/math-problems/23) | medium | 2026-08-04 | [solution](math/0023-law-of-large-numbers-and-central-limit-theorem) |
 | [Least Squares as Maximum Likelihood under Gaussian Noise](https://www.deep-ml.com/math-problems/156) | medium | 2026-09-22 | [solution](math/0156-least-squares-as-maximum-likelihood-under-gaussian-noise) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-08-02 | [solution](math/0006-optimization-convexity-and-critical-points) |
+| [Propensity Scores and Inverse Probability Weighting](https://www.deep-ml.com/math-problems/179) | medium | 2026-09-24 | [solution](math/0179-propensity-scores-and-inverse-probability-weighting) |
 | [Quantization Noise: Bits, Error Variance and SNR](https://www.deep-ml.com/math-problems/152) | medium | 2026-09-22 | [solution](math/0152-quantization-noise-bits-error-variance-and-snr) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-08-04 | [solution](math/0031-regularization-and-generalization) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-08-02 | [solution](math/0027-statistical-inference) |

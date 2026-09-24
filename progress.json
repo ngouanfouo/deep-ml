@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T10:19:29.141Z",
+  "generated_at": "2026-09-24T10:22:00.943Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -8487,6 +8487,17 @@
       "path": "math/0177-instrumental-variables-and-the-wald-estimator",
       "first_solved_at": "2026-09-24T10:19:27.860Z",
       "last_pushed_at": "2026-09-24T10:19:27.860Z"
+    },
+    "math:179": {
+      "kind": "math",
+      "id": "179",
+      "title": "Propensity Scores and Inverse Probability Weighting",
+      "difficulty": "medium",
+      "category": "Experiments and Causal Inference",
+      "url": "https://www.deep-ml.com/math-problems/179",
+      "path": "math/0179-propensity-scores-and-inverse-probability-weighting",
+      "first_solved_at": "2026-09-24T10:21:59.602Z",
+      "last_pushed_at": "2026-09-24T10:21:59.602Z"
     }
   }
 }
