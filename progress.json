@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T10:22:00.943Z",
+  "generated_at": "2026-09-24T10:24:02.380Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -8498,6 +8498,17 @@
       "path": "math/0179-propensity-scores-and-inverse-probability-weighting",
       "first_solved_at": "2026-09-24T10:21:59.602Z",
       "last_pushed_at": "2026-09-24T10:21:59.602Z"
+    },
+    "math:178": {
+      "kind": "math",
+      "id": "178",
+      "title": "Regression Discontinuity Designs",
+      "difficulty": "medium",
+      "category": "Experiments and Causal Inference",
+      "url": "https://www.deep-ml.com/math-problems/178",
+      "path": "math/0178-regression-discontinuity-designs",
+      "first_solved_at": "2026-09-24T10:24:01.361Z",
+      "last_pushed_at": "2026-09-24T10:24:01.361Z"
     }
   }
 }
