@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Financial Engineering (9/9)
 
-**733** solved · 678 problems · 13 labs · 42 math
+**734** solved · 679 problems · 13 labs · 42 math
 
 ![Coverage](./coverage.svg)
 
@@ -477,6 +477,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Queue from Two Stacks and a Min-Stack](https://www.deep-ml.com/problems/1147) | medium | 2026-09-07 | [solution](problems/1147-queue-from-two-stacks-and-a-min-stack) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-08-11 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [RAFT: Iterative Reward-Ranked Fine-Tuning Loop](https://www.deep-ml.com/problems/379) | medium | 2026-08-27 | [solution](problems/0379-raft-iterative-reward-ranked-fine-tuning-loop) |
+| [Random Numbers the JAX Way: PRNG Keys](https://www.deep-ml.com/problems/1329) | medium | 2026-09-24 | [solution](problems/1329-random-numbers-the-jax-way-prng-keys) |
 | [Random Pick with Weight (Prefix Sum + Binary Search)](https://www.deep-ml.com/problems/1165) | medium | 2026-09-10 | [solution](problems/1165-random-pick-with-weight-prefix-sum-binary-search) |
 | [Random Walk: TD vs Monte Carlo](https://www.deep-ml.com/problems/514) | medium | 2026-09-17 | [solution](problems/0514-random-walk-td-vs-monte-carlo) |
 | [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-08-21 | [solution](problems/0353-reconstruction-error-from-pca) |

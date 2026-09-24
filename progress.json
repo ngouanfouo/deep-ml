@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T14:54:08.933Z",
+  "generated_at": "2026-09-24T14:55:00.060Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9445,6 +9445,19 @@
       "last_pushed_at": "2026-09-24T14:54:06.645Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:1329": {
+      "kind": "problem",
+      "id": "1329",
+      "title": "Random Numbers the JAX Way: PRNG Keys",
+      "difficulty": "medium",
+      "category": "Jax",
+      "url": "https://www.deep-ml.com/problems/1329",
+      "path": "problems/1329-random-numbers-the-jax-way-prng-keys",
+      "first_solved_at": "2026-09-24T14:54:59.032Z",
+      "last_pushed_at": "2026-09-24T14:54:59.032Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
