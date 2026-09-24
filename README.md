@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Optimization (14/14) · Financial Engineering (9/9)
 
-**656** solved · 617 problems · 13 labs · 26 math
+**657** solved · 617 problems · 13 labs · 27 math
 
 ![Coverage](./coverage.svg)
 
@@ -660,6 +660,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [CUPED: Variance Reduction with Pre-Experiment Data](https://www.deep-ml.com/math-problems/182) | medium | 2026-09-24 | [solution](math/0182-cuped-variance-reduction-with-pre-experiment-data) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-08-02 | [solution](math/0011-determinants-and-trace) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-08-04 | [solution](math/0024-information-theory-entropy) |
+| [Instrumental Variables and the Wald Estimator](https://www.deep-ml.com/math-problems/177) | medium | 2026-09-24 | [solution](math/0177-instrumental-variables-and-the-wald-estimator) |
 | [Interference, Cluster Randomization and the Design Effect](https://www.deep-ml.com/math-problems/181) | medium | 2026-09-24 | [solution](math/0181-interference-cluster-randomization-and-the-design-effect) |
 | [Kernel Fusion Arithmetic: Bytes Saved and Launches Avoided](https://www.deep-ml.com/math-problems/173) | medium | 2026-09-22 | [solution](math/0173-kernel-fusion-arithmetic-bytes-saved-and-launches-avoided) |
 | [Law of Large Numbers and Central Limit Theorem](https://www.deep-ml.com/math-problems/23) | medium | 2026-08-04 | [solution](math/0023-law-of-large-numbers-and-central-limit-theorem) |

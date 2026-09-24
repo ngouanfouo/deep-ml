@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T10:16:18.769Z",
+  "generated_at": "2026-09-24T10:19:29.141Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -8476,6 +8476,17 @@
       "path": "math/0181-interference-cluster-randomization-and-the-design-effect",
       "first_solved_at": "2026-09-24T10:16:17.989Z",
       "last_pushed_at": "2026-09-24T10:16:17.989Z"
+    },
+    "math:177": {
+      "kind": "math",
+      "id": "177",
+      "title": "Instrumental Variables and the Wald Estimator",
+      "difficulty": "medium",
+      "category": "Experiments and Causal Inference",
+      "url": "https://www.deep-ml.com/math-problems/177",
+      "path": "math/0177-instrumental-variables-and-the-wald-estimator",
+      "first_solved_at": "2026-09-24T10:19:27.860Z",
+      "last_pushed_at": "2026-09-24T10:19:27.860Z"
     }
   }
 }
