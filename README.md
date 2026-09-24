@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Optimization (14/14) · Financial Engineering (9/9)
 
-**718** solved · 663 problems · 13 labs · 42 math
+**719** solved · 664 problems · 13 labs · 42 math
 
 ![Coverage](./coverage.svg)
 
@@ -125,6 +125,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-07-17 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Progressive Batch Size Scheduler](https://www.deep-ml.com/problems/750) | easy | 2026-09-04 | [solution](problems/0750-progressive-batch-size-scheduler) |
 | [Quality Filtering with Rejection Sampling](https://www.deep-ml.com/problems/508) | easy | 2026-06-12 | [solution](problems/0508-quality-filtering-with-rejection-sampling) |
+| [Random Rotation Matrix and a Rotation Layer](https://www.deep-ml.com/problems/1190) | easy | 2026-09-24 | [solution](problems/1190-random-rotation-matrix-and-a-rotation-layer) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-06-30 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [ReLU Activation](https://www.deep-ml.com/problems/1204) | easy | 2026-09-17 | [solution](problems/1204-relu-activation) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2025-01-09 | [solution](problems/0003-reshape-matrix) |
