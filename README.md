@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Optimization (14/14) · Financial Engineering (9/9)
 
-**713** solved · 658 problems · 13 labs · 42 math
+**714** solved · 659 problems · 13 labs · 42 math
 
 ![Coverage](./coverage.svg)
 
@@ -507,6 +507,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Training FLOPs Accountant and Capability Gate](https://www.deep-ml.com/problems/1335) | medium | 2026-09-04 | [solution](problems/1335-training-flops-accountant-and-capability-gate) |
 | [Tree and Graph Coding Drills](https://www.deep-ml.com/problems/1090) | medium | 2026-09-10 | [solution](problems/1090-tree-and-graph-coding-drills) |
 | [Triplet Margin Loss](https://www.deep-ml.com/problems/387) | medium | 2026-09-14 | [solution](problems/0387-triplet-margin-loss) |
+| [Truncated SVD Rank-r Approximation of Weight Updates](https://www.deep-ml.com/problems/872) | medium | 2026-09-24 | [solution](problems/0872-truncated-svd-rank-r-approximation-of-weight-updates) |
 | [Types of Eligibility Traces](https://www.deep-ml.com/problems/523) | medium | 2026-09-17 | [solution](problems/0523-types-of-eligibility-traces) |
 | [Union-Find Connected Components for Image Deduplication](https://www.deep-ml.com/problems/791) | medium | 2026-09-10 | [solution](problems/0791-union-find-connected-components-for-image-deduplication) |
 | [Warmup + Cosine Decay Schedule](https://www.deep-ml.com/problems/196) | medium | 2026-07-20 | [solution](problems/0196-warmup-cosine-decay-schedule) |
