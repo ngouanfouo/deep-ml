@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:15:52.600Z",
+  "generated_at": "2026-09-24T11:21:37.310Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -8553,6 +8553,17 @@
       "path": "math/0151-xgboost-split-gain-from-the-second-order-objective",
       "first_solved_at": "2026-09-24T11:15:50.053Z",
       "last_pushed_at": "2026-09-24T11:15:50.053Z"
+    },
+    "math:168": {
+      "kind": "math",
+      "id": "168",
+      "title": "Speculative Decoding: Expected Accepted Tokens and Speedup",
+      "difficulty": "medium",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/168",
+      "path": "math/0168-speculative-decoding-expected-accepted-tokens-and-speedup",
+      "first_solved_at": "2026-09-24T11:21:19.122Z",
+      "last_pushed_at": "2026-09-24T11:21:19.122Z"
     }
   }
 }

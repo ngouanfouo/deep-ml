@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Optimization (14/14) · Financial Engineering (9/9)
 
-**663** solved · 617 problems · 13 labs · 33 math
+**664** solved · 617 problems · 13 labs · 34 math
 
 ![Coverage](./coverage.svg)
 
@@ -673,6 +673,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Quantization Noise: Bits, Error Variance and SNR](https://www.deep-ml.com/math-problems/152) | medium | 2026-09-22 | [solution](math/0152-quantization-noise-bits-error-variance-and-snr) |
 | [Regression Discontinuity Designs](https://www.deep-ml.com/math-problems/178) | medium | 2026-09-24 | [solution](math/0178-regression-discontinuity-designs) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-08-04 | [solution](math/0031-regularization-and-generalization) |
+| [Speculative Decoding: Expected Accepted Tokens and Speedup](https://www.deep-ml.com/math-problems/168) | medium | 2026-09-24 | [solution](math/0168-speculative-decoding-expected-accepted-tokens-and-speedup) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-08-02 | [solution](math/0027-statistical-inference) |
 | [The Constant Error Carousel and Why Gates Are Needed](https://www.deep-ml.com/math-problems/158) | medium | 2026-09-22 | [solution](math/0158-the-constant-error-carousel-and-why-gates-are-needed) |
 | [The Forget Gate and the Memory Horizon](https://www.deep-ml.com/math-problems/160) | medium | 2026-09-22 | [solution](math/0160-the-forget-gate-and-the-memory-horizon) |
