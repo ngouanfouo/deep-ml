@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T13:58:08.193Z",
+  "generated_at": "2026-09-24T13:59:56.293Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9352,6 +9352,19 @@
       "path": "problems/1285-tensor-puzzle-linspace-from-endpoints",
       "first_solved_at": "2026-09-24T13:58:07.456Z",
       "last_pushed_at": "2026-09-24T13:58:07.456Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:1286": {
+      "kind": "problem",
+      "id": "1286",
+      "title": "Tensor Puzzle: Heaviside Step with Zero-Value",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1286",
+      "path": "problems/1286-tensor-puzzle-heaviside-step-with-zero-value",
+      "first_solved_at": "2026-09-24T13:59:55.430Z",
+      "last_pushed_at": "2026-09-24T13:59:55.430Z",
       "language": "python",
       "lines": 9
     }
