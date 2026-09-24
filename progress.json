@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:29:42.393Z",
+  "generated_at": "2026-09-24T11:32:21.024Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -8586,6 +8586,17 @@
       "path": "math/0154-lora-parameter-and-compute-arithmetic",
       "first_solved_at": "2026-09-24T11:29:41.488Z",
       "last_pushed_at": "2026-09-24T11:29:41.488Z"
+    },
+    "math:150": {
+      "kind": "math",
+      "id": "150",
+      "title": "Regression Tree Splits as Variance Reduction",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/150",
+      "path": "math/0150-regression-tree-splits-as-variance-reduction",
+      "first_solved_at": "2026-09-24T11:32:20.229Z",
+      "last_pushed_at": "2026-09-24T11:32:20.229Z"
     }
   }
 }
