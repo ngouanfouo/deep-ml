@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Optimization (14/14) · Financial Engineering (9/9)
 
-**664** solved · 617 problems · 13 labs · 34 math
+**665** solved · 617 problems · 13 labs · 35 math
 
 ![Coverage](./coverage.svg)
 
@@ -675,6 +675,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-08-04 | [solution](math/0031-regularization-and-generalization) |
 | [Speculative Decoding: Expected Accepted Tokens and Speedup](https://www.deep-ml.com/math-problems/168) | medium | 2026-09-24 | [solution](math/0168-speculative-decoding-expected-accepted-tokens-and-speedup) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-08-02 | [solution](math/0027-statistical-inference) |
+| [Tensor Parallelism: Communication per Layer and When It Pays](https://www.deep-ml.com/math-problems/167) | medium | 2026-09-24 | [solution](math/0167-tensor-parallelism-communication-per-layer-and-when-it-pays) |
 | [The Constant Error Carousel and Why Gates Are Needed](https://www.deep-ml.com/math-problems/158) | medium | 2026-09-22 | [solution](math/0158-the-constant-error-carousel-and-why-gates-are-needed) |
 | [The Forget Gate and the Memory Horizon](https://www.deep-ml.com/math-problems/160) | medium | 2026-09-22 | [solution](math/0160-the-forget-gate-and-the-memory-horizon) |
 | [The Fourier Transform and the Convolution Theorem](https://www.deep-ml.com/math-problems/155) | medium | 2026-09-22 | [solution](math/0155-the-fourier-transform-and-the-convolution-theorem) |

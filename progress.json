@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:21:37.310Z",
+  "generated_at": "2026-09-24T11:26:55.807Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -8564,6 +8564,17 @@
       "path": "math/0168-speculative-decoding-expected-accepted-tokens-and-speedup",
       "first_solved_at": "2026-09-24T11:21:19.122Z",
       "last_pushed_at": "2026-09-24T11:21:19.122Z"
+    },
+    "math:167": {
+      "kind": "math",
+      "id": "167",
+      "title": "Tensor Parallelism: Communication per Layer and When It Pays",
+      "difficulty": "medium",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/167",
+      "path": "math/0167-tensor-parallelism-communication-per-layer-and-when-it-pays",
+      "first_solved_at": "2026-09-24T11:26:54.769Z",
+      "last_pushed_at": "2026-09-24T11:26:54.769Z"
     }
   }
 }
