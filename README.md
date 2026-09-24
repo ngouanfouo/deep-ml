@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Optimization (14/14) · Financial Engineering (9/9)
 
-**722** solved · 667 problems · 13 labs · 42 math
+**723** solved · 668 problems · 13 labs · 42 math
 
 ![Coverage](./coverage.svg)
 
@@ -500,6 +500,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Subspace Amplification of Pretrained Weights by a Low-Rank Update](https://www.deep-ml.com/problems/869) | medium | 2026-09-17 | [solution](problems/0869-subspace-amplification-of-pretrained-weights-by-a-low-rank-update) |
 | [Temperature Decay Scheduler](https://www.deep-ml.com/problems/231) | medium | 2026-07-29 | [solution](problems/0231-temperature-decay-scheduler) |
 | [Temperature Sampling](https://www.deep-ml.com/problems/378) | medium | 2026-08-27 | [solution](problems/0378-temperature-sampling) |
+| [Tensor Puzzle: Bincount by Scatter-Add](https://www.deep-ml.com/problems/1282) | medium | 2026-09-24 | [solution](problems/1282-tensor-puzzle-bincount-by-scatter-add) |
 | [Tensor Puzzle: Compress — Keep True Positions](https://www.deep-ml.com/problems/1279) | medium | 2026-09-24 | [solution](problems/1279-tensor-puzzle-compress-keep-true-positions) |
 | [Tensor Puzzle: Cumulative Sum via Triangular Matmul](https://www.deep-ml.com/problems/1274) | medium | 2026-08-27 | [solution](problems/1274-tensor-puzzle-cumulative-sum-via-triangular-matmul) |
 | [Tensor Puzzle: Flatten a Matrix by Indexing](https://www.deep-ml.com/problems/1284) | medium | 2026-08-27 | [solution](problems/1284-tensor-puzzle-flatten-a-matrix-by-indexing) |
