@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Optimization (14/14) · Financial Engineering (9/9)
 
-**668** solved · 617 problems · 13 labs · 38 math
+**669** solved · 617 problems · 13 labs · 39 math
 
 ![Coverage](./coverage.svg)
 
@@ -688,6 +688,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-08-02 | [solution](math/0025-kl-divergence) |
 | [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-08-02 | [solution](math/0015-matrix-decompositions-lu-and-qr) |
 | [Maximum Likelihood and MAP](https://www.deep-ml.com/math-problems/26) | hard | 2026-08-02 | [solution](math/0026-maximum-likelihood-and-map) |
+| [Moment-Generating Functions and a Central Limit Theorem Sketch](https://www.deep-ml.com/math-problems/148) | hard | 2026-09-24 | [solution](math/0148-moment-generating-functions-and-a-central-limit-theorem-sketch) |
 | [Probabilistic Models](https://www.deep-ml.com/math-problems/29) | hard | 2026-08-02 | [solution](math/0029-probabilistic-models) |
 | [Ratio Metrics, the Delta Method and the Unit of Analysis](https://www.deep-ml.com/math-problems/180) | hard | 2026-09-24 | [solution](math/0180-ratio-metrics-the-delta-method-and-the-unit-of-analysis) |
 | [Renewal Processes and Blackwell's Theorem](https://www.deep-ml.com/math-problems/149) | hard | 2026-09-24 | [solution](math/0149-renewal-processes-and-blackwell-s-theorem) |
