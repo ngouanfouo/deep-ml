@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T14:56:51.357Z",
+  "generated_at": "2026-09-24T14:57:35.095Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9484,6 +9484,19 @@
       "last_pushed_at": "2026-09-24T14:56:50.608Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:1332": {
+      "kind": "problem",
+      "id": "1332",
+      "title": "Per-Sample Gradients with vmap(grad)",
+      "difficulty": "hard",
+      "category": "Jax",
+      "url": "https://www.deep-ml.com/problems/1332",
+      "path": "problems/1332-per-sample-gradients-with-vmap-grad",
+      "first_solved_at": "2026-09-24T14:57:34.337Z",
+      "last_pushed_at": "2026-09-24T14:57:34.337Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }

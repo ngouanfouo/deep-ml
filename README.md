@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Financial Engineering (9/9)
 
-**736** solved · 681 problems · 13 labs · 42 math
+**737** solved · 682 problems · 13 labs · 42 math
 
 ![Coverage](./coverage.svg)
 
@@ -641,6 +641,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Parallel Value Functions (Horde)](https://www.deep-ml.com/problems/585) | hard | 2026-08-02 | [solution](problems/0585-parallel-value-functions-horde) |
 | [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-09-01 | [solution](problems/0191-pca-color-augmentation) |
 | [Per-Layer Embedding Projection (PLE)](https://www.deep-ml.com/problems/1050) | hard | 2026-09-02 | [solution](problems/1050-per-layer-embedding-projection-ple) |
+| [Per-Sample Gradients with vmap(grad)](https://www.deep-ml.com/problems/1332) | hard | 2026-09-24 | [solution](problems/1332-per-sample-gradients-with-vmap-grad) |
 | [Policy Gradient with REINFORCE](https://www.deep-ml.com/problems/122) | hard | 2026-06-14 | [solution](problems/0122-policy-gradient-with-reinforce) |
 | [Policy Iteration for Markov Decision Processes](https://www.deep-ml.com/problems/467) | hard | 2026-07-15 | [solution](problems/0467-policy-iteration-for-markov-decision-processes) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-06-12 | [solution](problems/0085-positional-encoding-calculator) |
