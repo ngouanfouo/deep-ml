@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T14:34:27.955Z",
+  "generated_at": "2026-09-25T14:46:37.124Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9614,6 +9614,19 @@
       "last_pushed_at": "2026-09-25T14:34:27.471Z",
       "language": "python",
       "lines": 48
+    },
+    "problem:1078": {
+      "kind": "problem",
+      "id": "1078",
+      "title": "Implement RAFT++ with Importance Sampling and Clipping",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1078",
+      "path": "problems/1078-implement-raft-with-importance-sampling-and-clipping",
+      "first_solved_at": "2026-09-25T14:46:36.260Z",
+      "last_pushed_at": "2026-09-25T14:46:36.260Z",
+      "language": "python",
+      "lines": 45
     }
   }
 }
