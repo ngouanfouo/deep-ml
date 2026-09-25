@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Financial Engineering (9/9)
 
-**745** solved · 690 problems · 13 labs · 42 math
+**746** solved · 691 problems · 13 labs · 42 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Adagrad Optimizer](https://www.deep-ml.com/problems/145) | easy | 2026-09-14 | [solution](problems/0145-adagrad-optimizer) |
 | [Adamax Optimizer](https://www.deep-ml.com/problems/148) | easy | 2026-09-14 | [solution](problems/0148-adamax-optimizer) |
 | [Add Two Numbers as Linked Lists](https://www.deep-ml.com/problems/1086) | easy | 2026-09-07 | [solution](problems/1086-add-two-numbers-as-linked-lists) |
+| [Analyzing Memory Fragmentation in LLM Serving](https://www.deep-ml.com/problems/495) | easy | 2026-09-25 | [solution](problems/0495-analyzing-memory-fragmentation-in-llm-serving) |
 | [Apply Zero Padding to an Image](https://www.deep-ml.com/problems/239) | easy | 2026-09-10 | [solution](problems/0239-apply-zero-padding-to-an-image) |
 | [Autoregressive Video Chunk FPS Calculator](https://www.deep-ml.com/problems/454) | easy | 2026-09-10 | [solution](problems/0454-autoregressive-video-chunk-fps-calculator) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-07-03 | [solution](problems/0030-batch-iterator-for-dataset) |
