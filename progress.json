@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T15:01:05.847Z",
+  "generated_at": "2026-09-25T14:18:13.181Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9536,6 +9536,19 @@
       "last_pushed_at": "2026-09-24T15:01:05.028Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:1070": {
+      "kind": "problem",
+      "id": "1070",
+      "title": "Greedy Autoregressive Text Generation",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/1070",
+      "path": "problems/1070-greedy-autoregressive-text-generation",
+      "first_solved_at": "2026-09-25T14:18:13.447Z",
+      "last_pushed_at": "2026-09-25T14:18:13.447Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }

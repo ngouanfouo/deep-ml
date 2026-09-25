@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Financial Engineering (9/9)
 
-**740** solved · 685 problems · 13 labs · 42 math
+**741** solved · 686 problems · 13 labs · 42 math
 
 ![Coverage](./coverage.svg)
 
@@ -70,6 +70,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2026-09-14 | [solution](problems/0147-gelu-activation-function) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-07-17 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2026-07-17 | [solution](problems/0082-grayscale-image-contrast-calculator) |
+| [Greedy Autoregressive Text Generation](https://www.deep-ml.com/problems/1070) | easy | 2026-09-25 | [solution](problems/1070-greedy-autoregressive-text-generation) |
 | [Grid-Stride Loop: Square Each Element](https://www.deep-ml.com/problems/1205) | easy | 2026-09-17 | [solution](problems/1205-grid-stride-loop-square-each-element) |
 | [Group Relative Advantage for GRPO](https://www.deep-ml.com/problems/224) | easy | 2026-09-17 | [solution](problems/0224-group-relative-advantage-for-grpo) |
 | [Hamming Distance for Kanerva Coding](https://www.deep-ml.com/problems/647) | easy | 2026-09-10 | [solution](problems/0647-hamming-distance-for-kanerva-coding) |
