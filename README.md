@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Financial Engineering (9/9)
 
-**748** solved · 693 problems · 13 labs · 42 math
+**749** solved · 694 problems · 13 labs · 42 math
 
 ![Coverage](./coverage.svg)
 
@@ -375,6 +375,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Prediction Distribution Monitoring](https://www.deep-ml.com/problems/295) | medium | 2026-08-08 | [solution](problems/0295-implement-prediction-distribution-monitoring) |
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2026-07-06 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
 | [Implement Q-Learning Algorithm for MDPs](https://www.deep-ml.com/problems/133) | medium | 2026-07-07 | [solution](problems/0133-implement-q-learning-algorithm-for-mdps) |
+| [Implement RAFT for RLVR with Binary Rewards](https://www.deep-ml.com/problems/1077) | medium | 2026-09-25 | [solution](problems/1077-implement-raft-for-rlvr-with-binary-rewards) |
 | [Implement RAFT++ with Importance Sampling and Clipping](https://www.deep-ml.com/problems/1078) | medium | 2026-09-25 | [solution](problems/1078-implement-raft-with-importance-sampling-and-clipping) |
 | [Implement Random Forest Feature Importance](https://www.deep-ml.com/problems/343) | medium | 2026-08-21 | [solution](problems/0343-implement-random-forest-feature-importance) |
 | [Implement RBF (Gaussian) Kernel Function](https://www.deep-ml.com/problems/280) | medium | 2026-08-08 | [solution](problems/0280-implement-rbf-gaussian-kernel-function) |

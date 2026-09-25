@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T14:48:10.482Z",
+  "generated_at": "2026-09-25T14:49:50.240Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9640,6 +9640,19 @@
       "last_pushed_at": "2026-09-25T14:48:09.547Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:1077": {
+      "kind": "problem",
+      "id": "1077",
+      "title": "Implement RAFT for RLVR with Binary Rewards",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1077",
+      "path": "problems/1077-implement-raft-for-rlvr-with-binary-rewards",
+      "first_solved_at": "2026-09-25T14:49:50.345Z",
+      "last_pushed_at": "2026-09-25T14:49:50.345Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
