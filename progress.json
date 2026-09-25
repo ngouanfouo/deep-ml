@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:30:08.789Z",
+  "generated_at": "2026-09-25T17:32:39.605Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9859,6 +9859,17 @@
       "path": "math/0058-policy-gradient-theorem-and-reinforce",
       "first_solved_at": "2026-09-25T17:30:07.315Z",
       "last_pushed_at": "2026-09-25T17:30:07.315Z"
+    },
+    "math:117": {
+      "kind": "math",
+      "id": "117",
+      "title": "Recurrent Networks, Weight Sharing and Vanishing Gradients",
+      "difficulty": "hard",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/117",
+      "path": "math/0117-recurrent-networks-weight-sharing-and-vanishing-gradients",
+      "first_solved_at": "2026-09-25T17:32:38.245Z",
+      "last_pushed_at": "2026-09-25T17:32:38.245Z"
     }
   }
 }
