@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Financial Engineering (9/9)
 
-**747** solved · 692 problems · 13 labs · 42 math
+**748** solved · 693 problems · 13 labs · 42 math
 
 ![Coverage](./coverage.svg)
 
@@ -379,6 +379,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Random Forest Feature Importance](https://www.deep-ml.com/problems/343) | medium | 2026-08-21 | [solution](problems/0343-implement-random-forest-feature-importance) |
 | [Implement RBF (Gaussian) Kernel Function](https://www.deep-ml.com/problems/280) | medium | 2026-08-08 | [solution](problems/0280-implement-rbf-gaussian-kernel-function) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-06-19 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
+| [Implement Reinforce-Rej: Filtering Trivial Prompt Groups](https://www.deep-ml.com/problems/1079) | medium | 2026-09-25 | [solution](problems/1079-implement-reinforce-rej-filtering-trivial-prompt-groups) |
 | [Implement Relativistic Critic Rewards for Adversarial Reasoning](https://www.deep-ml.com/problems/268) | medium | 2026-08-08 | [solution](problems/0268-implement-relativistic-critic-rewards-for-adversarial-reasoning) |
 | [Implement Request Batching for Inference](https://www.deep-ml.com/problems/297) | medium | 2026-08-08 | [solution](problems/0297-implement-request-batching-for-inference) |
 | [Implement RMSProp Optimizer](https://www.deep-ml.com/problems/200) | medium | 2026-07-20 | [solution](problems/0200-implement-rmsprop-optimizer) |

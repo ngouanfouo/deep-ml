@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T14:46:37.124Z",
+  "generated_at": "2026-09-25T14:48:10.482Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9627,6 +9627,19 @@
       "last_pushed_at": "2026-09-25T14:46:36.260Z",
       "language": "python",
       "lines": 45
+    },
+    "problem:1079": {
+      "kind": "problem",
+      "id": "1079",
+      "title": "Implement Reinforce-Rej: Filtering Trivial Prompt Groups",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1079",
+      "path": "problems/1079-implement-reinforce-rej-filtering-trivial-prompt-groups",
+      "first_solved_at": "2026-09-25T14:48:09.547Z",
+      "last_pushed_at": "2026-09-25T14:48:09.547Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
