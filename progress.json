@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:14:39.346Z",
+  "generated_at": "2026-09-25T17:19:59.920Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9804,6 +9804,17 @@
       "path": "math/0048-pseudoinverse-and-minimum-norm-least-squares",
       "first_solved_at": "2026-09-25T17:14:38.144Z",
       "last_pushed_at": "2026-09-25T17:14:38.144Z"
+    },
+    "math:49": {
+      "kind": "math",
+      "id": "49",
+      "title": "PCA via Covariance Eigendecomposition",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/49",
+      "path": "math/0049-pca-via-covariance-eigendecomposition",
+      "first_solved_at": "2026-09-25T17:19:58.708Z",
+      "last_pushed_at": "2026-09-25T17:19:58.708Z"
     }
   }
 }
