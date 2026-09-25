@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T16:43:44.842Z",
+  "generated_at": "2026-09-25T16:49:39.618Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9716,6 +9716,17 @@
       "path": "math/0146-lda-versus-pca-separation-or-variance",
       "first_solved_at": "2026-09-25T16:43:43.138Z",
       "last_pushed_at": "2026-09-25T16:43:43.138Z"
+    },
+    "math:35": {
+      "kind": "math",
+      "id": "35",
+      "title": "Matrix Calculus Identities",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/35",
+      "path": "math/0035-matrix-calculus-identities",
+      "first_solved_at": "2026-09-25T16:49:38.451Z",
+      "last_pushed_at": "2026-09-25T16:49:38.451Z"
     }
   }
 }
