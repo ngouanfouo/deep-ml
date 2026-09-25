@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:26:34.330Z",
+  "generated_at": "2026-09-25T17:28:34.343Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9837,6 +9837,17 @@
       "path": "math/0145-why-looping-leaves-memorization-capacity-unchanged",
       "first_solved_at": "2026-09-25T17:26:33.052Z",
       "last_pushed_at": "2026-09-25T17:26:33.052Z"
+    },
+    "math:53": {
+      "kind": "math",
+      "id": "53",
+      "title": "PPO Clipped Surrogate Objective",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/53",
+      "path": "math/0053-ppo-clipped-surrogate-objective",
+      "first_solved_at": "2026-09-25T17:28:32.910Z",
+      "last_pushed_at": "2026-09-25T17:28:32.910Z"
     }
   }
 }
