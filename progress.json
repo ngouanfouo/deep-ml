@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T14:57:46.053Z",
+  "generated_at": "2026-09-25T16:43:44.842Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9705,6 +9705,17 @@
       "last_pushed_at": "2026-09-25T14:57:45.600Z",
       "language": "python",
       "lines": 46
+    },
+    "math:146": {
+      "kind": "math",
+      "id": "146",
+      "title": "LDA versus PCA: Separation or Variance",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/146",
+      "path": "math/0146-lda-versus-pca-separation-or-variance",
+      "first_solved_at": "2026-09-25T16:43:43.138Z",
+      "last_pushed_at": "2026-09-25T16:43:43.138Z"
     }
   }
 }
