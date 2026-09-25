@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:28:34.343Z",
+  "generated_at": "2026-09-25T17:30:08.789Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9848,6 +9848,17 @@
       "path": "math/0053-ppo-clipped-surrogate-objective",
       "first_solved_at": "2026-09-25T17:28:32.910Z",
       "last_pushed_at": "2026-09-25T17:28:32.910Z"
+    },
+    "math:58": {
+      "kind": "math",
+      "id": "58",
+      "title": "Policy Gradient Theorem and REINFORCE",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/58",
+      "path": "math/0058-policy-gradient-theorem-and-reinforce",
+      "first_solved_at": "2026-09-25T17:30:07.315Z",
+      "last_pushed_at": "2026-09-25T17:30:07.315Z"
     }
   }
 }
