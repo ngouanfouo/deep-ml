@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T16:55:07.595Z",
+  "generated_at": "2026-09-25T16:59:18.548Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9738,6 +9738,17 @@
       "path": "math/0037-taylor-expansions-and-local-quadratic-models",
       "first_solved_at": "2026-09-25T16:55:05.413Z",
       "last_pushed_at": "2026-09-25T16:55:05.413Z"
+    },
+    "math:141": {
+      "kind": "math",
+      "id": "141",
+      "title": "Gradient of a Weight Shared Across Passes",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/141",
+      "path": "math/0141-gradient-of-a-weight-shared-across-passes",
+      "first_solved_at": "2026-09-25T16:59:17.480Z",
+      "last_pushed_at": "2026-09-25T16:59:17.480Z"
     }
   }
 }
