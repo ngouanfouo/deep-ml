@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T16:49:39.618Z",
+  "generated_at": "2026-09-25T16:55:07.595Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9727,6 +9727,17 @@
       "path": "math/0035-matrix-calculus-identities",
       "first_solved_at": "2026-09-25T16:49:38.451Z",
       "last_pushed_at": "2026-09-25T16:49:38.451Z"
+    },
+    "math:37": {
+      "kind": "math",
+      "id": "37",
+      "title": "Taylor Expansions and Local Quadratic Models",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/37",
+      "path": "math/0037-taylor-expansions-and-local-quadratic-models",
+      "first_solved_at": "2026-09-25T16:55:05.413Z",
+      "last_pushed_at": "2026-09-25T16:55:05.413Z"
     }
   }
 }
