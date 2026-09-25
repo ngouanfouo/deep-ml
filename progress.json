@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:32:39.605Z",
+  "generated_at": "2026-09-25T17:34:06.189Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9870,6 +9870,17 @@
       "path": "math/0117-recurrent-networks-weight-sharing-and-vanishing-gradients",
       "first_solved_at": "2026-09-25T17:32:38.245Z",
       "last_pushed_at": "2026-09-25T17:32:38.245Z"
+    },
+    "math:122": {
+      "kind": "math",
+      "id": "122",
+      "title": "Matrix Completion and Missing Values",
+      "difficulty": "hard",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/122",
+      "path": "math/0122-matrix-completion-and-missing-values",
+      "first_solved_at": "2026-09-25T17:34:04.870Z",
+      "last_pushed_at": "2026-09-25T17:34:04.870Z"
     }
   }
 }

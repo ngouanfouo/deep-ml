@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**768** solved · 698 problems · 13 labs · 57 math
+**769** solved · 698 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -784,6 +784,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Disaggregation and Chunked Prefill: The Scheduling Arithmetic](https://www.deep-ml.com/math-problems/171) | hard | 2026-09-22 | [solution](math/0171-disaggregation-and-chunked-prefill-the-scheduling-arithmetic) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-08-02 | [solution](math/0016-eigendecomposition-and-svd) |
 | [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-08-02 | [solution](math/0025-kl-divergence) |
+| [Matrix Completion and Missing Values](https://www.deep-ml.com/math-problems/122) | hard | 2026-09-25 | [solution](math/0122-matrix-completion-and-missing-values) |
 | [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-08-02 | [solution](math/0015-matrix-decompositions-lu-and-qr) |
 | [Maximum Likelihood and MAP](https://www.deep-ml.com/math-problems/26) | hard | 2026-08-02 | [solution](math/0026-maximum-likelihood-and-map) |
 | [Moment-Generating Functions and a Central Limit Theorem Sketch](https://www.deep-ml.com/math-problems/148) | hard | 2026-09-24 | [solution](math/0148-moment-generating-functions-and-a-central-limit-theorem-sketch) |
