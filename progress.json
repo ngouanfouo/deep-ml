@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:04:40.861Z",
+  "generated_at": "2026-09-25T17:07:13.009Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9771,6 +9771,17 @@
       "path": "math/0005-gradient-descent-updates",
       "first_solved_at": "2026-09-25T17:04:40.018Z",
       "last_pushed_at": "2026-09-25T17:04:40.018Z"
+    },
+    "math:47": {
+      "kind": "math",
+      "id": "47",
+      "title": "Gram–Schmidt and Orthonormal Bases",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/47",
+      "path": "math/0047-gram-schmidt-and-orthonormal-bases",
+      "first_solved_at": "2026-09-25T17:07:11.301Z",
+      "last_pushed_at": "2026-09-25T17:07:11.301Z"
     }
   }
 }

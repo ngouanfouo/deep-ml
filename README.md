@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**759** solved · 698 problems · 13 labs · 48 math
+**760** solved · 698 problems · 13 labs · 49 math
 
 ![Coverage](./coverage.svg)
 
@@ -747,6 +747,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Difference-in-Differences and Parallel Trends](https://www.deep-ml.com/math-problems/176) | medium | 2026-09-24 | [solution](math/0176-difference-in-differences-and-parallel-trends) |
 | [Floating-Point Formats: Exponent, Mantissa, Range and Resolution](https://www.deep-ml.com/math-problems/165) | medium | 2026-09-25 | [solution](math/0165-floating-point-formats-exponent-mantissa-range-and-resolution) |
 | [Gradient of a Weight Shared Across Passes](https://www.deep-ml.com/math-problems/141) | medium | 2026-09-25 | [solution](math/0141-gradient-of-a-weight-shared-across-passes) |
+| [Gram–Schmidt and Orthonormal Bases](https://www.deep-ml.com/math-problems/47) | medium | 2026-09-25 | [solution](math/0047-gram-schmidt-and-orthonormal-bases) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-08-04 | [solution](math/0024-information-theory-entropy) |
 | [Instrumental Variables and the Wald Estimator](https://www.deep-ml.com/math-problems/177) | medium | 2026-09-24 | [solution](math/0177-instrumental-variables-and-the-wald-estimator) |
 | [Interference, Cluster Randomization and the Design Effect](https://www.deep-ml.com/math-problems/181) | medium | 2026-09-24 | [solution](math/0181-interference-cluster-randomization-and-the-design-effect) |
