@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**758** solved · 698 problems · 13 labs · 47 math
+**759** solved · 698 problems · 13 labs · 48 math
 
 ![Coverage](./coverage.svg)
 
@@ -736,6 +736,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [ASR Serving Arithmetic: Real-Time Factor, Streams and Parallel Chunks](https://www.deep-ml.com/math-problems/174) | easy | 2026-09-22 | [solution](math/0174-asr-serving-arithmetic-real-time-factor-streams-and-parallel-chunks) |
+| [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-09-25 | [solution](math/0005-gradient-descent-updates) |
 | [LoRA Parameter and Compute Arithmetic](https://www.deep-ml.com/math-problems/154) | easy | 2026-09-24 | [solution](math/0154-lora-parameter-and-compute-arithmetic) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-08-04 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Bellman Expectation for State and Action Values](https://www.deep-ml.com/math-problems/55) | medium | 2026-09-24 | [solution](math/0055-bellman-expectation-for-state-and-action-values) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:01:25.976Z",
+  "generated_at": "2026-09-25T17:04:40.861Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9760,6 +9760,17 @@
       "path": "math/0165-floating-point-formats-exponent-mantissa-range-and-resolution",
       "first_solved_at": "2026-09-25T17:01:24.902Z",
       "last_pushed_at": "2026-09-25T17:01:24.902Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-09-25T17:04:40.018Z",
+      "last_pushed_at": "2026-09-25T17:04:40.018Z"
     }
   }
 }
