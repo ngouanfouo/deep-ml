@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:19:59.920Z",
+  "generated_at": "2026-09-25T17:24:45.584Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9815,6 +9815,17 @@
       "path": "math/0049-pca-via-covariance-eigendecomposition",
       "first_solved_at": "2026-09-25T17:19:58.708Z",
       "last_pushed_at": "2026-09-25T17:19:58.708Z"
+    },
+    "math:163": {
+      "kind": "math",
+      "id": "163",
+      "title": "Tail Latency: Percentiles, Fan-Out and Why the Mean Lies",
+      "difficulty": "medium",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/163",
+      "path": "math/0163-tail-latency-percentiles-fan-out-and-why-the-mean-lies",
+      "first_solved_at": "2026-09-25T17:24:44.001Z",
+      "last_pushed_at": "2026-09-25T17:24:44.001Z"
     }
   }
 }
