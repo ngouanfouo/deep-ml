@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Financial Engineering (9/9)
 
-**743** solved · 688 problems · 13 labs · 42 math
+**744** solved · 689 problems · 13 labs · 42 math
 
 ![Coverage](./coverage.svg)
 
@@ -213,6 +213,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bradley-Terry Model for Pairwise Rankings](https://www.deep-ml.com/problems/322) | medium | 2026-08-12 | [solution](problems/0322-bradley-terry-model-for-pairwise-rankings) |
 | [Budget-Constrained RL Loss](https://www.deep-ml.com/problems/228) | medium | 2026-07-29 | [solution](problems/0228-budget-constrained-rl-loss) |
 | [Build a Simple ETL Pipeline (MLOps)](https://www.deep-ml.com/problems/187) | medium | 2026-07-20 | [solution](problems/0187-build-a-simple-etl-pipeline-mlops) |
+| [Building a Virtual Memory System for KV Cache](https://www.deep-ml.com/problems/493) | medium | 2026-09-25 | [solution](problems/0493-building-a-virtual-memory-system-for-kv-cache) |
 | [Byte Pair Encoding (BPE) Tokenizer](https://www.deep-ml.com/problems/380) | medium | 2026-08-27 | [solution](problems/0380-byte-pair-encoding-bpe-tokenizer) |
 | [Cache-Aware Request Routing Across Replicas](https://www.deep-ml.com/problems/437) | medium | 2026-09-04 | [solution](problems/0437-cache-aware-request-routing-across-replicas) |
 | [Calculate AUC (Area Under ROC Curve)](https://www.deep-ml.com/problems/277) | medium | 2026-08-08 | [solution](problems/0277-calculate-auc-area-under-roc-curve) |
