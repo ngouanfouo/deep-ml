@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**764** solved · 698 problems · 13 labs · 53 math
+**765** solved · 698 problems · 13 labs · 54 math
 
 ![Coverage](./coverage.svg)
 
@@ -776,6 +776,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [The Fourier Transform and the Convolution Theorem](https://www.deep-ml.com/math-problems/155) | medium | 2026-09-22 | [solution](math/0155-the-fourier-transform-and-the-convolution-theorem) |
 | [The GPU Memory Hierarchy and the Decode Latency Floor](https://www.deep-ml.com/math-problems/172) | medium | 2026-09-22 | [solution](math/0172-the-gpu-memory-hierarchy-and-the-decode-latency-floor) |
 | [Truncated Backpropagation Through Time: Cost, Memory and What Is Lost](https://www.deep-ml.com/math-problems/161) | medium | 2026-09-24 | [solution](math/0161-truncated-backpropagation-through-time-cost-memory-and-what-is-lost) |
+| [Why Looping Leaves Memorization Capacity Unchanged](https://www.deep-ml.com/math-problems/145) | medium | 2026-09-25 | [solution](math/0145-why-looping-leaves-memorization-capacity-unchanged) |
 | [Word2Vec Negative Sampling Objective](https://www.deep-ml.com/math-problems/147) | medium | 2026-09-24 | [solution](math/0147-word2vec-negative-sampling-objective) |
 | [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-08-02 | [solution](math/0028-bayesian-methods) |
 | [Disaggregation and Chunked Prefill: The Scheduling Arithmetic](https://www.deep-ml.com/math-problems/171) | hard | 2026-09-22 | [solution](math/0171-disaggregation-and-chunked-prefill-the-scheduling-arithmetic) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:24:45.584Z",
+  "generated_at": "2026-09-25T17:26:34.330Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9826,6 +9826,17 @@
       "path": "math/0163-tail-latency-percentiles-fan-out-and-why-the-mean-lies",
       "first_solved_at": "2026-09-25T17:24:44.001Z",
       "last_pushed_at": "2026-09-25T17:24:44.001Z"
+    },
+    "math:145": {
+      "kind": "math",
+      "id": "145",
+      "title": "Why Looping Leaves Memorization Capacity Unchanged",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/145",
+      "path": "math/0145-why-looping-leaves-memorization-capacity-unchanged",
+      "first_solved_at": "2026-09-25T17:26:33.052Z",
+      "last_pushed_at": "2026-09-25T17:26:33.052Z"
     }
   }
 }
