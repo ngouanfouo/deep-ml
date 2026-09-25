@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:12:00.498Z",
+  "generated_at": "2026-09-25T17:14:39.346Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9793,6 +9793,17 @@
       "path": "math/0046-the-four-fundamental-subspaces",
       "first_solved_at": "2026-09-25T17:11:59.543Z",
       "last_pushed_at": "2026-09-25T17:11:59.543Z"
+    },
+    "math:48": {
+      "kind": "math",
+      "id": "48",
+      "title": "Pseudoinverse and Minimum-Norm Least Squares",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/48",
+      "path": "math/0048-pseudoinverse-and-minimum-norm-least-squares",
+      "first_solved_at": "2026-09-25T17:14:38.144Z",
+      "last_pushed_at": "2026-09-25T17:14:38.144Z"
     }
   }
 }

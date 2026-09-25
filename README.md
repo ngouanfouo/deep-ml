@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**761** solved · 698 problems · 13 labs · 50 math
+**762** solved · 698 problems · 13 labs · 51 math
 
 ![Coverage](./coverage.svg)
 
@@ -758,6 +758,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-09-25 | [solution](math/0035-matrix-calculus-identities) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-08-02 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [Propensity Scores and Inverse Probability Weighting](https://www.deep-ml.com/math-problems/179) | medium | 2026-09-24 | [solution](math/0179-propensity-scores-and-inverse-probability-weighting) |
+| [Pseudoinverse and Minimum-Norm Least Squares](https://www.deep-ml.com/math-problems/48) | medium | 2026-09-25 | [solution](math/0048-pseudoinverse-and-minimum-norm-least-squares) |
 | [Quantization Noise: Bits, Error Variance and SNR](https://www.deep-ml.com/math-problems/152) | medium | 2026-09-22 | [solution](math/0152-quantization-noise-bits-error-variance-and-snr) |
 | [Regression Discontinuity Designs](https://www.deep-ml.com/math-problems/178) | medium | 2026-09-24 | [solution](math/0178-regression-discontinuity-designs) |
 | [Regression Tree Splits as Variance Reduction](https://www.deep-ml.com/math-problems/150) | medium | 2026-09-24 | [solution](math/0150-regression-tree-splits-as-variance-reduction) |
