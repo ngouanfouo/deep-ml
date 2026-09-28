@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T19:08:14.523Z",
+  "generated_at": "2026-09-28T19:08:55.860Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10284,6 +10284,19 @@
       "last_pushed_at": "2026-09-28T19:08:13.614Z",
       "language": "python",
       "lines": 47
+    },
+    "problem:555": {
+      "kind": "problem",
+      "id": "555",
+      "title": "State Aggregation for Value Approximation",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/555",
+      "path": "problems/0555-state-aggregation-for-value-approximation",
+      "first_solved_at": "2026-09-28T19:08:55.046Z",
+      "last_pushed_at": "2026-09-28T19:08:55.046Z",
+      "language": "python",
+      "lines": 45
     }
   }
 }
