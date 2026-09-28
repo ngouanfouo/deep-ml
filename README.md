@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**811** solved · 740 problems · 13 labs · 58 math
+**812** solved · 741 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -447,6 +447,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [KV Cache Memory Budget and Eviction Policy](https://www.deep-ml.com/problems/435) | medium | 2026-09-28 | [solution](problems/0435-kv-cache-memory-budget-and-eviction-policy) |
 | [Lagrange Multipliers for Constrained Quadratic Optimization](https://www.deep-ml.com/problems/314) | medium | 2026-08-11 | [solution](problems/0314-lagrange-multipliers-for-constrained-quadratic-optimization) |
 | [Latent Diffusion Encoding and Decoding](https://www.deep-ml.com/problems/402) | medium | 2026-09-14 | [solution](problems/0402-latent-diffusion-encoding-and-decoding) |
+| [Learn Tic-Tac-Toe with TD](https://www.deep-ml.com/problems/572) | medium | 2026-09-28 | [solution](problems/0572-learn-tic-tac-toe-with-td) |
 | [Learning a Tabular Environment Model from Experience](https://www.deep-ml.com/problems/525) | medium | 2026-09-17 | [solution](problems/0525-learning-a-tabular-environment-model-from-experience) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-07-04 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [Linear Value Function Approximation with Semi-Gradient TD(0)](https://www.deep-ml.com/problems/530) | medium | 2026-09-17 | [solution](problems/0530-linear-value-function-approximation-with-semi-gradient-td-0) |

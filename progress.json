@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T19:34:49.287Z",
+  "generated_at": "2026-09-28T19:35:34.233Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10427,6 +10427,19 @@
       "last_pushed_at": "2026-09-28T19:34:47.803Z",
       "language": "python",
       "lines": 66
+    },
+    "problem:572": {
+      "kind": "problem",
+      "id": "572",
+      "title": "Learn Tic-Tac-Toe with TD",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/572",
+      "path": "problems/0572-learn-tic-tac-toe-with-td",
+      "first_solved_at": "2026-09-28T19:35:33.498Z",
+      "last_pushed_at": "2026-09-28T19:35:33.498Z",
+      "language": "python",
+      "lines": 43
     }
   }
 }
