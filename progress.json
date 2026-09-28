@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T19:22:08.074Z",
+  "generated_at": "2026-09-28T19:23:01.628Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10349,6 +10349,19 @@
       "last_pushed_at": "2026-09-28T19:22:07.032Z",
       "language": "python",
       "lines": 93
+    },
+    "problem:562": {
+      "kind": "problem",
+      "id": "562",
+      "title": "n-Step Sarsa for Control",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/562",
+      "path": "problems/0562-n-step-sarsa-for-control",
+      "first_solved_at": "2026-09-28T19:23:00.740Z",
+      "last_pushed_at": "2026-09-28T19:23:00.740Z",
+      "language": "python",
+      "lines": 63
     }
   }
 }
