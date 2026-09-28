@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T16:53:43.859Z",
+  "generated_at": "2026-09-28T16:54:40.098Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10141,6 +10141,19 @@
       "last_pushed_at": "2026-09-28T16:53:44.101Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:590": {
+      "kind": "problem",
+      "id": "590",
+      "title": "Target Network Update for Stable Learning",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/590",
+      "path": "problems/0590-target-network-update-for-stable-learning",
+      "first_solved_at": "2026-09-28T16:54:39.389Z",
+      "last_pushed_at": "2026-09-28T16:54:39.389Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }
