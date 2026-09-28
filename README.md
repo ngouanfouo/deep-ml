@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**808** solved · 737 problems · 13 labs · 58 math
+**809** solved · 738 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -317,6 +317,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2026-07-06 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
 | [Every-Visit Monte Carlo Prediction](https://www.deep-ml.com/problems/512) | medium | 2026-09-17 | [solution](problems/0512-every-visit-monte-carlo-prediction) |
 | [Expected SARSA Algorithm for Policy Evaluation and Control](https://www.deep-ml.com/problems/476) | medium | 2026-09-17 | [solution](problems/0476-expected-sarsa-algorithm-for-policy-evaluation-and-control) |
+| [Expected vs Sample Updates Comparison](https://www.deep-ml.com/problems/566) | medium | 2026-09-28 | [solution](problems/0566-expected-vs-sample-updates-comparison) |
 | [Experience Replay Implementation](https://www.deep-ml.com/problems/537) | medium | 2026-09-18 | [solution](problems/0537-experience-replay-implementation) |
 | [Feature Drift Detection using Population Stability Index](https://www.deep-ml.com/problems/253) | medium | 2026-08-04 | [solution](problems/0253-feature-drift-detection-using-population-stability-index) |
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-06-19 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T19:25:44.901Z",
+  "generated_at": "2026-09-28T19:27:59.135Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10388,6 +10388,19 @@
       "last_pushed_at": "2026-09-28T19:25:44.052Z",
       "language": "python",
       "lines": 89
+    },
+    "problem:566": {
+      "kind": "problem",
+      "id": "566",
+      "title": "Expected vs Sample Updates Comparison",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/566",
+      "path": "problems/0566-expected-vs-sample-updates-comparison",
+      "first_solved_at": "2026-09-28T19:27:57.373Z",
+      "last_pushed_at": "2026-09-28T19:27:57.373Z",
+      "language": "python",
+      "lines": 42
     }
   }
 }
