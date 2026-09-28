@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T19:28:50.730Z",
+  "generated_at": "2026-09-28T19:34:49.287Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10414,6 +10414,19 @@
       "last_pushed_at": "2026-09-28T19:28:49.665Z",
       "language": "python",
       "lines": 45
+    },
+    "problem:571": {
+      "kind": "problem",
+      "id": "571",
+      "title": "Afterstate Value Functions",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/571",
+      "path": "problems/0571-afterstate-value-functions",
+      "first_solved_at": "2026-09-28T19:34:47.803Z",
+      "last_pushed_at": "2026-09-28T19:34:47.803Z",
+      "language": "python",
+      "lines": 66
     }
   }
 }
