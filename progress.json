@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T19:02:56.794Z",
+  "generated_at": "2026-09-28T19:06:41.295Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10245,6 +10245,19 @@
       "last_pushed_at": "2026-09-28T19:02:55.856Z",
       "language": "python",
       "lines": 61
+    },
+    "problem:548": {
+      "kind": "problem",
+      "id": "548",
+      "title": "n-Step Sarsa Algorithm",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/548",
+      "path": "problems/0548-n-step-sarsa-algorithm",
+      "first_solved_at": "2026-09-28T19:06:39.622Z",
+      "last_pushed_at": "2026-09-28T19:06:39.622Z",
+      "language": "python",
+      "lines": 66
     }
   }
 }

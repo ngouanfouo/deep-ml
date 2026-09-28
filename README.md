@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**797** solved · 726 problems · 13 labs · 58 math
+**798** solved · 727 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -471,6 +471,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Muon Optimizer Step with Matrix Preconditioning](https://www.deep-ml.com/problems/170) | medium | 2026-07-17 | [solution](problems/0170-muon-optimizer-step-with-matrix-preconditioning) |
 | [Muon Optimizer Update with Newton-Schulz Iteration](https://www.deep-ml.com/problems/172) | medium | 2026-07-17 | [solution](problems/0172-muon-optimizer-update-with-newton-schulz-iteration) |
 | [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2026-07-29 | [solution](problems/0204-mutual-information) |
+| [n-Step Sarsa Algorithm](https://www.deep-ml.com/problems/548) | medium | 2026-09-28 | [solution](problems/0548-n-step-sarsa-algorithm) |
 | [n-Step TD Prediction](https://www.deep-ml.com/problems/273) | medium | 2026-08-08 | [solution](problems/0273-n-step-td-prediction) |
 | [Naive Matrix Multiplication](https://www.deep-ml.com/problems/1209) | medium | 2026-09-17 | [solution](problems/1209-naive-matrix-multiplication) |
 | [Negative Binomial Distribution Probability](https://www.deep-ml.com/problems/247) | medium | 2026-08-04 | [solution](problems/0247-negative-binomial-distribution-probability) |
