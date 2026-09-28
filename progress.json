@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T19:08:55.860Z",
+  "generated_at": "2026-09-28T19:18:02.099Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10295,6 +10295,19 @@
       "path": "problems/0555-state-aggregation-for-value-approximation",
       "first_solved_at": "2026-09-28T19:08:55.046Z",
       "last_pushed_at": "2026-09-28T19:08:55.046Z",
+      "language": "python",
+      "lines": 45
+    },
+    "problem:557": {
+      "kind": "problem",
+      "id": "557",
+      "title": "Baird's Counterexample: Off-Policy TD Divergence",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/557",
+      "path": "problems/0557-baird-s-counterexample-off-policy-td-divergence",
+      "first_solved_at": "2026-09-28T19:18:00.927Z",
+      "last_pushed_at": "2026-09-28T19:18:00.927Z",
       "language": "python",
       "lines": 45
     }
