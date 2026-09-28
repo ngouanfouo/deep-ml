@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T19:19:48.295Z",
+  "generated_at": "2026-09-28T19:22:08.074Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10336,6 +10336,19 @@
       "last_pushed_at": "2026-09-28T19:19:46.848Z",
       "language": "python",
       "lines": 58
+    },
+    "problem:560": {
+      "kind": "problem",
+      "id": "560",
+      "title": "Maximization Bias Experiment",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/560",
+      "path": "problems/0560-maximization-bias-experiment",
+      "first_solved_at": "2026-09-28T19:22:07.032Z",
+      "last_pushed_at": "2026-09-28T19:22:07.032Z",
+      "language": "python",
+      "lines": 93
     }
   }
 }
