@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**785** solved · 714 problems · 13 labs · 58 math
+**786** solved · 715 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -493,6 +493,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Post-Training Quantization with Per-Channel Scale Factors](https://www.deep-ml.com/problems/426) | medium | 2026-09-28 | [solution](problems/0426-post-training-quantization-with-per-channel-scale-factors) |
 | [PPO Clipped Surrogate Loss with Clip Diagnostics](https://www.deep-ml.com/problems/485) | medium | 2026-08-25 | [solution](problems/0485-ppo-clipped-surrogate-loss-with-clip-diagnostics) |
 | [Pre-Norm vs Post-Norm Transformer Block](https://www.deep-ml.com/problems/408) | medium | 2026-09-28 | [solution](problems/0408-pre-norm-vs-post-norm-transformer-block) |
+| [Preemption Strategies: Swapping vs Recomputation](https://www.deep-ml.com/problems/497) | medium | 2026-09-28 | [solution](problems/0497-preemption-strategies-swapping-vs-recomputation) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-06-11 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Prioritized Experience Replay](https://www.deep-ml.com/problems/591) | medium | 2026-06-19 | [solution](problems/0591-prioritized-experience-replay) |
 | [Priority Queue in Planning](https://www.deep-ml.com/problems/528) | medium | 2026-09-17 | [solution](problems/0528-priority-queue-in-planning) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T16:48:49.111Z",
+  "generated_at": "2026-09-28T16:49:43.551Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10089,6 +10089,19 @@
       "last_pushed_at": "2026-09-28T16:48:49.103Z",
       "language": "python",
       "lines": 50
+    },
+    "problem:497": {
+      "kind": "problem",
+      "id": "497",
+      "title": "Preemption Strategies: Swapping vs Recomputation",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/497",
+      "path": "problems/0497-preemption-strategies-swapping-vs-recomputation",
+      "first_solved_at": "2026-09-28T16:49:43.755Z",
+      "last_pushed_at": "2026-09-28T16:49:43.755Z",
+      "language": "python",
+      "lines": 57
     }
   }
 }
