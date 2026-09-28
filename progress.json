@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T16:52:41.599Z",
+  "generated_at": "2026-09-28T16:53:43.859Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10128,6 +10128,19 @@
       "last_pushed_at": "2026-09-28T16:52:41.927Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:505": {
+      "kind": "problem",
+      "id": "505",
+      "title": "Computing Optimal Model Size with Scaling Laws",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/505",
+      "path": "problems/0505-computing-optimal-model-size-with-scaling-laws",
+      "first_solved_at": "2026-09-28T16:53:44.101Z",
+      "last_pushed_at": "2026-09-28T16:53:44.101Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
