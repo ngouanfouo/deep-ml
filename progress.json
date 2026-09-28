@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T16:44:34.936Z",
+  "generated_at": "2026-09-28T16:45:35.722Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10024,6 +10024,19 @@
       "last_pushed_at": "2026-09-28T16:44:35.270Z",
       "language": "python",
       "lines": 36
+    },
+    "problem:460": {
+      "kind": "problem",
+      "id": "460",
+      "title": "First Frame Anchor Noise Injection",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/460",
+      "path": "problems/0460-first-frame-anchor-noise-injection",
+      "first_solved_at": "2026-09-28T16:45:35.766Z",
+      "last_pushed_at": "2026-09-28T16:45:35.766Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
