@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T16:57:20.176Z",
+  "generated_at": "2026-09-28T17:01:26.433Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10167,6 +10167,19 @@
       "last_pushed_at": "2026-09-28T16:57:19.830Z",
       "language": "python",
       "lines": 43
+    },
+    "problem:643": {
+      "kind": "problem",
+      "id": "643",
+      "title": "TD Error Backpropagation in Networks",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/643",
+      "path": "problems/0643-td-error-backpropagation-in-networks",
+      "first_solved_at": "2026-09-28T17:01:26.211Z",
+      "last_pushed_at": "2026-09-28T17:01:26.211Z",
+      "language": "python",
+      "lines": 53
     }
   }
 }
