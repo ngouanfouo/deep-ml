@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:34:06.189Z",
+  "generated_at": "2026-09-28T16:26:46.407Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9881,6 +9881,19 @@
       "path": "math/0122-matrix-completion-and-missing-values",
       "first_solved_at": "2026-09-25T17:34:04.870Z",
       "last_pushed_at": "2026-09-25T17:34:04.870Z"
+    },
+    "problem:407": {
+      "kind": "problem",
+      "id": "407",
+      "title": "QK-Norm (Query-Key Normalization)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/407",
+      "path": "problems/0407-qk-norm-query-key-normalization",
+      "first_solved_at": "2026-09-28T16:26:46.580Z",
+      "last_pushed_at": "2026-09-28T16:26:46.580Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }

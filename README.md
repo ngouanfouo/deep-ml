@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**769** solved · 698 problems · 13 labs · 58 math
+**770** solved · 699 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -489,6 +489,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [PTX Loss for Catastrophic Forgetting Prevention (RLHF)](https://www.deep-ml.com/problems/232) | medium | 2026-08-04 | [solution](problems/0232-ptx-loss-for-catastrophic-forgetting-prevention-rlhf) |
 | [Pure-Python String Parsing and Tokenizing](https://www.deep-ml.com/problems/1242) | medium | 2026-09-10 | [solution](problems/1242-pure-python-string-parsing-and-tokenizing) |
 | [PyTrees: One SGD Step with tree_map](https://www.deep-ml.com/problems/1330) | medium | 2026-09-24 | [solution](problems/1330-pytrees-one-sgd-step-with-tree-map) |
+| [QK-Norm (Query-Key Normalization)](https://www.deep-ml.com/problems/407) | medium | 2026-09-28 | [solution](problems/0407-qk-norm-query-key-normalization) |
 | [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-07-29 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |
 | [Quaternion SLERP Interpolation](https://www.deep-ml.com/problems/1212) | medium | 2026-09-17 | [solution](problems/1212-quaternion-slerp-interpolation) |
 | [Queue from Two Stacks and a Min-Stack](https://www.deep-ml.com/problems/1147) | medium | 2026-09-07 | [solution](problems/1147-queue-from-two-stacks-and-a-min-stack) |
