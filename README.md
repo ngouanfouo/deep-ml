@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**802** solved · 731 problems · 13 labs · 58 math
+**803** solved · 732 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -53,6 +53,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2026-08-25 | [solution](problems/0165-compute-discounted-return) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-08-23 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Compute PSNR for Image Reconstruction Quality](https://www.deep-ml.com/problems/713) | easy | 2026-09-10 | [solution](problems/0713-compute-psnr-for-image-reconstruction-quality) |
+| [Compute RL Backup Operations for Value Functions](https://www.deep-ml.com/problems/558) | easy | 2026-09-28 | [solution](problems/0558-compute-rl-backup-operations-for-value-functions) |
 | [Compute Temporal Difference Error](https://www.deep-ml.com/problems/257) | easy | 2026-09-17 | [solution](problems/0257-compute-temporal-difference-error) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-09-17 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Convert RGB Image to Grayscale](https://www.deep-ml.com/problems/237) | easy | 2026-09-10 | [solution](problems/0237-convert-rgb-image-to-grayscale) |

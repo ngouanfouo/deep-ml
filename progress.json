@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T19:18:02.099Z",
+  "generated_at": "2026-09-28T19:19:02.928Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10310,6 +10310,19 @@
       "last_pushed_at": "2026-09-28T19:18:00.927Z",
       "language": "python",
       "lines": 45
+    },
+    "problem:558": {
+      "kind": "problem",
+      "id": "558",
+      "title": "Compute RL Backup Operations for Value Functions",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/558",
+      "path": "problems/0558-compute-rl-backup-operations-for-value-functions",
+      "first_solved_at": "2026-09-28T19:19:01.957Z",
+      "last_pushed_at": "2026-09-28T19:19:01.957Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }
