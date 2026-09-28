@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T16:39:17.490Z",
+  "generated_at": "2026-09-28T16:40:00.924Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9998,6 +9998,19 @@
       "last_pushed_at": "2026-09-28T16:39:17.539Z",
       "language": "python",
       "lines": 36
+    },
+    "problem:456": {
+      "kind": "problem",
+      "id": "456",
+      "title": "Multi-term Memory Patchification for Video",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/456",
+      "path": "problems/0456-multi-term-memory-patchification-for-video",
+      "first_solved_at": "2026-09-28T16:40:00.894Z",
+      "last_pushed_at": "2026-09-28T16:40:00.894Z",
+      "language": "python",
+      "lines": 51
     }
   }
 }
