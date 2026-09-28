@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T17:01:26.433Z",
+  "generated_at": "2026-09-28T18:45:45.765Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10180,6 +10180,19 @@
       "last_pushed_at": "2026-09-28T17:01:26.211Z",
       "language": "python",
       "lines": 53
+    },
+    "problem:672": {
+      "kind": "problem",
+      "id": "672",
+      "title": "DQN NatureCNN Architecture Analysis",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/672",
+      "path": "problems/0672-dqn-naturecnn-architecture-analysis",
+      "first_solved_at": "2026-09-28T18:45:44.646Z",
+      "last_pushed_at": "2026-09-28T18:45:44.646Z",
+      "language": "python",
+      "lines": 60
     }
   }
 }
