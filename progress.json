@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T16:36:52.571Z",
+  "generated_at": "2026-09-28T16:37:42.296Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -9972,6 +9972,19 @@
       "last_pushed_at": "2026-09-28T16:36:52.881Z",
       "language": "python",
       "lines": 49
+    },
+    "problem:446": {
+      "kind": "problem",
+      "id": "446",
+      "title": "Video Generation Latent Space Memory Estimation",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/446",
+      "path": "problems/0446-video-generation-latent-space-memory-estimation",
+      "first_solved_at": "2026-09-28T16:37:42.588Z",
+      "last_pushed_at": "2026-09-28T16:37:42.588Z",
+      "language": "python",
+      "lines": 50
     }
   }
 }
