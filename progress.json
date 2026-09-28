@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T19:07:30.517Z",
+  "generated_at": "2026-09-28T19:08:14.523Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10271,6 +10271,19 @@
       "last_pushed_at": "2026-09-28T19:07:28.910Z",
       "language": "python",
       "lines": 49
+    },
+    "problem:554": {
+      "kind": "problem",
+      "id": "554",
+      "title": "Unified Task Handler for Multi-Task RL Agent",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/554",
+      "path": "problems/0554-unified-task-handler-for-multi-task-rl-agent",
+      "first_solved_at": "2026-09-28T19:08:13.614Z",
+      "last_pushed_at": "2026-09-28T19:08:13.614Z",
+      "language": "python",
+      "lines": 47
     }
   }
 }

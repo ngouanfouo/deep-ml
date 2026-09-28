@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**799** solved · 728 problems · 13 labs · 58 math
+**800** solved · 729 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -172,6 +172,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Top-K Largest Elements in a List](https://www.deep-ml.com/problems/1137) | easy | 2026-09-10 | [solution](problems/1137-top-k-largest-elements-in-a-list) |
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2026-06-30 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-01-08 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Unified Task Handler for Multi-Task RL Agent](https://www.deep-ml.com/problems/554) | easy | 2026-09-28 | [solution](problems/0554-unified-task-handler-for-multi-task-rl-agent) |
 | [Upper Confidence Bound (UCB) Action Selection](https://www.deep-ml.com/problems/162) | easy | 2026-09-17 | [solution](problems/0162-upper-confidence-bound-ucb-action-selection) |
 | [Valid Palindrome II (Delete At Most One Char)](https://www.deep-ml.com/problems/1160) | easy | 2026-09-10 | [solution](problems/1160-valid-palindrome-ii-delete-at-most-one-char) |
 | [Vector Addition](https://www.deep-ml.com/problems/1202) | easy | 2026-09-17 | [solution](problems/1202-vector-addition) |
