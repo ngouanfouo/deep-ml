@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T19:23:01.628Z",
+  "generated_at": "2026-09-28T19:24:49.191Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10362,6 +10362,19 @@
       "last_pushed_at": "2026-09-28T19:23:00.740Z",
       "language": "python",
       "lines": 63
+    },
+    "problem:564": {
+      "kind": "problem",
+      "id": "564",
+      "title": "Dyna-Q+ with Exploration Bonus",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/564",
+      "path": "problems/0564-dyna-q-with-exploration-bonus",
+      "first_solved_at": "2026-09-28T19:24:48.406Z",
+      "last_pushed_at": "2026-09-28T19:24:48.406Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }

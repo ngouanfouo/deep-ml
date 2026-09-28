@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**806** solved · 735 problems · 13 labs · 58 math
+**807** solved · 736 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -302,6 +302,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-07-15 | [solution](problems/0151-dropout-layer) |
 | [Dueling Network Architecture](https://www.deep-ml.com/problems/592) | medium | 2026-09-28 | [solution](problems/0592-dueling-network-architecture) |
 | [Dyna-Q with Planning Updates](https://www.deep-ml.com/problems/479) | medium | 2026-09-17 | [solution](problems/0479-dyna-q-with-planning-updates) |
+| [Dyna-Q+ with Exploration Bonus](https://www.deep-ml.com/problems/564) | medium | 2026-09-28 | [solution](problems/0564-dyna-q-with-exploration-bonus) |
 | [Dynamic Programming Drills: Knapsack and Grid Paths](https://www.deep-ml.com/problems/1149) | medium | 2026-09-10 | [solution](problems/1149-dynamic-programming-drills-knapsack-and-grid-paths) |
 | [EAGLE-Style Draft Model from Hidden States](https://www.deep-ml.com/problems/431) | medium | 2026-09-28 | [solution](problems/0431-eagle-style-draft-model-from-hidden-states) |
 | [Effective Rank of a Representation Matrix](https://www.deep-ml.com/problems/1376) | medium | 2026-09-24 | [solution](problems/1376-effective-rank-of-a-representation-matrix) |
