@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**790** solved · 719 problems · 13 labs · 58 math
+**791** solved · 720 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -293,6 +293,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Double Q-Learning Algorithm](https://www.deep-ml.com/problems/477) | medium | 2026-09-17 | [solution](problems/0477-double-q-learning-algorithm) |
 | [Dr. GRPO: Complete Objective Function](https://www.deep-ml.com/problems/210) | medium | 2026-07-29 | [solution](problems/0210-dr-grpo-complete-objective-function) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-07-15 | [solution](problems/0151-dropout-layer) |
+| [Dueling Network Architecture](https://www.deep-ml.com/problems/592) | medium | 2026-09-28 | [solution](problems/0592-dueling-network-architecture) |
 | [Dyna-Q with Planning Updates](https://www.deep-ml.com/problems/479) | medium | 2026-09-17 | [solution](problems/0479-dyna-q-with-planning-updates) |
 | [Dynamic Programming Drills: Knapsack and Grid Paths](https://www.deep-ml.com/problems/1149) | medium | 2026-09-10 | [solution](problems/1149-dynamic-programming-drills-knapsack-and-grid-paths) |
 | [EAGLE-Style Draft Model from Hidden States](https://www.deep-ml.com/problems/431) | medium | 2026-09-28 | [solution](problems/0431-eagle-style-draft-model-from-hidden-states) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T16:54:40.098Z",
+  "generated_at": "2026-09-28T16:57:20.176Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10154,6 +10154,19 @@
       "last_pushed_at": "2026-09-28T16:54:39.389Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:592": {
+      "kind": "problem",
+      "id": "592",
+      "title": "Dueling Network Architecture",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/592",
+      "path": "problems/0592-dueling-network-architecture",
+      "first_solved_at": "2026-09-28T16:57:19.830Z",
+      "last_pushed_at": "2026-09-28T16:57:19.830Z",
+      "language": "python",
+      "lines": 43
     }
   }
 }
