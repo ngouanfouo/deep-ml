@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**773** solved · 702 problems · 13 labs · 58 math
+**774** solved · 703 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -421,6 +421,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Knapsack-Based ZeRO Bucket Assignment](https://www.deep-ml.com/problems/758) | medium | 2026-09-04 | [solution](problems/0758-knapsack-based-zero-bucket-assignment) |
 | [Knowledge Distillation Loss](https://www.deep-ml.com/problems/227) | medium | 2026-07-29 | [solution](problems/0227-knowledge-distillation-loss) |
 | [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-09-14 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
+| [KV Cache Memory Budget and Eviction Policy](https://www.deep-ml.com/problems/435) | medium | 2026-09-28 | [solution](problems/0435-kv-cache-memory-budget-and-eviction-policy) |
 | [Lagrange Multipliers for Constrained Quadratic Optimization](https://www.deep-ml.com/problems/314) | medium | 2026-08-11 | [solution](problems/0314-lagrange-multipliers-for-constrained-quadratic-optimization) |
 | [Latent Diffusion Encoding and Decoding](https://www.deep-ml.com/problems/402) | medium | 2026-09-14 | [solution](problems/0402-latent-diffusion-encoding-and-decoding) |
 | [Learning a Tabular Environment Model from Experience](https://www.deep-ml.com/problems/525) | medium | 2026-09-17 | [solution](problems/0525-learning-a-tabular-environment-model-from-experience) |
