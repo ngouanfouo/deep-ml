@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**777** solved · 706 problems · 13 labs · 58 math
+**778** solved · 707 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -356,6 +356,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Gaussian Mixture Model (GMM) M-step](https://www.deep-ml.com/problems/366) | medium | 2026-09-02 | [solution](problems/0366-implement-gaussian-mixture-model-gmm-m-step) |
 | [Implement Gradient Boosting Regressor Step](https://www.deep-ml.com/problems/344) | medium | 2026-08-21 | [solution](problems/0344-implement-gradient-boosting-regressor-step) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-06-14 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
+| [Implement Graph Convolution Network (GCN) Layer](https://www.deep-ml.com/problems/453) | medium | 2026-09-28 | [solution](problems/0453-implement-graph-convolution-network-gcn-layer) |
 | [Implement Grid Search](https://www.deep-ml.com/problems/288) | medium | 2026-08-08 | [solution](problems/0288-implement-grid-search) |
 | [Implement Group Normalization](https://www.deep-ml.com/problems/126) | medium | 2026-07-07 | [solution](problems/0126-implement-group-normalization) |
 | [Implement Grouped Query Attention (GQA)](https://www.deep-ml.com/problems/391) | medium | 2026-09-14 | [solution](problems/0391-implement-grouped-query-attention-gqa) |
