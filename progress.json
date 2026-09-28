@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T16:49:43.551Z",
+  "generated_at": "2026-09-28T16:51:37.451Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10102,6 +10102,19 @@
       "last_pushed_at": "2026-09-28T16:49:43.755Z",
       "language": "python",
       "lines": 57
+    },
+    "problem:502": {
+      "kind": "problem",
+      "id": "502",
+      "title": "Multi-Hypothesis Trajectory Prediction",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/502",
+      "path": "problems/0502-multi-hypothesis-trajectory-prediction",
+      "first_solved_at": "2026-09-28T16:51:37.591Z",
+      "last_pushed_at": "2026-09-28T16:51:37.591Z",
+      "language": "python",
+      "lines": 47
     }
   }
 }
