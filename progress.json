@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T16:47:09.551Z",
+  "generated_at": "2026-09-28T16:48:03.902Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10063,6 +10063,19 @@
       "last_pushed_at": "2026-09-28T16:47:09.820Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:463": {
+      "kind": "problem",
+      "id": "463",
+      "title": "Unified History Injection for Autoregressive Video Diffusion",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/463",
+      "path": "problems/0463-unified-history-injection-for-autoregressive-video-diffusion",
+      "first_solved_at": "2026-09-28T16:48:03.926Z",
+      "last_pushed_at": "2026-09-28T16:48:03.926Z",
+      "language": "python",
+      "lines": 46
     }
   }
 }
