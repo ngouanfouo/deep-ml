@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T19:19:02.928Z",
+  "generated_at": "2026-09-28T19:19:48.295Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10323,6 +10323,19 @@
       "last_pushed_at": "2026-09-28T19:19:01.957Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:559": {
+      "kind": "problem",
+      "id": "559",
+      "title": "Per-Decision Importance Sampling for Off-Policy Evaluation",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/559",
+      "path": "problems/0559-per-decision-importance-sampling-for-off-policy-evaluation",
+      "first_solved_at": "2026-09-28T19:19:46.848Z",
+      "last_pushed_at": "2026-09-28T19:19:46.848Z",
+      "language": "python",
+      "lines": 58
     }
   }
 }

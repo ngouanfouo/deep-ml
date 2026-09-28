@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**803** solved · 732 problems · 13 labs · 58 math
+**804** solved · 733 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -501,6 +501,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Parallel Reduction (Block Sum) CUDA Kernel](https://www.deep-ml.com/problems/1189) | medium | 2026-09-15 | [solution](problems/1189-parallel-reduction-block-sum-cuda-kernel) |
 | [Parallel Reduction: Array Sum](https://www.deep-ml.com/problems/1207) | medium | 2026-09-15 | [solution](problems/1207-parallel-reduction-array-sum) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-07-29 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
+| [Per-Decision Importance Sampling for Off-Policy Evaluation](https://www.deep-ml.com/problems/559) | medium | 2026-09-28 | [solution](problems/0559-per-decision-importance-sampling-for-off-policy-evaluation) |
 | [Perceptual Image Distance from Deep Features](https://www.deep-ml.com/problems/687) | medium | 2026-09-10 | [solution](problems/0687-perceptual-image-distance-from-deep-features) |
 | [Persistent LRU Cache](https://www.deep-ml.com/problems/1095) | medium | 2026-09-07 | [solution](problems/1095-persistent-lru-cache) |
 | [Planning with Simulated Experience](https://www.deep-ml.com/problems/526) | medium | 2026-09-17 | [solution](problems/0526-planning-with-simulated-experience) |
