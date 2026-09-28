@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**793** solved · 722 problems · 13 labs · 58 math
+**794** solved · 723 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Add Two Numbers as Linked Lists](https://www.deep-ml.com/problems/1086) | easy | 2026-09-07 | [solution](problems/1086-add-two-numbers-as-linked-lists) |
 | [Analyzing Memory Fragmentation in LLM Serving](https://www.deep-ml.com/problems/495) | easy | 2026-09-25 | [solution](problems/0495-analyzing-memory-fragmentation-in-llm-serving) |
 | [Apply Zero Padding to an Image](https://www.deep-ml.com/problems/239) | easy | 2026-09-10 | [solution](problems/0239-apply-zero-padding-to-an-image) |
+| [Auto-Sized MLP from Gym Spaces](https://www.deep-ml.com/problems/673) | easy | 2026-09-28 | [solution](problems/0673-auto-sized-mlp-from-gym-spaces) |
 | [Autoregressive Video Chunk FPS Calculator](https://www.deep-ml.com/problems/454) | easy | 2026-09-10 | [solution](problems/0454-autoregressive-video-chunk-fps-calculator) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-07-03 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-08-23 | [solution](problems/0104-binary-classification-with-logistic-regression) |
