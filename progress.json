@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T19:06:41.295Z",
+  "generated_at": "2026-09-28T19:07:30.517Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10258,6 +10258,19 @@
       "last_pushed_at": "2026-09-28T19:06:39.622Z",
       "language": "python",
       "lines": 66
+    },
+    "problem:550": {
+      "kind": "problem",
+      "id": "550",
+      "title": "Gradient Monte Carlo Algorithm",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/550",
+      "path": "problems/0550-gradient-monte-carlo-algorithm",
+      "first_solved_at": "2026-09-28T19:07:28.910Z",
+      "last_pushed_at": "2026-09-28T19:07:28.910Z",
+      "language": "python",
+      "lines": 49
     }
   }
 }

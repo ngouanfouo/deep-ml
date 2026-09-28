@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**798** solved · 727 problems · 13 labs · 58 math
+**799** solved · 728 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -337,6 +337,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [GPU Credit Ledger with Expiration](https://www.deep-ml.com/problems/1152) | medium | 2026-09-07 | [solution](problems/1152-gpu-credit-ledger-with-expiration) |
 | [Gradient Bandit Action Selection](https://www.deep-ml.com/problems/163) | medium | 2026-07-17 | [solution](problems/0163-gradient-bandit-action-selection) |
 | [Gradient Clipping by Global Norm](https://www.deep-ml.com/problems/197) | medium | 2026-07-20 | [solution](problems/0197-gradient-clipping-by-global-norm) |
+| [Gradient Monte Carlo Algorithm](https://www.deep-ml.com/problems/550) | medium | 2026-09-28 | [solution](problems/0550-gradient-monte-carlo-algorithm) |
 | [Graph Reachability via Distance-Threshold Connections](https://www.deep-ml.com/problems/1245) | medium | 2026-09-10 | [solution](problems/1245-graph-reachability-via-distance-threshold-connections) |
 | [Greedy Policy Improvement](https://www.deep-ml.com/problems/511) | medium | 2026-09-17 | [solution](problems/0511-greedy-policy-improvement) |
 | [Gridworld Policy Evaluation](https://www.deep-ml.com/problems/142) | medium | 2026-07-09 | [solution](problems/0142-gridworld-policy-evaluation) |
