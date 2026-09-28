@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T19:24:49.191Z",
+  "generated_at": "2026-09-28T19:25:44.901Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10375,6 +10375,19 @@
       "last_pushed_at": "2026-09-28T19:24:48.406Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:565": {
+      "kind": "problem",
+      "id": "565",
+      "title": "Blocking Maze Environment for Testing Dyna-Q+",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/565",
+      "path": "problems/0565-blocking-maze-environment-for-testing-dyna-q",
+      "first_solved_at": "2026-09-28T19:25:44.052Z",
+      "last_pushed_at": "2026-09-28T19:25:44.052Z",
+      "language": "python",
+      "lines": 89
     }
   }
 }

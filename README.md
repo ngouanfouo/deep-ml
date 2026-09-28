@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**807** solved · 736 problems · 13 labs · 58 math
+**808** solved · 737 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -224,6 +224,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Blackjack with Monte Carlo Prediction](https://www.deep-ml.com/problems/513) | medium | 2026-09-17 | [solution](problems/0513-blackjack-with-monte-carlo-prediction) |
 | [BLEU Score for Text Generation](https://www.deep-ml.com/problems/321) | medium | 2026-08-12 | [solution](problems/0321-bleu-score-for-text-generation) |
 | [Block-wise FP8 Quantization](https://www.deep-ml.com/problems/234) | medium | 2026-08-04 | [solution](problems/0234-block-wise-fp8-quantization) |
+| [Blocking Maze Environment for Testing Dyna-Q+](https://www.deep-ml.com/problems/565) | medium | 2026-09-28 | [solution](problems/0565-blocking-maze-environment-for-testing-dyna-q) |
 | [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2026-07-04 | [solution](problems/0090-bm25-ranking) |
 | [Boxed Answer Extraction for Math Benchmarks](https://www.deep-ml.com/problems/318) | medium | 2026-08-12 | [solution](problems/0318-boxed-answer-extraction-for-math-benchmarks) |
 | [Bradley-Terry Model for Pairwise Rankings](https://www.deep-ml.com/problems/322) | medium | 2026-08-12 | [solution](problems/0322-bradley-terry-model-for-pairwise-rankings) |
