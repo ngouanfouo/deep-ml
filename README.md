@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**795** solved · 724 problems · 13 labs · 58 math
+**796** solved · 725 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -686,6 +686,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Per-Sample Gradients with vmap(grad)](https://www.deep-ml.com/problems/1332) | hard | 2026-09-24 | [solution](problems/1332-per-sample-gradients-with-vmap-grad) |
 | [Policy Gradient with REINFORCE](https://www.deep-ml.com/problems/122) | hard | 2026-06-14 | [solution](problems/0122-policy-gradient-with-reinforce) |
 | [Policy Iteration for Markov Decision Processes](https://www.deep-ml.com/problems/467) | hard | 2026-07-15 | [solution](problems/0467-policy-iteration-for-markov-decision-processes) |
+| [Policy Iteration on Jack's Car Rental](https://www.deep-ml.com/problems/546) | hard | 2026-09-28 | [solution](problems/0546-policy-iteration-on-jack-s-car-rental) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-06-12 | [solution](problems/0085-positional-encoding-calculator) |
 | [Pre-allocated Sliding KV Cache Update](https://www.deep-ml.com/problems/1011) | hard | 2026-09-02 | [solution](problems/1011-pre-allocated-sliding-kv-cache-update) |
 | [Pre-Norm GPT Transformer Block Forward Pass](https://www.deep-ml.com/problems/1056) | hard | 2026-09-02 | [solution](problems/1056-pre-norm-gpt-transformer-block-forward-pass) |
