@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**771** solved · 700 problems · 13 labs · 58 math
+**772** solved · 701 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -481,6 +481,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Persistent LRU Cache](https://www.deep-ml.com/problems/1095) | medium | 2026-09-07 | [solution](problems/1095-persistent-lru-cache) |
 | [Planning with Simulated Experience](https://www.deep-ml.com/problems/526) | medium | 2026-09-17 | [solution](problems/0526-planning-with-simulated-experience) |
 | [Pose Accuracy Evaluation for World Models](https://www.deep-ml.com/problems/689) | medium | 2026-09-10 | [solution](problems/0689-pose-accuracy-evaluation-for-world-models) |
+| [Post-Training Quantization with Per-Channel Scale Factors](https://www.deep-ml.com/problems/426) | medium | 2026-09-28 | [solution](problems/0426-post-training-quantization-with-per-channel-scale-factors) |
 | [PPO Clipped Surrogate Loss with Clip Diagnostics](https://www.deep-ml.com/problems/485) | medium | 2026-08-25 | [solution](problems/0485-ppo-clipped-surrogate-loss-with-clip-diagnostics) |
 | [Pre-Norm vs Post-Norm Transformer Block](https://www.deep-ml.com/problems/408) | medium | 2026-09-28 | [solution](problems/0408-pre-norm-vs-post-norm-transformer-block) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-06-11 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
