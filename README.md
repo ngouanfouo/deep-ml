@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**809** solved · 738 problems · 13 labs · 58 math
+**810** solved · 739 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -338,6 +338,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-07-03 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Gaussian Mixture Model with EM Algorithm](https://www.deep-ml.com/problems/341) | medium | 2026-08-21 | [solution](problems/0341-gaussian-mixture-model-with-em-algorithm) |
 | [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-08-08 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
+| [Gaussian Policy for Continuous Control](https://www.deep-ml.com/problems/570) | medium | 2026-09-28 | [solution](problems/0570-gaussian-policy-for-continuous-control) |
 | [Generalized Policy Iteration (GPI) Simulation](https://www.deep-ml.com/problems/469) | medium | 2026-09-17 | [solution](problems/0469-generalized-policy-iteration-gpi-simulation) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2026-06-14 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-06-14 | [solution](problems/0032-generate-sorted-polynomial-features) |

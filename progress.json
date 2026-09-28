@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T19:27:59.135Z",
+  "generated_at": "2026-09-28T19:28:50.730Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10401,6 +10401,19 @@
       "last_pushed_at": "2026-09-28T19:27:57.373Z",
       "language": "python",
       "lines": 42
+    },
+    "problem:570": {
+      "kind": "problem",
+      "id": "570",
+      "title": "Gaussian Policy for Continuous Control",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/570",
+      "path": "problems/0570-gaussian-policy-for-continuous-control",
+      "first_solved_at": "2026-09-28T19:28:49.665Z",
+      "last_pushed_at": "2026-09-28T19:28:49.665Z",
+      "language": "python",
+      "lines": 45
     }
   }
 }
