@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**781** solved · 710 problems · 13 labs · 58 math
+**782** solved · 711 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -332,6 +332,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Graph Reachability via Distance-Threshold Connections](https://www.deep-ml.com/problems/1245) | medium | 2026-09-10 | [solution](problems/1245-graph-reachability-via-distance-threshold-connections) |
 | [Greedy Policy Improvement](https://www.deep-ml.com/problems/511) | medium | 2026-09-17 | [solution](problems/0511-greedy-policy-improvement) |
 | [Gridworld Policy Evaluation](https://www.deep-ml.com/problems/142) | medium | 2026-07-09 | [solution](problems/0142-gridworld-policy-evaluation) |
+| [Guidance Attention Mask for Chunked Video](https://www.deep-ml.com/problems/461) | medium | 2026-09-28 | [solution](problems/0461-guidance-attention-mask-for-chunked-video) |
 | [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-08-21 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-08-21 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Hash Function for Tile Coding](https://www.deep-ml.com/problems/644) | medium | 2026-09-10 | [solution](problems/0644-hash-function-for-tile-coding) |
