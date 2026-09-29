@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**820** solved · 749 problems · 13 labs · 58 math
+**821** solved · 750 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -481,6 +481,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Monte Carlo Q-Value Estimation](https://www.deep-ml.com/problems/547) | medium | 2026-09-28 | [solution](problems/0547-monte-carlo-q-value-estimation) |
 | [Mountain Car with Function Approximation](https://www.deep-ml.com/problems/535) | medium | 2026-09-18 | [solution](problems/0535-mountain-car-with-function-approximation) |
 | [Multi-Hypothesis Trajectory Prediction](https://www.deep-ml.com/problems/502) | medium | 2026-09-28 | [solution](problems/0502-multi-hypothesis-trajectory-prediction) |
+| [Multi-Needle Long-Context Retrieval Evaluation](https://www.deep-ml.com/problems/753) | medium | 2026-09-29 | [solution](problems/0753-multi-needle-long-context-retrieval-evaluation) |
 | [Multi-Parameter Gradients with argnums](https://www.deep-ml.com/problems/1326) | medium | 2026-09-24 | [solution](problems/1326-multi-parameter-gradients-with-argnums) |
 | [Multi-Source BFS: Time to Fill a Grid](https://www.deep-ml.com/problems/1246) | medium | 2026-09-10 | [solution](problems/1246-multi-source-bfs-time-to-fill-a-grid) |
 | [Multi-term Memory Patchification for Video](https://www.deep-ml.com/problems/456) | medium | 2026-09-28 | [solution](problems/0456-multi-term-memory-patchification-for-video) |

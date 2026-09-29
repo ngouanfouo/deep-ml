@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:29:18.477Z",
+  "generated_at": "2026-09-29T14:30:08.467Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10544,6 +10544,19 @@
       "last_pushed_at": "2026-09-29T14:29:18.584Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:753": {
+      "kind": "problem",
+      "id": "753",
+      "title": "Multi-Needle Long-Context Retrieval Evaluation",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/753",
+      "path": "problems/0753-multi-needle-long-context-retrieval-evaluation",
+      "first_solved_at": "2026-09-29T14:30:09.093Z",
+      "last_pushed_at": "2026-09-29T14:30:09.093Z",
+      "language": "python",
+      "lines": 46
     }
   }
 }
