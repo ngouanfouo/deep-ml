@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**831** solved · 760 problems · 13 labs · 58 math
+**832** solved · 761 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -497,6 +497,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Muon Optimizer Step with Matrix Preconditioning](https://www.deep-ml.com/problems/170) | medium | 2026-07-17 | [solution](problems/0170-muon-optimizer-step-with-matrix-preconditioning) |
 | [Muon Optimizer Update with Newton-Schulz Iteration](https://www.deep-ml.com/problems/172) | medium | 2026-07-17 | [solution](problems/0172-muon-optimizer-update-with-newton-schulz-iteration) |
 | [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2026-07-29 | [solution](problems/0204-mutual-information) |
+| [N-gram Frequency Resampling for Dataset Diversity](https://www.deep-ml.com/problems/786) | medium | 2026-09-29 | [solution](problems/0786-n-gram-frequency-resampling-for-dataset-diversity) |
 | [N-gram Overlap Contamination Detection](https://www.deep-ml.com/problems/767) | medium | 2026-09-29 | [solution](problems/0767-n-gram-overlap-contamination-detection) |
 | [n-Step Sarsa Algorithm](https://www.deep-ml.com/problems/548) | medium | 2026-09-28 | [solution](problems/0548-n-step-sarsa-algorithm) |
 | [n-Step Sarsa for Control](https://www.deep-ml.com/problems/562) | medium | 2026-09-28 | [solution](problems/0562-n-step-sarsa-for-control) |

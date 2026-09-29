@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T15:49:28.235Z",
+  "generated_at": "2026-09-29T15:51:46.595Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10687,6 +10687,19 @@
       "last_pushed_at": "2026-09-29T15:49:22.416Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:786": {
+      "kind": "problem",
+      "id": "786",
+      "title": "N-gram Frequency Resampling for Dataset Diversity",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/786",
+      "path": "problems/0786-n-gram-frequency-resampling-for-dataset-diversity",
+      "first_solved_at": "2026-09-29T15:51:44.440Z",
+      "last_pushed_at": "2026-09-29T15:51:44.440Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
