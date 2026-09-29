@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:26:01.816Z",
+  "generated_at": "2026-09-29T14:26:45.755Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10492,6 +10492,19 @@
       "last_pushed_at": "2026-09-29T14:26:02.030Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:737": {
+      "kind": "problem",
+      "id": "737",
+      "title": "Weighted Multi-Head Index Score Computation",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/737",
+      "path": "problems/0737-weighted-multi-head-index-score-computation",
+      "first_solved_at": "2026-09-29T14:26:46.428Z",
+      "last_pushed_at": "2026-09-29T14:26:46.428Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
