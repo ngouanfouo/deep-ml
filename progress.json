@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:30:45.993Z",
+  "generated_at": "2026-09-29T14:31:44.711Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10570,6 +10570,19 @@
       "last_pushed_at": "2026-09-29T14:30:46.602Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:755": {
+      "kind": "problem",
+      "id": "755",
+      "title": "Conditional Reasoning Trace Context Management",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/755",
+      "path": "problems/0755-conditional-reasoning-trace-context-management",
+      "first_solved_at": "2026-09-29T14:31:45.030Z",
+      "last_pushed_at": "2026-09-29T14:31:45.030Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }

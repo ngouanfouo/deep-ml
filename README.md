@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**822** solved · 751 problems · 13 labs · 58 math
+**823** solved · 752 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -275,6 +275,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Total Probability using Law of Total Probability](https://www.deep-ml.com/problems/244) | medium | 2026-08-04 | [solution](problems/0244-compute-total-probability-using-law-of-total-probability) |
 | [Computing Optimal Model Size with Scaling Laws](https://www.deep-ml.com/problems/505) | medium | 2026-09-28 | [solution](problems/0505-computing-optimal-model-size-with-scaling-laws) |
 | [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2026-07-20 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
+| [Conditional Reasoning Trace Context Management](https://www.deep-ml.com/problems/755) | medium | 2026-09-29 | [solution](problems/0755-conditional-reasoning-trace-context-management) |
 | [Confidence Interval for Population Mean](https://www.deep-ml.com/problems/212) | medium | 2026-07-29 | [solution](problems/0212-confidence-interval-for-population-mean) |
 | [Contrastive Loss (InfoNCE / SimCLR-style)](https://www.deep-ml.com/problems/384) | medium | 2026-09-14 | [solution](problems/0384-contrastive-loss-infonce-simclr-style) |
 | [Copy-on-Write Memory Sharing for LLM Sampling](https://www.deep-ml.com/problems/494) | medium | 2026-09-25 | [solution](problems/0494-copy-on-write-memory-sharing-for-llm-sampling) |
