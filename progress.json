@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:30:08.467Z",
+  "generated_at": "2026-09-29T14:30:45.993Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10557,6 +10557,19 @@
       "last_pushed_at": "2026-09-29T14:30:09.093Z",
       "language": "python",
       "lines": 46
+    },
+    "problem:754": {
+      "kind": "problem",
+      "id": "754",
+      "title": "Special Token Quick Instruction Mechanism",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/754",
+      "path": "problems/0754-special-token-quick-instruction-mechanism",
+      "first_solved_at": "2026-09-29T14:30:46.602Z",
+      "last_pushed_at": "2026-09-29T14:30:46.602Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }

@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**821** solved · 750 problems · 13 labs · 58 math
+**822** solved · 751 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -563,6 +563,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2025-01-29 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2026-07-07 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
 | [Sparse MoE Top-K Routing](https://www.deep-ml.com/problems/229) | medium | 2026-07-29 | [solution](problems/0229-sparse-moe-top-k-routing) |
+| [Special Token Quick Instruction Mechanism](https://www.deep-ml.com/problems/754) | medium | 2026-09-29 | [solution](problems/0754-special-token-quick-instruction-mechanism) |
 | [Spectral Normalization](https://www.deep-ml.com/problems/386) | medium | 2026-09-14 | [solution](problems/0386-spectral-normalization) |
 | [Spreadsheet Formula Engine with Cycle Detection](https://www.deep-ml.com/problems/1155) | medium | 2026-09-07 | [solution](problems/1155-spreadsheet-formula-engine-with-cycle-detection) |
 | [Stack Samples to Trace Events Converter](https://www.deep-ml.com/problems/1092) | medium | 2026-09-10 | [solution](problems/1092-stack-samples-to-trace-events-converter) |
