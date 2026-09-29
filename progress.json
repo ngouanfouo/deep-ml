@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:33:12.750Z",
+  "generated_at": "2026-09-29T14:33:57.202Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10609,6 +10609,19 @@
       "last_pushed_at": "2026-09-29T14:33:13.496Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:763": {
+      "kind": "problem",
+      "id": "763",
+      "title": "Million-Token Corpus Question Answering Evaluation",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/763",
+      "path": "problems/0763-million-token-corpus-question-answering-evaluation",
+      "first_solved_at": "2026-09-29T14:33:57.461Z",
+      "last_pushed_at": "2026-09-29T14:33:57.461Z",
+      "language": "python",
+      "lines": 63
     }
   }
 }
