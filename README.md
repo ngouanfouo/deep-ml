@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**834** solved · 763 problems · 13 labs · 58 math
+**835** solved · 764 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -118,6 +118,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Xavier/Glorot Weight Initialization](https://www.deep-ml.com/problems/369) | easy | 2026-09-14 | [solution](problems/0369-implement-xavier-glorot-weight-initialization) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-07-15 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Incremental Mean for Online Reward Estimation](https://www.deep-ml.com/problems/159) | easy | 2026-09-17 | [solution](problems/0159-incremental-mean-for-online-reward-estimation) |
+| [Instruction Complexity Scoring via Unique Intention Tags](https://www.deep-ml.com/problems/792) | easy | 2026-09-29 | [solution](problems/0792-instruction-complexity-scoring-via-unique-intention-tags) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-08-05 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
 | [KL Divergence Estimator for GRPO](https://www.deep-ml.com/problems/225) | easy | 2026-08-27 | [solution](problems/0225-kl-divergence-estimator-for-grpo) |
 | [L2 Normalization Along an Axis](https://www.deep-ml.com/problems/1022) | easy | 2026-09-24 | [solution](problems/1022-l2-normalization-along-an-axis) |
