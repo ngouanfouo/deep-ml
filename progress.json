@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:25:21.293Z",
+  "generated_at": "2026-09-29T14:26:01.816Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10479,6 +10479,19 @@
       "last_pushed_at": "2026-09-29T14:25:22.237Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:507": {
+      "kind": "problem",
+      "id": "507",
+      "title": "Detecting Benchmark Contamination in Training Data",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/507",
+      "path": "problems/0507-detecting-benchmark-contamination-in-training-data",
+      "first_solved_at": "2026-09-29T14:26:02.030Z",
+      "last_pushed_at": "2026-09-29T14:26:02.030Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }

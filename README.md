@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**815** solved · 744 problems · 13 labs · 58 math
+**816** solved · 745 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -290,6 +290,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-07-29 | [solution](problems/0219-derivative-of-softmax) |
 | [Detect a Cycle in a Linked List and a Graph](https://www.deep-ml.com/problems/1087) | medium | 2026-09-10 | [solution](problems/1087-detect-a-cycle-in-a-linked-list-and-a-graph) |
 | [Detect Look-Ahead Bias in a Feature Pipeline](https://www.deep-ml.com/problems/1352) | medium | 2026-09-07 | [solution](problems/1352-detect-look-ahead-bias-in-a-feature-pipeline) |
+| [Detecting Benchmark Contamination in Training Data](https://www.deep-ml.com/problems/507) | medium | 2026-09-29 | [solution](problems/0507-detecting-benchmark-contamination-in-training-data) |
 | [Diagnose an R-Squared Collapse with Rolling Performance](https://www.deep-ml.com/problems/1357) | medium | 2026-09-07 | [solution](problems/1357-diagnose-an-r-squared-collapse-with-rolling-performance) |
 | [Differencing and a Rolling-Statistics Stationarity Check](https://www.deep-ml.com/problems/1353) | medium | 2026-09-07 | [solution](problems/1353-differencing-and-a-rolling-statistics-stationarity-check) |
 | [Diffusion Cosine Noise Schedule](https://www.deep-ml.com/problems/403) | medium | 2026-09-14 | [solution](problems/0403-diffusion-cosine-noise-schedule) |
