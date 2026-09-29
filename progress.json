@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T15:46:55.420Z",
+  "generated_at": "2026-09-29T15:49:28.235Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10674,6 +10674,19 @@
       "last_pushed_at": "2026-09-29T15:46:54.271Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:776": {
+      "kind": "problem",
+      "id": "776",
+      "title": "Hierarchical Document Summarization Pipeline",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/776",
+      "path": "problems/0776-hierarchical-document-summarization-pipeline",
+      "first_solved_at": "2026-09-29T15:49:22.416Z",
+      "last_pushed_at": "2026-09-29T15:49:22.416Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }

@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**830** solved · 759 problems · 13 labs · 58 math
+**831** solved · 760 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -365,6 +365,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Hash Function for Tile Coding](https://www.deep-ml.com/problems/644) | medium | 2026-09-10 | [solution](problems/0644-hash-function-for-tile-coding) |
 | [Heap Drills: Top-K Frequent Elements and K Closest Points](https://www.deep-ml.com/problems/1171) | medium | 2026-09-07 | [solution](problems/1171-heap-drills-top-k-frequent-elements-and-k-closest-points) |
 | [Heavy Non-Overlapping KV Sequence Compression](https://www.deep-ml.com/problems/738) | medium | 2026-09-29 | [solution](problems/0738-heavy-non-overlapping-kv-sequence-compression) |
+| [Hierarchical Document Summarization Pipeline](https://www.deep-ml.com/problems/776) | medium | 2026-09-29 | [solution](problems/0776-hierarchical-document-summarization-pipeline) |
 | [Hypergeometric Distribution PMF](https://www.deep-ml.com/problems/245) | medium | 2026-08-04 | [solution](problems/0245-hypergeometric-distribution-pmf) |
 | [Implement a Hash Table from Scratch](https://www.deep-ml.com/problems/1088) | medium | 2026-09-07 | [solution](problems/1088-implement-a-hash-table-from-scratch) |
 | [Implement a Snapshot Array](https://www.deep-ml.com/problems/1084) | medium | 2026-09-07 | [solution](problems/1084-implement-a-snapshot-array) |
