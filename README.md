@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**819** solved · 748 problems · 13 labs · 58 math
+**820** solved · 749 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -528,6 +528,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Prioritized Experience Replay](https://www.deep-ml.com/problems/591) | medium | 2026-06-19 | [solution](problems/0591-prioritized-experience-replay) |
 | [Priority Queue in Planning](https://www.deep-ml.com/problems/528) | medium | 2026-09-17 | [solution](problems/0528-priority-queue-in-planning) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-08-11 | [solution](problems/0309-product-rule-for-derivatives) |
+| [Progressive Context Length Curriculum Scheduler](https://www.deep-ml.com/problems/751) | medium | 2026-09-29 | [solution](problems/0751-progressive-context-length-curriculum-scheduler) |
 | [PTX Loss for Catastrophic Forgetting Prevention (RLHF)](https://www.deep-ml.com/problems/232) | medium | 2026-08-04 | [solution](problems/0232-ptx-loss-for-catastrophic-forgetting-prevention-rlhf) |
 | [Pure-Python String Parsing and Tokenizing](https://www.deep-ml.com/problems/1242) | medium | 2026-09-10 | [solution](problems/1242-pure-python-string-parsing-and-tokenizing) |
 | [PyTrees: One SGD Step with tree_map](https://www.deep-ml.com/problems/1330) | medium | 2026-09-24 | [solution](problems/1330-pytrees-one-sgd-step-with-tree-map) |

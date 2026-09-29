@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:28:28.793Z",
+  "generated_at": "2026-09-29T14:29:18.477Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10531,6 +10531,19 @@
       "last_pushed_at": "2026-09-29T14:28:29.243Z",
       "language": "python",
       "lines": 39
+    },
+    "problem:751": {
+      "kind": "problem",
+      "id": "751",
+      "title": "Progressive Context Length Curriculum Scheduler",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/751",
+      "path": "problems/0751-progressive-context-length-curriculum-scheduler",
+      "first_solved_at": "2026-09-29T14:29:18.584Z",
+      "last_pushed_at": "2026-09-29T14:29:18.584Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
