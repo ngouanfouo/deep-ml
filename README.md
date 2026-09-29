@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**832** solved · 761 problems · 13 labs · 58 math
+**833** solved · 762 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -189,6 +189,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-08-04 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [Video Frame Sampling and Preprocessing Pipeline](https://www.deep-ml.com/problems/723) | easy | 2026-09-10 | [solution](problems/0723-video-frame-sampling-and-preprocessing-pipeline) |
 | [VLM Visual Token Count from Image Resolution and Patch Size](https://www.deep-ml.com/problems/442) | easy | 2026-09-28 | [solution](problems/0442-vlm-visual-token-count-from-image-resolution-and-patch-size) |
+| [Wu-Palmer Similarity Score for Open-ended QA Evaluation](https://www.deep-ml.com/problems/787) | easy | 2026-09-29 | [solution](problems/0787-wu-palmer-similarity-score-for-open-ended-qa-evaluation) |
 | [Your First CUDA Kernel: Thread Index](https://www.deep-ml.com/problems/1201) | easy | 2026-09-17 | [solution](problems/1201-your-first-cuda-kernel-thread-index) |
 | [Your First Gradient with jax.grad](https://www.deep-ml.com/problems/1325) | easy | 2026-09-10 | [solution](problems/1325-your-first-gradient-with-jax-grad) |
 | [1D Convolution with Shared-Memory Halo](https://www.deep-ml.com/problems/1310) | medium | 2026-09-17 | [solution](problems/1310-1d-convolution-with-shared-memory-halo) |
