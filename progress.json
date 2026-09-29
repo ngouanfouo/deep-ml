@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T15:43:49.262Z",
+  "generated_at": "2026-09-29T15:45:46.719Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10648,6 +10648,19 @@
       "last_pushed_at": "2026-09-29T15:43:50.086Z",
       "language": "python",
       "lines": 55
+    },
+    "problem:772": {
+      "kind": "problem",
+      "id": "772",
+      "title": "Duplicated N-gram Coverage Ratio",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/772",
+      "path": "problems/0772-duplicated-n-gram-coverage-ratio",
+      "first_solved_at": "2026-09-29T15:45:47.014Z",
+      "last_pushed_at": "2026-09-29T15:45:47.014Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
