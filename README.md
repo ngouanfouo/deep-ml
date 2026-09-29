@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**840** solved · 769 problems · 13 labs · 58 math
+**841** solved · 770 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -184,6 +184,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Thanksgiving Feast Predictor: Softmax for Dish Selection](https://www.deep-ml.com/problems/216) | easy | 2026-09-14 | [solution](problems/0216-thanksgiving-feast-predictor-softmax-for-dish-selection) |
 | [Token Distribution KL Divergence Filter](https://www.deep-ml.com/problems/771) | easy | 2026-09-29 | [solution](problems/0771-token-distribution-kl-divergence-filter) |
 | [Token Embedding Lookup Table](https://www.deep-ml.com/problems/945) | easy | 2026-09-25 | [solution](problems/0945-token-embedding-lookup-table) |
+| [Tokenizer with Unknown and End-of-Text Tokens](https://www.deep-ml.com/problems/943) | easy | 2026-09-29 | [solution](problems/0943-tokenizer-with-unknown-and-end-of-text-tokens) |
 | [Top-K Largest Elements in a List](https://www.deep-ml.com/problems/1137) | easy | 2026-09-10 | [solution](problems/1137-top-k-largest-elements-in-a-list) |
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2026-06-30 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-01-08 | [solution](problems/0002-transpose-of-a-matrix) |
