@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**838** solved · 767 problems · 13 labs · 58 math
+**839** solved · 768 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -160,6 +160,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2025-01-08 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Scalar Multiply (a * x)](https://www.deep-ml.com/problems/1203) | easy | 2026-09-17 | [solution](problems/1203-scalar-multiply-a-x) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-06-30 | [solution](problems/0022-sigmoid-activation-function-understanding) |
+| [Simple Word Tokenizer Encode and Decode](https://www.deep-ml.com/problems/942) | easy | 2026-09-29 | [solution](problems/0942-simple-word-tokenizer-encode-and-decode) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-07-03 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-07-03 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [State Aggregation for Value Approximation](https://www.deep-ml.com/problems/555) | easy | 2026-09-28 | [solution](problems/0555-state-aggregation-for-value-approximation) |
