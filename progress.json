@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:26:45.755Z",
+  "generated_at": "2026-09-29T14:27:17.564Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10505,6 +10505,19 @@
       "last_pushed_at": "2026-09-29T14:26:46.428Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:738": {
+      "kind": "problem",
+      "id": "738",
+      "title": "Heavy Non-Overlapping KV Sequence Compression",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/738",
+      "path": "problems/0738-heavy-non-overlapping-kv-sequence-compression",
+      "first_solved_at": "2026-09-29T14:27:18.020Z",
+      "last_pushed_at": "2026-09-29T14:27:18.020Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
