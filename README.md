@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**839** solved · 768 problems · 13 labs · 58 math
+**840** solved · 769 problems · 13 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-07-03 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-08-23 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Build a Multi-Armed Bandit Testbed](https://www.deep-ml.com/problems/542) | easy | 2026-09-01 | [solution](problems/0542-build-a-multi-armed-bandit-testbed) |
+| [Build Vocabulary from Token List](https://www.deep-ml.com/problems/941) | easy | 2026-09-29 | [solution](problems/0941-build-vocabulary-from-token-list) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2025-01-29 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-07-15 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Batch Prediction Health Metrics](https://www.deep-ml.com/problems/249) | easy | 2026-09-04 | [solution](problems/0249-calculate-batch-prediction-health-metrics) |
