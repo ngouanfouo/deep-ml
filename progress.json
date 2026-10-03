@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T18:20:11.689Z",
+  "generated_at": "2026-10-03T18:22:16.656Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10927,6 +10927,17 @@
       "path": "math/0205-one-update-two-signals-grpo-plus-lambda-times-sft-under-gradient-clipping",
       "first_solved_at": "2026-10-03T18:20:11.676Z",
       "last_pushed_at": "2026-10-03T18:20:11.676Z"
+    },
+    "math:204": {
+      "kind": "math",
+      "id": "204",
+      "title": "Deconfounded Evaluation: Macro Averages, Variable k and the Right x-Axis",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/204",
+      "path": "math/0204-deconfounded-evaluation-macro-averages-variable-k-and-the-right-x-axis",
+      "first_solved_at": "2026-10-03T18:22:16.368Z",
+      "last_pushed_at": "2026-10-03T18:22:16.368Z"
     }
   }
 }

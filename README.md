@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**851** solved · 770 problems · 13 labs · 68 math
+**852** solved · 770 problems · 13 labs · 69 math
 
 ![Coverage](./coverage.svg)
 
@@ -817,6 +817,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Cold Starts: Timeline, Weight Loading and Scale-Up Headroom](https://www.deep-ml.com/math-problems/170) | medium | 2026-09-24 | [solution](math/0170-cold-starts-timeline-weight-loading-and-scale-up-headroom) |
 | [Common Distributions II: Normal, Poisson, Exponential](https://www.deep-ml.com/math-problems/22) | medium | 2026-08-04 | [solution](math/0022-common-distributions-ii-normal-poisson-exponential) |
 | [CUPED: Variance Reduction with Pre-Experiment Data](https://www.deep-ml.com/math-problems/182) | medium | 2026-09-24 | [solution](math/0182-cuped-variance-reduction-with-pre-experiment-data) |
+| [Deconfounded Evaluation: Macro Averages, Variable k and the Right x-Axis](https://www.deep-ml.com/math-problems/204) | medium | 2026-10-03 | [solution](math/0204-deconfounded-evaluation-macro-averages-variable-k-and-the-right-x-axis) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-08-02 | [solution](math/0011-determinants-and-trace) |
 | [Difference-in-Differences and Parallel Trends](https://www.deep-ml.com/math-problems/176) | medium | 2026-09-24 | [solution](math/0176-difference-in-differences-and-parallel-trends) |
 | [Floating-Point Formats: Exponent, Mantissa, Range and Resolution](https://www.deep-ml.com/math-problems/165) | medium | 2026-09-25 | [solution](math/0165-floating-point-formats-exponent-mantissa-range-and-resolution) |
