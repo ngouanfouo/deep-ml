@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T20:01:16.837Z",
+  "generated_at": "2026-10-03T20:01:56.054Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11062,6 +11062,19 @@
       "last_pushed_at": "2026-10-03T20:01:16.916Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:610": {
+      "kind": "problem",
+      "id": "610",
+      "title": "Branching Factor Impact on Sample Backups",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/610",
+      "path": "problems/0610-branching-factor-impact-on-sample-backups",
+      "first_solved_at": "2026-10-03T20:01:55.922Z",
+      "last_pushed_at": "2026-10-03T20:01:55.922Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }

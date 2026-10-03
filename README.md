@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**862** solved · 777 problems · 13 labs · 72 math
+**863** solved · 778 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -248,6 +248,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bootstrap Parameter Lambda Study](https://www.deep-ml.com/problems/604) | medium | 2026-10-03 | [solution](problems/0604-bootstrap-parameter-lambda-study) |
 | [Boxed Answer Extraction for Math Benchmarks](https://www.deep-ml.com/problems/318) | medium | 2026-08-12 | [solution](problems/0318-boxed-answer-extraction-for-math-benchmarks) |
 | [Bradley-Terry Model for Pairwise Rankings](https://www.deep-ml.com/problems/322) | medium | 2026-08-12 | [solution](problems/0322-bradley-terry-model-for-pairwise-rankings) |
+| [Branching Factor Impact on Sample Backups](https://www.deep-ml.com/problems/610) | medium | 2026-10-03 | [solution](problems/0610-branching-factor-impact-on-sample-backups) |
 | [Budget-Constrained RL Loss](https://www.deep-ml.com/problems/228) | medium | 2026-07-29 | [solution](problems/0228-budget-constrained-rl-loss) |
 | [Build a Simple ETL Pipeline (MLOps)](https://www.deep-ml.com/problems/187) | medium | 2026-07-20 | [solution](problems/0187-build-a-simple-etl-pipeline-mlops) |
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-09-28 | [solution](problems/0490-build-scaled-dot-product-attention) |
