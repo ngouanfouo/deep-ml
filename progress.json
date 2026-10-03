@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T18:07:13.531Z",
+  "generated_at": "2026-10-03T18:09:10.146Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10861,6 +10861,17 @@
       "path": "math/0214-register-blocking-reuse-intensity-and-tile-size",
       "first_solved_at": "2026-10-03T18:07:13.456Z",
       "last_pushed_at": "2026-10-03T18:07:13.456Z"
+    },
+    "math:212": {
+      "kind": "math",
+      "id": "212",
+      "title": "Strides and Views: When a Reshape Is Free",
+      "difficulty": "medium",
+      "category": "ML Compilers",
+      "url": "https://www.deep-ml.com/math-problems/212",
+      "path": "math/0212-strides-and-views-when-a-reshape-is-free",
+      "first_solved_at": "2026-10-03T18:09:10.106Z",
+      "last_pushed_at": "2026-10-03T18:09:10.106Z"
     }
   }
 }

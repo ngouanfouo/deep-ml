@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**845** solved · 770 problems · 13 labs · 62 math
+**846** solved · 770 problems · 13 labs · 63 math
 
 ![Coverage](./coverage.svg)
 
@@ -845,6 +845,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Ring All-Reduce: Communication Volume and Time](https://www.deep-ml.com/math-problems/166) | medium | 2026-09-24 | [solution](math/0166-ring-all-reduce-communication-volume-and-time) |
 | [Speculative Decoding: Expected Accepted Tokens and Speedup](https://www.deep-ml.com/math-problems/168) | medium | 2026-09-24 | [solution](math/0168-speculative-decoding-expected-accepted-tokens-and-speedup) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-08-02 | [solution](math/0027-statistical-inference) |
+| [Strides and Views: When a Reshape Is Free](https://www.deep-ml.com/math-problems/212) | medium | 2026-10-03 | [solution](math/0212-strides-and-views-when-a-reshape-is-free) |
 | [Tail Latency: Percentiles, Fan-Out and Why the Mean Lies](https://www.deep-ml.com/math-problems/163) | medium | 2026-09-25 | [solution](math/0163-tail-latency-percentiles-fan-out-and-why-the-mean-lies) |
 | [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-09-25 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
 | [Tensor Parallelism: Communication per Layer and When It Pays](https://www.deep-ml.com/math-problems/167) | medium | 2026-09-24 | [solution](math/0167-tensor-parallelism-communication-per-layer-and-when-it-pays) |
