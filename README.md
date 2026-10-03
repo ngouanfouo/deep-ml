@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**841** solved · 770 problems · 13 labs · 58 math
+**842** solved · 770 problems · 13 labs · 59 math
 
 ![Coverage](./coverage.svg)
 
@@ -811,6 +811,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-09-25 | [solution](math/0005-gradient-descent-updates) |
 | [LoRA Parameter and Compute Arithmetic](https://www.deep-ml.com/math-problems/154) | easy | 2026-09-24 | [solution](math/0154-lora-parameter-and-compute-arithmetic) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-08-04 | [solution](math/0004-backpropagation-and-the-chain-rule) |
+| [Backpropagation Through Movement Ops](https://www.deep-ml.com/math-problems/217) | medium | 2026-10-03 | [solution](math/0217-backpropagation-through-movement-ops) |
 | [Bellman Expectation for State and Action Values](https://www.deep-ml.com/math-problems/55) | medium | 2026-09-24 | [solution](math/0055-bellman-expectation-for-state-and-action-values) |
 | [Cold Starts: Timeline, Weight Loading and Scale-Up Headroom](https://www.deep-ml.com/math-problems/170) | medium | 2026-09-24 | [solution](math/0170-cold-starts-timeline-weight-loading-and-scale-up-headroom) |
 | [Common Distributions II: Normal, Poisson, Exponential](https://www.deep-ml.com/math-problems/22) | medium | 2026-08-04 | [solution](math/0022-common-distributions-ii-normal-poisson-exponential) |
