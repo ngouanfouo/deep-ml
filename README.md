@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**860** solved · 775 problems · 13 labs · 72 math
+**861** solved · 776 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -165,6 +165,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-07-03 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-07-03 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [State Aggregation for Value Approximation](https://www.deep-ml.com/problems/555) | easy | 2026-09-28 | [solution](problems/0555-state-aggregation-for-value-approximation) |
+| [Step-Size Selection for Tile Coding](https://www.deep-ml.com/problems/608) | easy | 2026-10-03 | [solution](problems/0608-step-size-selection-for-tile-coding) |
 | [Target Network Update for Stable Learning](https://www.deep-ml.com/problems/590) | easy | 2026-09-28 | [solution](problems/0590-target-network-update-for-stable-learning) |
 | [Temporal Frame Aggregation for Video Understanding](https://www.deep-ml.com/problems/784) | easy | 2026-09-10 | [solution](problems/0784-temporal-frame-aggregation-for-video-understanding) |
 | [Tensor Puzzle: Circular Roll by One](https://www.deep-ml.com/problems/1277) | easy | 2026-09-24 | [solution](problems/1277-tensor-puzzle-circular-roll-by-one) |
