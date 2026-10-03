@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T20:00:25.696Z",
+  "generated_at": "2026-10-03T20:01:16.837Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11049,6 +11049,19 @@
       "last_pushed_at": "2026-10-03T20:00:25.739Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:609": {
+      "kind": "problem",
+      "id": "609",
+      "title": "Efficient Gradient Computation for Binary Features",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/609",
+      "path": "problems/0609-efficient-gradient-computation-for-binary-features",
+      "first_solved_at": "2026-10-03T20:01:16.916Z",
+      "last_pushed_at": "2026-10-03T20:01:16.916Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
