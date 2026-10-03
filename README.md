@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**849** solved · 770 problems · 13 labs · 66 math
+**850** solved · 770 problems · 13 labs · 67 math
 
 ![Coverage](./coverage.svg)
 
@@ -826,6 +826,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-08-04 | [solution](math/0024-information-theory-entropy) |
 | [Instrumental Variables and the Wald Estimator](https://www.deep-ml.com/math-problems/177) | medium | 2026-09-24 | [solution](math/0177-instrumental-variables-and-the-wald-estimator) |
 | [Interference, Cluster Randomization and the Design Effect](https://www.deep-ml.com/math-problems/181) | medium | 2026-09-24 | [solution](math/0181-interference-cluster-randomization-and-the-design-effect) |
+| [Internalizing Context: Learning from Tokens the Model Never Generates](https://www.deep-ml.com/math-problems/206) | medium | 2026-10-03 | [solution](math/0206-internalizing-context-learning-from-tokens-the-model-never-generates) |
 | [Kernel Fusion Arithmetic: Bytes Saved and Launches Avoided](https://www.deep-ml.com/math-problems/173) | medium | 2026-09-22 | [solution](math/0173-kernel-fusion-arithmetic-bytes-saved-and-launches-avoided) |
 | [Law of Large Numbers and Central Limit Theorem](https://www.deep-ml.com/math-problems/23) | medium | 2026-08-04 | [solution](math/0023-law-of-large-numbers-and-central-limit-theorem) |
 | [LDA versus PCA: Separation or Variance](https://www.deep-ml.com/math-problems/146) | medium | 2026-09-25 | [solution](math/0146-lda-versus-pca-separation-or-variance) |

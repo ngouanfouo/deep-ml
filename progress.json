@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T18:15:57.658Z",
+  "generated_at": "2026-10-03T18:17:43.690Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10905,6 +10905,17 @@
       "path": "math/0207-measuring-insight-advantage-too-easy-and-too-hard-ratios-reliance-and-drift",
       "first_solved_at": "2026-10-03T18:15:57.564Z",
       "last_pushed_at": "2026-10-03T18:15:57.564Z"
+    },
+    "math:206": {
+      "kind": "math",
+      "id": "206",
+      "title": "Internalizing Context: Learning from Tokens the Model Never Generates",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/206",
+      "path": "math/0206-internalizing-context-learning-from-tokens-the-model-never-generates",
+      "first_solved_at": "2026-10-03T18:17:43.535Z",
+      "last_pushed_at": "2026-10-03T18:17:43.535Z"
     }
   }
 }
