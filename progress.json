@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T18:51:31.847Z",
+  "generated_at": "2026-10-03T19:55:03.076Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10971,6 +10971,19 @@
       "path": "math/0201-symmetries-parallel-chains-and-soundness-as-a-metric",
       "first_solved_at": "2026-10-03T18:51:30.147Z",
       "last_pushed_at": "2026-10-03T18:51:30.147Z"
+    },
+    "problem:603": {
+      "kind": "problem",
+      "id": "603",
+      "title": "Action-Conditional Trace Clearing",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/603",
+      "path": "problems/0603-action-conditional-trace-clearing",
+      "first_solved_at": "2026-10-03T19:55:03.096Z",
+      "last_pushed_at": "2026-10-03T19:55:03.096Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
