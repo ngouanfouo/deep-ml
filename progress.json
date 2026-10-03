@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T18:12:28.299Z",
+  "generated_at": "2026-10-03T18:14:18.697Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10883,6 +10883,17 @@
       "path": "math/0213-loop-nests-and-flops-of-expand-reduce-formulations",
       "first_solved_at": "2026-10-03T18:12:28.224Z",
       "last_pushed_at": "2026-10-03T18:12:28.224Z"
+    },
+    "math:208": {
+      "kind": "math",
+      "id": "208",
+      "title": "Entropy Collapse on Hard Tasks and Positive-Ratio Filtering",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/208",
+      "path": "math/0208-entropy-collapse-on-hard-tasks-and-positive-ratio-filtering",
+      "first_solved_at": "2026-10-03T18:14:18.568Z",
+      "last_pushed_at": "2026-10-03T18:14:18.568Z"
     }
   }
 }
