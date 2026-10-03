@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T19:55:03.076Z",
+  "generated_at": "2026-10-03T19:56:49.072Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10984,6 +10984,19 @@
       "last_pushed_at": "2026-10-03T19:55:03.096Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:604": {
+      "kind": "problem",
+      "id": "604",
+      "title": "Bootstrap Parameter Lambda Study",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/604",
+      "path": "problems/0604-bootstrap-parameter-lambda-study",
+      "first_solved_at": "2026-10-03T19:56:49.077Z",
+      "last_pushed_at": "2026-10-03T19:56:49.077Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }

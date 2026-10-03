@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**856** solved · 771 problems · 13 labs · 72 math
+**857** solved · 772 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -243,6 +243,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Block-wise FP8 Quantization](https://www.deep-ml.com/problems/234) | medium | 2026-08-04 | [solution](problems/0234-block-wise-fp8-quantization) |
 | [Blocking Maze Environment for Testing Dyna-Q+](https://www.deep-ml.com/problems/565) | medium | 2026-09-28 | [solution](problems/0565-blocking-maze-environment-for-testing-dyna-q) |
 | [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2026-07-04 | [solution](problems/0090-bm25-ranking) |
+| [Bootstrap Parameter Lambda Study](https://www.deep-ml.com/problems/604) | medium | 2026-10-03 | [solution](problems/0604-bootstrap-parameter-lambda-study) |
 | [Boxed Answer Extraction for Math Benchmarks](https://www.deep-ml.com/problems/318) | medium | 2026-08-12 | [solution](problems/0318-boxed-answer-extraction-for-math-benchmarks) |
 | [Bradley-Terry Model for Pairwise Rankings](https://www.deep-ml.com/problems/322) | medium | 2026-08-12 | [solution](problems/0322-bradley-terry-model-for-pairwise-rankings) |
 | [Budget-Constrained RL Loss](https://www.deep-ml.com/problems/228) | medium | 2026-07-29 | [solution](problems/0228-budget-constrained-rl-loss) |
