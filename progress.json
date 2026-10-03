@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T18:22:16.656Z",
+  "generated_at": "2026-10-03T18:24:23.544Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10938,6 +10938,17 @@
       "path": "math/0204-deconfounded-evaluation-macro-averages-variable-k-and-the-right-x-axis",
       "first_solved_at": "2026-10-03T18:22:16.368Z",
       "last_pushed_at": "2026-10-03T18:22:16.368Z"
+    },
+    "math:203": {
+      "kind": "math",
+      "id": "203",
+      "title": "Sequential Attempts with Insights: Breaking the i.i.d. Bound",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/203",
+      "path": "math/0203-sequential-attempts-with-insights-breaking-the-i-i-d-bound",
+      "first_solved_at": "2026-10-03T18:24:23.500Z",
+      "last_pushed_at": "2026-10-03T18:24:23.500Z"
     }
   }
 }

@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**852** solved · 770 problems · 13 labs · 69 math
+**853** solved · 770 problems · 13 labs · 70 math
 
 ![Coverage](./coverage.svg)
 
@@ -848,6 +848,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Regression Tree Splits as Variance Reduction](https://www.deep-ml.com/math-problems/150) | medium | 2026-09-24 | [solution](math/0150-regression-tree-splits-as-variance-reduction) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-08-04 | [solution](math/0031-regularization-and-generalization) |
 | [Ring All-Reduce: Communication Volume and Time](https://www.deep-ml.com/math-problems/166) | medium | 2026-09-24 | [solution](math/0166-ring-all-reduce-communication-volume-and-time) |
+| [Sequential Attempts with Insights: Breaking the i.i.d. Bound](https://www.deep-ml.com/math-problems/203) | medium | 2026-10-03 | [solution](math/0203-sequential-attempts-with-insights-breaking-the-i-i-d-bound) |
 | [Speculative Decoding: Expected Accepted Tokens and Speedup](https://www.deep-ml.com/math-problems/168) | medium | 2026-09-24 | [solution](math/0168-speculative-decoding-expected-accepted-tokens-and-speedup) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-08-02 | [solution](math/0027-statistical-inference) |
 | [Strides and Views: When a Reshape Is Free](https://www.deep-ml.com/math-problems/212) | medium | 2026-10-03 | [solution](math/0212-strides-and-views-when-a-reshape-is-free) |
