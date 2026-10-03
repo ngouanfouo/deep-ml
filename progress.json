@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T18:24:23.544Z",
+  "generated_at": "2026-10-03T18:32:17.756Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10949,6 +10949,17 @@
       "path": "math/0203-sequential-attempts-with-insights-breaking-the-i-i-d-bound",
       "first_solved_at": "2026-10-03T18:24:23.500Z",
       "last_pushed_at": "2026-10-03T18:24:23.500Z"
+    },
+    "math:202": {
+      "kind": "math",
+      "id": "202",
+      "title": "The Learning Barrier: Why All-Fail Groups Teach Nothing",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/202",
+      "path": "math/0202-the-learning-barrier-why-all-fail-groups-teach-nothing",
+      "first_solved_at": "2026-10-03T18:32:17.629Z",
+      "last_pushed_at": "2026-10-03T18:32:17.629Z"
     }
   }
 }
