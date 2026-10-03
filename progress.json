@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T18:17:43.690Z",
+  "generated_at": "2026-10-03T18:20:11.689Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10916,6 +10916,17 @@
       "path": "math/0206-internalizing-context-learning-from-tokens-the-model-never-generates",
       "first_solved_at": "2026-10-03T18:17:43.535Z",
       "last_pushed_at": "2026-10-03T18:17:43.535Z"
+    },
+    "math:205": {
+      "kind": "math",
+      "id": "205",
+      "title": "One Update, Two Signals: GRPO plus Lambda Times SFT under Gradient Clipping",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/205",
+      "path": "math/0205-one-update-two-signals-grpo-plus-lambda-times-sft-under-gradient-clipping",
+      "first_solved_at": "2026-10-03T18:20:11.676Z",
+      "last_pushed_at": "2026-10-03T18:20:11.676Z"
     }
   }
 }
