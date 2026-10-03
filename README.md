@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**857** solved · 772 problems · 13 labs · 72 math
+**858** solved · 773 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -603,6 +603,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Thread-Safe Producer-Consumer Bounded Buffer](https://www.deep-ml.com/problems/1100) | medium | 2026-09-07 | [solution](problems/1100-thread-safe-producer-consumer-bounded-buffer) |
 | [Tile Coding Implementation](https://www.deep-ml.com/problems/533) | medium | 2026-09-17 | [solution](problems/0533-tile-coding-implementation) |
 | [Tiled Matrix Multiply CUDA Kernel](https://www.deep-ml.com/problems/1187) | medium | 2026-09-15 | [solution](problems/1187-tiled-matrix-multiply-cuda-kernel) |
+| [Tiling Offset Strategy Comparison](https://www.deep-ml.com/problems/605) | medium | 2026-10-03 | [solution](problems/0605-tiling-offset-strategy-comparison) |
 | [Token-Bucket Rate Limiter with Per-User Quotas](https://www.deep-ml.com/problems/1098) | medium | 2026-09-07 | [solution](problems/1098-token-bucket-rate-limiter-with-per-user-quotas) |
 | [Top-3 Salaries Per Department](https://www.deep-ml.com/problems/1111) | medium | 2026-07-09 | [solution](problems/1111-top-3-salaries-per-department) |
 | [Top-p (Nucleus) Sampling](https://www.deep-ml.com/problems/383) | medium | 2026-08-27 | [solution](problems/0383-top-p-nucleus-sampling) |

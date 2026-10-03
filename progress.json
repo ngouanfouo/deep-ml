@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T19:56:49.072Z",
+  "generated_at": "2026-10-03T19:57:46.401Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10997,6 +10997,19 @@
       "last_pushed_at": "2026-10-03T19:56:49.077Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:605": {
+      "kind": "problem",
+      "id": "605",
+      "title": "Tiling Offset Strategy Comparison",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/605",
+      "path": "problems/0605-tiling-offset-strategy-comparison",
+      "first_solved_at": "2026-10-03T19:57:46.210Z",
+      "last_pushed_at": "2026-10-03T19:57:46.210Z",
+      "language": "python",
+      "lines": 50
     }
   }
 }
