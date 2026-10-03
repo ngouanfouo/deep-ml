@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T18:09:10.146Z",
+  "generated_at": "2026-10-03T18:12:28.299Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10872,6 +10872,17 @@
       "path": "math/0212-strides-and-views-when-a-reshape-is-free",
       "first_solved_at": "2026-10-03T18:09:10.106Z",
       "last_pushed_at": "2026-10-03T18:09:10.106Z"
+    },
+    "math:213": {
+      "kind": "math",
+      "id": "213",
+      "title": "Loop Nests and FLOPs of Expand-Reduce Formulations",
+      "difficulty": "easy",
+      "category": "ML Compilers",
+      "url": "https://www.deep-ml.com/math-problems/213",
+      "path": "math/0213-loop-nests-and-flops-of-expand-reduce-formulations",
+      "first_solved_at": "2026-10-03T18:12:28.224Z",
+      "last_pushed_at": "2026-10-03T18:12:28.224Z"
     }
   }
 }
