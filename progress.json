@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T19:57:46.401Z",
+  "generated_at": "2026-10-03T19:58:41.262Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11010,6 +11010,19 @@
       "last_pushed_at": "2026-10-03T19:57:46.210Z",
       "language": "python",
       "lines": 50
+    },
+    "problem:606": {
+      "kind": "problem",
+      "id": "606",
+      "title": "Directional Stripe Tilings",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/606",
+      "path": "problems/0606-directional-stripe-tilings",
+      "first_solved_at": "2026-10-03T19:58:41.280Z",
+      "last_pushed_at": "2026-10-03T19:58:41.280Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }

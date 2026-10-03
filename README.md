@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**858** solved · 773 problems · 13 labs · 72 math
+**859** solved · 774 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -313,6 +313,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Diffusion Model U-Net Time Embedding](https://www.deep-ml.com/problems/399) | medium | 2026-09-14 | [solution](problems/0399-diffusion-model-u-net-time-embedding) |
 | [Diffusion Reconstruction Loss](https://www.deep-ml.com/problems/302) | medium | 2026-08-11 | [solution](problems/0302-diffusion-reconstruction-loss) |
 | [Direct Preference Optimization (DPO) Loss](https://www.deep-ml.com/problems/382) | medium | 2026-08-25 | [solution](problems/0382-direct-preference-optimization-dpo-loss) |
+| [Directional Stripe Tilings](https://www.deep-ml.com/problems/606) | medium | 2026-10-03 | [solution](problems/0606-directional-stripe-tilings) |
 | [Distance Correlation for Measuring Metadata Dependence](https://www.deep-ml.com/problems/359) | medium | 2026-08-21 | [solution](problems/0359-distance-correlation-for-measuring-metadata-dependence) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-06-12 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Domain Expert Model Fusion](https://www.deep-ml.com/problems/348) | medium | 2026-08-21 | [solution](problems/0348-domain-expert-model-fusion) |
