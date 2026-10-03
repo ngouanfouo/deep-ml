@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T20:01:56.054Z",
+  "generated_at": "2026-10-03T20:03:05.580Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11075,6 +11075,19 @@
       "last_pushed_at": "2026-10-03T20:01:55.922Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:611": {
+      "kind": "problem",
+      "id": "611",
+      "title": "Feature Receptive Field Visualization",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/611",
+      "path": "problems/0611-feature-receptive-field-visualization",
+      "first_solved_at": "2026-10-03T20:03:05.644Z",
+      "last_pushed_at": "2026-10-03T20:03:05.644Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }

@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**863** solved · 778 problems · 13 labs · 72 math
+**864** solved · 779 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -76,6 +76,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Exact Match Score with Normalization](https://www.deep-ml.com/problems/325) | easy | 2026-09-29 | [solution](problems/0325-exact-match-score-with-normalization) |
 | [Exponential Moving Average (EMA) for Diffusion Model Weights](https://www.deep-ml.com/problems/401) | easy | 2026-09-14 | [solution](problems/0401-exponential-moving-average-ema-for-diffusion-model-weights) |
 | [Exponential Weighted Average of Rewards](https://www.deep-ml.com/problems/161) | easy | 2026-09-17 | [solution](problems/0161-exponential-weighted-average-of-rewards) |
+| [Feature Receptive Field Visualization](https://www.deep-ml.com/problems/611) | easy | 2026-10-03 | [solution](problems/0611-feature-receptive-field-visualization) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-06-11 | [solution](problems/0016-feature-scaling-implementation) |
 | [Fill-in-the-Middle Document Transformation](https://www.deep-ml.com/problems/757) | easy | 2026-09-29 | [solution](problems/0757-fill-in-the-middle-document-transformation) |
 | [First Frame Anchor Noise Injection](https://www.deep-ml.com/problems/460) | easy | 2026-09-28 | [solution](problems/0460-first-frame-anchor-noise-injection) |
