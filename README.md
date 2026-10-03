@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**859** solved · 774 problems · 13 labs · 72 math
+**860** solved · 775 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -340,6 +340,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Expected SARSA Algorithm for Policy Evaluation and Control](https://www.deep-ml.com/problems/476) | medium | 2026-09-17 | [solution](problems/0476-expected-sarsa-algorithm-for-policy-evaluation-and-control) |
 | [Expected vs Sample Updates Comparison](https://www.deep-ml.com/problems/566) | medium | 2026-09-28 | [solution](problems/0566-expected-vs-sample-updates-comparison) |
 | [Experience Replay Implementation](https://www.deep-ml.com/problems/537) | medium | 2026-09-18 | [solution](problems/0537-experience-replay-implementation) |
+| [Feature Density and Approximation Quality](https://www.deep-ml.com/problems/607) | medium | 2026-10-03 | [solution](problems/0607-feature-density-and-approximation-quality) |
 | [Feature Drift Detection using Population Stability Index](https://www.deep-ml.com/problems/253) | medium | 2026-08-04 | [solution](problems/0253-feature-drift-detection-using-population-stability-index) |
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-06-19 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-07-07 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
