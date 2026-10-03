@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T18:14:18.697Z",
+  "generated_at": "2026-10-03T18:15:57.658Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10894,6 +10894,17 @@
       "path": "math/0208-entropy-collapse-on-hard-tasks-and-positive-ratio-filtering",
       "first_solved_at": "2026-10-03T18:14:18.568Z",
       "last_pushed_at": "2026-10-03T18:14:18.568Z"
+    },
+    "math:207": {
+      "kind": "math",
+      "id": "207",
+      "title": "Measuring Insight: Advantage, Too-Easy and Too-Hard Ratios, Reliance and Drift",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/207",
+      "path": "math/0207-measuring-insight-advantage-too-easy-and-too-hard-ratios-reliance-and-drift",
+      "first_solved_at": "2026-10-03T18:15:57.564Z",
+      "last_pushed_at": "2026-10-03T18:15:57.564Z"
     }
   }
 }
