@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T17:54:17.930Z",
+  "generated_at": "2026-10-03T17:57:28.691Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10828,6 +10828,17 @@
       "path": "math/0217-backpropagation-through-movement-ops",
       "first_solved_at": "2026-10-03T17:54:16.437Z",
       "last_pushed_at": "2026-10-03T17:54:16.437Z"
+    },
+    "math:216": {
+      "kind": "math",
+      "id": "216",
+      "title": "GPU Mapping: Coalescing, Occupancy and Tensor-Core Tiles",
+      "difficulty": "medium",
+      "category": "ML Compilers",
+      "url": "https://www.deep-ml.com/math-problems/216",
+      "path": "math/0216-gpu-mapping-coalescing-occupancy-and-tensor-core-tiles",
+      "first_solved_at": "2026-10-03T17:57:28.698Z",
+      "last_pushed_at": "2026-10-03T17:57:28.698Z"
     }
   }
 }
