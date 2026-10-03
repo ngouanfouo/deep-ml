@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T17:57:28.691Z",
+  "generated_at": "2026-10-03T18:04:21.422Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10839,6 +10839,17 @@
       "path": "math/0216-gpu-mapping-coalescing-occupancy-and-tensor-core-tiles",
       "first_solved_at": "2026-10-03T17:57:28.698Z",
       "last_pushed_at": "2026-10-03T17:57:28.698Z"
+    },
+    "math:215": {
+      "kind": "math",
+      "id": "215",
+      "title": "Memory Traffic of Fused and Unfused Kernels",
+      "difficulty": "medium",
+      "category": "ML Compilers",
+      "url": "https://www.deep-ml.com/math-problems/215",
+      "path": "math/0215-memory-traffic-of-fused-and-unfused-kernels",
+      "first_solved_at": "2026-10-03T18:04:20.649Z",
+      "last_pushed_at": "2026-10-03T18:04:20.649Z"
     }
   }
 }
