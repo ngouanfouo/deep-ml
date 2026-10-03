@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T18:32:17.756Z",
+  "generated_at": "2026-10-03T18:51:31.847Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -10960,6 +10960,17 @@
       "path": "math/0202-the-learning-barrier-why-all-fail-groups-teach-nothing",
       "first_solved_at": "2026-10-03T18:32:17.629Z",
       "last_pushed_at": "2026-10-03T18:32:17.629Z"
+    },
+    "math:201": {
+      "kind": "math",
+      "id": "201",
+      "title": "Symmetries, Parallel Chains and Soundness as a Metric",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/201",
+      "path": "math/0201-symmetries-parallel-chains-and-soundness-as-a-metric",
+      "first_solved_at": "2026-10-03T18:51:30.147Z",
+      "last_pushed_at": "2026-10-03T18:51:30.147Z"
     }
   }
 }
