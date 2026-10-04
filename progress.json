@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T20:03:05.580Z",
+  "generated_at": "2026-10-04T23:29:16.113Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11088,6 +11088,19 @@
       "last_pushed_at": "2026-10-03T20:03:05.644Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:612": {
+      "kind": "problem",
+      "id": "612",
+      "title": "Value Generalization Pattern Analysis",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/612",
+      "path": "problems/0612-value-generalization-pattern-analysis",
+      "first_solved_at": "2026-10-04T23:29:15.474Z",
+      "last_pushed_at": "2026-10-04T23:29:15.474Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }
