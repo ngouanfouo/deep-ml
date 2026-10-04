@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**870** solved · 785 problems · 13 labs · 72 math
+**871** solved · 786 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -136,6 +136,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-09-14 | [solution](problems/0146-momentum-optimizer) |
 | [Multi-layer ViT Feature Concatenation](https://www.deep-ml.com/problems/783) | easy | 2026-09-10 | [solution](problems/0783-multi-layer-vit-feature-concatenation) |
 | [Nesterov Accelerated Gradient Optimizer](https://www.deep-ml.com/problems/150) | easy | 2026-09-14 | [solution](problems/0150-nesterov-accelerated-gradient-optimizer) |
+| [Off-line vs On-line TD(0) Prediction](https://www.deep-ml.com/problems/626) | easy | 2026-10-04 | [solution](problems/0626-off-line-vs-on-line-td-0-prediction) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-07-03 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Optimal Policy Extraction from Q-Values](https://www.deep-ml.com/problems/466) | easy | 2026-09-17 | [solution](problems/0466-optimal-policy-extraction-from-q-values) |
 | [Optimistic Initialization for Exploration](https://www.deep-ml.com/problems/509) | easy | 2026-09-17 | [solution](problems/0509-optimistic-initialization-for-exploration) |
