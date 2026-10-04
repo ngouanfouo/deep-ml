@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T23:41:38.538Z",
+  "generated_at": "2026-10-04T23:42:25.737Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11270,6 +11270,19 @@
       "last_pushed_at": "2026-10-04T23:41:38.082Z",
       "language": "python",
       "lines": 41
+    },
+    "problem:415": {
+      "kind": "problem",
+      "id": "415",
+      "title": "Roofline Model Analysis for GPU Operations",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/415",
+      "path": "problems/0415-roofline-model-analysis-for-gpu-operations",
+      "first_solved_at": "2026-10-04T23:42:25.109Z",
+      "last_pushed_at": "2026-10-04T23:42:25.109Z",
+      "language": "python",
+      "lines": 52
     }
   }
 }
