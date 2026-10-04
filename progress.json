@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T23:35:28.063Z",
+  "generated_at": "2026-10-04T23:36:15.838Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11192,6 +11192,19 @@
       "last_pushed_at": "2026-10-04T23:35:26.546Z",
       "language": "python",
       "lines": 50
+    },
+    "problem:628": {
+      "kind": "problem",
+      "id": "628",
+      "title": "Two-Ply Search with Value Function",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/628",
+      "path": "problems/0628-two-ply-search-with-value-function",
+      "first_solved_at": "2026-10-04T23:36:15.106Z",
+      "last_pushed_at": "2026-10-04T23:36:15.106Z",
+      "language": "python",
+      "lines": 42
     }
   }
 }

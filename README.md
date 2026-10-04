@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**872** solved · 787 problems · 13 labs · 72 math
+**873** solved · 788 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -626,6 +626,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tree and Graph Coding Drills](https://www.deep-ml.com/problems/1090) | medium | 2026-09-10 | [solution](problems/1090-tree-and-graph-coding-drills) |
 | [Triplet Margin Loss](https://www.deep-ml.com/problems/387) | medium | 2026-09-14 | [solution](problems/0387-triplet-margin-loss) |
 | [Truncated SVD Rank-r Approximation of Weight Updates](https://www.deep-ml.com/problems/872) | medium | 2026-09-24 | [solution](problems/0872-truncated-svd-rank-r-approximation-of-weight-updates) |
+| [Two-Ply Search with Value Function](https://www.deep-ml.com/problems/628) | medium | 2026-10-04 | [solution](problems/0628-two-ply-search-with-value-function) |
 | [Types of Eligibility Traces](https://www.deep-ml.com/problems/523) | medium | 2026-09-17 | [solution](problems/0523-types-of-eligibility-traces) |
 | [Unified History Injection for Autoregressive Video Diffusion](https://www.deep-ml.com/problems/463) | medium | 2026-09-28 | [solution](problems/0463-unified-history-injection-for-autoregressive-video-diffusion) |
 | [Union-Find Connected Components for Image Deduplication](https://www.deep-ml.com/problems/791) | medium | 2026-09-10 | [solution](problems/0791-union-find-connected-components-for-image-deduplication) |
