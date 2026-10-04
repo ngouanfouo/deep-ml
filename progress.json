@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T23:36:15.838Z",
+  "generated_at": "2026-10-04T23:36:53.143Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11205,6 +11205,19 @@
       "last_pushed_at": "2026-10-04T23:36:15.106Z",
       "language": "python",
       "lines": 42
+    },
+    "problem:629": {
+      "kind": "problem",
+      "id": "629",
+      "title": "Self-Play Training Loop for Two-Player Games",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/629",
+      "path": "problems/0629-self-play-training-loop-for-two-player-games",
+      "first_solved_at": "2026-10-04T23:36:52.638Z",
+      "last_pushed_at": "2026-10-04T23:36:52.638Z",
+      "language": "python",
+      "lines": 60
     }
   }
 }

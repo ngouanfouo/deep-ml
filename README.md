@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**873** solved · 788 problems · 13 labs · 72 math
+**874** solved · 789 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -584,6 +584,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Rubric-Based LLM Judge Evaluation](https://www.deep-ml.com/problems/317) | medium | 2026-08-11 | [solution](problems/0317-rubric-based-llm-judge-evaluation) |
 | [Running Median of a Data Stream](https://www.deep-ml.com/problems/1138) | medium | 2026-09-07 | [solution](problems/1138-running-median-of-a-data-stream) |
 | [Same-Domain Web Crawler (Sync and Concurrent)](https://www.deep-ml.com/problems/1096) | medium | 2026-09-10 | [solution](problems/1096-same-domain-web-crawler-sync-and-concurrent) |
+| [Self-Play Training Loop for Two-Player Games](https://www.deep-ml.com/problems/629) | medium | 2026-10-04 | [solution](problems/0629-self-play-training-loop-for-two-player-games) |
 | [Shared Memory Circular Buffer for RL](https://www.deep-ml.com/problems/680) | medium | 2026-09-07 | [solution](problems/0680-shared-memory-circular-buffer-for-rl) |
 | [Silhouette Score for Clustering Evaluation](https://www.deep-ml.com/problems/254) | medium | 2026-08-05 | [solution](problems/0254-silhouette-score-for-clustering-evaluation) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-06-12 | [solution](problems/0041-simple-convolutional-2d-layer) |
