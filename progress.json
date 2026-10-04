@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T23:29:16.113Z",
+  "generated_at": "2026-10-04T23:30:07.063Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11101,6 +11101,19 @@
       "last_pushed_at": "2026-10-04T23:29:15.474Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:613": {
+      "kind": "problem",
+      "id": "613",
+      "title": "RL Backup Diagram Generator",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/613",
+      "path": "problems/0613-rl-backup-diagram-generator",
+      "first_solved_at": "2026-10-04T23:30:05.893Z",
+      "last_pushed_at": "2026-10-04T23:30:05.893Z",
+      "language": "python",
+      "lines": 80
     }
   }
 }

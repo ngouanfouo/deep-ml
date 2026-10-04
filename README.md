@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**865** solved · 780 problems · 13 labs · 72 math
+**866** solved · 781 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -572,6 +572,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Reservoir Sampling from a Stream](https://www.deep-ml.com/problems/1145) | medium | 2026-09-10 | [solution](problems/1145-reservoir-sampling-from-a-stream) |
 | [Resumable Weighted Data Batcher](https://www.deep-ml.com/problems/1091) | medium | 2026-09-07 | [solution](problems/1091-resumable-weighted-data-batcher) |
 | [Reward Model Loss from Pairwise Human Preferences](https://www.deep-ml.com/problems/484) | medium | 2026-08-27 | [solution](problems/0484-reward-model-loss-from-pairwise-human-preferences) |
+| [RL Backup Diagram Generator](https://www.deep-ml.com/problems/613) | medium | 2026-10-04 | [solution](problems/0613-rl-backup-diagram-generator) |
 | [Robot Simulation on an Infinite Grid with Obstacles](https://www.deep-ml.com/problems/1142) | medium | 2026-09-10 | [solution](problems/1142-robot-simulation-on-an-infinite-grid-with-obstacles) |
 | [Rotary Positional Embeddings (RoPE)](https://www.deep-ml.com/problems/381) | medium | 2026-09-14 | [solution](problems/0381-rotary-positional-embeddings-rope) |
 | [Rubric-Based LLM Judge Evaluation](https://www.deep-ml.com/problems/317) | medium | 2026-08-11 | [solution](problems/0317-rubric-based-llm-judge-evaluation) |
