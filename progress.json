@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T23:33:15.605Z",
+  "generated_at": "2026-10-04T23:34:04.723Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11153,6 +11153,19 @@
       "last_pushed_at": "2026-10-04T23:33:14.866Z",
       "language": "python",
       "lines": 96
+    },
+    "problem:625": {
+      "kind": "problem",
+      "id": "625",
+      "title": "Forward vs Backward TD Updates",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/625",
+      "path": "problems/0625-forward-vs-backward-td-updates",
+      "first_solved_at": "2026-10-04T23:34:04.180Z",
+      "last_pushed_at": "2026-10-04T23:34:04.180Z",
+      "language": "python",
+      "lines": 84
     }
   }
 }

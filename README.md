@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**869** solved · 784 problems · 13 labs · 72 math
+**870** solved · 785 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -355,6 +355,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Fixed-Size Block Memory Allocator](https://www.deep-ml.com/problems/1191) | medium | 2026-09-07 | [solution](problems/1191-fixed-size-block-memory-allocator) |
 | [Forward & Backward Diffusion Process](https://www.deep-ml.com/problems/304) | medium | 2026-08-11 | [solution](problems/0304-forward-backward-diffusion-process) |
 | [Forward Diffusion Process](https://www.deep-ml.com/problems/303) | medium | 2026-08-11 | [solution](problems/0303-forward-diffusion-process) |
+| [Forward vs Backward TD Updates](https://www.deep-ml.com/problems/625) | medium | 2026-10-04 | [solution](problems/0625-forward-vs-backward-td-updates) |
 | [Frame-Aware Corrupt for Drift Simulation](https://www.deep-ml.com/problems/459) | medium | 2026-09-10 | [solution](problems/0459-frame-aware-corrupt-for-drift-simulation) |
 | [Frechet Inception Distance (FID) for Image Quality Evaluation](https://www.deep-ml.com/problems/724) | medium | 2026-09-10 | [solution](problems/0724-frechet-inception-distance-fid-for-image-quality-evaluation) |
 | [Full TD(0) Prediction for Value Estimation](https://www.deep-ml.com/problems/475) | medium | 2026-09-17 | [solution](problems/0475-full-td-0-prediction-for-value-estimation) |
