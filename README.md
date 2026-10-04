@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**875** solved · 790 problems · 13 labs · 72 math
+**876** solved · 791 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -501,6 +501,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Merge Intervals and Interval List Intersections](https://www.deep-ml.com/problems/1167) | medium | 2026-09-10 | [solution](problems/1167-merge-intervals-and-interval-list-intersections) |
 | [Million-Token Corpus Question Answering Evaluation](https://www.deep-ml.com/problems/763) | medium | 2026-09-29 | [solution](problems/0763-million-token-corpus-question-answering-evaluation) |
 | [Minimax Algorithm for Tic-Tac-Toe](https://www.deep-ml.com/problems/171) | medium | 2026-07-17 | [solution](problems/0171-minimax-algorithm-for-tic-tac-toe) |
+| [Minimax Backed-Up Scores](https://www.deep-ml.com/problems/631) | medium | 2026-10-04 | [solution](problems/0631-minimax-backed-up-scores) |
 | [Minimax with Learned Value Function](https://www.deep-ml.com/problems/619) | medium | 2026-10-04 | [solution](problems/0619-minimax-with-learned-value-function) |
 | [Minimum Remove to Make Valid Parentheses](https://www.deep-ml.com/problems/1159) | medium | 2026-09-10 | [solution](problems/1159-minimum-remove-to-make-valid-parentheses) |
 | [Mixed Precision Training](https://www.deep-ml.com/problems/160) | medium | 2026-07-17 | [solution](problems/0160-mixed-precision-training) |

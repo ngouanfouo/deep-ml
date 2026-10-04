@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T23:37:38.375Z",
+  "generated_at": "2026-10-04T23:38:21.259Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11231,6 +11231,19 @@
       "last_pushed_at": "2026-10-04T23:37:37.719Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:631": {
+      "kind": "problem",
+      "id": "631",
+      "title": "Minimax Backed-Up Scores",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/631",
+      "path": "problems/0631-minimax-backed-up-scores",
+      "first_solved_at": "2026-10-04T23:38:20.829Z",
+      "last_pushed_at": "2026-10-04T23:38:20.829Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }
