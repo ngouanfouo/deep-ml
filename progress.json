@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T23:36:53.143Z",
+  "generated_at": "2026-10-04T23:37:38.375Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11218,6 +11218,19 @@
       "last_pushed_at": "2026-10-04T23:36:52.638Z",
       "language": "python",
       "lines": 60
+    },
+    "problem:630": {
+      "kind": "problem",
+      "id": "630",
+      "title": "Rote Learning for Game States",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/630",
+      "path": "problems/0630-rote-learning-for-game-states",
+      "first_solved_at": "2026-10-04T23:37:37.719Z",
+      "last_pushed_at": "2026-10-04T23:37:37.719Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
