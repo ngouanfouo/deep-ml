@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T23:30:07.063Z",
+  "generated_at": "2026-10-04T23:30:55.689Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11114,6 +11114,19 @@
       "last_pushed_at": "2026-10-04T23:30:05.893Z",
       "language": "python",
       "lines": 80
+    },
+    "problem:616": {
+      "kind": "problem",
+      "id": "616",
+      "title": "Policy Gradient with Softmax Action Selection",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/616",
+      "path": "problems/0616-policy-gradient-with-softmax-action-selection",
+      "first_solved_at": "2026-10-04T23:30:55.188Z",
+      "last_pushed_at": "2026-10-04T23:30:55.188Z",
+      "language": "python",
+      "lines": 57
     }
   }
 }

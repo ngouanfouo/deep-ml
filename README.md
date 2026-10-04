@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**866** solved · 781 problems · 13 labs · 72 math
+**867** solved · 782 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -546,6 +546,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Persistent LRU Cache](https://www.deep-ml.com/problems/1095) | medium | 2026-09-07 | [solution](problems/1095-persistent-lru-cache) |
 | [Planning with Simulated Experience](https://www.deep-ml.com/problems/526) | medium | 2026-09-17 | [solution](problems/0526-planning-with-simulated-experience) |
 | [Poisson Deviance and Overdispersion](https://www.deep-ml.com/problems/1367) | medium | 2026-09-29 | [solution](problems/1367-poisson-deviance-and-overdispersion) |
+| [Policy Gradient with Softmax Action Selection](https://www.deep-ml.com/problems/616) | medium | 2026-10-04 | [solution](problems/0616-policy-gradient-with-softmax-action-selection) |
 | [Pose Accuracy Evaluation for World Models](https://www.deep-ml.com/problems/689) | medium | 2026-09-10 | [solution](problems/0689-pose-accuracy-evaluation-for-world-models) |
 | [Post-Training Quantization with Per-Channel Scale Factors](https://www.deep-ml.com/problems/426) | medium | 2026-09-28 | [solution](problems/0426-post-training-quantization-with-per-channel-scale-factors) |
 | [PPO Clipped Surrogate Loss with Clip Diagnostics](https://www.deep-ml.com/problems/485) | medium | 2026-08-25 | [solution](problems/0485-ppo-clipped-surrogate-loss-with-clip-diagnostics) |
