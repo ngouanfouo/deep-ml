@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T23:30:55.689Z",
+  "generated_at": "2026-10-04T23:31:39.633Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11127,6 +11127,19 @@
       "last_pushed_at": "2026-10-04T23:30:55.188Z",
       "language": "python",
       "lines": 57
+    },
+    "problem:619": {
+      "kind": "problem",
+      "id": "619",
+      "title": "Minimax with Learned Value Function",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/619",
+      "path": "problems/0619-minimax-with-learned-value-function",
+      "first_solved_at": "2026-10-04T23:31:38.859Z",
+      "last_pushed_at": "2026-10-04T23:31:38.859Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }
