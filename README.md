@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**876** solved · 791 problems · 13 labs · 72 math
+**877** solved · 792 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -280,6 +280,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Chunked Prefill Scheduling Alongside Decode](https://www.deep-ml.com/problems/441) | medium | 2026-09-04 | [solution](problems/0441-chunked-prefill-scheduling-alongside-decode) |
 | [Classifier-Free Guidance for Conditional Diffusion](https://www.deep-ml.com/problems/397) | medium | 2026-09-14 | [solution](problems/0397-classifier-free-guidance-for-conditional-diffusion) |
 | [Classify Critical Points Using Hessian Eigenvalues](https://www.deep-ml.com/problems/311) | medium | 2026-08-11 | [solution](problems/0311-classify-critical-points-using-hessian-eigenvalues) |
+| [Classify LLM Prefill vs Decode as Compute-Bound or Memory-Bound](https://www.deep-ml.com/problems/417) | medium | 2026-10-04 | [solution](problems/0417-classify-llm-prefill-vs-decode-as-compute-bound-or-memory-bound) |
 | [Cliff Walking: Sarsa vs Q-Learning](https://www.deep-ml.com/problems/518) | medium | 2026-09-17 | [solution](problems/0518-cliff-walking-sarsa-vs-q-learning) |
 | [Coalesced Matrix Transpose](https://www.deep-ml.com/problems/1309) | medium | 2026-09-17 | [solution](problems/1309-coalesced-matrix-transpose) |
 | [Coarse Coding Features](https://www.deep-ml.com/problems/532) | medium | 2026-09-17 | [solution](problems/0532-coarse-coding-features) |
