@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T23:34:50.796Z",
+  "generated_at": "2026-10-04T23:35:28.063Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11179,6 +11179,19 @@
       "last_pushed_at": "2026-10-04T23:34:50.100Z",
       "language": "python",
       "lines": 46
+    },
+    "problem:627": {
+      "kind": "problem",
+      "id": "627",
+      "title": "Backgammon Feature Engineering",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/627",
+      "path": "problems/0627-backgammon-feature-engineering",
+      "first_solved_at": "2026-10-04T23:35:26.546Z",
+      "last_pushed_at": "2026-10-04T23:35:26.546Z",
+      "language": "python",
+      "lines": 50
     }
   }
 }

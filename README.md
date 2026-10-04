@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**871** solved · 786 problems · 13 labs · 72 math
+**872** solved · 787 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -222,6 +222,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Aspect-Ratio Preserving Image Tiling for Vision Transformers](https://www.deep-ml.com/problems/793) | medium | 2026-09-10 | [solution](problems/0793-aspect-ratio-preserving-image-tiling-for-vision-transformers) |
 | [Asynchronous Dynamic Programming for Value Iteration](https://www.deep-ml.com/problems/468) | medium | 2026-09-17 | [solution](problems/0468-asynchronous-dynamic-programming-for-value-iteration) |
 | [Autocorrelation and the Ljung-Box Statistic](https://www.deep-ml.com/problems/1354) | medium | 2026-09-07 | [solution](problems/1354-autocorrelation-and-the-ljung-box-statistic) |
+| [Backgammon Feature Engineering](https://www.deep-ml.com/problems/627) | medium | 2026-10-04 | [solution](problems/0627-backgammon-feature-engineering) |
 | [Backpropagation Gradients for a Dense Layer](https://www.deep-ml.com/problems/1076) | medium | 2026-09-25 | [solution](problems/1076-backpropagation-gradients-for-a-dense-layer) |
 | [Backpropagation Through a Scalar Chain Network](https://www.deep-ml.com/problems/1075) | medium | 2026-09-25 | [solution](problems/1075-backpropagation-through-a-scalar-chain-network) |
 | [Baird's Counterexample: Off-Policy TD Divergence](https://www.deep-ml.com/problems/557) | medium | 2026-09-28 | [solution](problems/0557-baird-s-counterexample-off-policy-td-divergence) |
