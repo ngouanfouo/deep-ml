@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**877** solved · 792 problems · 13 labs · 72 math
+**878** solved · 793 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -52,6 +52,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compare Update Strategies in Policy Evaluation](https://www.deep-ml.com/problems/545) | easy | 2026-09-28 | [solution](problems/0545-compare-update-strategies-in-policy-evaluation) |
 | [Compiling Functions with jax.jit](https://www.deep-ml.com/problems/1327) | easy | 2026-09-24 | [solution](problems/1327-compiling-functions-with-jax-jit) |
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-06-26 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
+| [Compute Arithmetic Intensity and Classify Bottleneck](https://www.deep-ml.com/problems/414) | easy | 2026-10-04 | [solution](problems/0414-compute-arithmetic-intensity-and-classify-bottleneck) |
 | [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2026-08-25 | [solution](problems/0165-compute-discounted-return) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-08-23 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Compute PSNR for Image Reconstruction Quality](https://www.deep-ml.com/problems/713) | easy | 2026-09-10 | [solution](problems/0713-compute-psnr-for-image-reconstruction-quality) |

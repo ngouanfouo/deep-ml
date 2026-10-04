@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T23:40:50.484Z",
+  "generated_at": "2026-10-04T23:41:38.538Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11255,6 +11255,19 @@
       "path": "problems/0417-classify-llm-prefill-vs-decode-as-compute-bound-or-memory-bound",
       "first_solved_at": "2026-10-04T23:40:49.857Z",
       "last_pushed_at": "2026-10-04T23:40:49.857Z",
+      "language": "python",
+      "lines": 41
+    },
+    "problem:414": {
+      "kind": "problem",
+      "id": "414",
+      "title": "Compute Arithmetic Intensity and Classify Bottleneck",
+      "difficulty": "easy",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/414",
+      "path": "problems/0414-compute-arithmetic-intensity-and-classify-bottleneck",
+      "first_solved_at": "2026-10-04T23:41:38.082Z",
+      "last_pushed_at": "2026-10-04T23:41:38.082Z",
       "language": "python",
       "lines": 41
     }
