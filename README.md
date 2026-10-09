@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**881** solved · 796 problems · 13 labs · 72 math
+**882** solved · 797 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -752,6 +752,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Overlapping Weighted KV Compression](https://www.deep-ml.com/problems/735) | hard | 2026-08-21 | [solution](problems/0735-overlapping-weighted-kv-compression) |
 | [Parallel Environment Simulation with Multiprocessing](https://www.deep-ml.com/problems/655) | hard | 2026-08-04 | [solution](problems/0655-parallel-environment-simulation-with-multiprocessing) |
 | [Parallel Value Functions (Horde)](https://www.deep-ml.com/problems/585) | hard | 2026-08-02 | [solution](problems/0585-parallel-value-functions-horde) |
+| [Pattern Matching and Graph Rewrite to a Fixed Point](https://www.deep-ml.com/problems/1510) | hard | 2026-10-09 | [solution](problems/1510-pattern-matching-and-graph-rewrite-to-a-fixed-point) |
 | [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-09-01 | [solution](problems/0191-pca-color-augmentation) |
 | [Per-Layer Embedding Projection (PLE)](https://www.deep-ml.com/problems/1050) | hard | 2026-09-02 | [solution](problems/1050-per-layer-embedding-projection-ple) |
 | [Per-Sample Gradients with vmap(grad)](https://www.deep-ml.com/problems/1332) | hard | 2026-09-24 | [solution](problems/1332-per-sample-gradients-with-vmap-grad) |

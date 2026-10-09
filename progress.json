@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:28:32.232Z",
+  "generated_at": "2026-10-09T17:29:41.495Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11309,6 +11309,19 @@
       "last_pushed_at": "2026-10-09T17:28:32.672Z",
       "language": "python",
       "lines": 58
+    },
+    "problem:1510": {
+      "kind": "problem",
+      "id": "1510",
+      "title": "Pattern Matching and Graph Rewrite to a Fixed Point",
+      "difficulty": "hard",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1510",
+      "path": "problems/1510-pattern-matching-and-graph-rewrite-to-a-fixed-point",
+      "first_solved_at": "2026-10-09T17:29:42.204Z",
+      "last_pushed_at": "2026-10-09T17:29:42.204Z",
+      "language": "python",
+      "lines": 89
     }
   }
 }
