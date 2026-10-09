@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T18:02:39.907Z",
+  "generated_at": "2026-10-09T18:04:21.465Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11465,6 +11465,19 @@
       "last_pushed_at": "2026-10-09T18:02:39.969Z",
       "language": "python",
       "lines": 54
+    },
+    "problem:1522": {
+      "kind": "problem",
+      "id": "1522",
+      "title": "Register Blocking: Intensity and Register Budget of a Micro-Tile",
+      "difficulty": "easy",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1522",
+      "path": "problems/1522-register-blocking-intensity-and-register-budget-of-a-micro-tile",
+      "first_solved_at": "2026-10-09T18:04:22.046Z",
+      "last_pushed_at": "2026-10-09T18:04:22.046Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }

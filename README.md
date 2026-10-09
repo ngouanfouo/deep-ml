@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**893** solved · 808 problems · 13 labs · 72 math
+**894** solved · 809 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -154,6 +154,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-06-30 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Reasoning Effort System Prompt Injection](https://www.deep-ml.com/problems/761) | easy | 2026-09-29 | [solution](problems/0761-reasoning-effort-system-prompt-injection) |
 | [Regex-Based Text Tokenizer](https://www.deep-ml.com/problems/940) | easy | 2026-09-29 | [solution](problems/0940-regex-based-text-tokenizer) |
+| [Register Blocking: Intensity and Register Budget of a Micro-Tile](https://www.deep-ml.com/problems/1522) | easy | 2026-10-09 | [solution](problems/1522-register-blocking-intensity-and-register-budget-of-a-micro-tile) |
 | [Regularization via Information Bottleneck](https://www.deep-ml.com/problems/503) | easy | 2026-09-28 | [solution](problems/0503-regularization-via-information-bottleneck) |
 | [Rejection Sampling Best-of-K Selection](https://www.deep-ml.com/problems/768) | easy | 2026-09-25 | [solution](problems/0768-rejection-sampling-best-of-k-selection) |
 | [ReLU Activation](https://www.deep-ml.com/problems/1204) | easy | 2026-09-17 | [solution](problems/1204-relu-activation) |
