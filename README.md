@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**883** solved · 798 problems · 13 labs · 72 math
+**884** solved · 799 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -470,6 +470,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [In-Memory Key-Value Store with TTL and Snapshots](https://www.deep-ml.com/problems/1093) | medium | 2026-09-07 | [solution](problems/1093-in-memory-key-value-store-with-ttl-and-snapshots) |
 | [Inference Head Pruning for Transformers](https://www.deep-ml.com/problems/233) | medium | 2026-08-04 | [solution](problems/0233-inference-head-pruning-for-transformers) |
 | [Instance Normalization (IN) Implementation](https://www.deep-ml.com/problems/143) | medium | 2026-07-15 | [solution](problems/0143-instance-normalization-in-implementation) |
+| [Interval Bounds for Symbolic Index Expressions](https://www.deep-ml.com/problems/1512) | medium | 2026-10-09 | [solution](problems/1512-interval-bounds-for-symbolic-index-expressions) |
 | [Inverse Kinematics of a 2-Link Planar Arm](https://www.deep-ml.com/problems/1211) | medium | 2026-09-17 | [solution](problems/1211-inverse-kinematics-of-a-2-link-planar-arm) |
 | [Iterative Repair for Scheduling](https://www.deep-ml.com/problems/636) | medium | 2026-09-04 | [solution](problems/0636-iterative-repair-for-scheduling) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-07-20 | [solution](problems/0202-jacobian-matrix-calculation) |

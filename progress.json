@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:31:07.234Z",
+  "generated_at": "2026-10-09T17:32:17.294Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11335,6 +11335,19 @@
       "last_pushed_at": "2026-10-09T17:31:05.568Z",
       "language": "python",
       "lines": 98
+    },
+    "problem:1512": {
+      "kind": "problem",
+      "id": "1512",
+      "title": "Interval Bounds for Symbolic Index Expressions",
+      "difficulty": "medium",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1512",
+      "path": "problems/1512-interval-bounds-for-symbolic-index-expressions",
+      "first_solved_at": "2026-10-09T17:32:17.925Z",
+      "last_pushed_at": "2026-10-09T17:32:17.925Z",
+      "language": "python",
+      "lines": 83
     }
   }
 }
