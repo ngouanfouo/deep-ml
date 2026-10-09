@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:57:47.264Z",
+  "generated_at": "2026-10-09T17:59:28.401Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11426,6 +11426,19 @@
       "last_pushed_at": "2026-10-09T17:57:47.978Z",
       "language": "python",
       "lines": 61
+    },
+    "problem:1519": {
+      "kind": "problem",
+      "id": "1519",
+      "title": "Kernel Splitting: Realize Reductions and Fuse the Rest",
+      "difficulty": "medium",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1519",
+      "path": "problems/1519-kernel-splitting-realize-reductions-and-fuse-the-rest",
+      "first_solved_at": "2026-10-09T17:59:28.903Z",
+      "last_pushed_at": "2026-10-09T17:59:28.903Z",
+      "language": "python",
+      "lines": 88
     }
   }
 }
