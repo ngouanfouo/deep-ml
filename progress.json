@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T18:00:36.607Z",
+  "generated_at": "2026-10-09T18:02:39.907Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11452,6 +11452,19 @@
       "last_pushed_at": "2026-10-09T18:00:37.059Z",
       "language": "python",
       "lines": 123
+    },
+    "problem:1521": {
+      "kind": "problem",
+      "id": "1521",
+      "title": "Loop Tiling and Interchange on a Loop-Nest IR",
+      "difficulty": "medium",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1521",
+      "path": "problems/1521-loop-tiling-and-interchange-on-a-loop-nest-ir",
+      "first_solved_at": "2026-10-09T18:02:39.969Z",
+      "last_pushed_at": "2026-10-09T18:02:39.969Z",
+      "language": "python",
+      "lines": 54
     }
   }
 }

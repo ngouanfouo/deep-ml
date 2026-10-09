@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**892** solved · 807 problems · 13 labs · 72 math
+**893** solved · 808 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -491,6 +491,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Local Outlier Factor (LOF) Anomaly Score](https://www.deep-ml.com/problems/830) | medium | 2026-08-11 | [solution](problems/0830-local-outlier-factor-lof-anomaly-score) |
 | [Log-Probability Ratio for Token Sequences](https://www.deep-ml.com/problems/489) | medium | 2026-08-27 | [solution](problems/0489-log-probability-ratio-for-token-sequences) |
 | [Longest Substring / Subarray with Two Pointers](https://www.deep-ml.com/problems/1148) | medium | 2026-09-10 | [solution](problems/1148-longest-substring-subarray-with-two-pointers) |
+| [Loop Tiling and Interchange on a Loop-Nest IR](https://www.deep-ml.com/problems/1521) | medium | 2026-10-09 | [solution](problems/1521-loop-tiling-and-interchange-on-a-loop-nest-ir) |
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-07-29 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
 | [Lowest Common Ancestor of a Binary Tree](https://www.deep-ml.com/problems/1164) | medium | 2026-09-07 | [solution](problems/1164-lowest-common-ancestor-of-a-binary-tree) |
 | [LRU Memoization Decorator with Deterministic Key Generation](https://www.deep-ml.com/problems/1099) | medium | 2026-09-07 | [solution](problems/1099-lru-memoization-decorator-with-deterministic-key-generation) |
