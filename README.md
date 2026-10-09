@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**880** solved · 795 problems · 13 labs · 72 math
+**881** solved · 796 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [A NumPy Interpreter for a Tiny Tensor IR](https://www.deep-ml.com/problems/1509) | easy | 2026-10-09 | [solution](problems/1509-a-numpy-interpreter-for-a-tiny-tensor-ir) |
 | [Adagrad Optimizer](https://www.deep-ml.com/problems/145) | easy | 2026-09-14 | [solution](problems/0145-adagrad-optimizer) |
 | [Adamax Optimizer](https://www.deep-ml.com/problems/148) | easy | 2026-09-14 | [solution](problems/0148-adamax-optimizer) |
 | [Add Two Numbers as Linked Lists](https://www.deep-ml.com/problems/1086) | easy | 2026-09-07 | [solution](problems/1086-add-two-numbers-as-linked-lists) |

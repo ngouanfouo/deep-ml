@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:27:40.752Z",
+  "generated_at": "2026-10-09T17:28:32.232Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11296,6 +11296,19 @@
       "last_pushed_at": "2026-10-09T17:27:41.517Z",
       "language": "python",
       "lines": 114
+    },
+    "problem:1509": {
+      "kind": "problem",
+      "id": "1509",
+      "title": "A NumPy Interpreter for a Tiny Tensor IR",
+      "difficulty": "easy",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1509",
+      "path": "problems/1509-a-numpy-interpreter-for-a-tiny-tensor-ir",
+      "first_solved_at": "2026-10-09T17:28:32.672Z",
+      "last_pushed_at": "2026-10-09T17:28:32.672Z",
+      "language": "python",
+      "lines": 58
     }
   }
 }
