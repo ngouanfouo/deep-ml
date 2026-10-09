@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**882** solved · 797 problems · 13 labs · 72 math
+**883** solved · 798 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -215,6 +215,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Adaptive KL-Penalized Reward Shaping for RLHF](https://www.deep-ml.com/problems/486) | medium | 2026-08-27 | [solution](problems/0486-adaptive-kl-penalized-reward-shaping-for-rlhf) |
 | [Add Two Matrices (2D Grid)](https://www.deep-ml.com/problems/1206) | medium | 2026-09-15 | [solution](problems/1206-add-two-matrices-2d-grid) |
 | [Afterstate Value Functions](https://www.deep-ml.com/problems/571) | medium | 2026-09-28 | [solution](problems/0571-afterstate-value-functions) |
+| [Algebraic Simplification with Canonical Forms](https://www.deep-ml.com/problems/1511) | medium | 2026-10-09 | [solution](problems/1511-algebraic-simplification-with-canonical-forms) |
 | [Alpha-Beta Pruning Implementation](https://www.deep-ml.com/problems/632) | medium | 2026-09-10 | [solution](problems/0632-alpha-beta-pruning-implementation) |
 | [Analyze Canary Deployment Health for Model Rollout](https://www.deep-ml.com/problems/251) | medium | 2026-08-04 | [solution](problems/0251-analyze-canary-deployment-health-for-model-rollout) |
 | [Analyze Singular Value Spectrum to Determine Intrinsic Rank](https://www.deep-ml.com/problems/876) | medium | 2026-09-24 | [solution](problems/0876-analyze-singular-value-spectrum-to-determine-intrinsic-rank) |
