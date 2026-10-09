@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**885** solved · 800 problems · 13 labs · 72 math
+**886** solved · 801 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -581,6 +581,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Random Pick with Weight (Prefix Sum + Binary Search)](https://www.deep-ml.com/problems/1165) | medium | 2026-09-10 | [solution](problems/1165-random-pick-with-weight-prefix-sum-binary-search) |
 | [Random Walk: TD vs Monte Carlo](https://www.deep-ml.com/problems/514) | medium | 2026-09-17 | [solution](problems/0514-random-walk-td-vs-monte-carlo) |
 | [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-08-21 | [solution](problems/0353-reconstruction-error-from-pca) |
+| [Render a Loopless Expression DAG to C and Run It](https://www.deep-ml.com/problems/1514) | medium | 2026-10-09 | [solution](problems/1514-render-a-loopless-expression-dag-to-c-and-run-it) |
 | [Reservoir Sampling from a Stream](https://www.deep-ml.com/problems/1145) | medium | 2026-09-10 | [solution](problems/1145-reservoir-sampling-from-a-stream) |
 | [Resource Dilation Factor for Scheduling](https://www.deep-ml.com/problems/623) | medium | 2026-10-04 | [solution](problems/0623-resource-dilation-factor-for-scheduling) |
 | [Resumable Weighted Data Batcher](https://www.deep-ml.com/problems/1091) | medium | 2026-09-07 | [solution](problems/1091-resumable-weighted-data-batcher) |

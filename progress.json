@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:35:40.839Z",
+  "generated_at": "2026-10-09T17:42:30.563Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11361,6 +11361,19 @@
       "last_pushed_at": "2026-10-09T17:35:39.602Z",
       "language": "python",
       "lines": 83
+    },
+    "problem:1514": {
+      "kind": "problem",
+      "id": "1514",
+      "title": "Render a Loopless Expression DAG to C and Run It",
+      "difficulty": "medium",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1514",
+      "path": "problems/1514-render-a-loopless-expression-dag-to-c-and-run-it",
+      "first_solved_at": "2026-10-09T17:42:29.882Z",
+      "last_pushed_at": "2026-10-09T17:42:29.882Z",
+      "language": "python",
+      "lines": 125
     }
   }
 }
