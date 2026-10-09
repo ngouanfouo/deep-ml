@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**884** solved · 799 problems · 13 labs · 72 math
+**885** solved · 800 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -691,6 +691,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [EnvPool-style Asynchronous Environment Pooling](https://www.deep-ml.com/problems/656) | hard | 2026-08-04 | [solution](problems/0656-envpool-style-asynchronous-environment-pooling) |
 | [First-Visit Monte Carlo Control with Exploring Starts](https://www.deep-ml.com/problems/470) | hard | 2026-07-15 | [solution](problems/0470-first-visit-monte-carlo-control-with-exploring-starts) |
 | [Flash Attention v1 - Forward Pass](https://www.deep-ml.com/problems/208) | hard | 2026-09-14 | [solution](problems/0208-flash-attention-v1-forward-pass) |
+| [Floor-Division and Modulo Folding for Index Math](https://www.deep-ml.com/problems/1513) | hard | 2026-10-09 | [solution](problems/1513-floor-division-and-modulo-folding-for-index-math) |
 | [FP4 Quantization with Microscaling (MXFP4)](https://www.deep-ml.com/problems/427) | hard | 2026-06-30 | [solution](problems/0427-fp4-quantization-with-microscaling-mxfp4) |
 | [Fused Backward Pass of BatchNorm1d](https://www.deep-ml.com/problems/1002) | hard | 2026-09-02 | [solution](problems/1002-fused-backward-pass-of-batchnorm1d) |
 | [Gambler's Problem: Value Iteration](https://www.deep-ml.com/problems/164) | hard | 2026-06-30 | [solution](problems/0164-gambler-s-problem-value-iteration) |

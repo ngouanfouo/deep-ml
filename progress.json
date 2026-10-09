@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:32:17.294Z",
+  "generated_at": "2026-10-09T17:35:40.839Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11346,6 +11346,19 @@
       "path": "problems/1512-interval-bounds-for-symbolic-index-expressions",
       "first_solved_at": "2026-10-09T17:32:17.925Z",
       "last_pushed_at": "2026-10-09T17:32:17.925Z",
+      "language": "python",
+      "lines": 83
+    },
+    "problem:1513": {
+      "kind": "problem",
+      "id": "1513",
+      "title": "Floor-Division and Modulo Folding for Index Math",
+      "difficulty": "hard",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1513",
+      "path": "problems/1513-floor-division-and-modulo-folding-for-index-math",
+      "first_solved_at": "2026-10-09T17:35:39.602Z",
+      "last_pushed_at": "2026-10-09T17:35:39.602Z",
       "language": "python",
       "lines": 83
     }
