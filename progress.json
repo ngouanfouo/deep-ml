@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:53:23.846Z",
+  "generated_at": "2026-10-09T17:56:37.248Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11400,6 +11400,19 @@
       "last_pushed_at": "2026-10-09T17:53:24.377Z",
       "language": "python",
       "lines": 101
+    },
+    "problem:1517": {
+      "kind": "problem",
+      "id": "1517",
+      "title": "View Merging and the Contiguity Test",
+      "difficulty": "medium",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1517",
+      "path": "problems/1517-view-merging-and-the-contiguity-test",
+      "first_solved_at": "2026-10-09T17:56:37.554Z",
+      "last_pushed_at": "2026-10-09T17:56:37.554Z",
+      "language": "python",
+      "lines": 112
     }
   }
 }
