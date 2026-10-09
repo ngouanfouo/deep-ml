@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**886** solved · 801 problems · 13 labs · 72 math
+**887** solved · 802 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -646,6 +646,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vectorizing with jax.vmap](https://www.deep-ml.com/problems/1328) | medium | 2026-09-24 | [solution](problems/1328-vectorizing-with-jax-vmap) |
 | [Verifiable Instruction Constraint Checker](https://www.deep-ml.com/problems/796) | medium | 2026-09-29 | [solution](problems/0796-verifiable-instruction-constraint-checker) |
 | [Video Generation Latent Space Memory Estimation](https://www.deep-ml.com/problems/446) | medium | 2026-09-28 | [solution](problems/0446-video-generation-latent-space-memory-estimation) |
+| [Views: Shape, Strides, Offset and Masks](https://www.deep-ml.com/problems/1515) | medium | 2026-10-09 | [solution](problems/1515-views-shape-strides-offset-and-masks) |
 | [Warmup + Cosine Decay Schedule](https://www.deep-ml.com/problems/196) | medium | 2026-07-20 | [solution](problems/0196-warmup-cosine-decay-schedule) |
 | [Weighted Importance Sampling for Off-Policy Estimation](https://www.deep-ml.com/problems/473) | medium | 2026-09-17 | [solution](problems/0473-weighted-importance-sampling-for-off-policy-estimation) |
 | [Weighted Multi-Head Index Score Computation](https://www.deep-ml.com/problems/737) | medium | 2026-09-29 | [solution](problems/0737-weighted-multi-head-index-score-computation) |

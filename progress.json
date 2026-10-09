@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:42:30.563Z",
+  "generated_at": "2026-10-09T17:43:32.625Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11374,6 +11374,19 @@
       "last_pushed_at": "2026-10-09T17:42:29.882Z",
       "language": "python",
       "lines": 125
+    },
+    "problem:1515": {
+      "kind": "problem",
+      "id": "1515",
+      "title": "Views: Shape, Strides, Offset and Masks",
+      "difficulty": "medium",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1515",
+      "path": "problems/1515-views-shape-strides-offset-and-masks",
+      "first_solved_at": "2026-10-09T17:43:33.133Z",
+      "last_pushed_at": "2026-10-09T17:43:33.133Z",
+      "language": "python",
+      "lines": 130
     }
   }
 }
