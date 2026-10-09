@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T23:42:25.737Z",
+  "generated_at": "2026-10-09T17:27:40.752Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11283,6 +11283,19 @@
       "last_pushed_at": "2026-10-04T23:42:25.109Z",
       "language": "python",
       "lines": 52
+    },
+    "problem:1508": {
+      "kind": "problem",
+      "id": "1508",
+      "title": "UOp Graph: Hash-Consing, Toposort and Node Counting",
+      "difficulty": "medium",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1508",
+      "path": "problems/1508-uop-graph-hash-consing-toposort-and-node-counting",
+      "first_solved_at": "2026-10-09T17:27:41.517Z",
+      "last_pushed_at": "2026-10-09T17:27:41.517Z",
+      "language": "python",
+      "lines": 114
     }
   }
 }
