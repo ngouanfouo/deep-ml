@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:59:28.401Z",
+  "generated_at": "2026-10-09T18:00:36.607Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11439,6 +11439,19 @@
       "last_pushed_at": "2026-10-09T17:59:28.903Z",
       "language": "python",
       "lines": 88
+    },
+    "problem:1520": {
+      "kind": "problem",
+      "id": "1520",
+      "title": "Loop Nest Codegen for a Reduction: Render, Compile, Run",
+      "difficulty": "hard",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1520",
+      "path": "problems/1520-loop-nest-codegen-for-a-reduction-render-compile-run",
+      "first_solved_at": "2026-10-09T18:00:37.059Z",
+      "last_pushed_at": "2026-10-09T18:00:37.059Z",
+      "language": "python",
+      "lines": 123
     }
   }
 }

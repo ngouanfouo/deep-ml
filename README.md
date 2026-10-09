@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**891** solved · 806 problems · 13 labs · 72 math
+**892** solved · 807 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -737,6 +737,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Covariance Shrinkage](https://www.deep-ml.com/problems/1355) | hard | 2026-09-07 | [solution](problems/1355-linear-covariance-shrinkage) |
 | [Linear Sarsa Algorithm](https://www.deep-ml.com/problems/534) | hard | 2026-07-23 | [solution](problems/0534-linear-sarsa-algorithm) |
 | [Llama 3 RoPE Frequency Scaling](https://www.deep-ml.com/problems/1025) | hard | 2026-09-02 | [solution](problems/1025-llama-3-rope-frequency-scaling) |
+| [Loop Nest Codegen for a Reduction: Render, Compile, Run](https://www.deep-ml.com/problems/1520) | hard | 2026-10-09 | [solution](problems/1520-loop-nest-codegen-for-a-reduction-render-compile-run) |
 | [Manual Backprop Through Cross-Entropy Intermediates](https://www.deep-ml.com/problems/997) | hard | 2026-09-02 | [solution](problems/0997-manual-backprop-through-cross-entropy-intermediates) |
 | [Masked Generative Token Prediction Step](https://www.deep-ml.com/problems/706) | hard | 2026-08-16 | [solution](problems/0706-masked-generative-token-prediction-step) |
 | [MCTS with Step-wise Reward for Reasoning Trace Search](https://www.deep-ml.com/problems/777) | hard | 2026-08-21 | [solution](problems/0777-mcts-with-step-wise-reward-for-reasoning-trace-search) |
