@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:56:37.248Z",
+  "generated_at": "2026-10-09T17:57:47.264Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11413,6 +11413,19 @@
       "last_pushed_at": "2026-10-09T17:56:37.554Z",
       "language": "python",
       "lines": 112
+    },
+    "problem:1518": {
+      "kind": "problem",
+      "id": "1518",
+      "title": "Matmul and Conv2d from Movement Ops Only",
+      "difficulty": "medium",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1518",
+      "path": "problems/1518-matmul-and-conv2d-from-movement-ops-only",
+      "first_solved_at": "2026-10-09T17:57:47.978Z",
+      "last_pushed_at": "2026-10-09T17:57:47.978Z",
+      "language": "python",
+      "lines": 61
     }
   }
 }

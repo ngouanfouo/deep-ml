@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**889** solved · 804 problems · 13 labs · 72 math
+**890** solved · 805 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -496,6 +496,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-08-13 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Markov Decision Process Simulator](https://www.deep-ml.com/problems/510) | medium | 2026-09-17 | [solution](problems/0510-markov-decision-process-simulator) |
 | [Math Answer Verification with Equivalence Checking](https://www.deep-ml.com/problems/319) | medium | 2026-08-12 | [solution](problems/0319-math-answer-verification-with-equivalence-checking) |
+| [Matmul and Conv2d from Movement Ops Only](https://www.deep-ml.com/problems/1518) | medium | 2026-10-09 | [solution](problems/1518-matmul-and-conv2d-from-movement-ops-only) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-08-13 | [solution](problems/0329-matrix-rank) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2025-01-29 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2025-01-29 | [solution](problems/0007-matrix-transformation) |
