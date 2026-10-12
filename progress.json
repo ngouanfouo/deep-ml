@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T17:08:44.403Z",
+  "generated_at": "2026-10-12T17:10:37.262Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11807,6 +11807,17 @@
       "path": "math/0184-calibration-platt-scaling-isotonic-regression-and-shifted-priors",
       "first_solved_at": "2026-10-12T17:08:43.468Z",
       "last_pushed_at": "2026-10-12T17:08:43.468Z"
+    },
+    "math:129": {
+      "kind": "math",
+      "id": "129",
+      "title": "Perceptron Convergence Bound",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/129",
+      "path": "math/0129-perceptron-convergence-bound",
+      "first_solved_at": "2026-10-12T17:10:36.586Z",
+      "last_pushed_at": "2026-10-12T17:10:36.586Z"
     }
   }
 }

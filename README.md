@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**921** solved · 825 problems · 13 labs · 83 math
+**922** solved · 825 problems · 13 labs · 84 math
 
 ![Coverage](./coverage.svg)
 
@@ -897,6 +897,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [One Update, Two Signals: GRPO plus Lambda Times SFT under Gradient Clipping](https://www.deep-ml.com/math-problems/205) | medium | 2026-10-03 | [solution](math/0205-one-update-two-signals-grpo-plus-lambda-times-sft-under-gradient-clipping) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-08-02 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [PCA via Covariance Eigendecomposition](https://www.deep-ml.com/math-problems/49) | medium | 2026-09-25 | [solution](math/0049-pca-via-covariance-eigendecomposition) |
+| [Perceptron Convergence Bound](https://www.deep-ml.com/math-problems/129) | medium | 2026-10-12 | [solution](math/0129-perceptron-convergence-bound) |
 | [Policy Gradient Theorem and REINFORCE](https://www.deep-ml.com/math-problems/58) | medium | 2026-09-25 | [solution](math/0058-policy-gradient-theorem-and-reinforce) |
 | [Polynomial Regression and Step Functions](https://www.deep-ml.com/math-problems/110) | medium | 2026-10-12 | [solution](math/0110-polynomial-regression-and-step-functions) |
 | [Positive Definite Matrices and Quadratic Forms](https://www.deep-ml.com/math-problems/50) | medium | 2026-10-12 | [solution](math/0050-positive-definite-matrices-and-quadratic-forms) |
