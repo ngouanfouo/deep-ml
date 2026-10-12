@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**900** solved · 815 problems · 13 labs · 72 math
+**901** solved · 816 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -216,6 +216,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-07-04 | [solution](problems/0087-adam-optimizer) |
 | [Adaptive KL-Penalized Reward Shaping for RLHF](https://www.deep-ml.com/problems/486) | medium | 2026-08-27 | [solution](problems/0486-adaptive-kl-penalized-reward-shaping-for-rlhf) |
 | [Add Two Matrices (2D Grid)](https://www.deep-ml.com/problems/1206) | medium | 2026-09-15 | [solution](problems/1206-add-two-matrices-2d-grid) |
+| [Adjoints of Movement Ops](https://www.deep-ml.com/problems/1529) | medium | 2026-10-12 | [solution](problems/1529-adjoints-of-movement-ops) |
 | [Afterstate Value Functions](https://www.deep-ml.com/problems/571) | medium | 2026-09-28 | [solution](problems/0571-afterstate-value-functions) |
 | [Algebraic Simplification with Canonical Forms](https://www.deep-ml.com/problems/1511) | medium | 2026-10-09 | [solution](problems/1511-algebraic-simplification-with-canonical-forms) |
 | [Alpha-Beta Pruning Implementation](https://www.deep-ml.com/problems/632) | medium | 2026-09-10 | [solution](problems/0632-alpha-beta-pruning-implementation) |

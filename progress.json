@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:09:48.653Z",
+  "generated_at": "2026-10-12T15:12:21.679Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11556,6 +11556,19 @@
       "last_pushed_at": "2026-10-12T15:09:47.879Z",
       "language": "python",
       "lines": 222
+    },
+    "problem:1529": {
+      "kind": "problem",
+      "id": "1529",
+      "title": "Adjoints of Movement Ops",
+      "difficulty": "medium",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1529",
+      "path": "problems/1529-adjoints-of-movement-ops",
+      "first_solved_at": "2026-10-12T15:12:20.701Z",
+      "last_pushed_at": "2026-10-12T15:12:20.701Z",
+      "language": "python",
+      "lines": 72
     }
   }
 }
