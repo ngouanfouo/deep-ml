@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**919** solved · 825 problems · 13 labs · 81 math
+**920** solved · 825 problems · 13 labs · 82 math
 
 ![Coverage](./coverage.svg)
 
@@ -892,6 +892,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-09-25 | [solution](math/0035-matrix-calculus-identities) |
 | [Measuring Insight: Advantage, Too-Easy and Too-Hard Ratios, Reliance and Drift](https://www.deep-ml.com/math-problems/207) | medium | 2026-10-03 | [solution](math/0207-measuring-insight-advantage-too-easy-and-too-hard-ratios-reliance-and-drift) |
 | [Memory Traffic of Fused and Unfused Kernels](https://www.deep-ml.com/math-problems/215) | medium | 2026-10-03 | [solution](math/0215-memory-traffic-of-fused-and-unfused-kernels) |
+| [Message Passing as a Framework: Permutation Equivariance and Invariance](https://www.deep-ml.com/math-problems/190) | medium | 2026-10-12 | [solution](math/0190-message-passing-as-a-framework-permutation-equivariance-and-invariance) |
 | [One Update, Two Signals: GRPO plus Lambda Times SFT under Gradient Clipping](https://www.deep-ml.com/math-problems/205) | medium | 2026-10-03 | [solution](math/0205-one-update-two-signals-grpo-plus-lambda-times-sft-under-gradient-clipping) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-08-02 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [PCA via Covariance Eigendecomposition](https://www.deep-ml.com/math-problems/49) | medium | 2026-09-25 | [solution](math/0049-pca-via-covariance-eigendecomposition) |

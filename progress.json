@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T17:01:50.161Z",
+  "generated_at": "2026-10-12T17:05:58.459Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11785,6 +11785,17 @@
       "path": "math/0200-supervision-from-solution-samples-the-alpha-operator-and-the-budget-k",
       "first_solved_at": "2026-10-12T17:01:49.150Z",
       "last_pushed_at": "2026-10-12T17:01:49.150Z"
+    },
+    "math:190": {
+      "kind": "math",
+      "id": "190",
+      "title": "Message Passing as a Framework: Permutation Equivariance and Invariance",
+      "difficulty": "medium",
+      "category": "Graph Neural Networks",
+      "url": "https://www.deep-ml.com/math-problems/190",
+      "path": "math/0190-message-passing-as-a-framework-permutation-equivariance-and-invariance",
+      "first_solved_at": "2026-10-12T17:05:57.500Z",
+      "last_pushed_at": "2026-10-12T17:05:57.500Z"
     }
   }
 }
