@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T16:40:57.971Z",
+  "generated_at": "2026-10-12T16:42:53.043Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11719,6 +11719,17 @@
       "path": "math/0111-local-regression-and-generalized-additive-models",
       "first_solved_at": "2026-10-12T16:40:57.191Z",
       "last_pushed_at": "2026-10-12T16:40:57.191Z"
+    },
+    "math:105": {
+      "kind": "math",
+      "id": "105",
+      "title": "Qualitative Predictors, Dummy Coding and Interactions",
+      "difficulty": "medium",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/105",
+      "path": "math/0105-qualitative-predictors-dummy-coding-and-interactions",
+      "first_solved_at": "2026-10-12T16:42:52.198Z",
+      "last_pushed_at": "2026-10-12T16:42:52.198Z"
     }
   }
 }

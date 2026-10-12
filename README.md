@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**913** solved · 825 problems · 13 labs · 75 math
+**914** solved · 825 problems · 13 labs · 76 math
 
 ![Coverage](./coverage.svg)
 
@@ -898,6 +898,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [PPO Clipped Surrogate Objective](https://www.deep-ml.com/math-problems/53) | medium | 2026-09-25 | [solution](math/0053-ppo-clipped-surrogate-objective) |
 | [Propensity Scores and Inverse Probability Weighting](https://www.deep-ml.com/math-problems/179) | medium | 2026-09-24 | [solution](math/0179-propensity-scores-and-inverse-probability-weighting) |
 | [Pseudoinverse and Minimum-Norm Least Squares](https://www.deep-ml.com/math-problems/48) | medium | 2026-09-25 | [solution](math/0048-pseudoinverse-and-minimum-norm-least-squares) |
+| [Qualitative Predictors, Dummy Coding and Interactions](https://www.deep-ml.com/math-problems/105) | medium | 2026-10-12 | [solution](math/0105-qualitative-predictors-dummy-coding-and-interactions) |
 | [Quantization Noise: Bits, Error Variance and SNR](https://www.deep-ml.com/math-problems/152) | medium | 2026-09-22 | [solution](math/0152-quantization-noise-bits-error-variance-and-snr) |
 | [Register Blocking: Reuse, Intensity and Tile Size](https://www.deep-ml.com/math-problems/214) | medium | 2026-10-03 | [solution](math/0214-register-blocking-reuse-intensity-and-tile-size) |
 | [Regression Discontinuity Designs](https://www.deep-ml.com/math-problems/178) | medium | 2026-09-24 | [solution](math/0178-regression-discontinuity-designs) |
