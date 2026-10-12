@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:00:54.280Z",
+  "generated_at": "2026-10-12T15:01:59.417Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11491,6 +11491,19 @@
       "last_pushed_at": "2026-10-12T15:00:49.242Z",
       "language": "python",
       "lines": 67
+    },
+    "problem:1524": {
+      "kind": "problem",
+      "id": "1524",
+      "title": "Online Softmax Attention as Coupled Accumulators",
+      "difficulty": "medium",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1524",
+      "path": "problems/1524-online-softmax-attention-as-coupled-accumulators",
+      "first_solved_at": "2026-10-12T15:01:57.197Z",
+      "last_pushed_at": "2026-10-12T15:01:57.197Z",
+      "language": "python",
+      "lines": 46
     }
   }
 }

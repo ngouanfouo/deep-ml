@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**895** solved · 810 problems · 13 labs · 72 math
+**896** solved · 811 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -546,6 +546,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-08-11 | [solution](problems/0313-numerical-gradient-checking) |
 | [Off-Policy Monte Carlo Prediction with Importance Sampling](https://www.deep-ml.com/problems/472) | medium | 2026-09-17 | [solution](problems/0472-off-policy-monte-carlo-prediction-with-importance-sampling) |
 | [On-Policy Trajectory Sampling](https://www.deep-ml.com/problems/529) | medium | 2026-09-17 | [solution](problems/0529-on-policy-trajectory-sampling) |
+| [Online Softmax Attention as Coupled Accumulators](https://www.deep-ml.com/problems/1524) | medium | 2026-10-12 | [solution](problems/1524-online-softmax-attention-as-coupled-accumulators) |
 | [Optical Flow EPE with Masks (OmniWorld-style metric)](https://www.deep-ml.com/problems/185) | medium | 2026-07-20 | [solution](problems/0185-optical-flow-epe-with-masks-omniworld-style-metric) |
 | [Optimal String Alignment Distance](https://www.deep-ml.com/problems/51) | medium | 2026-06-30 | [solution](problems/0051-optimal-string-alignment-distance) |
 | [Optimize Grid Scan from O(n^2) to O(n)](https://www.deep-ml.com/problems/1247) | medium | 2026-09-10 | [solution](problems/1247-optimize-grid-scan-from-o-n-2-to-o-n) |
