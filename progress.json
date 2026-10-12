@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:05:01.418Z",
+  "generated_at": "2026-10-12T15:07:19.620Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11530,6 +11530,19 @@
       "last_pushed_at": "2026-10-12T15:05:00.173Z",
       "language": "python",
       "lines": 77
+    },
+    "problem:1527": {
+      "kind": "problem",
+      "id": "1527",
+      "title": "Render a Thread-Per-Element CUDA Kernel",
+      "difficulty": "medium",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1527",
+      "path": "problems/1527-render-a-thread-per-element-cuda-kernel",
+      "first_solved_at": "2026-10-12T15:07:18.423Z",
+      "last_pushed_at": "2026-10-12T15:07:18.423Z",
+      "language": "python",
+      "lines": 108
     }
   }
 }
