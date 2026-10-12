@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:16:03.799Z",
+  "generated_at": "2026-10-12T15:17:16.438Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11608,6 +11608,19 @@
       "last_pushed_at": "2026-10-12T15:16:02.985Z",
       "language": "python",
       "lines": 85
+    },
+    "problem:1432": {
+      "kind": "problem",
+      "id": "1432",
+      "title": "Embedded Reber Grammar: Generator and Checker",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1432",
+      "path": "problems/1432-embedded-reber-grammar-generator-and-checker",
+      "first_solved_at": "2026-10-12T15:17:15.489Z",
+      "last_pushed_at": "2026-10-12T15:17:15.489Z",
+      "language": "python",
+      "lines": 125
     }
   }
 }

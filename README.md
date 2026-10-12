@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**904** solved · 819 problems · 13 labs · 72 math
+**905** solved · 820 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -345,6 +345,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Effective Rank of a Representation Matrix](https://www.deep-ml.com/problems/1376) | medium | 2026-09-24 | [solution](problems/1376-effective-rank-of-a-representation-matrix) |
 | [Efficiently Find Duplicates in a Large Dataset](https://www.deep-ml.com/problems/1089) | medium | 2026-09-10 | [solution](problems/1089-efficiently-find-duplicates-in-a-large-dataset) |
 | [Elo Rating System for Model Comparison](https://www.deep-ml.com/problems/315) | medium | 2026-08-11 | [solution](problems/0315-elo-rating-system-for-model-comparison) |
+| [Embedded Reber Grammar: Generator and Checker](https://www.deep-ml.com/problems/1432) | medium | 2026-10-12 | [solution](problems/1432-embedded-reber-grammar-generator-and-checker) |
 | [Emulate a CUDA Kernel: Thread Grid, Guards and Coalescing Cost](https://www.deep-ml.com/problems/1526) | medium | 2026-10-12 | [solution](problems/1526-emulate-a-cuda-kernel-thread-grid-guards-and-coalescing-cost) |
 | [Engram Context-Aware Gating](https://www.deep-ml.com/problems/327) | medium | 2026-08-12 | [solution](problems/0327-engram-context-aware-gating) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-07-29 | [solution](problems/0205-entropy-cross-entropy) |
