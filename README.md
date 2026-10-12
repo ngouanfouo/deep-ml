@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**903** solved · 818 problems · 13 labs · 72 math
+**904** solved · 819 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -481,6 +481,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-07-20 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Jensen-Shannon Divergence](https://www.deep-ml.com/problems/203) | medium | 2026-07-20 | [solution](problems/0203-jensen-shannon-divergence) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-06-11 | [solution](problems/0017-k-means-clustering) |
+| [KD-Tree Build and Nearest-Neighbor Query](https://www.deep-ml.com/problems/1407) | medium | 2026-10-12 | [solution](problems/1407-kd-tree-build-and-nearest-neighbor-query) |
 | [Kernel Splitting: Realize Reductions and Fuse the Rest](https://www.deep-ml.com/problems/1519) | medium | 2026-10-09 | [solution](problems/1519-kernel-splitting-realize-reductions-and-fuse-the-rest) |
 | [Key-Value Store Serialization and State Recovery](https://www.deep-ml.com/problems/1157) | medium | 2026-09-07 | [solution](problems/1157-key-value-store-serialization-and-state-recovery) |
 | [Knapsack-Based ZeRO Bucket Assignment](https://www.deep-ml.com/problems/758) | medium | 2026-09-04 | [solution](problems/0758-knapsack-based-zero-bucket-assignment) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:14:55.415Z",
+  "generated_at": "2026-10-12T15:16:03.799Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11595,6 +11595,19 @@
       "last_pushed_at": "2026-10-12T15:14:54.673Z",
       "language": "python",
       "lines": 42
+    },
+    "problem:1407": {
+      "kind": "problem",
+      "id": "1407",
+      "title": "KD-Tree Build and Nearest-Neighbor Query",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1407",
+      "path": "problems/1407-kd-tree-build-and-nearest-neighbor-query",
+      "first_solved_at": "2026-10-12T15:16:02.985Z",
+      "last_pushed_at": "2026-10-12T15:16:02.985Z",
+      "language": "python",
+      "lines": 85
     }
   }
 }
