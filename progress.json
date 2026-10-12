@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:17:16.438Z",
+  "generated_at": "2026-10-12T15:19:03.727Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11621,6 +11621,19 @@
       "last_pushed_at": "2026-10-12T15:17:15.489Z",
       "language": "python",
       "lines": 125
+    },
+    "problem:1487": {
+      "kind": "problem",
+      "id": "1487",
+      "title": "The Grid Powerset Lattice: Encoding, Meet, Join and Order",
+      "difficulty": "easy",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1487",
+      "path": "problems/1487-the-grid-powerset-lattice-encoding-meet-join-and-order",
+      "first_solved_at": "2026-10-12T15:19:02.739Z",
+      "last_pushed_at": "2026-10-12T15:19:02.739Z",
+      "language": "python",
+      "lines": 49
     }
   }
 }

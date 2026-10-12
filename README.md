@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**905** solved · 820 problems · 13 labs · 72 math
+**906** solved · 821 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -192,6 +192,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tensor Puzzle: Sum a Vector with a Dot Product](https://www.deep-ml.com/problems/1269) | easy | 2026-08-27 | [solution](problems/1269-tensor-puzzle-sum-a-vector-with-a-dot-product) |
 | [Tensor Puzzle: Upper-Triangular Ones Matrix](https://www.deep-ml.com/problems/1273) | easy | 2026-08-27 | [solution](problems/1273-tensor-puzzle-upper-triangular-ones-matrix) |
 | [Thanksgiving Feast Predictor: Softmax for Dish Selection](https://www.deep-ml.com/problems/216) | easy | 2026-09-14 | [solution](problems/0216-thanksgiving-feast-predictor-softmax-for-dish-selection) |
+| [The Grid Powerset Lattice: Encoding, Meet, Join and Order](https://www.deep-ml.com/problems/1487) | easy | 2026-10-12 | [solution](problems/1487-the-grid-powerset-lattice-encoding-meet-join-and-order) |
 | [Token Distribution KL Divergence Filter](https://www.deep-ml.com/problems/771) | easy | 2026-09-29 | [solution](problems/0771-token-distribution-kl-divergence-filter) |
 | [Token Embedding Lookup Table](https://www.deep-ml.com/problems/945) | easy | 2026-09-25 | [solution](problems/0945-token-embedding-lookup-table) |
 | [Tokenizer with Unknown and End-of-Text Tokens](https://www.deep-ml.com/problems/943) | easy | 2026-09-29 | [solution](problems/0943-tokenizer-with-unknown-and-end-of-text-tokens) |
