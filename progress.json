@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:23:51.468Z",
+  "generated_at": "2026-10-12T16:36:10.845Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11686,6 +11686,17 @@
       "last_pushed_at": "2026-10-12T15:23:50.465Z",
       "language": "python",
       "lines": 72
+    },
+    "math:119": {
+      "kind": "math",
+      "id": "119",
+      "title": "Regularized Cox Models and the Concordance Index",
+      "difficulty": "hard",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/119",
+      "path": "math/0119-regularized-cox-models-and-the-concordance-index",
+      "first_solved_at": "2026-10-12T16:36:10.069Z",
+      "last_pushed_at": "2026-10-12T16:36:10.069Z"
     }
   }
 }

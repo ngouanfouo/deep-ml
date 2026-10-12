@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**910** solved · 825 problems · 13 labs · 72 math
+**911** solved · 825 problems · 13 labs · 73 math
 
 ![Coverage](./coverage.svg)
 
@@ -932,6 +932,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Probabilistic Models](https://www.deep-ml.com/math-problems/29) | hard | 2026-08-02 | [solution](math/0029-probabilistic-models) |
 | [Ratio Metrics, the Delta Method and the Unit of Analysis](https://www.deep-ml.com/math-problems/180) | hard | 2026-09-24 | [solution](math/0180-ratio-metrics-the-delta-method-and-the-unit-of-analysis) |
 | [Recurrent Networks, Weight Sharing and Vanishing Gradients](https://www.deep-ml.com/math-problems/117) | hard | 2026-09-25 | [solution](math/0117-recurrent-networks-weight-sharing-and-vanishing-gradients) |
+| [Regularized Cox Models and the Concordance Index](https://www.deep-ml.com/math-problems/119) | hard | 2026-10-12 | [solution](math/0119-regularized-cox-models-and-the-concordance-index) |
 | [Renewal Processes and Blackwell's Theorem](https://www.deep-ml.com/math-problems/149) | hard | 2026-09-24 | [solution](math/0149-renewal-processes-and-blackwell-s-theorem) |
 | [XGBoost Split Gain from the Second-Order Objective](https://www.deep-ml.com/math-problems/151) | hard | 2026-09-24 | [solution](math/0151-xgboost-split-gain-from-the-second-order-objective) |
 
