@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T16:51:17.385Z",
+  "generated_at": "2026-10-12T16:54:30.009Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11763,6 +11763,17 @@
       "path": "math/0050-positive-definite-matrices-and-quadratic-forms",
       "first_solved_at": "2026-10-12T16:51:16.745Z",
       "last_pushed_at": "2026-10-12T16:51:16.745Z"
+    },
+    "math:194": {
+      "kind": "math",
+      "id": "194",
+      "title": "Link Prediction: Scoring, Negative Sampling and Ranking Metrics",
+      "difficulty": "medium",
+      "category": "Graph Neural Networks",
+      "url": "https://www.deep-ml.com/math-problems/194",
+      "path": "math/0194-link-prediction-scoring-negative-sampling-and-ranking-metrics",
+      "first_solved_at": "2026-10-12T16:54:29.101Z",
+      "last_pushed_at": "2026-10-12T16:54:29.101Z"
     }
   }
 }

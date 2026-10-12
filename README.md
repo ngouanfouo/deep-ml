@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**917** solved · 825 problems · 13 labs · 79 math
+**918** solved · 825 problems · 13 labs · 80 math
 
 ![Coverage](./coverage.svg)
 
@@ -888,6 +888,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Law of Large Numbers and Central Limit Theorem](https://www.deep-ml.com/math-problems/23) | medium | 2026-08-04 | [solution](math/0023-law-of-large-numbers-and-central-limit-theorem) |
 | [LDA versus PCA: Separation or Variance](https://www.deep-ml.com/math-problems/146) | medium | 2026-09-25 | [solution](math/0146-lda-versus-pca-separation-or-variance) |
 | [Least Squares as Maximum Likelihood under Gaussian Noise](https://www.deep-ml.com/math-problems/156) | medium | 2026-09-22 | [solution](math/0156-least-squares-as-maximum-likelihood-under-gaussian-noise) |
+| [Link Prediction: Scoring, Negative Sampling and Ranking Metrics](https://www.deep-ml.com/math-problems/194) | medium | 2026-10-12 | [solution](math/0194-link-prediction-scoring-negative-sampling-and-ranking-metrics) |
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-09-25 | [solution](math/0035-matrix-calculus-identities) |
 | [Measuring Insight: Advantage, Too-Easy and Too-Hard Ratios, Reliance and Drift](https://www.deep-ml.com/math-problems/207) | medium | 2026-10-03 | [solution](math/0207-measuring-insight-advantage-too-easy-and-too-hard-ratios-reliance-and-drift) |
 | [Memory Traffic of Fused and Unfused Kernels](https://www.deep-ml.com/math-problems/215) | medium | 2026-10-03 | [solution](math/0215-memory-traffic-of-fused-and-unfused-kernels) |
