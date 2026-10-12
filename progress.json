@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T17:21:12.239Z",
+  "generated_at": "2026-10-12T17:22:13.013Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11851,6 +11851,17 @@
       "path": "math/0193-spectral-graph-convolution-and-chebyshev-filters",
       "first_solved_at": "2026-10-12T17:21:11.471Z",
       "last_pushed_at": "2026-10-12T17:21:11.471Z"
+    },
+    "math:126": {
+      "kind": "math",
+      "id": "126",
+      "title": "Why the Stop-Gradient? Collapse in Self-Predictive Learning",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/126",
+      "path": "math/0126-why-the-stop-gradient-collapse-in-self-predictive-learning",
+      "first_solved_at": "2026-10-12T17:22:12.224Z",
+      "last_pushed_at": "2026-10-12T17:22:12.224Z"
     }
   }
 }
