@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**908** solved · 823 problems · 13 labs · 72 math
+**909** solved · 824 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -235,6 +235,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Backgammon Feature Engineering](https://www.deep-ml.com/problems/627) | medium | 2026-10-04 | [solution](problems/0627-backgammon-feature-engineering) |
 | [Backpropagation Gradients for a Dense Layer](https://www.deep-ml.com/problems/1076) | medium | 2026-09-25 | [solution](problems/1076-backpropagation-gradients-for-a-dense-layer) |
 | [Backpropagation Through a Scalar Chain Network](https://www.deep-ml.com/problems/1075) | medium | 2026-09-25 | [solution](problems/1075-backpropagation-through-a-scalar-chain-network) |
+| [Backtracking Search with a Pluggable Deduction Operator](https://www.deep-ml.com/problems/1490) | medium | 2026-10-12 | [solution](problems/1490-backtracking-search-with-a-pluggable-deduction-operator) |
 | [Baird's Counterexample: Off-Policy TD Divergence](https://www.deep-ml.com/problems/557) | medium | 2026-09-28 | [solution](problems/0557-baird-s-counterexample-off-policy-td-divergence) |
 | [Banking Transaction System Core Logic](https://www.deep-ml.com/problems/1094) | medium | 2026-09-07 | [solution](problems/1094-banking-transaction-system-core-logic) |
 | [Basic Calculator: Evaluate Expression String](https://www.deep-ml.com/problems/1166) | medium | 2026-09-10 | [solution](problems/1166-basic-calculator-evaluate-expression-string) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:21:44.313Z",
+  "generated_at": "2026-10-12T15:22:49.932Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11660,6 +11660,19 @@
       "last_pushed_at": "2026-10-12T15:21:43.234Z",
       "language": "python",
       "lines": 52
+    },
+    "problem:1490": {
+      "kind": "problem",
+      "id": "1490",
+      "title": "Backtracking Search with a Pluggable Deduction Operator",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1490",
+      "path": "problems/1490-backtracking-search-with-a-pluggable-deduction-operator",
+      "first_solved_at": "2026-10-12T15:22:48.794Z",
+      "last_pushed_at": "2026-10-12T15:22:48.794Z",
+      "language": "python",
+      "lines": 102
     }
   }
 }
