@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**907** solved · 822 problems · 13 labs · 72 math
+**908** solved · 823 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -213,6 +213,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [1D Convolution with Shared-Memory Halo](https://www.deep-ml.com/problems/1310) | medium | 2026-09-17 | [solution](problems/1310-1d-convolution-with-shared-memory-halo) |
 | [1D Kalman Filter Predict-Update Step](https://www.deep-ml.com/problems/1213) | medium | 2026-09-17 | [solution](problems/1213-1d-kalman-filter-predict-update-step) |
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-06-30 | [solution](problems/0055-2d-translation-matrix-implementation) |
+| [Abstraction, Concretization and the Alpha Target](https://www.deep-ml.com/problems/1489) | medium | 2026-10-12 | [solution](problems/1489-abstraction-concretization-and-the-alpha-target) |
 | [Action-Conditional Trace Clearing](https://www.deep-ml.com/problems/603) | medium | 2026-10-03 | [solution](problems/0603-action-conditional-trace-clearing) |
 | [Adadelta Optimizer](https://www.deep-ml.com/problems/149) | medium | 2026-07-15 | [solution](problems/0149-adadelta-optimizer) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-07-04 | [solution](problems/0087-adam-optimizer) |
