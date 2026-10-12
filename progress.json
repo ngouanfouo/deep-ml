@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T17:05:58.459Z",
+  "generated_at": "2026-10-12T17:08:44.403Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11796,6 +11796,17 @@
       "path": "math/0190-message-passing-as-a-framework-permutation-equivariance-and-invariance",
       "first_solved_at": "2026-10-12T17:05:57.500Z",
       "last_pushed_at": "2026-10-12T17:05:57.500Z"
+    },
+    "math:184": {
+      "kind": "math",
+      "id": "184",
+      "title": "Calibration: Platt Scaling, Isotonic Regression and Shifted Priors",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/184",
+      "path": "math/0184-calibration-platt-scaling-isotonic-regression-and-shifted-priors",
+      "first_solved_at": "2026-10-12T17:08:43.468Z",
+      "last_pushed_at": "2026-10-12T17:08:43.468Z"
     }
   }
 }
