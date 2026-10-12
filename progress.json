@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T16:54:30.009Z",
+  "generated_at": "2026-10-12T17:01:50.161Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11774,6 +11774,17 @@
       "path": "math/0194-link-prediction-scoring-negative-sampling-and-ranking-metrics",
       "first_solved_at": "2026-10-12T16:54:29.101Z",
       "last_pushed_at": "2026-10-12T16:54:29.101Z"
+    },
+    "math:200": {
+      "kind": "math",
+      "id": "200",
+      "title": "Supervision from Solution Samples: The Alpha Operator and the Budget K",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/200",
+      "path": "math/0200-supervision-from-solution-samples-the-alpha-operator-and-the-budget-k",
+      "first_solved_at": "2026-10-12T17:01:49.150Z",
+      "last_pushed_at": "2026-10-12T17:01:49.150Z"
     }
   }
 }
