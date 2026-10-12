@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:03:32.014Z",
+  "generated_at": "2026-10-12T15:05:01.418Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11517,6 +11517,19 @@
       "last_pushed_at": "2026-10-12T15:03:31.210Z",
       "language": "python",
       "lines": 53
+    },
+    "problem:1526": {
+      "kind": "problem",
+      "id": "1526",
+      "title": "Emulate a CUDA Kernel: Thread Grid, Guards and Coalescing Cost",
+      "difficulty": "medium",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1526",
+      "path": "problems/1526-emulate-a-cuda-kernel-thread-grid-guards-and-coalescing-cost",
+      "first_solved_at": "2026-10-12T15:05:00.173Z",
+      "last_pushed_at": "2026-10-12T15:05:00.173Z",
+      "language": "python",
+      "lines": 77
     }
   }
 }
