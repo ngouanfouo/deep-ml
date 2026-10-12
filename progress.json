@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:07:19.620Z",
+  "generated_at": "2026-10-12T15:09:48.653Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11543,6 +11543,19 @@
       "last_pushed_at": "2026-10-12T15:07:18.423Z",
       "language": "python",
       "lines": 108
+    },
+    "problem:1528": {
+      "kind": "problem",
+      "id": "1528",
+      "title": "Reverse-Mode Autodiff over a Tiny Graph IR",
+      "difficulty": "hard",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1528",
+      "path": "problems/1528-reverse-mode-autodiff-over-a-tiny-graph-ir",
+      "first_solved_at": "2026-10-12T15:09:47.879Z",
+      "last_pushed_at": "2026-10-12T15:09:47.879Z",
+      "language": "python",
+      "lines": 222
     }
   }
 }
