@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**906** solved · 821 problems · 13 labs · 72 math
+**907** solved · 822 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -626,6 +626,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Stochastic Rounding BF16 Gradient Compression](https://www.deep-ml.com/problems/742) | medium | 2026-09-04 | [solution](problems/0742-stochastic-rounding-bf16-gradient-compression) |
 | [Subset Sum: Enumerate All Matching Subsets](https://www.deep-ml.com/problems/1402) | medium | 2026-10-12 | [solution](problems/1402-subset-sum-enumerate-all-matching-subsets) |
 | [Subspace Amplification of Pretrained Weights by a Low-Rank Update](https://www.deep-ml.com/problems/869) | medium | 2026-09-17 | [solution](problems/0869-subspace-amplification-of-pretrained-weights-by-a-low-rank-update) |
+| [Sudoku Constraint Propagation: Naked and Hidden Singles to a Fixed Point](https://www.deep-ml.com/problems/1488) | medium | 2026-10-12 | [solution](problems/1488-sudoku-constraint-propagation-naked-and-hidden-singles-to-a-fixed-point) |
 | [TD Error Backpropagation in Networks](https://www.deep-ml.com/problems/643) | medium | 2026-09-28 | [solution](problems/0643-td-error-backpropagation-in-networks) |
 | [Temperature Decay Scheduler](https://www.deep-ml.com/problems/231) | medium | 2026-07-29 | [solution](problems/0231-temperature-decay-scheduler) |
 | [Temperature Sampling](https://www.deep-ml.com/problems/378) | medium | 2026-08-27 | [solution](problems/0378-temperature-sampling) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:19:03.727Z",
+  "generated_at": "2026-10-12T15:19:51.395Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11634,6 +11634,19 @@
       "last_pushed_at": "2026-10-12T15:19:02.739Z",
       "language": "python",
       "lines": 49
+    },
+    "problem:1488": {
+      "kind": "problem",
+      "id": "1488",
+      "title": "Sudoku Constraint Propagation: Naked and Hidden Singles to a Fixed Point",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1488",
+      "path": "problems/1488-sudoku-constraint-propagation-naked-and-hidden-singles-to-a-fixed-point",
+      "first_solved_at": "2026-10-12T15:19:50.131Z",
+      "last_pushed_at": "2026-10-12T15:19:50.131Z",
+      "language": "python",
+      "lines": 70
     }
   }
 }
