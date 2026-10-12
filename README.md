@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**922** solved · 825 problems · 13 labs · 84 math
+**923** solved · 825 problems · 13 labs · 85 math
 
 ![Coverage](./coverage.svg)
 
@@ -927,6 +927,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [The GPU Memory Hierarchy and the Decode Latency Floor](https://www.deep-ml.com/math-problems/172) | medium | 2026-09-22 | [solution](math/0172-the-gpu-memory-hierarchy-and-the-decode-latency-floor) |
 | [The Learning Barrier: Why All-Fail Groups Teach Nothing](https://www.deep-ml.com/math-problems/202) | medium | 2026-10-03 | [solution](math/0202-the-learning-barrier-why-all-fail-groups-teach-nothing) |
 | [Truncated Backpropagation Through Time: Cost, Memory and What Is Lost](https://www.deep-ml.com/math-problems/161) | medium | 2026-09-24 | [solution](math/0161-truncated-backpropagation-through-time-cost-memory-and-what-is-lost) |
+| [Variance Preservation and He/Glorot Scaling](https://www.deep-ml.com/math-problems/131) | medium | 2026-10-12 | [solution](math/0131-variance-preservation-and-he-glorot-scaling) |
 | [Why Looping Leaves Memorization Capacity Unchanged](https://www.deep-ml.com/math-problems/145) | medium | 2026-09-25 | [solution](math/0145-why-looping-leaves-memorization-capacity-unchanged) |
 | [Word2Vec Negative Sampling Objective](https://www.deep-ml.com/math-problems/147) | medium | 2026-09-24 | [solution](math/0147-word2vec-negative-sampling-objective) |
 | [Asymmetric Binary Cross-Entropy and the Elimination Threshold](https://www.deep-ml.com/math-problems/199) | hard | 2026-10-12 | [solution](math/0199-asymmetric-binary-cross-entropy-and-the-elimination-threshold) |
