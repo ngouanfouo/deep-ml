@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**894** solved · 809 problems · 13 labs · 72 math
+**895** solved · 810 problems · 13 labs · 72 math
 
 ![Coverage](./coverage.svg)
 
@@ -645,6 +645,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Unified History Injection for Autoregressive Video Diffusion](https://www.deep-ml.com/problems/463) | medium | 2026-09-28 | [solution](problems/0463-unified-history-injection-for-autoregressive-video-diffusion) |
 | [Union-Find Connected Components for Image Deduplication](https://www.deep-ml.com/problems/791) | medium | 2026-09-10 | [solution](problems/0791-union-find-connected-components-for-image-deduplication) |
 | [UniPC Predictor-Corrector Step](https://www.deep-ml.com/problems/462) | medium | 2026-09-28 | [solution](problems/0462-unipc-predictor-corrector-step) |
+| [Unroll a Reduction into Chained Updates](https://www.deep-ml.com/problems/1523) | medium | 2026-10-12 | [solution](problems/1523-unroll-a-reduction-into-chained-updates) |
 | [UOp Graph: Hash-Consing, Toposort and Node Counting](https://www.deep-ml.com/problems/1508) | medium | 2026-10-09 | [solution](problems/1508-uop-graph-hash-consing-toposort-and-node-counting) |
 | [Value Generalization Pattern Analysis](https://www.deep-ml.com/problems/612) | medium | 2026-10-04 | [solution](problems/0612-value-generalization-pattern-analysis) |
 | [Vectorizing with jax.vmap](https://www.deep-ml.com/problems/1328) | medium | 2026-09-24 | [solution](problems/1328-vectorizing-with-jax-vmap) |

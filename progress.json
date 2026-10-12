@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T18:04:21.465Z",
+  "generated_at": "2026-10-12T15:00:54.280Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11478,6 +11478,19 @@
       "last_pushed_at": "2026-10-09T18:04:22.046Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:1523": {
+      "kind": "problem",
+      "id": "1523",
+      "title": "Unroll a Reduction into Chained Updates",
+      "difficulty": "medium",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1523",
+      "path": "problems/1523-unroll-a-reduction-into-chained-updates",
+      "first_solved_at": "2026-10-12T15:00:49.242Z",
+      "last_pushed_at": "2026-10-12T15:00:49.242Z",
+      "language": "python",
+      "lines": 67
     }
   }
 }
