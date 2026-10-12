@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T16:48:43.201Z",
+  "generated_at": "2026-10-12T16:51:17.385Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11752,6 +11752,17 @@
       "path": "math/0199-asymmetric-binary-cross-entropy-and-the-elimination-threshold",
       "first_solved_at": "2026-10-12T16:48:42.519Z",
       "last_pushed_at": "2026-10-12T16:48:42.519Z"
+    },
+    "math:50": {
+      "kind": "math",
+      "id": "50",
+      "title": "Positive Definite Matrices and Quadratic Forms",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/50",
+      "path": "math/0050-positive-definite-matrices-and-quadratic-forms",
+      "first_solved_at": "2026-10-12T16:51:16.745Z",
+      "last_pushed_at": "2026-10-12T16:51:16.745Z"
     }
   }
 }

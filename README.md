@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**916** solved · 825 problems · 13 labs · 78 math
+**917** solved · 825 problems · 13 labs · 79 math
 
 ![Coverage](./coverage.svg)
 
@@ -896,6 +896,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [PCA via Covariance Eigendecomposition](https://www.deep-ml.com/math-problems/49) | medium | 2026-09-25 | [solution](math/0049-pca-via-covariance-eigendecomposition) |
 | [Policy Gradient Theorem and REINFORCE](https://www.deep-ml.com/math-problems/58) | medium | 2026-09-25 | [solution](math/0058-policy-gradient-theorem-and-reinforce) |
 | [Polynomial Regression and Step Functions](https://www.deep-ml.com/math-problems/110) | medium | 2026-10-12 | [solution](math/0110-polynomial-regression-and-step-functions) |
+| [Positive Definite Matrices and Quadratic Forms](https://www.deep-ml.com/math-problems/50) | medium | 2026-10-12 | [solution](math/0050-positive-definite-matrices-and-quadratic-forms) |
 | [PPO Clipped Surrogate Objective](https://www.deep-ml.com/math-problems/53) | medium | 2026-09-25 | [solution](math/0053-ppo-clipped-surrogate-objective) |
 | [Propensity Scores and Inverse Probability Weighting](https://www.deep-ml.com/math-problems/179) | medium | 2026-09-24 | [solution](math/0179-propensity-scores-and-inverse-probability-weighting) |
 | [Pseudoinverse and Minimum-Norm Least Squares](https://www.deep-ml.com/math-problems/48) | medium | 2026-09-25 | [solution](math/0048-pseudoinverse-and-minimum-norm-least-squares) |
