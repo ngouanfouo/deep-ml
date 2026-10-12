@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:22:49.932Z",
+  "generated_at": "2026-10-12T15:23:51.468Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11673,6 +11673,19 @@
       "last_pushed_at": "2026-10-12T15:22:48.794Z",
       "language": "python",
       "lines": 102
+    },
+    "problem:1491": {
+      "kind": "problem",
+      "id": "1491",
+      "title": "Sudoku Symmetries: Digit Permutations and the Dihedral Group on Lattice States",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1491",
+      "path": "problems/1491-sudoku-symmetries-digit-permutations-and-the-dihedral-group-on-lattice-states",
+      "first_solved_at": "2026-10-12T15:23:50.465Z",
+      "last_pushed_at": "2026-10-12T15:23:50.465Z",
+      "language": "python",
+      "lines": 72
     }
   }
 }
