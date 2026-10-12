@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:13:15.597Z",
+  "generated_at": "2026-10-12T15:14:55.415Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11582,6 +11582,19 @@
       "last_pushed_at": "2026-10-12T15:13:14.612Z",
       "language": "python",
       "lines": 39
+    },
+    "problem:1402": {
+      "kind": "problem",
+      "id": "1402",
+      "title": "Subset Sum: Enumerate All Matching Subsets",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1402",
+      "path": "problems/1402-subset-sum-enumerate-all-matching-subsets",
+      "first_solved_at": "2026-10-12T15:14:54.673Z",
+      "last_pushed_at": "2026-10-12T15:14:54.673Z",
+      "language": "python",
+      "lines": 42
     }
   }
 }
