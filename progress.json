@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T17:14:56.301Z",
+  "generated_at": "2026-10-12T17:18:33.243Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11829,6 +11829,17 @@
       "path": "math/0131-variance-preservation-and-he-glorot-scaling",
       "first_solved_at": "2026-10-12T17:14:55.395Z",
       "last_pushed_at": "2026-10-12T17:14:55.395Z"
+    },
+    "math:153": {
+      "kind": "math",
+      "id": "153",
+      "title": "Federated Averaging: Aggregation and Communication Cost",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/153",
+      "path": "math/0153-federated-averaging-aggregation-and-communication-cost",
+      "first_solved_at": "2026-10-12T17:18:32.185Z",
+      "last_pushed_at": "2026-10-12T17:18:32.185Z"
     }
   }
 }
