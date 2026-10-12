@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:01:59.417Z",
+  "generated_at": "2026-10-12T15:03:32.014Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11504,6 +11504,19 @@
       "last_pushed_at": "2026-10-12T15:01:57.197Z",
       "language": "python",
       "lines": 46
+    },
+    "problem:1525": {
+      "kind": "problem",
+      "id": "1525",
+      "title": "Map Loop Axes to CUDA Grid and Block Dimensions",
+      "difficulty": "easy",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1525",
+      "path": "problems/1525-map-loop-axes-to-cuda-grid-and-block-dimensions",
+      "first_solved_at": "2026-10-12T15:03:31.210Z",
+      "last_pushed_at": "2026-10-12T15:03:31.210Z",
+      "language": "python",
+      "lines": 53
     }
   }
 }
