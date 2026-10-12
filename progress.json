@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T17:18:33.243Z",
+  "generated_at": "2026-10-12T17:21:12.239Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11840,6 +11840,17 @@
       "path": "math/0153-federated-averaging-aggregation-and-communication-cost",
       "first_solved_at": "2026-10-12T17:18:32.185Z",
       "last_pushed_at": "2026-10-12T17:18:32.185Z"
+    },
+    "math:193": {
+      "kind": "math",
+      "id": "193",
+      "title": "Spectral Graph Convolution and Chebyshev Filters",
+      "difficulty": "hard",
+      "category": "Graph Neural Networks",
+      "url": "https://www.deep-ml.com/math-problems/193",
+      "path": "math/0193-spectral-graph-convolution-and-chebyshev-filters",
+      "first_solved_at": "2026-10-12T17:21:11.471Z",
+      "last_pushed_at": "2026-10-12T17:21:11.471Z"
     }
   }
 }
