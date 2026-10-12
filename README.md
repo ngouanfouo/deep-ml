@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**914** solved · 825 problems · 13 labs · 76 math
+**915** solved · 825 problems · 13 labs · 77 math
 
 ![Coverage](./coverage.svg)
 
@@ -866,6 +866,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-09-25 | [solution](math/0005-gradient-descent-updates) |
 | [Loop Nests and FLOPs of Expand-Reduce Formulations](https://www.deep-ml.com/math-problems/213) | easy | 2026-10-03 | [solution](math/0213-loop-nests-and-flops-of-expand-reduce-formulations) |
 | [LoRA Parameter and Compute Arithmetic](https://www.deep-ml.com/math-problems/154) | easy | 2026-09-24 | [solution](math/0154-lora-parameter-and-compute-arithmetic) |
+| [Standard Error and the Sampling Distribution of an Estimator](https://www.deep-ml.com/math-problems/73) | easy | 2026-10-12 | [solution](math/0073-standard-error-and-the-sampling-distribution-of-an-estimator) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-08-04 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Backpropagation Through Movement Ops](https://www.deep-ml.com/math-problems/217) | medium | 2026-10-03 | [solution](math/0217-backpropagation-through-movement-ops) |
 | [Bellman Expectation for State and Action Values](https://www.deep-ml.com/math-problems/55) | medium | 2026-09-24 | [solution](math/0055-bellman-expectation-for-state-and-action-values) |
