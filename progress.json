@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T16:38:30.643Z",
+  "generated_at": "2026-10-12T16:40:57.971Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11708,6 +11708,17 @@
       "path": "math/0110-polynomial-regression-and-step-functions",
       "first_solved_at": "2026-10-12T16:38:29.737Z",
       "last_pushed_at": "2026-10-12T16:38:29.737Z"
+    },
+    "math:111": {
+      "kind": "math",
+      "id": "111",
+      "title": "Local Regression and Generalized Additive Models",
+      "difficulty": "hard",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/111",
+      "path": "math/0111-local-regression-and-generalized-additive-models",
+      "first_solved_at": "2026-10-12T16:40:57.191Z",
+      "last_pushed_at": "2026-10-12T16:40:57.191Z"
     }
   }
 }
