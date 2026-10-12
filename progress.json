@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T16:36:10.845Z",
+  "generated_at": "2026-10-12T16:38:30.643Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11697,6 +11697,17 @@
       "path": "math/0119-regularized-cox-models-and-the-concordance-index",
       "first_solved_at": "2026-10-12T16:36:10.069Z",
       "last_pushed_at": "2026-10-12T16:36:10.069Z"
+    },
+    "math:110": {
+      "kind": "math",
+      "id": "110",
+      "title": "Polynomial Regression and Step Functions",
+      "difficulty": "medium",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/110",
+      "path": "math/0110-polynomial-regression-and-step-functions",
+      "first_solved_at": "2026-10-12T16:38:29.737Z",
+      "last_pushed_at": "2026-10-12T16:38:29.737Z"
     }
   }
 }
