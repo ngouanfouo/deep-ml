@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:07:48.857Z",
+  "generated_at": "2026-10-19T18:09:43.473Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12162,6 +12162,17 @@
       "path": "math/0273-ppo-dpo-and-grpo-what-each-one-needs-and-why-grpo-drops-the-critic",
       "first_solved_at": "2026-10-19T18:07:52.786Z",
       "last_pushed_at": "2026-10-19T18:07:52.786Z"
+    },
+    "math:275": {
+      "kind": "math",
+      "id": "275",
+      "title": "NDCG: Gains, Log Discounts and Why It Is Not AUC",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/275",
+      "path": "math/0275-ndcg-gains-log-discounts-and-why-it-is-not-auc",
+      "first_solved_at": "2026-10-19T18:09:47.417Z",
+      "last_pushed_at": "2026-10-19T18:09:47.417Z"
     }
   }
 }
