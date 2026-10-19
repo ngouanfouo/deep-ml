@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:54:59.802Z",
+  "generated_at": "2026-10-19T17:23:02.147Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12074,6 +12074,17 @@
       "path": "math/0285-privileged-bases-and-polysemantic-neurons",
       "first_solved_at": "2026-10-19T15:55:03.681Z",
       "last_pushed_at": "2026-10-19T15:55:03.681Z"
+    },
+    "math:211": {
+      "kind": "math",
+      "id": "211",
+      "title": "Floor Division and Modulo Identities for Index Math",
+      "difficulty": "medium",
+      "category": "ML Compilers",
+      "url": "https://www.deep-ml.com/math-problems/211",
+      "path": "math/0211-floor-division-and-modulo-identities-for-index-math",
+      "first_solved_at": "2026-10-19T17:23:05.023Z",
+      "last_pushed_at": "2026-10-19T17:23:05.023Z"
     }
   }
 }

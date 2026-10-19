@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**944** solved · 832 problems · 13 labs · 99 math
+**945** solved · 832 problems · 13 labs · 100 math
 
 ![Coverage](./coverage.svg)
 
@@ -893,6 +893,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Evaluating a Circuit: Faithfulness, Completeness, Minimality](https://www.deep-ml.com/math-problems/291) | medium | 2026-10-19 | [solution](math/0291-evaluating-a-circuit-faithfulness-completeness-minimality) |
 | [Federated Averaging: Aggregation and Communication Cost](https://www.deep-ml.com/math-problems/153) | medium | 2026-10-12 | [solution](math/0153-federated-averaging-aggregation-and-communication-cost) |
 | [Floating-Point Formats: Exponent, Mantissa, Range and Resolution](https://www.deep-ml.com/math-problems/165) | medium | 2026-09-25 | [solution](math/0165-floating-point-formats-exponent-mantissa-range-and-resolution) |
+| [Floor Division and Modulo Identities for Index Math](https://www.deep-ml.com/math-problems/211) | medium | 2026-10-19 | [solution](math/0211-floor-division-and-modulo-identities-for-index-math) |
 | [GPU Mapping: Coalescing, Occupancy and Tensor-Core Tiles](https://www.deep-ml.com/math-problems/216) | medium | 2026-10-03 | [solution](math/0216-gpu-mapping-coalescing-occupancy-and-tensor-core-tiles) |
 | [Gradient of a Weight Shared Across Passes](https://www.deep-ml.com/math-problems/141) | medium | 2026-09-25 | [solution](math/0141-gradient-of-a-weight-shared-across-passes) |
 | [Gram–Schmidt and Orthonormal Bases](https://www.deep-ml.com/math-problems/47) | medium | 2026-09-25 | [solution](math/0047-gram-schmidt-and-orthonormal-bases) |
