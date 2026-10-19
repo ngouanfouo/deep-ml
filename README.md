@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**928** solved · 827 problems · 13 labs · 88 math
+**929** solved · 828 problems · 13 labs · 88 math
 
 ![Coverage](./coverage.svg)
 
@@ -691,6 +691,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build a Tiny GPT](https://www.deep-ml.com/problems/918) | hard | 2026-08-21 | [solution](problems/0918-build-a-tiny-gpt) |
 | [Build a Transformer Encoder Layer](https://www.deep-ml.com/problems/491) | hard | 2026-07-20 | [solution](problems/0491-build-a-transformer-encoder-layer) |
 | [Build a VQ-VAE from Scratch](https://www.deep-ml.com/problems/699) | hard | 2026-08-16 | [solution](problems/0699-build-a-vq-vae-from-scratch) |
+| [Causal and Padding Masks with scaled_dot_product_attention](https://www.deep-ml.com/problems/1346) | hard | 2026-10-19 | [solution](problems/1346-causal-and-padding-masks-with-scaled-dot-product-attention) |
 | [Certainty-Equivalence in TD Learning](https://www.deep-ml.com/problems/516) | hard | 2026-07-20 | [solution](problems/0516-certainty-equivalence-in-td-learning) |
 | [Cohort Retention: First Login and Consecutive-Day Logins](https://www.deep-ml.com/problems/1119) | hard | 2026-09-02 | [solution](problems/1119-cohort-retention-first-login-and-consecutive-day-logins) |
 | [Combine Correlated Alphas into Robust Weights](https://www.deep-ml.com/problems/1356) | hard | 2026-09-07 | [solution](problems/1356-combine-correlated-alphas-into-robust-weights) |
