@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**927** solved · 826 problems · 13 labs · 88 math
+**928** solved · 827 problems · 13 labs · 88 math
 
 ![Coverage](./coverage.svg)
 
@@ -673,6 +673,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Windy Gridworld with Sarsa](https://www.deep-ml.com/problems/517) | medium | 2026-09-17 | [solution](problems/0517-windy-gridworld-with-sarsa) |
 | [XGBoost Objective Function Calculation](https://www.deep-ml.com/problems/347) | medium | 2026-08-21 | [solution](problems/0347-xgboost-objective-function-calculation) |
 | [3D CNN Forward Pass Implementation](https://www.deep-ml.com/problems/230) | hard | 2026-07-03 | [solution](problems/0230-3d-cnn-forward-pass-implementation) |
+| [A KV Cache for Autoregressive Decoding](https://www.deep-ml.com/problems/1345) | hard | 2026-10-19 | [solution](problems/1345-a-kv-cache-for-autoregressive-decoding) |
 | [A/B Test Statistical Analysis for Model Comparison](https://www.deep-ml.com/problems/269) | hard | 2026-07-03 | [solution](problems/0269-a-b-test-statistical-analysis-for-model-comparison) |
 | [Acrobot Swing-Up with Sarsa(λ)](https://www.deep-ml.com/problems/620) | hard | 2026-08-10 | [solution](problems/0620-acrobot-swing-up-with-sarsa) |
 | [Action-Conditioned Autoregressive Video Dynamics Model](https://www.deep-ml.com/problems/709) | hard | 2026-08-16 | [solution](problems/0709-action-conditioned-autoregressive-video-dynamics-model) |
