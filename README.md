@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**929** solved · 828 problems · 13 labs · 88 math
+**930** solved · 829 problems · 13 labs · 88 math
 
 ![Coverage](./coverage.svg)
 
@@ -803,6 +803,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Residual Gradient Algorithm for Value Function Approximation](https://www.deep-ml.com/problems/577) | hard | 2026-08-02 | [solution](problems/0577-residual-gradient-algorithm-for-value-function-approximation) |
 | [Retrace(λ) Implementation](https://www.deep-ml.com/problems/582) | hard | 2026-08-02 | [solution](problems/0582-retrace-implementation) |
 | [Reverse-Mode Autodiff over a Tiny Graph IR](https://www.deep-ml.com/problems/1528) | hard | 2026-10-12 | [solution](problems/1528-reverse-mode-autodiff-over-a-tiny-graph-ir) |
+| [Rotary Position Embeddings (RoPE)](https://www.deep-ml.com/problems/1347) | hard | 2026-10-19 | [solution](problems/1347-rotary-position-embeddings-rope) |
 | [Sarsa(lambda) Algorithm with Eligibility Traces](https://www.deep-ml.com/problems/521) | hard | 2026-07-20 | [solution](problems/0521-sarsa-lambda-algorithm-with-eligibility-traces) |
 | [Semi-Gradient TD(lambda) with Eligibility Traces and Linear Function Approximation](https://www.deep-ml.com/problems/531) | hard | 2026-07-23 | [solution](problems/0531-semi-gradient-td-lambda-with-eligibility-traces-and-linear-function-approximation) |
 | [Semi-Markov Q-Learning](https://www.deep-ml.com/problems/617) | hard | 2026-08-10 | [solution](problems/0617-semi-markov-q-learning) |
