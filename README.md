@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**951** solved · 832 problems · 13 labs · 106 math
+**952** solved · 832 problems · 13 labs · 107 math
 
 ![Coverage](./coverage.svg)
 
@@ -920,6 +920,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Polynomial Regression and Step Functions](https://www.deep-ml.com/math-problems/110) | medium | 2026-10-12 | [solution](math/0110-polynomial-regression-and-step-functions) |
 | [Positive Definite Matrices and Quadratic Forms](https://www.deep-ml.com/math-problems/50) | medium | 2026-10-12 | [solution](math/0050-positive-definite-matrices-and-quadratic-forms) |
 | [PPO Clipped Surrogate Objective](https://www.deep-ml.com/math-problems/53) | medium | 2026-09-25 | [solution](math/0053-ppo-clipped-surrogate-objective) |
+| [PPO, DPO and GRPO: What Each One Needs and Why GRPO Drops the Critic](https://www.deep-ml.com/math-problems/273) | medium | 2026-10-19 | [solution](math/0273-ppo-dpo-and-grpo-what-each-one-needs-and-why-grpo-drops-the-critic) |
 | [Privileged Bases and Polysemantic Neurons](https://www.deep-ml.com/math-problems/285) | medium | 2026-10-19 | [solution](math/0285-privileged-bases-and-polysemantic-neurons) |
 | [Probes, Control Tasks and the Linear Representation Hypothesis](https://www.deep-ml.com/math-problems/284) | medium | 2026-10-19 | [solution](math/0284-probes-control-tasks-and-the-linear-representation-hypothesis) |
 | [Propensity Scores and Inverse Probability Weighting](https://www.deep-ml.com/math-problems/179) | medium | 2026-09-24 | [solution](math/0179-propensity-scores-and-inverse-probability-weighting) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:05:50.115Z",
+  "generated_at": "2026-10-19T18:07:48.857Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12151,6 +12151,17 @@
       "path": "math/0274-why-adamw-decouples-weight-decay-from-the-gradient",
       "first_solved_at": "2026-10-19T18:05:54.110Z",
       "last_pushed_at": "2026-10-19T18:05:54.110Z"
+    },
+    "math:273": {
+      "kind": "math",
+      "id": "273",
+      "title": "PPO, DPO and GRPO: What Each One Needs and Why GRPO Drops the Critic",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/273",
+      "path": "math/0273-ppo-dpo-and-grpo-what-each-one-needs-and-why-grpo-drops-the-critic",
+      "first_solved_at": "2026-10-19T18:07:52.786Z",
+      "last_pushed_at": "2026-10-19T18:07:52.786Z"
     }
   }
 }
