@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**958** solved · 835 problems · 13 labs · 110 math
+**959** solved · 836 problems · 13 labs · 110 math
 
 ![Coverage](./coverage.svg)
 
@@ -829,6 +829,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [TDNN for Variable-Length Sequences](https://www.deep-ml.com/problems/624) | hard | 2026-08-11 | [solution](problems/0624-tdnn-for-variable-length-sequences) |
 | [Temporal Abstraction with Options](https://www.deep-ml.com/problems/587) | hard | 2026-08-02 | [solution](problems/0587-temporal-abstraction-with-options) |
 | [Tensor Puzzle: Bucketize Values into Bins](https://www.deep-ml.com/problems/1288) | hard | 2026-09-24 | [solution](problems/1288-tensor-puzzle-bucketize-values-into-bins) |
+| [The NextLat Training Objective](https://www.deep-ml.com/problems/1375) | hard | 2026-10-19 | [solution](problems/1375-the-nextlat-training-objective) |
 | [Tinygrad: Build a Tiny GPT](https://www.deep-ml.com/problems/939) | hard | 2026-08-21 | [solution](problems/0939-tinygrad-build-a-tiny-gpt) |
 | [Tinygrad: Implement Multi-Head Self-Attention](https://www.deep-ml.com/problems/925) | hard | 2026-08-21 | [solution](problems/0925-tinygrad-implement-multi-head-self-attention) |
 | [Token-Level Key-Value Compression with Overlapping Windows](https://www.deep-ml.com/problems/734) | hard | 2026-08-16 | [solution](problems/0734-token-level-key-value-compression-with-overlapping-windows) |
