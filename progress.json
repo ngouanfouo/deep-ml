@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:48:02.058Z",
+  "generated_at": "2026-10-19T15:51:59.683Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12052,6 +12052,17 @@
       "path": "math/0287-ablation-baselines-zero-mean-and-resample",
       "first_solved_at": "2026-10-19T15:48:05.841Z",
       "last_pushed_at": "2026-10-19T15:48:05.841Z"
+    },
+    "math:295": {
+      "kind": "math",
+      "id": "295",
+      "title": "Steering Vectors: Editing Behaviour by Adding a Direction",
+      "difficulty": "easy",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/295",
+      "path": "math/0295-steering-vectors-editing-behaviour-by-adding-a-direction",
+      "first_solved_at": "2026-10-19T15:52:02.671Z",
+      "last_pushed_at": "2026-10-19T15:52:02.671Z"
     }
   }
 }
