@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:17:31.631Z",
+  "generated_at": "2026-10-19T18:18:52.938Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12206,6 +12206,19 @@
       "path": "problems/1256-int4-pack-unpack-and-weight-only-w4a16-matmul",
       "first_solved_at": "2026-10-19T18:17:35.644Z",
       "last_pushed_at": "2026-10-19T18:17:35.644Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:1257": {
+      "kind": "problem",
+      "id": "1257",
+      "title": "Simplified GPTQ: Sequential Quantization with Error Compensation",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1257",
+      "path": "problems/1257-simplified-gptq-sequential-quantization-with-error-compensation",
+      "first_solved_at": "2026-10-19T18:18:56.990Z",
+      "last_pushed_at": "2026-10-19T18:18:56.990Z",
       "language": "python",
       "lines": 34
     }
