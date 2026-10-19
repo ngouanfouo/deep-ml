@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:51:59.683Z",
+  "generated_at": "2026-10-19T15:54:59.802Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12063,6 +12063,17 @@
       "path": "math/0295-steering-vectors-editing-behaviour-by-adding-a-direction",
       "first_solved_at": "2026-10-19T15:52:02.671Z",
       "last_pushed_at": "2026-10-19T15:52:02.671Z"
+    },
+    "math:285": {
+      "kind": "math",
+      "id": "285",
+      "title": "Privileged Bases and Polysemantic Neurons",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/285",
+      "path": "math/0285-privileged-bases-and-polysemantic-neurons",
+      "first_solved_at": "2026-10-19T15:55:03.681Z",
+      "last_pushed_at": "2026-10-19T15:55:03.681Z"
     }
   }
 }
