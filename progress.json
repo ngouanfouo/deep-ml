@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:41:24.057Z",
+  "generated_at": "2026-10-19T15:43:31.117Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12019,6 +12019,17 @@
       "path": "math/0289-attribution-patching-patching-as-a-first-order-expansion",
       "first_solved_at": "2026-10-19T15:41:28.031Z",
       "last_pushed_at": "2026-10-19T15:41:28.031Z"
+    },
+    "math:286": {
+      "kind": "math",
+      "id": "286",
+      "title": "Causal Mediation: What Activation Patching Measures",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/286",
+      "path": "math/0286-causal-mediation-what-activation-patching-measures",
+      "first_solved_at": "2026-10-19T15:43:35.112Z",
+      "last_pushed_at": "2026-10-19T15:43:35.112Z"
     }
   }
 }

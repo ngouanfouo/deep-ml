@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**939** solved · 832 problems · 13 labs · 94 math
+**940** solved · 832 problems · 13 labs · 95 math
 
 ![Coverage](./coverage.svg)
 
@@ -879,6 +879,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Backpropagation Through Movement Ops](https://www.deep-ml.com/math-problems/217) | medium | 2026-10-03 | [solution](math/0217-backpropagation-through-movement-ops) |
 | [Bellman Expectation for State and Action Values](https://www.deep-ml.com/math-problems/55) | medium | 2026-09-24 | [solution](math/0055-bellman-expectation-for-state-and-action-values) |
 | [Calibration: Platt Scaling, Isotonic Regression and Shifted Priors](https://www.deep-ml.com/math-problems/184) | medium | 2026-10-12 | [solution](math/0184-calibration-platt-scaling-isotonic-regression-and-shifted-priors) |
+| [Causal Mediation: What Activation Patching Measures](https://www.deep-ml.com/math-problems/286) | medium | 2026-10-19 | [solution](math/0286-causal-mediation-what-activation-patching-measures) |
 | [Cold Starts: Timeline, Weight Loading and Scale-Up Headroom](https://www.deep-ml.com/math-problems/170) | medium | 2026-09-24 | [solution](math/0170-cold-starts-timeline-weight-loading-and-scale-up-headroom) |
 | [Common Distributions II: Normal, Poisson, Exponential](https://www.deep-ml.com/math-problems/22) | medium | 2026-08-04 | [solution](math/0022-common-distributions-ii-normal-poisson-exponential) |
 | [Composition Between Heads and the Induction Circuit](https://www.deep-ml.com/math-problems/290) | medium | 2026-10-19 | [solution](math/0290-composition-between-heads-and-the-induction-circuit) |
