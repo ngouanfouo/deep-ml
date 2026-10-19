@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:01:22.858Z",
+  "generated_at": "2026-10-19T18:05:50.115Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12140,6 +12140,17 @@
       "path": "math/0268-continual-pretraining-of-llms-re-warm-re-decay-replay",
       "first_solved_at": "2026-10-19T18:01:26.719Z",
       "last_pushed_at": "2026-10-19T18:01:26.719Z"
+    },
+    "math:274": {
+      "kind": "math",
+      "id": "274",
+      "title": "Why AdamW Decouples Weight Decay from the Gradient",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/274",
+      "path": "math/0274-why-adamw-decouples-weight-decay-from-the-gradient",
+      "first_solved_at": "2026-10-19T18:05:54.110Z",
+      "last_pushed_at": "2026-10-19T18:05:54.110Z"
     }
   }
 }

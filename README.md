@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**950** solved · 832 problems · 13 labs · 105 math
+**951** solved · 832 problems · 13 labs · 106 math
 
 ![Coverage](./coverage.svg)
 
@@ -951,6 +951,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [The Sparse Autoencoder Objective and the Sparsity Frontier](https://www.deep-ml.com/math-problems/294) | medium | 2026-10-19 | [solution](math/0294-the-sparse-autoencoder-objective-and-the-sparsity-frontier) |
 | [Truncated Backpropagation Through Time: Cost, Memory and What Is Lost](https://www.deep-ml.com/math-problems/161) | medium | 2026-09-24 | [solution](math/0161-truncated-backpropagation-through-time-cost-memory-and-what-is-lost) |
 | [Variance Preservation and He/Glorot Scaling](https://www.deep-ml.com/math-problems/131) | medium | 2026-10-12 | [solution](math/0131-variance-preservation-and-he-glorot-scaling) |
+| [Why AdamW Decouples Weight Decay from the Gradient](https://www.deep-ml.com/math-problems/274) | medium | 2026-10-19 | [solution](math/0274-why-adamw-decouples-weight-decay-from-the-gradient) |
 | [Why Looping Leaves Memorization Capacity Unchanged](https://www.deep-ml.com/math-problems/145) | medium | 2026-09-25 | [solution](math/0145-why-looping-leaves-memorization-capacity-unchanged) |
 | [Why the Stop-Gradient? Collapse in Self-Predictive Learning](https://www.deep-ml.com/math-problems/126) | medium | 2026-10-12 | [solution](math/0126-why-the-stop-gradient-collapse-in-self-predictive-learning) |
 | [Word2Vec Negative Sampling Objective](https://www.deep-ml.com/math-problems/147) | medium | 2026-09-24 | [solution](math/0147-word2vec-negative-sampling-objective) |
