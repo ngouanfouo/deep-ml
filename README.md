@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**931** solved · 830 problems · 13 labs · 88 math
+**932** solved · 831 problems · 13 labs · 88 math
 
 ![Coverage](./coverage.svg)
 
@@ -763,6 +763,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [MCTS with Step-wise Reward for Reasoning Trace Search](https://www.deep-ml.com/problems/777) | hard | 2026-08-21 | [solution](problems/0777-mcts-with-step-wise-reward-for-reasoning-trace-search) |
 | [MDN with Label Collinearity Control](https://www.deep-ml.com/problems/360) | hard | 2026-07-09 | [solution](problems/0360-mdn-with-label-collinearity-control) |
 | [MinHash for Near-Duplicate Document Detection](https://www.deep-ml.com/problems/766) | hard | 2026-08-21 | [solution](problems/0766-minhash-for-near-duplicate-document-detection) |
+| [Mixture-of-Recursions: Expert-Choice Recursion Routing](https://www.deep-ml.com/problems/1390) | hard | 2026-10-19 | [solution](problems/1390-mixture-of-recursions-expert-choice-recursion-routing) |
 | [ML Pipeline DAG Scheduler with Critical Path Analysis](https://www.deep-ml.com/problems/270) | hard | 2026-07-03 | [solution](problems/0270-ml-pipeline-dag-scheduler-with-critical-path-analysis) |
 | [Model-Based Value Expansion](https://www.deep-ml.com/problems/598) | hard | 2026-08-04 | [solution](problems/0598-model-based-value-expansion) |
 | [Monte Carlo Tree Search](https://www.deep-ml.com/problems/207) | hard | 2026-06-30 | [solution](problems/0207-monte-carlo-tree-search) |

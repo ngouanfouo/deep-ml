@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:18:44.243Z",
+  "generated_at": "2026-10-19T15:19:46.845Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11927,6 +11927,19 @@
       "last_pushed_at": "2026-10-19T15:18:47.778Z",
       "language": "python",
       "lines": 44
+    },
+    "problem:1390": {
+      "kind": "problem",
+      "id": "1390",
+      "title": "Mixture-of-Recursions: Expert-Choice Recursion Routing",
+      "difficulty": "hard",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1390",
+      "path": "problems/1390-mixture-of-recursions-expert-choice-recursion-routing",
+      "first_solved_at": "2026-10-19T15:19:50.746Z",
+      "last_pushed_at": "2026-10-19T15:19:50.746Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }
