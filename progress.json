@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:43:31.117Z",
+  "generated_at": "2026-10-19T15:45:43.835Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12030,6 +12030,17 @@
       "path": "math/0286-causal-mediation-what-activation-patching-measures",
       "first_solved_at": "2026-10-19T15:43:35.112Z",
       "last_pushed_at": "2026-10-19T15:43:35.112Z"
+    },
+    "math:288": {
+      "kind": "math",
+      "id": "288",
+      "title": "Metrics for Interventions: Logit Difference, Probability and KL",
+      "difficulty": "easy",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/288",
+      "path": "math/0288-metrics-for-interventions-logit-difference-probability-and-kl",
+      "first_solved_at": "2026-10-19T15:45:47.815Z",
+      "last_pushed_at": "2026-10-19T15:45:47.815Z"
     }
   }
 }
