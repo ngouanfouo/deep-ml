@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:15:16.997Z",
+  "generated_at": "2026-10-19T18:17:31.631Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12195,6 +12195,19 @@
       "path": "math/0223-ordinary-vs-weighted-importance-sampling",
       "first_solved_at": "2026-10-19T18:15:21.103Z",
       "last_pushed_at": "2026-10-19T18:15:21.103Z"
+    },
+    "problem:1256": {
+      "kind": "problem",
+      "id": "1256",
+      "title": "INT4 Pack/Unpack and Weight-Only W4A16 Matmul",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1256",
+      "path": "problems/1256-int4-pack-unpack-and-weight-only-w4a16-matmul",
+      "first_solved_at": "2026-10-19T18:17:35.644Z",
+      "last_pushed_at": "2026-10-19T18:17:35.644Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
