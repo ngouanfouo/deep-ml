@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:21:57.382Z",
+  "generated_at": "2026-10-19T15:22:35.997Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11950,7 +11950,7 @@
       "url": "https://www.deep-ml.com/problems/1494",
       "path": "problems/1494-recurrent-lattice-transformer-multi-hot-input-iterated-stack-and-per-iteration-heads",
       "first_solved_at": "2026-10-19T15:22:01.328Z",
-      "last_pushed_at": "2026-10-19T15:22:01.328Z",
+      "last_pushed_at": "2026-10-19T15:22:39.776Z",
       "language": "python",
       "lines": 74
     }
