@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:22:35.997Z",
+  "generated_at": "2026-10-19T15:27:04.084Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11953,6 +11953,17 @@
       "last_pushed_at": "2026-10-19T15:22:39.776Z",
       "language": "python",
       "lines": 74
+    },
+    "math:293": {
+      "kind": "math",
+      "id": "293",
+      "title": "The Toy Model of Superposition: Where the Phase Change Happens",
+      "difficulty": "hard",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/293",
+      "path": "math/0293-the-toy-model-of-superposition-where-the-phase-change-happens",
+      "first_solved_at": "2026-10-19T15:27:07.980Z",
+      "last_pushed_at": "2026-10-19T15:27:07.980Z"
     }
   }
 }

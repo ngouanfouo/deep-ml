@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**933** solved · 832 problems · 13 labs · 88 math
+**934** solved · 832 problems · 13 labs · 89 math
 
 ![Coverage](./coverage.svg)
 
@@ -956,6 +956,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Regularized Cox Models and the Concordance Index](https://www.deep-ml.com/math-problems/119) | hard | 2026-10-12 | [solution](math/0119-regularized-cox-models-and-the-concordance-index) |
 | [Renewal Processes and Blackwell's Theorem](https://www.deep-ml.com/math-problems/149) | hard | 2026-09-24 | [solution](math/0149-renewal-processes-and-blackwell-s-theorem) |
 | [Spectral Graph Convolution and Chebyshev Filters](https://www.deep-ml.com/math-problems/193) | hard | 2026-10-12 | [solution](math/0193-spectral-graph-convolution-and-chebyshev-filters) |
+| [The Toy Model of Superposition: Where the Phase Change Happens](https://www.deep-ml.com/math-problems/293) | hard | 2026-10-19 | [solution](math/0293-the-toy-model-of-superposition-where-the-phase-change-happens) |
 | [XGBoost Split Gain from the Second-Order Objective](https://www.deep-ml.com/math-problems/151) | hard | 2026-09-24 | [solution](math/0151-xgboost-split-gain-from-the-second-order-objective) |
 
 ---
