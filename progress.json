@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:36:17.419Z",
+  "generated_at": "2026-10-19T15:38:22.256Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11997,6 +11997,17 @@
       "path": "math/0291-evaluating-a-circuit-faithfulness-completeness-minimality",
       "first_solved_at": "2026-10-19T15:36:21.429Z",
       "last_pushed_at": "2026-10-19T15:36:21.429Z"
+    },
+    "math:290": {
+      "kind": "math",
+      "id": "290",
+      "title": "Composition Between Heads and the Induction Circuit",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/290",
+      "path": "math/0290-composition-between-heads-and-the-induction-circuit",
+      "first_solved_at": "2026-10-19T15:38:24.006Z",
+      "last_pushed_at": "2026-10-19T15:38:24.006Z"
     }
   }
 }

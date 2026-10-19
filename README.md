@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**937** solved · 832 problems · 13 labs · 92 math
+**938** solved · 832 problems · 13 labs · 93 math
 
 ![Coverage](./coverage.svg)
 
@@ -880,6 +880,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calibration: Platt Scaling, Isotonic Regression and Shifted Priors](https://www.deep-ml.com/math-problems/184) | medium | 2026-10-12 | [solution](math/0184-calibration-platt-scaling-isotonic-regression-and-shifted-priors) |
 | [Cold Starts: Timeline, Weight Loading and Scale-Up Headroom](https://www.deep-ml.com/math-problems/170) | medium | 2026-09-24 | [solution](math/0170-cold-starts-timeline-weight-loading-and-scale-up-headroom) |
 | [Common Distributions II: Normal, Poisson, Exponential](https://www.deep-ml.com/math-problems/22) | medium | 2026-08-04 | [solution](math/0022-common-distributions-ii-normal-poisson-exponential) |
+| [Composition Between Heads and the Induction Circuit](https://www.deep-ml.com/math-problems/290) | medium | 2026-10-19 | [solution](math/0290-composition-between-heads-and-the-induction-circuit) |
 | [CUPED: Variance Reduction with Pre-Experiment Data](https://www.deep-ml.com/math-problems/182) | medium | 2026-09-24 | [solution](math/0182-cuped-variance-reduction-with-pre-experiment-data) |
 | [Deconfounded Evaluation: Macro Averages, Variable k and the Right x-Axis](https://www.deep-ml.com/math-problems/204) | medium | 2026-10-03 | [solution](math/0204-deconfounded-evaluation-macro-averages-variable-k-and-the-right-x-axis) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-08-02 | [solution](math/0011-determinants-and-trace) |
