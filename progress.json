@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T17:23:02.147Z",
+  "generated_at": "2026-10-19T17:27:17.382Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12085,6 +12085,17 @@
       "path": "math/0211-floor-division-and-modulo-identities-for-index-math",
       "first_solved_at": "2026-10-19T17:23:05.023Z",
       "last_pushed_at": "2026-10-19T17:23:05.023Z"
+    },
+    "math:284": {
+      "kind": "math",
+      "id": "284",
+      "title": "Probes, Control Tasks and the Linear Representation Hypothesis",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/284",
+      "path": "math/0284-probes-control-tasks-and-the-linear-representation-hypothesis",
+      "first_solved_at": "2026-10-19T17:27:21.415Z",
+      "last_pushed_at": "2026-10-19T17:27:21.415Z"
     }
   }
 }

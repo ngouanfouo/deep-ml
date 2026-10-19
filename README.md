@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**945** solved · 832 problems · 13 labs · 100 math
+**946** solved · 832 problems · 13 labs · 101 math
 
 ![Coverage](./coverage.svg)
 
@@ -919,6 +919,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Positive Definite Matrices and Quadratic Forms](https://www.deep-ml.com/math-problems/50) | medium | 2026-10-12 | [solution](math/0050-positive-definite-matrices-and-quadratic-forms) |
 | [PPO Clipped Surrogate Objective](https://www.deep-ml.com/math-problems/53) | medium | 2026-09-25 | [solution](math/0053-ppo-clipped-surrogate-objective) |
 | [Privileged Bases and Polysemantic Neurons](https://www.deep-ml.com/math-problems/285) | medium | 2026-10-19 | [solution](math/0285-privileged-bases-and-polysemantic-neurons) |
+| [Probes, Control Tasks and the Linear Representation Hypothesis](https://www.deep-ml.com/math-problems/284) | medium | 2026-10-19 | [solution](math/0284-probes-control-tasks-and-the-linear-representation-hypothesis) |
 | [Propensity Scores and Inverse Probability Weighting](https://www.deep-ml.com/math-problems/179) | medium | 2026-09-24 | [solution](math/0179-propensity-scores-and-inverse-probability-weighting) |
 | [Pseudoinverse and Minimum-Norm Least Squares](https://www.deep-ml.com/math-problems/48) | medium | 2026-09-25 | [solution](math/0048-pseudoinverse-and-minimum-norm-least-squares) |
 | [Qualitative Predictors, Dummy Coding and Interactions](https://www.deep-ml.com/math-problems/105) | medium | 2026-10-12 | [solution](math/0105-qualitative-predictors-dummy-coding-and-interactions) |
