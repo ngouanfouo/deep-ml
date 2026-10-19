@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**941** solved · 832 problems · 13 labs · 96 math
+**942** solved · 832 problems · 13 labs · 97 math
 
 ![Coverage](./coverage.svg)
 
@@ -869,6 +869,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Ablation Baselines: Zero, Mean and Resample](https://www.deep-ml.com/math-problems/287) | easy | 2026-10-19 | [solution](math/0287-ablation-baselines-zero-mean-and-resample) |
 | [ASR Serving Arithmetic: Real-Time Factor, Streams and Parallel Chunks](https://www.deep-ml.com/math-problems/174) | easy | 2026-09-22 | [solution](math/0174-asr-serving-arithmetic-real-time-factor-streams-and-parallel-chunks) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-09-25 | [solution](math/0005-gradient-descent-updates) |
 | [Loop Nests and FLOPs of Expand-Reduce Formulations](https://www.deep-ml.com/math-problems/213) | easy | 2026-10-03 | [solution](math/0213-loop-nests-and-flops-of-expand-reduce-formulations) |

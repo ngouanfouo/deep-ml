@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:45:43.835Z",
+  "generated_at": "2026-10-19T15:48:02.058Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12041,6 +12041,17 @@
       "path": "math/0288-metrics-for-interventions-logit-difference-probability-and-kl",
       "first_solved_at": "2026-10-19T15:45:47.815Z",
       "last_pushed_at": "2026-10-19T15:45:47.815Z"
+    },
+    "math:287": {
+      "kind": "math",
+      "id": "287",
+      "title": "Ablation Baselines: Zero, Mean and Resample",
+      "difficulty": "easy",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/287",
+      "path": "math/0287-ablation-baselines-zero-mean-and-resample",
+      "first_solved_at": "2026-10-19T15:48:05.841Z",
+      "last_pushed_at": "2026-10-19T15:48:05.841Z"
     }
   }
 }
