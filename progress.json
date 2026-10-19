@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T17:38:00.337Z",
+  "generated_at": "2026-10-19T17:58:19.245Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12118,6 +12118,17 @@
       "path": "math/0276-rope-why-rotating-queries-and-keys-encodes-relative-position",
       "first_solved_at": "2026-10-19T17:38:03.658Z",
       "last_pushed_at": "2026-10-19T17:38:03.658Z"
+    },
+    "math:272": {
+      "kind": "math",
+      "id": "272",
+      "title": "Sparse Memory Finetuning: Update Only the Slots the New Data Uses",
+      "difficulty": "hard",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/272",
+      "path": "math/0272-sparse-memory-finetuning-update-only-the-slots-the-new-data-uses",
+      "first_solved_at": "2026-10-19T17:58:23.273Z",
+      "last_pushed_at": "2026-10-19T17:58:23.273Z"
     }
   }
 }
