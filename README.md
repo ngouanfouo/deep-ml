@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**932** solved · 831 problems · 13 labs · 88 math
+**933** solved · 832 problems · 13 labs · 88 math
 
 ![Coverage](./coverage.svg)
 
@@ -801,6 +801,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [R-Learning for Average Reward](https://www.deep-ml.com/problems/540) | hard | 2026-07-23 | [solution](problems/0540-r-learning-for-average-reward) |
 | [Rainbow DQN Implementation](https://www.deep-ml.com/problems/593) | hard | 2026-08-02 | [solution](problems/0593-rainbow-dqn-implementation) |
 | [Rangeify: Push an Output Index Back Through Movement Ops](https://www.deep-ml.com/problems/1516) | hard | 2026-10-09 | [solution](problems/1516-rangeify-push-an-output-index-back-through-movement-ops) |
+| [Recurrent Lattice Transformer: Multi-Hot Input, Iterated Stack and Per-Iteration Heads](https://www.deep-ml.com/problems/1494) | hard | 2026-10-19 | [solution](problems/1494-recurrent-lattice-transformer-multi-hot-input-iterated-stack-and-per-iteration-heads) |
 | [REINFORCE with Value Baseline](https://www.deep-ml.com/problems/552) | hard | 2026-06-11 | [solution](problems/0552-reinforce-with-value-baseline) |
 | [Residual Gradient Algorithm for Value Function Approximation](https://www.deep-ml.com/problems/577) | hard | 2026-08-02 | [solution](problems/0577-residual-gradient-algorithm-for-value-function-approximation) |
 | [Retrace(λ) Implementation](https://www.deep-ml.com/problems/582) | hard | 2026-08-02 | [solution](problems/0582-retrace-implementation) |

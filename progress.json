@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:19:46.845Z",
+  "generated_at": "2026-10-19T15:21:57.382Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11940,6 +11940,19 @@
       "last_pushed_at": "2026-10-19T15:19:50.746Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:1494": {
+      "kind": "problem",
+      "id": "1494",
+      "title": "Recurrent Lattice Transformer: Multi-Hot Input, Iterated Stack and Per-Iteration Heads",
+      "difficulty": "hard",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1494",
+      "path": "problems/1494-recurrent-lattice-transformer-multi-hot-input-iterated-stack-and-per-iteration-heads",
+      "first_solved_at": "2026-10-19T15:22:01.328Z",
+      "last_pushed_at": "2026-10-19T15:22:01.328Z",
+      "language": "python",
+      "lines": 74
     }
   }
 }
