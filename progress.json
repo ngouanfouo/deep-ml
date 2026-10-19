@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:11:47.462Z",
+  "generated_at": "2026-10-19T18:15:16.997Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12184,6 +12184,17 @@
       "path": "math/0267-replay-budgets-reservoirs-rings-and-the-mixing-fraction",
       "first_solved_at": "2026-10-19T18:11:51.489Z",
       "last_pushed_at": "2026-10-19T18:11:51.489Z"
+    },
+    "math:223": {
+      "kind": "math",
+      "id": "223",
+      "title": "Ordinary vs Weighted Importance Sampling",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/223",
+      "path": "math/0223-ordinary-vs-weighted-importance-sampling",
+      "first_solved_at": "2026-10-19T18:15:21.103Z",
+      "last_pushed_at": "2026-10-19T18:15:21.103Z"
     }
   }
 }
