@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T17:33:22.563Z",
+  "generated_at": "2026-10-19T17:38:00.337Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12107,6 +12107,17 @@
       "path": "math/0282-attention-heads-as-qk-and-ov-circuits",
       "first_solved_at": "2026-10-19T17:33:26.585Z",
       "last_pushed_at": "2026-10-19T17:33:26.585Z"
+    },
+    "math:276": {
+      "kind": "math",
+      "id": "276",
+      "title": "RoPE: Why Rotating Queries and Keys Encodes Relative Position",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/276",
+      "path": "math/0276-rope-why-rotating-queries-and-keys-encodes-relative-position",
+      "first_solved_at": "2026-10-19T17:38:03.658Z",
+      "last_pushed_at": "2026-10-19T17:38:03.658Z"
     }
   }
 }
