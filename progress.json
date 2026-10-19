@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:34:15.176Z",
+  "generated_at": "2026-10-19T15:36:17.419Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11986,6 +11986,17 @@
       "path": "math/0292-superposition-geometry-more-features-than-dimensions",
       "first_solved_at": "2026-10-19T15:34:18.491Z",
       "last_pushed_at": "2026-10-19T15:34:18.491Z"
+    },
+    "math:291": {
+      "kind": "math",
+      "id": "291",
+      "title": "Evaluating a Circuit: Faithfulness, Completeness, Minimality",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/291",
+      "path": "math/0291-evaluating-a-circuit-faithfulness-completeness-minimality",
+      "first_solved_at": "2026-10-19T15:36:21.429Z",
+      "last_pushed_at": "2026-10-19T15:36:21.429Z"
     }
   }
 }

@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**936** solved · 832 problems · 13 labs · 91 math
+**937** solved · 832 problems · 13 labs · 92 math
 
 ![Coverage](./coverage.svg)
 
@@ -884,6 +884,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Deconfounded Evaluation: Macro Averages, Variable k and the Right x-Axis](https://www.deep-ml.com/math-problems/204) | medium | 2026-10-03 | [solution](math/0204-deconfounded-evaluation-macro-averages-variable-k-and-the-right-x-axis) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-08-02 | [solution](math/0011-determinants-and-trace) |
 | [Difference-in-Differences and Parallel Trends](https://www.deep-ml.com/math-problems/176) | medium | 2026-09-24 | [solution](math/0176-difference-in-differences-and-parallel-trends) |
+| [Evaluating a Circuit: Faithfulness, Completeness, Minimality](https://www.deep-ml.com/math-problems/291) | medium | 2026-10-19 | [solution](math/0291-evaluating-a-circuit-faithfulness-completeness-minimality) |
 | [Federated Averaging: Aggregation and Communication Cost](https://www.deep-ml.com/math-problems/153) | medium | 2026-10-12 | [solution](math/0153-federated-averaging-aggregation-and-communication-cost) |
 | [Floating-Point Formats: Exponent, Mantissa, Range and Resolution](https://www.deep-ml.com/math-problems/165) | medium | 2026-09-25 | [solution](math/0165-floating-point-formats-exponent-mantissa-range-and-resolution) |
 | [GPU Mapping: Coalescing, Occupancy and Tensor-Core Tiles](https://www.deep-ml.com/math-problems/216) | medium | 2026-10-03 | [solution](math/0216-gpu-mapping-coalescing-occupancy-and-tensor-core-tiles) |
