@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:38:22.256Z",
+  "generated_at": "2026-10-19T15:41:24.057Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12008,6 +12008,17 @@
       "path": "math/0290-composition-between-heads-and-the-induction-circuit",
       "first_solved_at": "2026-10-19T15:38:24.006Z",
       "last_pushed_at": "2026-10-19T15:38:24.006Z"
+    },
+    "math:289": {
+      "kind": "math",
+      "id": "289",
+      "title": "Attribution Patching: Patching as a First-Order Expansion",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/289",
+      "path": "math/0289-attribution-patching-patching-as-a-first-order-expansion",
+      "first_solved_at": "2026-10-19T15:41:28.031Z",
+      "last_pushed_at": "2026-10-19T15:41:28.031Z"
     }
   }
 }
