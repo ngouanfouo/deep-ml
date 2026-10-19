@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:32:07.738Z",
+  "generated_at": "2026-10-19T15:34:15.176Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11975,6 +11975,17 @@
       "path": "math/0294-the-sparse-autoencoder-objective-and-the-sparsity-frontier",
       "first_solved_at": "2026-10-19T15:32:11.648Z",
       "last_pushed_at": "2026-10-19T15:32:11.648Z"
+    },
+    "math:292": {
+      "kind": "math",
+      "id": "292",
+      "title": "Superposition Geometry: More Features Than Dimensions",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/292",
+      "path": "math/0292-superposition-geometry-more-features-than-dimensions",
+      "first_solved_at": "2026-10-19T15:34:18.491Z",
+      "last_pushed_at": "2026-10-19T15:34:18.491Z"
     }
   }
 }
