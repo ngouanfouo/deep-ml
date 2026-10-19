@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T17:27:17.382Z",
+  "generated_at": "2026-10-19T17:33:22.563Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12096,6 +12096,17 @@
       "path": "math/0284-probes-control-tasks-and-the-linear-representation-hypothesis",
       "first_solved_at": "2026-10-19T17:27:21.415Z",
       "last_pushed_at": "2026-10-19T17:27:21.415Z"
+    },
+    "math:282": {
+      "kind": "math",
+      "id": "282",
+      "title": "Attention Heads as QK and OV Circuits",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/282",
+      "path": "math/0282-attention-heads-as-qk-and-ov-circuits",
+      "first_solved_at": "2026-10-19T17:33:26.585Z",
+      "last_pushed_at": "2026-10-19T17:33:26.585Z"
     }
   }
 }

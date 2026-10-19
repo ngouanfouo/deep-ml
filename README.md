@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**946** solved · 832 problems · 13 labs · 101 math
+**947** solved · 832 problems · 13 labs · 102 math
 
 ![Coverage](./coverage.svg)
 
@@ -877,6 +877,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Metrics for Interventions: Logit Difference, Probability and KL](https://www.deep-ml.com/math-problems/288) | easy | 2026-10-19 | [solution](math/0288-metrics-for-interventions-logit-difference-probability-and-kl) |
 | [Standard Error and the Sampling Distribution of an Estimator](https://www.deep-ml.com/math-problems/73) | easy | 2026-10-12 | [solution](math/0073-standard-error-and-the-sampling-distribution-of-an-estimator) |
 | [Steering Vectors: Editing Behaviour by Adding a Direction](https://www.deep-ml.com/math-problems/295) | easy | 2026-10-19 | [solution](math/0295-steering-vectors-editing-behaviour-by-adding-a-direction) |
+| [Attention Heads as QK and OV Circuits](https://www.deep-ml.com/math-problems/282) | medium | 2026-10-19 | [solution](math/0282-attention-heads-as-qk-and-ov-circuits) |
 | [Attribution Patching: Patching as a First-Order Expansion](https://www.deep-ml.com/math-problems/289) | medium | 2026-10-19 | [solution](math/0289-attribution-patching-patching-as-a-first-order-expansion) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-08-04 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Backpropagation Through Movement Ops](https://www.deep-ml.com/math-problems/217) | medium | 2026-10-03 | [solution](math/0217-backpropagation-through-movement-ops) |
