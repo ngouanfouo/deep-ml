@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T17:22:13.013Z",
+  "generated_at": "2026-10-19T15:13:45.387Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11862,6 +11862,19 @@
       "path": "math/0126-why-the-stop-gradient-collapse-in-self-predictive-learning",
       "first_solved_at": "2026-10-12T17:22:12.224Z",
       "last_pushed_at": "2026-10-12T17:22:12.224Z"
+    },
+    "problem:1342": {
+      "kind": "problem",
+      "id": "1342",
+      "title": "Trade Compute for Memory with Gradient Checkpointing",
+      "difficulty": "hard",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1342",
+      "path": "problems/1342-trade-compute-for-memory-with-gradient-checkpointing",
+      "first_solved_at": "2026-10-19T15:13:49.119Z",
+      "last_pushed_at": "2026-10-19T15:13:49.119Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
