@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:27:04.084Z",
+  "generated_at": "2026-10-19T15:32:07.738Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -11964,6 +11964,17 @@
       "path": "math/0293-the-toy-model-of-superposition-where-the-phase-change-happens",
       "first_solved_at": "2026-10-19T15:27:07.980Z",
       "last_pushed_at": "2026-10-19T15:27:07.980Z"
+    },
+    "math:294": {
+      "kind": "math",
+      "id": "294",
+      "title": "The Sparse Autoencoder Objective and the Sparsity Frontier",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/294",
+      "path": "math/0294-the-sparse-autoencoder-objective-and-the-sparsity-frontier",
+      "first_solved_at": "2026-10-19T15:32:11.648Z",
+      "last_pushed_at": "2026-10-19T15:32:11.648Z"
     }
   }
 }

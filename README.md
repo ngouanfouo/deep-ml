@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**934** solved · 832 problems · 13 labs · 89 math
+**935** solved · 832 problems · 13 labs · 90 math
 
 ![Coverage](./coverage.svg)
 
@@ -934,6 +934,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [The Fourier Transform and the Convolution Theorem](https://www.deep-ml.com/math-problems/155) | medium | 2026-09-22 | [solution](math/0155-the-fourier-transform-and-the-convolution-theorem) |
 | [The GPU Memory Hierarchy and the Decode Latency Floor](https://www.deep-ml.com/math-problems/172) | medium | 2026-09-22 | [solution](math/0172-the-gpu-memory-hierarchy-and-the-decode-latency-floor) |
 | [The Learning Barrier: Why All-Fail Groups Teach Nothing](https://www.deep-ml.com/math-problems/202) | medium | 2026-10-03 | [solution](math/0202-the-learning-barrier-why-all-fail-groups-teach-nothing) |
+| [The Sparse Autoencoder Objective and the Sparsity Frontier](https://www.deep-ml.com/math-problems/294) | medium | 2026-10-19 | [solution](math/0294-the-sparse-autoencoder-objective-and-the-sparsity-frontier) |
 | [Truncated Backpropagation Through Time: Cost, Memory and What Is Lost](https://www.deep-ml.com/math-problems/161) | medium | 2026-09-24 | [solution](math/0161-truncated-backpropagation-through-time-cost-memory-and-what-is-lost) |
 | [Variance Preservation and He/Glorot Scaling](https://www.deep-ml.com/math-problems/131) | medium | 2026-10-12 | [solution](math/0131-variance-preservation-and-he-glorot-scaling) |
 | [Why Looping Leaves Memorization Capacity Unchanged](https://www.deep-ml.com/math-problems/145) | medium | 2026-09-25 | [solution](math/0145-why-looping-leaves-memorization-capacity-unchanged) |
