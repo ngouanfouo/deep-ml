@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:09:43.473Z",
+  "generated_at": "2026-10-19T18:11:47.462Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12173,6 +12173,17 @@
       "path": "math/0275-ndcg-gains-log-discounts-and-why-it-is-not-auc",
       "first_solved_at": "2026-10-19T18:09:47.417Z",
       "last_pushed_at": "2026-10-19T18:09:47.417Z"
+    },
+    "math:267": {
+      "kind": "math",
+      "id": "267",
+      "title": "Replay Budgets: Reservoirs, Rings and the Mixing Fraction",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/267",
+      "path": "math/0267-replay-budgets-reservoirs-rings-and-the-mixing-fraction",
+      "first_solved_at": "2026-10-19T18:11:51.489Z",
+      "last_pushed_at": "2026-10-19T18:11:51.489Z"
     }
   }
 }
