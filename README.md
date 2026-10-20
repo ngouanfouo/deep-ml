@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**961** solved · 838 problems · 13 labs · 110 math
+**962** solved · 839 problems · 13 labs · 110 math
 
 ![Coverage](./coverage.svg)
 
@@ -753,6 +753,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Job-Shop Scheduling with TD Learning](https://www.deep-ml.com/problems/622) | hard | 2026-08-11 | [solution](problems/0622-job-shop-scheduling-with-td-learning) |
 | [Kanerva Coding for High-Dimensional Spaces](https://www.deep-ml.com/problems/600) | hard | 2026-08-04 | [solution](problems/0600-kanerva-coding-for-high-dimensional-spaces) |
 | [Lambda-Return Computation](https://www.deep-ml.com/problems/519) | hard | 2026-07-20 | [solution](problems/0519-lambda-return-computation) |
+| [Laplacian Positional Encodings](https://www.deep-ml.com/problems/1485) | hard | 2026-10-20 | [solution](problems/1485-laplacian-positional-encodings) |
 | [Least-Squares Temporal Difference (LSTD) for Policy Evaluation](https://www.deep-ml.com/problems/536) | hard | 2026-07-23 | [solution](problems/0536-least-squares-temporal-difference-lstd-for-policy-evaluation) |
 | [Lightning Indexer Sparse Attention Selection](https://www.deep-ml.com/problems/736) | hard | 2026-08-21 | [solution](problems/0736-lightning-indexer-sparse-attention-selection) |
 | [Linear Covariance Shrinkage](https://www.deep-ml.com/problems/1355) | hard | 2026-09-07 | [solution](problems/1355-linear-covariance-shrinkage) |
