@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:23:38.237Z",
+  "generated_at": "2026-10-20T19:28:20.105Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12403,6 +12403,19 @@
       "last_pushed_at": "2026-10-20T19:23:43.637Z",
       "language": "python",
       "lines": 57
+    },
+    "problem:1537": {
+      "kind": "problem",
+      "id": "1537",
+      "title": "Batch-Invariant Decode Attention",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1537",
+      "path": "problems/1537-batch-invariant-decode-attention",
+      "first_solved_at": "2026-10-20T19:28:25.579Z",
+      "last_pushed_at": "2026-10-20T19:28:25.579Z",
+      "language": "python",
+      "lines": 114
     }
   }
 }

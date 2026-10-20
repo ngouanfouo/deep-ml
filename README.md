@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**971** solved · 848 problems · 13 labs · 110 math
+**972** solved · 849 problems · 13 labs · 110 math
 
 ![Coverage](./coverage.svg)
 
@@ -687,6 +687,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Asynchronous Advantage Actor-Critic (A3C)](https://www.deep-ml.com/problems/594) | hard | 2026-08-02 | [solution](problems/0594-asynchronous-advantage-actor-critic-a3c) |
 | [Asynchronous PPO Training Pipeline](https://www.deep-ml.com/problems/664) | hard | 2026-08-04 | [solution](problems/0664-asynchronous-ppo-training-pipeline) |
 | [Backgammon with TD Learning](https://www.deep-ml.com/problems/579) | hard | 2026-08-02 | [solution](problems/0579-backgammon-with-td-learning) |
+| [Batch-Invariant Decode Attention](https://www.deep-ml.com/problems/1537) | hard | 2026-10-20 | [solution](problems/1537-batch-invariant-decode-attention) |
 | [Batched Multi-Head Cross-Attention with Source Padding](https://www.deep-ml.com/problems/1549) | hard | 2026-10-20 | [solution](problems/1549-batched-multi-head-cross-attention-with-source-padding) |
 | [Beam Search with Memory-Efficient Block Sharing](https://www.deep-ml.com/problems/496) | hard | 2026-07-20 | [solution](problems/0496-beam-search-with-memory-efficient-block-sharing) |
 | [Bellman Error Minimization with Linear Function Approximation](https://www.deep-ml.com/problems/649) | hard | 2026-08-11 | [solution](problems/0649-bellman-error-minimization-with-linear-function-approximation) |
