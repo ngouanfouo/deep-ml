@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**968** solved · 845 problems · 13 labs · 110 math
+**969** solved · 846 problems · 13 labs · 110 math
 
 ![Coverage](./coverage.svg)
 
@@ -677,6 +677,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [A/B Test Statistical Analysis for Model Comparison](https://www.deep-ml.com/problems/269) | hard | 2026-07-03 | [solution](problems/0269-a-b-test-statistical-analysis-for-model-comparison) |
 | [Acrobot Swing-Up with Sarsa(λ)](https://www.deep-ml.com/problems/620) | hard | 2026-08-10 | [solution](problems/0620-acrobot-swing-up-with-sarsa) |
 | [Action-Conditioned Autoregressive Video Dynamics Model](https://www.deep-ml.com/problems/709) | hard | 2026-08-16 | [solution](problems/0709-action-conditioned-autoregressive-video-dynamics-model) |
+| [Activation Patching Grid with a Logit-Difference Metric](https://www.deep-ml.com/problems/1618) | hard | 2026-10-20 | [solution](problems/1618-activation-patching-grid-with-a-logit-difference-metric) |
 | [Actor-Critic Algorithm](https://www.deep-ml.com/problems/538) | hard | 2026-07-23 | [solution](problems/0538-actor-critic-algorithm) |
 | [Actor-Critic with Traces](https://www.deep-ml.com/problems/539) | hard | 2026-07-23 | [solution](problems/0539-actor-critic-with-traces) |
 | [Adaptive Computation Time: Per-Token Halting](https://www.deep-ml.com/problems/1389) | hard | 2026-10-19 | [solution](problems/1389-adaptive-computation-time-per-token-halting) |
