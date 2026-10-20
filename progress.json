@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:03:50.108Z",
+  "generated_at": "2026-10-20T19:04:55.546Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12299,6 +12299,19 @@
       "last_pushed_at": "2026-10-20T19:03:55.659Z",
       "language": "python",
       "lines": 116
+    },
+    "problem:1548": {
+      "kind": "problem",
+      "id": "1548",
+      "title": "Codeforces Elo Estimation from Sampled Submissions",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1548",
+      "path": "problems/1548-codeforces-elo-estimation-from-sampled-submissions",
+      "first_solved_at": "2026-10-20T19:05:00.403Z",
+      "last_pushed_at": "2026-10-20T19:05:00.403Z",
+      "language": "python",
+      "lines": 78
     }
   }
 }
