@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**965** solved · 842 problems · 13 labs · 110 math
+**966** solved · 843 problems · 13 labs · 110 math
 
 ![Coverage](./coverage.svg)
 
@@ -700,6 +700,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Combined Token Sampling Pipeline (Temperature + Top-k + Top-p)](https://www.deep-ml.com/problems/419) | hard | 2026-07-09 | [solution](problems/0419-combined-token-sampling-pipeline-temperature-top-k-top-p) |
 | [Context Parallelism with Ring Attention for Video Models](https://www.deep-ml.com/problems/448) | hard | 2026-07-15 | [solution](problems/0448-context-parallelism-with-ring-attention-for-video-models) |
 | [Control Variates in Off-Policy Methods](https://www.deep-ml.com/problems/584) | hard | 2026-08-02 | [solution](problems/0584-control-variates-in-off-policy-methods) |
+| [DDIM with Stochasticity and Step Skipping](https://www.deep-ml.com/problems/1563) | hard | 2026-10-20 | [solution](problems/1563-ddim-with-stochasticity-and-step-skipping) |
 | [DDPM Posterior and the Per-Step KL](https://www.deep-ml.com/problems/1556) | hard | 2026-10-20 | [solution](problems/1556-ddpm-posterior-and-the-per-step-kl) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-06-11 | [solution](problems/0020-decision-tree-learning) |
 | [Deep Q-Network Implementation](https://www.deep-ml.com/problems/551) | hard | 2026-07-23 | [solution](problems/0551-deep-q-network-implementation) |

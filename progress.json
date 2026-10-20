@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:07:03.847Z",
+  "generated_at": "2026-10-20T19:08:57.549Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12325,6 +12325,19 @@
       "last_pushed_at": "2026-10-20T19:07:09.359Z",
       "language": "python",
       "lines": 85
+    },
+    "problem:1563": {
+      "kind": "problem",
+      "id": "1563",
+      "title": "DDIM with Stochasticity and Step Skipping",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1563",
+      "path": "problems/1563-ddim-with-stochasticity-and-step-skipping",
+      "first_solved_at": "2026-10-20T19:09:03.099Z",
+      "last_pushed_at": "2026-10-20T19:09:03.099Z",
+      "language": "python",
+      "lines": 69
     }
   }
 }
