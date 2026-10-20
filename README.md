@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**972** solved · 849 problems · 13 labs · 110 math
+**973** solved · 850 problems · 13 labs · 110 math
 
 ![Coverage](./coverage.svg)
 
@@ -754,6 +754,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the GRPO Objective Function](https://www.deep-ml.com/problems/101) | hard | 2026-06-12 | [solution](problems/0101-implement-the-grpo-objective-function) |
 | [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2026-06-12 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
 | [Implementing PagedAttention: Block-wise Attention Computation](https://www.deep-ml.com/problems/492) | hard | 2026-07-20 | [solution](problems/0492-implementing-pagedattention-block-wise-attention-computation) |
+| [Inclusive Prefix Scan](https://www.deep-ml.com/problems/1313) | hard | 2026-10-20 | [solution](problems/1313-inclusive-prefix-scan) |
 | [INT4 Pack/Unpack and Weight-Only W4A16 Matmul](https://www.deep-ml.com/problems/1256) | hard | 2026-10-19 | [solution](problems/1256-int4-pack-unpack-and-weight-only-w4a16-matmul) |
 | [Intra-Option Q-Learning for Temporal Abstraction](https://www.deep-ml.com/problems/652) | hard | 2026-08-11 | [solution](problems/0652-intra-option-q-learning-for-temporal-abstraction) |
 | [Job-Shop Scheduling with TD Learning](https://www.deep-ml.com/problems/622) | hard | 2026-08-11 | [solution](problems/0622-job-shop-scheduling-with-td-learning) |
