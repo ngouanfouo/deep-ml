@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**962** solved · 839 problems · 13 labs · 110 math
+**963** solved · 840 problems · 13 labs · 110 math
 
 ![Coverage](./coverage.svg)
 
@@ -845,6 +845,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [True Online TD(λ) with Linear Function Approximation](https://www.deep-ml.com/problems/561) | hard | 2026-07-23 | [solution](problems/0561-true-online-td-with-linear-function-approximation) |
 | [Trust Region Policy Optimization (TRPO)](https://www.deep-ml.com/problems/595) | hard | 2026-08-02 | [solution](problems/0595-trust-region-policy-optimization-trpo) |
 | [Two-Sample T-Test Implementation](https://www.deep-ml.com/problems/211) | hard | 2026-06-30 | [solution](problems/0211-two-sample-t-test-implementation) |
+| [Two-Stage Context Parallelism for Compressed KV](https://www.deep-ml.com/problems/1538) | hard | 2026-10-20 | [solution](problems/1538-two-stage-context-parallelism-for-compressed-kv) |
 | [Unsupervised Latent Action Discovery](https://www.deep-ml.com/problems/701) | hard | 2026-08-16 | [solution](problems/0701-unsupervised-latent-action-discovery) |
 | [Value Functions for Options](https://www.deep-ml.com/problems/588) | hard | 2026-08-02 | [solution](problems/0588-value-functions-for-options) |
 | [Variable-Length Self-Speculative Decoding](https://www.deep-ml.com/problems/1379) | hard | 2026-10-20 | [solution](problems/1379-variable-length-self-speculative-decoding) |

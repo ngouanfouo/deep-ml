@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:02:09.228Z",
+  "generated_at": "2026-10-20T19:03:50.108Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12286,6 +12286,19 @@
       "last_pushed_at": "2026-10-20T19:02:14.762Z",
       "language": "python",
       "lines": 52
+    },
+    "problem:1538": {
+      "kind": "problem",
+      "id": "1538",
+      "title": "Two-Stage Context Parallelism for Compressed KV",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1538",
+      "path": "problems/1538-two-stage-context-parallelism-for-compressed-kv",
+      "first_solved_at": "2026-10-20T19:03:55.659Z",
+      "last_pushed_at": "2026-10-20T19:03:55.659Z",
+      "language": "python",
+      "lines": 116
     }
   }
 }
