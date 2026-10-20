@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**966** solved · 843 problems · 13 labs · 110 math
+**967** solved · 844 problems · 13 labs · 110 math
 
 ![Coverage](./coverage.svg)
 
@@ -809,6 +809,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Recurrent Lattice Transformer: Multi-Hot Input, Iterated Stack and Per-Iteration Heads](https://www.deep-ml.com/problems/1494) | hard | 2026-10-19 | [solution](problems/1494-recurrent-lattice-transformer-multi-hot-input-iterated-stack-and-per-iteration-heads) |
 | [REINFORCE with Value Baseline](https://www.deep-ml.com/problems/552) | hard | 2026-06-11 | [solution](problems/0552-reinforce-with-value-baseline) |
 | [Residual Gradient Algorithm for Value Function Approximation](https://www.deep-ml.com/problems/577) | hard | 2026-08-02 | [solution](problems/0577-residual-gradient-algorithm-for-value-function-approximation) |
+| [Residual-Stream Decomposition in an Attention-Only Transformer](https://www.deep-ml.com/problems/1611) | hard | 2026-10-20 | [solution](problems/1611-residual-stream-decomposition-in-an-attention-only-transformer) |
 | [Retrace(λ) Implementation](https://www.deep-ml.com/problems/582) | hard | 2026-08-02 | [solution](problems/0582-retrace-implementation) |
 | [Reverse-Mode Autodiff over a Tiny Graph IR](https://www.deep-ml.com/problems/1528) | hard | 2026-10-12 | [solution](problems/1528-reverse-mode-autodiff-over-a-tiny-graph-ir) |
 | [Rotary Position Embeddings (RoPE)](https://www.deep-ml.com/problems/1347) | hard | 2026-10-19 | [solution](problems/1347-rotary-position-embeddings-rope) |

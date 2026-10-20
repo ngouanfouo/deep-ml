@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:08:57.549Z",
+  "generated_at": "2026-10-20T19:11:44.626Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12338,6 +12338,19 @@
       "last_pushed_at": "2026-10-20T19:09:03.099Z",
       "language": "python",
       "lines": 69
+    },
+    "problem:1611": {
+      "kind": "problem",
+      "id": "1611",
+      "title": "Residual-Stream Decomposition in an Attention-Only Transformer",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1611",
+      "path": "problems/1611-residual-stream-decomposition-in-an-attention-only-transformer",
+      "first_solved_at": "2026-10-20T19:11:48.677Z",
+      "last_pushed_at": "2026-10-20T19:11:48.677Z",
+      "language": "python",
+      "lines": 74
     }
   }
 }
