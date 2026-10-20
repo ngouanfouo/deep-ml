@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**973** solved · 850 problems · 13 labs · 110 math
+**974** solved · 851 problems · 13 labs · 110 math
 
 ![Coverage](./coverage.svg)
 
@@ -830,6 +830,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sparse Distributed Memory](https://www.deep-ml.com/problems/646) | hard | 2026-08-11 | [solution](problems/0646-sparse-distributed-memory) |
 | [Spatial vs. Spatiotemporal Video Tokenizer Ablation](https://www.deep-ml.com/problems/718) | hard | 2026-08-16 | [solution](problems/0718-spatial-vs-spatiotemporal-video-tokenizer-ablation) |
 | [Speculative Decoding End-to-End Simulation](https://www.deep-ml.com/problems/410) | hard | 2026-07-09 | [solution](problems/0410-speculative-decoding-end-to-end-simulation) |
+| [Stream Compaction](https://www.deep-ml.com/problems/1316) | hard | 2026-10-20 | [solution](problems/1316-stream-compaction) |
 | [Successor Representation Learning](https://www.deep-ml.com/problems/597) | hard | 2026-08-04 | [solution](problems/0597-successor-representation-learning) |
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2026-06-12 | [solution](problems/0028-svd-of-a-2x2-matrix) |
 | [TD-Gammon Position Evaluation Network](https://www.deep-ml.com/problems/618) | hard | 2026-08-10 | [solution](problems/0618-td-gammon-position-evaluation-network) |
