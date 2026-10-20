@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**960** solved · 837 problems · 13 labs · 110 math
+**961** solved · 838 problems · 13 labs · 110 math
 
 ![Coverage](./coverage.svg)
 
@@ -851,6 +851,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Variational Inference: ELBO Computation](https://www.deep-ml.com/problems/206) | hard | 2026-06-30 | [solution](problems/0206-variational-inference-elbo-computation) |
 | [Video Tokenizer with Spatiotemporal VQ-VAE](https://www.deep-ml.com/problems/704) | hard | 2026-08-16 | [solution](problems/0704-video-tokenizer-with-spatiotemporal-vq-vae) |
 | [Wave-Based Expert Parallelism Pipelining](https://www.deep-ml.com/problems/756) | hard | 2026-08-21 | [solution](problems/0756-wave-based-expert-parallelism-pipelining) |
+| [Weisfeiler-Lehman Color Refinement and the 1-WL Test](https://www.deep-ml.com/problems/1481) | hard | 2026-10-20 | [solution](problems/1481-weisfeiler-lehman-color-refinement-and-the-1-wl-test) |
 
 ## Labs
 
