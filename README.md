@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**974** solved · 851 problems · 13 labs · 110 math
+**975** solved · 852 problems · 13 labs · 110 math
 
 ![Coverage](./coverage.svg)
 
@@ -691,6 +691,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Batched Multi-Head Cross-Attention with Source Padding](https://www.deep-ml.com/problems/1549) | hard | 2026-10-20 | [solution](problems/1549-batched-multi-head-cross-attention-with-source-padding) |
 | [Beam Search with Memory-Efficient Block Sharing](https://www.deep-ml.com/problems/496) | hard | 2026-07-20 | [solution](problems/0496-beam-search-with-memory-efficient-block-sharing) |
 | [Bellman Error Minimization with Linear Function Approximation](https://www.deep-ml.com/problems/649) | hard | 2026-08-11 | [solution](problems/0649-bellman-error-minimization-with-linear-function-approximation) |
+| [Bitonic Sort](https://www.deep-ml.com/problems/1319) | hard | 2026-10-20 | [solution](problems/1319-bitonic-sort) |
 | [Blocking Maze with Model Updates](https://www.deep-ml.com/problems/614) | hard | 2026-08-10 | [solution](problems/0614-blocking-maze-with-model-updates) |
 | [Build a Tiny GPT](https://www.deep-ml.com/problems/918) | hard | 2026-08-21 | [solution](problems/0918-build-a-tiny-gpt) |
 | [Build a Transformer Encoder Layer](https://www.deep-ml.com/problems/491) | hard | 2026-07-20 | [solution](problems/0491-build-a-transformer-encoder-layer) |
