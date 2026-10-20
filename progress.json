@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:04:55.546Z",
+  "generated_at": "2026-10-20T19:07:03.847Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12312,6 +12312,19 @@
       "last_pushed_at": "2026-10-20T19:05:00.403Z",
       "language": "python",
       "lines": 78
+    },
+    "problem:1556": {
+      "kind": "problem",
+      "id": "1556",
+      "title": "DDPM Posterior and the Per-Step KL",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1556",
+      "path": "problems/1556-ddpm-posterior-and-the-per-step-kl",
+      "first_solved_at": "2026-10-20T19:07:09.359Z",
+      "last_pushed_at": "2026-10-20T19:07:09.359Z",
+      "language": "python",
+      "lines": 85
     }
   }
 }
