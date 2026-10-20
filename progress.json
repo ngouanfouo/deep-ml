@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:11:44.626Z",
+  "generated_at": "2026-10-20T19:16:31.864Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12351,6 +12351,19 @@
       "last_pushed_at": "2026-10-20T19:11:48.677Z",
       "language": "python",
       "lines": 74
+    },
+    "problem:1624": {
+      "kind": "problem",
+      "id": "1624",
+      "title": "Sparse Autoencoder Training Step and Diagnostics",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1624",
+      "path": "problems/1624-sparse-autoencoder-training-step-and-diagnostics",
+      "first_solved_at": "2026-10-20T19:16:37.460Z",
+      "last_pushed_at": "2026-10-20T19:16:37.460Z",
+      "language": "python",
+      "lines": 107
     }
   }
 }
