@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:20:48.192Z",
+  "generated_at": "2026-10-20T18:59:19.276Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12247,6 +12247,19 @@
       "last_pushed_at": "2026-10-19T18:20:52.119Z",
       "language": "python",
       "lines": 73
+    },
+    "problem:1379": {
+      "kind": "problem",
+      "id": "1379",
+      "title": "Variable-Length Self-Speculative Decoding",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1379",
+      "path": "problems/1379-variable-length-self-speculative-decoding",
+      "first_solved_at": "2026-10-20T18:59:24.841Z",
+      "last_pushed_at": "2026-10-20T18:59:24.841Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }
