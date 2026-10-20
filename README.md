@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**975** solved · 852 problems · 13 labs · 110 math
+**976** solved · 853 problems · 13 labs · 110 math
 
 ![Coverage](./coverage.svg)
 
@@ -788,6 +788,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Off-Policy n-Step Sarsa with Importance Sampling](https://www.deep-ml.com/problems/563) | hard | 2026-07-29 | [solution](problems/0563-off-policy-n-step-sarsa-with-importance-sampling) |
 | [Off-Policy n-Step TD Prediction with Importance Sampling](https://www.deep-ml.com/problems/549) | hard | 2026-07-23 | [solution](problems/0549-off-policy-n-step-td-prediction-with-importance-sampling) |
 | [Off-Policy TD(lambda) with Importance-Weighted Eligibility Traces](https://www.deep-ml.com/problems/580) | hard | 2026-08-02 | [solution](problems/0580-off-policy-td-lambda-with-importance-weighted-eligibility-traces) |
+| [Online Softmax](https://www.deep-ml.com/problems/1320) | hard | 2026-10-20 | [solution](problems/1320-online-softmax) |
 | [Overlapping Look-Back KV Compression](https://www.deep-ml.com/problems/760) | hard | 2026-08-21 | [solution](problems/0760-overlapping-look-back-kv-compression) |
 | [Overlapping Weighted KV Compression](https://www.deep-ml.com/problems/735) | hard | 2026-08-21 | [solution](problems/0735-overlapping-weighted-kv-compression) |
 | [Parallel Environment Simulation with Multiprocessing](https://www.deep-ml.com/problems/655) | hard | 2026-08-04 | [solution](problems/0655-parallel-environment-simulation-with-multiprocessing) |
