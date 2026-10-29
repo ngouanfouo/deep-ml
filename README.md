@@ -2,9 +2,9 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**Completed:** Linear Algebra (73/73) · Compilers (23/23) · Optimization (14/14) · Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
+**Completed:** Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**977** solved · 854 problems · 13 labs · 110 math
+**978** solved · 854 problems · 13 labs · 111 math
 
 ![Coverage](./coverage.svg)
 
@@ -980,6 +980,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Why Looping Leaves Memorization Capacity Unchanged](https://www.deep-ml.com/math-problems/145) | medium | 2026-09-25 | [solution](math/0145-why-looping-leaves-memorization-capacity-unchanged) |
 | [Why the Stop-Gradient? Collapse in Self-Predictive Learning](https://www.deep-ml.com/math-problems/126) | medium | 2026-10-12 | [solution](math/0126-why-the-stop-gradient-collapse-in-self-predictive-learning) |
 | [Word2Vec Negative Sampling Objective](https://www.deep-ml.com/math-problems/147) | medium | 2026-09-24 | [solution](math/0147-word2vec-negative-sampling-objective) |
+| [An O(NC) Upper Bound on the Triplet Loss via Class Centroids](https://www.deep-ml.com/math-problems/427) | hard | 2026-10-29 | [solution](math/0427-an-o-nc-upper-bound-on-the-triplet-loss-via-class-centroids) |
 | [Asymmetric Binary Cross-Entropy and the Elimination Threshold](https://www.deep-ml.com/math-problems/199) | hard | 2026-10-12 | [solution](math/0199-asymmetric-binary-cross-entropy-and-the-elimination-threshold) |
 | [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-08-02 | [solution](math/0028-bayesian-methods) |
 | [Disaggregation and Chunked Prefill: The Scheduling Arithmetic](https://www.deep-ml.com/math-problems/171) | hard | 2026-09-22 | [solution](math/0171-disaggregation-and-chunked-prefill-the-scheduling-arithmetic) |
