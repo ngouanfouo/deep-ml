@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T15:53:59.901Z",
+  "generated_at": "2026-10-30T15:57:49.502Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12596,6 +12596,19 @@
       "last_pushed_at": "2026-10-30T15:54:07.433Z",
       "language": "python",
       "lines": 57
+    },
+    "problem:1675": {
+      "kind": "problem",
+      "id": "1675",
+      "title": "Sigmoid and GELU with __device__ Functions",
+      "difficulty": "easy",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1675",
+      "path": "problems/1675-sigmoid-and-gelu-with-device-functions",
+      "first_solved_at": "2026-10-30T15:57:57.645Z",
+      "last_pushed_at": "2026-10-30T15:57:57.645Z",
+      "language": "python",
+      "lines": 48
     }
   }
 }
