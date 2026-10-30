@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T15:30:03.549Z",
+  "generated_at": "2026-10-30T15:31:01.786Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12518,6 +12518,19 @@
       "last_pushed_at": "2026-10-30T15:30:11.609Z",
       "language": "python",
       "lines": 50
+    },
+    "problem:1314": {
+      "kind": "problem",
+      "id": "1314",
+      "title": "Fused RMSNorm CUDA Kernel",
+      "difficulty": "medium",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1314",
+      "path": "problems/1314-fused-rmsnorm-cuda-kernel",
+      "first_solved_at": "2026-10-30T15:31:09.491Z",
+      "last_pushed_at": "2026-10-30T15:31:09.491Z",
+      "language": "python",
+      "lines": 69
     }
   }
 }

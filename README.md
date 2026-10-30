@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**980** solved · 856 problems · 13 labs · 111 math
+**981** solved · 857 problems · 13 labs · 111 math
 
 ![Coverage](./coverage.svg)
 
@@ -376,6 +376,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Frechet Inception Distance (FID) for Image Quality Evaluation](https://www.deep-ml.com/problems/724) | medium | 2026-09-10 | [solution](problems/0724-frechet-inception-distance-fid-for-image-quality-evaluation) |
 | [Full TD(0) Prediction for Value Estimation](https://www.deep-ml.com/problems/475) | medium | 2026-09-17 | [solution](problems/0475-full-td-0-prediction-for-value-estimation) |
 | [Fused Bias+ReLU CUDA Kernel](https://www.deep-ml.com/problems/1188) | medium | 2026-09-15 | [solution](problems/1188-fused-bias-relu-cuda-kernel) |
+| [Fused RMSNorm CUDA Kernel](https://www.deep-ml.com/problems/1314) | medium | 2026-10-30 | [solution](problems/1314-fused-rmsnorm-cuda-kernel) |
 | [Fused Row-wise Softmax CUDA Kernel](https://www.deep-ml.com/problems/1252) | medium | 2026-09-17 | [solution](problems/1252-fused-row-wise-softmax-cuda-kernel) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-07-03 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-07-03 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
