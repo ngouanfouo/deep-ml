@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T15:33:53.483Z",
+  "generated_at": "2026-10-30T15:34:47.757Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12570,6 +12570,19 @@
       "last_pushed_at": "2026-10-30T15:34:01.381Z",
       "language": "python",
       "lines": 54
+    },
+    "problem:1321": {
+      "kind": "problem",
+      "id": "1321",
+      "title": "Scaled Dot-Product Attention",
+      "difficulty": "hard",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1321",
+      "path": "problems/1321-scaled-dot-product-attention",
+      "first_solved_at": "2026-10-30T15:34:55.629Z",
+      "last_pushed_at": "2026-10-30T15:34:55.629Z",
+      "language": "python",
+      "lines": 110
     }
   }
 }
