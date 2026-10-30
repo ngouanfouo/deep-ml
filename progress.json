@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T14:17:08.096Z",
+  "generated_at": "2026-10-30T15:29:05.722Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12492,6 +12492,19 @@
       "path": "math/0427-an-o-nc-upper-bound-on-the-triplet-loss-via-class-centroids",
       "first_solved_at": "2026-10-29T14:17:14.647Z",
       "last_pushed_at": "2026-10-29T14:17:14.647Z"
+    },
+    "problem:1311": {
+      "kind": "problem",
+      "id": "1311",
+      "title": "Histogram with Atomic Adds",
+      "difficulty": "medium",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1311",
+      "path": "problems/1311-histogram-with-atomic-adds",
+      "first_solved_at": "2026-10-30T15:29:13.731Z",
+      "last_pushed_at": "2026-10-30T15:29:13.731Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
