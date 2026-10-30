@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T15:31:01.786Z",
+  "generated_at": "2026-10-30T15:32:10.179Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12531,6 +12531,19 @@
       "last_pushed_at": "2026-10-30T15:31:09.491Z",
       "language": "python",
       "lines": 69
+    },
+    "problem:1315": {
+      "kind": "problem",
+      "id": "1315",
+      "title": "Tiled 2D Convolution",
+      "difficulty": "hard",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1315",
+      "path": "problems/1315-tiled-2d-convolution",
+      "first_solved_at": "2026-10-30T15:32:18.107Z",
+      "last_pushed_at": "2026-10-30T15:32:18.107Z",
+      "language": "python",
+      "lines": 86
     }
   }
 }

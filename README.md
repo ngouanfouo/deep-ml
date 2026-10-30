@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**981** solved · 857 problems · 13 labs · 111 math
+**982** solved · 858 problems · 13 labs · 111 math
 
 ![Coverage](./coverage.svg)
 
@@ -847,6 +847,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Temporal Abstraction with Options](https://www.deep-ml.com/problems/587) | hard | 2026-08-02 | [solution](problems/0587-temporal-abstraction-with-options) |
 | [Tensor Puzzle: Bucketize Values into Bins](https://www.deep-ml.com/problems/1288) | hard | 2026-09-24 | [solution](problems/1288-tensor-puzzle-bucketize-values-into-bins) |
 | [The NextLat Training Objective](https://www.deep-ml.com/problems/1375) | hard | 2026-10-19 | [solution](problems/1375-the-nextlat-training-objective) |
+| [Tiled 2D Convolution](https://www.deep-ml.com/problems/1315) | hard | 2026-10-30 | [solution](problems/1315-tiled-2d-convolution) |
 | [Tiled Flash Attention](https://www.deep-ml.com/problems/1322) | hard | 2026-10-20 | [solution](problems/1322-tiled-flash-attention) |
 | [Tinygrad: Build a Tiny GPT](https://www.deep-ml.com/problems/939) | hard | 2026-08-21 | [solution](problems/0939-tinygrad-build-a-tiny-gpt) |
 | [Tinygrad: Implement Multi-Head Self-Attention](https://www.deep-ml.com/problems/925) | hard | 2026-08-21 | [solution](problems/0925-tinygrad-implement-multi-head-self-attention) |
