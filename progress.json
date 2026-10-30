@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T15:29:05.722Z",
+  "generated_at": "2026-10-30T15:30:03.549Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12505,6 +12505,19 @@
       "last_pushed_at": "2026-10-30T15:29:13.731Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:1312": {
+      "kind": "problem",
+      "id": "1312",
+      "title": "Warp Shuffle Reduction",
+      "difficulty": "medium",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1312",
+      "path": "problems/1312-warp-shuffle-reduction",
+      "first_solved_at": "2026-10-30T15:30:11.609Z",
+      "last_pushed_at": "2026-10-30T15:30:11.609Z",
+      "language": "python",
+      "lines": 50
     }
   }
 }

@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**979** solved · 855 problems · 13 labs · 111 math
+**980** solved · 856 problems · 13 labs · 111 math
 
 ![Coverage](./coverage.svg)
 
@@ -669,6 +669,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [View Merging and the Contiguity Test](https://www.deep-ml.com/problems/1517) | medium | 2026-10-09 | [solution](problems/1517-view-merging-and-the-contiguity-test) |
 | [Views: Shape, Strides, Offset and Masks](https://www.deep-ml.com/problems/1515) | medium | 2026-10-09 | [solution](problems/1515-views-shape-strides-offset-and-masks) |
 | [Warmup + Cosine Decay Schedule](https://www.deep-ml.com/problems/196) | medium | 2026-07-20 | [solution](problems/0196-warmup-cosine-decay-schedule) |
+| [Warp Shuffle Reduction](https://www.deep-ml.com/problems/1312) | medium | 2026-10-30 | [solution](problems/1312-warp-shuffle-reduction) |
 | [Weighted Importance Sampling for Off-Policy Estimation](https://www.deep-ml.com/problems/473) | medium | 2026-09-17 | [solution](problems/0473-weighted-importance-sampling-for-off-policy-estimation) |
 | [Weighted Multi-Head Index Score Computation](https://www.deep-ml.com/problems/737) | medium | 2026-09-29 | [solution](problems/0737-weighted-multi-head-index-score-computation) |
 | [Windy Gridworld with Sarsa](https://www.deep-ml.com/problems/517) | medium | 2026-09-17 | [solution](problems/0517-windy-gridworld-with-sarsa) |
