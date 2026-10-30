@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**982** solved · 858 problems · 13 labs · 111 math
+**983** solved · 859 problems · 13 labs · 111 math
 
 ![Coverage](./coverage.svg)
 
@@ -824,6 +824,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Reverse-SDE and Probability-Flow ODE Samplers](https://www.deep-ml.com/problems/1559) | hard | 2026-10-20 | [solution](problems/1559-reverse-sde-and-probability-flow-ode-samplers) |
 | [Rotary Position Embeddings (RoPE)](https://www.deep-ml.com/problems/1347) | hard | 2026-10-19 | [solution](problems/1347-rotary-position-embeddings-rope) |
 | [Sarsa(lambda) Algorithm with Eligibility Traces](https://www.deep-ml.com/problems/521) | hard | 2026-07-20 | [solution](problems/0521-sarsa-lambda-algorithm-with-eligibility-traces) |
+| [Segmented Reduction](https://www.deep-ml.com/problems/1317) | hard | 2026-10-30 | [solution](problems/1317-segmented-reduction) |
 | [Semi-Gradient TD(lambda) with Eligibility Traces and Linear Function Approximation](https://www.deep-ml.com/problems/531) | hard | 2026-07-23 | [solution](problems/0531-semi-gradient-td-lambda-with-eligibility-traces-and-linear-function-approximation) |
 | [Semi-Markov Q-Learning](https://www.deep-ml.com/problems/617) | hard | 2026-08-10 | [solution](problems/0617-semi-markov-q-learning) |
 | [Sequential Video Generation with Diffusion Models](https://www.deep-ml.com/problems/501) | hard | 2026-07-20 | [solution](problems/0501-sequential-video-generation-with-diffusion-models) |
