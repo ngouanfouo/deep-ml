@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T15:33:05.203Z",
+  "generated_at": "2026-10-30T15:33:53.483Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12557,6 +12557,19 @@
       "last_pushed_at": "2026-10-30T15:33:13.264Z",
       "language": "python",
       "lines": 81
+    },
+    "problem:1318": {
+      "kind": "problem",
+      "id": "1318",
+      "title": "CSR Sparse Matrix-Vector Multiply",
+      "difficulty": "medium",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1318",
+      "path": "problems/1318-csr-sparse-matrix-vector-multiply",
+      "first_solved_at": "2026-10-30T15:34:01.381Z",
+      "last_pushed_at": "2026-10-30T15:34:01.381Z",
+      "language": "python",
+      "lines": 54
     }
   }
 }

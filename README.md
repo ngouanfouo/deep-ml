@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**983** solved · 859 problems · 13 labs · 111 math
+**984** solved · 860 problems · 13 labs · 111 math
 
 ![Coverage](./coverage.svg)
 
@@ -316,6 +316,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Count Subarrays Summing to K (Prefix-Sum Hash Map)](https://www.deep-ml.com/problems/1161) | medium | 2026-09-10 | [solution](problems/1161-count-subarrays-summing-to-k-prefix-sum-hash-map) |
 | [Create Composite Hypervector for a Dataset Row](https://www.deep-ml.com/problems/74) | medium | 2026-06-30 | [solution](problems/0074-create-composite-hypervector-for-a-dataset-row) |
 | [Critical Path Method for Scheduling](https://www.deep-ml.com/problems/637) | medium | 2026-09-10 | [solution](problems/0637-critical-path-method-for-scheduling) |
+| [CSR Sparse Matrix-Vector Multiply](https://www.deep-ml.com/problems/1318) | medium | 2026-10-30 | [solution](problems/1318-csr-sparse-matrix-vector-multiply) |
 | [Data Quality Scoring for ML Pipelines](https://www.deep-ml.com/problems/252) | medium | 2026-08-04 | [solution](problems/0252-data-quality-scoring-for-ml-pipelines) |
 | [DDIM Deterministic Sampling Step](https://www.deep-ml.com/problems/398) | medium | 2026-09-14 | [solution](problems/0398-ddim-deterministic-sampling-step) |
 | [DDPM Noise Schedule (Linear Beta Schedule)](https://www.deep-ml.com/problems/395) | medium | 2026-09-14 | [solution](problems/0395-ddpm-noise-schedule-linear-beta-schedule) |
