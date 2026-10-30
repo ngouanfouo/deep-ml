@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Jax (10/10) · Calculus (9/9) · Financial Engineering (9/9)
 
-**985** solved · 861 problems · 13 labs · 111 math
+**986** solved · 862 problems · 13 labs · 111 math
 
 ![Coverage](./coverage.svg)
 
@@ -47,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate the Discounted Return for a Given Trajectory](https://www.deep-ml.com/problems/167) | easy | 2026-09-17 | [solution](problems/0167-calculate-the-discounted-return-for-a-given-trajectory) |
 | [Calculate the Phi Coefficient](https://www.deep-ml.com/problems/95) | easy | 2026-08-21 | [solution](problems/0095-calculate-the-phi-coefficient) |
 | [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2026-09-29 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
+| [Catch a Bad Launch: CUDA Error Checking](https://www.deep-ml.com/problems/1674) | easy | 2026-10-30 | [solution](problems/1674-catch-a-bad-launch-cuda-error-checking) |
 | [Character-Level Tokenizer (stoi/itos/BOS)](https://www.deep-ml.com/problems/374) | easy | 2026-09-14 | [solution](problems/0374-character-level-tokenizer-stoi-itos-bos) |
 | [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-09-17 | [solution](problems/0331-check-linear-independence-of-vectors) |
 | [CLIP Image-Text Alignment Score Filtering](https://www.deep-ml.com/problems/785) | easy | 2026-09-10 | [solution](problems/0785-clip-image-text-alignment-score-filtering) |

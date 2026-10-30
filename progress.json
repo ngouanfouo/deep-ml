@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T15:34:47.757Z",
+  "generated_at": "2026-10-30T15:53:59.901Z",
   "items": {
     "problem:1187": {
       "kind": "problem",
@@ -12583,6 +12583,19 @@
       "last_pushed_at": "2026-10-30T15:34:55.629Z",
       "language": "python",
       "lines": 110
+    },
+    "problem:1674": {
+      "kind": "problem",
+      "id": "1674",
+      "title": "Catch a Bad Launch: CUDA Error Checking",
+      "difficulty": "easy",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1674",
+      "path": "problems/1674-catch-a-bad-launch-cuda-error-checking",
+      "first_solved_at": "2026-10-30T15:54:07.433Z",
+      "last_pushed_at": "2026-10-30T15:54:07.433Z",
+      "language": "python",
+      "lines": 57
     }
   }
 }
